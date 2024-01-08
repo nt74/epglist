@@ -1318,6 +1318,62 @@
     <title lang="el">Παβαρότι</title>
     <category lang="el">Ντοκιμαντέρ</category>
   </programme>
+  <programme start="20240107231500 +0000" stop="20240108012500 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Τα Κόκκινα Φανάρια</title>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20240108012500 +0000" stop="20240108031500 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Η Άγνωστος</title>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20240108031500 +0000" stop="20240108045000 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Ψηλός, Λιγνός και Ψεύταρος</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240108045000 +0000" stop="20240108061500 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Ο Κύριος Πτέραρχος</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240108061500 +0000" stop="20240108075000 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Ο Λουστράκος</title>
+    <category lang="el">Κοινωνική</category>
+  </programme>
+  <programme start="20240108075000 +0000" stop="20240108094000 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Πονηρό Θηλυκό, Κατεργάρα Γυναίκα</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240108094000 +0000" stop="20240108112500 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Ένας Κοντός θα μας Σώσει</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240108112500 +0000" stop="20240108131500 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Ο Μεθύστακας</title>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20240108131500 +0000" stop="20240108145500 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Κάτι Κουρασμένα Παλικάρια</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240108145500 +0000" stop="20240108163500 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Ραντεβού στον Αέρα</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240108163500 +0000" stop="20240108182500 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Κατηγορώ τους Ανθρώπους</title>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20240108182500 +0000" stop="20240108200000 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Η Αλίκη στο Ναυτικό</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240108200000 +0000" stop="20240108214500 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Η Κόρη μου η Σοσιαλίστρια</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240108214500 +0000" stop="20240108232000 +0000" channel="cosmotecinema3.gr">
+    <title lang="el">Επιστροφή</title>
+    <category lang="el">Δραματική</category>
+  </programme>
   <programme start="20240108232000 +0000" stop="20240109012500 +0000" channel="cosmotecinema3.gr">
     <title lang="el">Η Λεωφόρος του Μίσους</title>
     <category lang="el">Δραματική</category>
@@ -1373,6 +1429,58 @@
   <programme start="20240109213500 +0000" stop="20240109230500 +0000" channel="cosmotecinema3.gr">
     <title lang="el">Επαγγελματίες Ρεμάλια</title>
     <category lang="el">Αστυνομική</category>
+  </programme>
+  <programme start="20240107233000 +0000" stop="20240108020000 +0000" channel="cosmotesport1.gr">
+    <title lang="el">Sportshow</title>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20240108020000 +0000" stop="20240108040000 +0000" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Μπαρμπάστρο - Μπαρτσελόνα</title>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20240108040000 +0000" stop="20240108060000 +0000" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Αστάνα - Βικτόρια Πλζεν</title>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20240108060000 +0000" stop="20240108080000 +0000" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Σπόρτινγκ Λισαβόνας - Αταλάντα</title>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20240108080000 +0000" stop="20240108101000 +0000" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: ΠΑΟΚ - Άιντραχτ Φρανκφούρτης</title>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20240108101000 +0000" stop="20240108121000 +0000" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Ουνιόν Βερολίνου - Μπράγκα</title>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20240108121000 +0000" stop="20240108130500 +0000" channel="cosmotesport1.gr">
+    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2023-24 Ε7</title>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20240108130500 +0000" stop="20240108150500 +0000" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Ερυθρός Αστέρας - Γιανγκ Μπόις</title>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20240108150500 +0000" stop="20240108170000 +0000" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Φράιμπουργκ - Γουέστ Χαμ</title>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20240108170000 +0000" stop="20240108173000 +0000" channel="cosmotesport1.gr">
+    <title lang="el">UEFA Champions League Μαγκαζίνο 2023-24 Ε15</title>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20240108173000 +0000" stop="20240108180000 +0000" channel="cosmotesport1.gr">
+    <title lang="el">PreGame Show (Ζ)</title>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20240108180000 +0000" stop="20240108201500 +0000" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: ΟΦΗ - ΠΑΣ Λαμία (Ζ)</title>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20240108201500 +0000" stop="20240108223000 +0000" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: ΟΦΗ - ΠΑΣ Λαμία</title>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20240108223000 +0000" stop="20240108230000 +0000" channel="cosmotesport1.gr">
     <title lang="el">UEFA Champions League Μαγκαζίνο 2023-24 Ε15</title>
@@ -1726,6 +1834,58 @@
     <title lang="el">Μπάσκετ: Τρέντο - Αρμάνι Μιλάνο</title>
     <category lang="el">Μπάσκετ</category>
   </programme>
+  <programme start="20240108233000 +0000" stop="20240109013000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: ΠΑΟΚ - Τόφας</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240109013000 +0000" stop="20240109033000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Νταρουσάφακα - Τουρκ Τέλεκομ</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240109033000 +0000" stop="20240109063000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Λος Άντζελες Κλίπερς - Φοίνιξ Σανς (Ζ)</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240109063000 +0000" stop="20240109073000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials</title>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20240109073000 +0000" stop="20240109080000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials</title>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20240109080000 +0000" stop="20240109100000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Μπασκόνια - Ρεάλ Μαδρίτης</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240109100000 +0000" stop="20240109123000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Λος Άντζελες Κλίπερς - Φοίνιξ Σανς</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240109123000 +0000" stop="20240109143000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Ρίτας - Περιστέρι</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240109143000 +0000" stop="20240109165500 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Μιλγουόκι Μπακς - Γιούτα Τζαζ</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240109165500 +0000" stop="20240109175000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials</title>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20240109175000 +0000" stop="20240109183000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">NBA Action 2023-24 Ε3311</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240109183000 +0000" stop="20240109204000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Προμηθέας - Λε Μαν (Ζ)</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240109204000 +0000" stop="20240109222500 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Pick n' Roll (Ζ)</title>
+    <category lang="el">Εκπομπή</category>
+  </programme>
   <programme start="20240107223000 +0000" stop="20240107233000 +0000" channel="cosmotesport5.gr">
     <title lang="el">WRC 2023</title>
     <category lang="el">Μηχανοκίνητα</category>
@@ -2035,7 +2195,7 @@
     <category lang="el">Υδάτινα Σπορ</category>
   </programme>
   <programme start="20240109093000 +0000" stop="20240109120000 +0000" channel="cosmotesport6.gr">
-    <title lang="el">Τένις: ATP 250 2024 (Ζ)</title>
+    <title lang="el">Τένις: Ρίνκι Χιτζικάτα - Ντάνιελ Έβανς (Ζ)</title>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20240109120000 +0000" stop="20240109125500 +0000" channel="cosmotesport6.gr">
@@ -2055,7 +2215,7 @@
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20240109153500 +0000" stop="20240109180000 +0000" channel="cosmotesport6.gr">
-    <title lang="el">Τένις: ATP 250 2024</title>
+    <title lang="el">Τένις: Ρίνκι Χιτζικάτα - Ντάνιελ Έβανς</title>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20240109180000 +0000" stop="20240109203000 +0000" channel="cosmotesport6.gr">
