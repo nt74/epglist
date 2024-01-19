@@ -466,7 +466,7 @@
   </programme>
   <programme start="20240120020100 +0000" stop="20240120040000 +0000" channel="abcwabc.us">
     <title lang="en">20/20</title>
-    <desc lang="en">When a woman is killed in small town Texas, a secret diary reveals the killer's motive.</desc>
+    <desc lang="en">When a woman is killed in small-town Texas, a secret diary reveals the killer's motive.</desc>
     <category lang="en">Series</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p184299_b_v13_aa.jpg?w=270&amp;h=360"/>
   </programme>
@@ -478,7 +478,7 @@
   </programme>
   <programme start="20240120043500 +0000" stop="20240120053700 +0000" channel="abcwabc.us">
     <title lang="en">Jimmy Kimmel Live!</title>
-    <desc lang="en">Emmy-winning funnyman Jimmy Kimmel serves up comedy bits and welcomes guests that include other comics, celebrities, athletes and musicians, as well as everyday people with unusual or compelling personal stories. Kimmel's family and friends take part in the festivities, including his Cousin Sal, Uncle Frank (until his death in 2011) and childhood friend Cleto Escobedo III, who leads the show's house band. Recurring segments include the FCC-pleasing This Week in Unnecessary Censorship in which they take TV clips and "bleep and blur things whether they need it or not," as Kimmel describes it. But it's too bad they consistently run out of time for Matt Damon's segment.</desc>
+    <desc lang="en">TV host John Oliver; actress Danielle Brooks; Pete Yorn performs.</desc>
     <category lang="en">Series</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p184869_b_v13_an.jpg?w=270&amp;h=360"/>
   </programme>
@@ -1893,19 +1893,23 @@
     <title lang="el">Copa Libertadores 2023 - Στιγμιότυπα</title>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20240119120000 +0000" stop="20240119140000 +0000" channel="cosmotesport3.gr">
+  <programme start="20240119120000 +0000" stop="20240119145000 +0000" channel="cosmotesport3.gr">
     <title lang="el">Ποδόσφαιρο: Ατλέτικο Μαδρίτης - Ρεάλ Μαδρίτης</title>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20240119140000 +0000" stop="20240119160000 +0000" channel="cosmotesport3.gr">
-    <title lang="el">Ποδόσφαιρο: Βιζέλα - Σπόρτινγκ Λισαβόνας</title>
-    <category lang="el">Ποδόσφαιρο</category>
+  <programme start="20240119145000 +0000" stop="20240119152000 +0000" channel="cosmotesport3.gr">
+    <title lang="el">Emirates FA Cup 2023-24 - Στιγμιότυπα</title>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20240119160000 +0000" stop="20240119180000 +0000" channel="cosmotesport3.gr">
+  <programme start="20240119152000 +0000" stop="20240119154000 +0000" channel="cosmotesport3.gr">
+    <title lang="el">cinch Scottish Premiership 2023-24 - Στιγμιότυπα</title>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20240119154000 +0000" stop="20240119174500 +0000" channel="cosmotesport3.gr">
     <title lang="el">Ποδόσφαιρο: Χαλ - Νόριτς</title>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20240119180000 +0000" stop="20240119200000 +0000" channel="cosmotesport3.gr">
+  <programme start="20240119174500 +0000" stop="20240119200000 +0000" channel="cosmotesport3.gr">
     <title lang="el">Ποδόσφαιρο: Φαμαλικάο - Μπράγκα</title>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
@@ -3439,9 +3443,9 @@
   </programme>
   <programme start="20240119000000 +0000" stop="20240119020000 +0000" channel="espn2.us">
     <title lang="en">College Basketball</title>
-    <desc lang="en">From FAU Arena in Boca Raton, Fla.</desc>
+    <desc lang="en">New conference foes meet as the No. 23 Owls (13-4, 3-1 American) host the Shockers (8-8, 0-3). The only previous matchup between the programs took place in 1998, when Wichita State prevailed 88-85 at home. The Shockers have dropped five in a row.</desc>
     <category lang="en">Sports event</category>
-    <icon src="https://adma.tmsimg.com/assets/assets/p25786084_tb2_v13_aa.jpg?w=270&amp;h=360"/>
+    <icon src="https://adma.tmsimg.com/assets/assets/p25786084_tb2_v13_ab.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240119020000 +0000" stop="20240119040000 +0000" channel="espn2.us">
     <title lang="en">College Basketball</title>
@@ -3597,7 +3601,7 @@
     <title lang="en">College Basketball</title>
     <desc lang="en">The Bruins make their final trip to Tucson as a member of the Pac-12 to play the No. 12 Wildcats. Arizona won the last meeting, 61-59 in the 2023 Pac-12 Tournament final. Wildcats 7-footer Oumar Ballo had 13 points and eight rebounds in that game.</desc>
     <category lang="en">Sports event</category>
-    <icon src="https://adma.tmsimg.com/assets/assets/p25841262_tb2_v13_aa.jpg?w=270&amp;h=360"/>
+    <icon src="https://adma.tmsimg.com/assets/assets/p25841262_tb2_v13_ab.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240120230000 +0000" stop="20240121010000 +0000" channel="espn2.us">
     <title lang="en">College Basketball</title>
@@ -3607,7 +3611,7 @@
   </programme>
   <programme start="20240119000000 +0000" stop="20240119020000 +0000" channel="espn.us">
     <title lang="en">College Basketball</title>
-    <desc lang="en">From the FedEx Forum in Memphis, Tenn.</desc>
+    <desc lang="en">The No. 10 Tigers host the Bulls. Memphis has won 10 in a row. Kasean Pryor's career night helped South Florida prevail for the seventh time in eight outings Jan. 12. Memphis' David Jones is among the nation's leading scorers at 20.9 points per game.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p25786083_tb2_v13_ab.jpg?w=270&amp;h=360"/>
   </programme>
@@ -3713,19 +3717,19 @@
     <category lang="en">Sports non-event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p19891277_b_v9_aa.jpg?w=270&amp;h=360"/>
   </programme>
-  <programme start="20240120003000 +0000" stop="20240120030000 +0000" channel="espn.us">
+  <programme start="20240120003000 +0000" stop="20240120030500 +0000" channel="espn.us">
     <title lang="en">NBA Basketball</title>
     <desc lang="en">The Nuggets tip off with the Eastern Conference-leading Celtics. Denver rang in a new era versus Boston with a 123-111 triumph on New Year's Day in 2023, snapping a six-game series slide. Denver star Nikola Jokic provided a signature triple-double.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p25452713_tb2_v13_aa.jpg?w=270&amp;h=360"/>
   </programme>
-  <programme start="20240120030000 +0000" stop="20240120053000 +0000" channel="espn.us">
+  <programme start="20240120030500 +0000" stop="20240120053500 +0000" channel="espn.us">
     <title lang="en">NBA Basketball</title>
-    <desc lang="en">The Warriors return to the Chase Center as they host the Mavericks. Golden State was 2-5 during its last run here, dropping its home mark to 11-11. One loss came at the hands of Dallas on Dec. 30, 2023, as Luka Doncic's 39 points paced a 132-122 win.</desc>
+    <desc lang="en">From Crypto.com Arena in Los Angeles.</desc>
     <category lang="en">Sports event</category>
-    <icon src="https://adma.tmsimg.com/assets/assets/p25452716_tb2_v13_aa.jpg?w=270&amp;h=360"/>
+    <icon src="https://adma.tmsimg.com/assets/assets/p25452718_tb2_v13_as.jpg?w=270&amp;h=360"/>
   </programme>
-  <programme start="20240120053000 +0000" stop="20240120063000 +0000" channel="espn.us">
+  <programme start="20240120053500 +0000" stop="20240120063000 +0000" channel="espn.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">The latest news, highlights and inside information from every corner of the sports world is presented each day on "SportsCenter," ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live "SportsCenter" morning block that emphasizes fast-paced, highlights-driven reports and what's new on social media platforms.</desc>
     <category lang="en">Sports non-event</category>
@@ -3751,9 +3755,9 @@
   </programme>
   <programme start="20240120090000 +0000" stop="20240120110000 +0000" channel="espn.us">
     <title lang="en">NBA Basketball</title>
-    <desc lang="en">The Warriors return to the Chase Center as they host the Mavericks. Golden State was 2-5 during its last run here, dropping its home mark to 11-11. One loss came at the hands of Dallas on Dec. 30, 2023, as Luka Doncic's 39 points paced a 132-122 win.</desc>
+    <desc lang="en">From Crypto.com Arena in Los Angeles.</desc>
     <category lang="en">Sports event</category>
-    <icon src="https://adma.tmsimg.com/assets/assets/p25452716_tb2_v13_aa.jpg?w=270&amp;h=360"/>
+    <icon src="https://adma.tmsimg.com/assets/assets/p25452718_tb2_v13_as.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240120110000 +0000" stop="20240120120000 +0000" channel="espn.us">
     <title lang="en">SportsCenter</title>
@@ -4772,7 +4776,7 @@
     <title lang="sv">Sommaren med släkten</title>
     <desc lang="sv">Jens råkar bli wing man i sin chef Larrys otrohetsaffär med en nyanställd receptionist. Nora har kärleksbekymmer och klipper gräsmattan åt Bobo i utbyte mot dejtingråd.</desc>
     <category lang="sv">series</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/527932.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/439362.jpg"/>
     <episode-num system="xmltv_ns">5.10.0/1</episode-num>
     <episode-num system="onscreen">S06E11</episode-num>
   </programme>
@@ -6496,7 +6500,7 @@
   </programme>
   <programme start="20240119193000 +0000" stop="20240119213000 +0000" channel="nbatv.us">
     <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
+    <desc lang="en">Dejounte Murray hit a 17-foot jumper as time expired to give the Atlanta Hawks a 106-104 victory over the Orlando Magic. From Jan. 17, 2024.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p9306016_b_v9_ac.jpg?w=270&amp;h=360"/>
   </programme>
@@ -7072,9 +7076,13 @@
     <title lang="el">Novasports Exclusive: Γιώργος Πρίντεζης</title>
     <desc lang="el">Γ' Μέρος: Μια Ζωή στα Κόκκινα</desc>
   </programme>
-  <programme start="20240120120000 +0000" stop="20240120143000 +0000" channel="novasports4.gr">
+  <programme start="20240120120000 +0000" stop="20240120140000 +0000" channel="novasports4.gr">
     <title lang="el">Άλμπα Βερολίνου - Μπάγερν Μονάχου</title>
     <desc lang="el">Euroleague</desc>
+  </programme>
+  <programme start="20240120140000 +0000" stop="20240120143000 +0000" channel="novasports4.gr">
+    <title lang="el">Novasports Classic Zone</title>
+    <desc lang="el">Ζαλγκίρις Κ. - Παναθηναϊκός (2004/05)</desc>
   </programme>
   <programme start="20240120143000 +0000" stop="20240120163000 +0000" channel="novasports4.gr">
     <title lang="el">Φράιμπουργκ - Χόφενχαϊμ (Ζ)</title>
@@ -9533,7 +9541,7 @@
     <title lang="sv">Min sanning - teckenspråkstolkat</title>
     <desc lang="sv">Anna Hedenmo intervjuar skådespelaren Rolf Lassgård.</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/640518.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/640522.jpg"/>
     <episode-num system="xmltv_ns">17.0.0/1</episode-num>
     <episode-num system="onscreen">S18E01</episode-num>
   </programme>
@@ -10088,7 +10096,7 @@
     <title lang="sv">Lerin på Lofoten - teckenspråkstolkat</title>
     <desc lang="sv">En ny dag gryr på majestätiska Lofoten och trots att solen skiner så tampas Lars med sin ångest över att vara tillbaka på platsen där han varit "ett riktigt monster".</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/638974.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/638978.jpg"/>
     <episode-num system="xmltv_ns">0.1.0/1</episode-num>
     <episode-num system="onscreen">S01E02</episode-num>
   </programme>
@@ -10101,7 +10109,7 @@
     <title lang="sv">Bolibompa: Drakhjältar</title>
     <desc lang="sv">Röda rutan bygger om Drakens dammsugare och lyckas stjäla Zpeedys superkrafter.</desc>
     <category lang="sv">children</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/637511.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/637503.jpg"/>
     <episode-num system="xmltv_ns">1.2.0/1</episode-num>
     <episode-num system="onscreen">S02E03</episode-num>
   </programme>
@@ -11288,7 +11296,7 @@
     <title lang="sv">Lerin på Lofoten - teckenspråkstolkat</title>
     <desc lang="sv">En ny dag gryr på majestätiska Lofoten och trots att solen skiner så tampas Lars med sin ångest över att vara tillbaka på platsen där han varit "ett riktigt monster".</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/638974.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/638978.jpg"/>
     <episode-num system="xmltv_ns">0.1.0/1</episode-num>
     <episode-num system="onscreen">S01E02</episode-num>
   </programme>
@@ -11301,7 +11309,7 @@
     <title lang="sv">Bolibompa: Drakhjältar</title>
     <desc lang="sv">Röda rutan bygger om Drakens dammsugare och lyckas stjäla Zpeedys superkrafter.</desc>
     <category lang="sv">children</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/637503.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/637511.jpg"/>
     <episode-num system="xmltv_ns">1.2.0/1</episode-num>
     <episode-num system="onscreen">S02E03</episode-num>
   </programme>
@@ -11715,7 +11723,7 @@
     <title lang="sv">Vänner</title>
     <desc lang="sv">Det är Thanksgiving och Joey straffar Chandler för att han kysst Kathy.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/01/64788f91b7911.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/01/64788f915759e.jpg"/>
     <episode-num system="xmltv_ns">3.7.0/1</episode-num>
     <episode-num system="onscreen">S04E08</episode-num>
   </programme>
@@ -11723,7 +11731,7 @@
     <title lang="sv">Without a Trace</title>
     <desc lang="sv">Jack och teamet letar efter flygvärdinnan Linda Schmidt som försvann på väg till flygplatsen.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/10/27/6178ddd6162f0.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/10/27/6178ddd694c91.jpg"/>
     <episode-num system="xmltv_ns">0.13.0/1</episode-num>
     <episode-num system="onscreen">S01E14</episode-num>
   </programme>
@@ -11902,7 +11910,7 @@
     <title lang="sv">Nanny</title>
     <desc lang="sv">Vidskepelse hotar att spåra ur Fran och Maxwells bröllop.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/01/02/63b2f23799301.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2019/12/21/5dfd73b459e3b.jpg"/>
     <episode-num system="xmltv_ns">4.21.0/1</episode-num>
     <episode-num system="onscreen">S05E22</episode-num>
   </programme>
@@ -11910,7 +11918,7 @@
     <title lang="sv">Nanny</title>
     <desc lang="sv">Vidskepelse hotar att spåra ur Fran och Maxwells bröllop.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/01/02/63b2f23799301.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2019/12/21/5dfd73b459e3b.jpg"/>
     <episode-num system="xmltv_ns">4.21.0/1</episode-num>
     <episode-num system="onscreen">S05E22</episode-num>
   </programme>
@@ -12227,7 +12235,7 @@
     <title lang="sv">En plats i solen</title>
     <desc lang="sv">Myra och Eric från Glasgow har semestrat i Portugal i 20 år och ingen plats har tilltalat dem mer än den södra silverkusten. Deras dröm är att tillbringa pensioneringen i solen med vänner och familj på besök.</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/555952.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/555899.jpg"/>
     <episode-num system="xmltv_ns">13.58.0/1</episode-num>
     <episode-num system="onscreen">S14E59</episode-num>
   </programme>
@@ -12412,7 +12420,7 @@
     <title lang="sv">Serie A: Udinese - Milan</title>
     <desc lang="sv">Fotbollslördag Europa med fotboll från Dacia Arena där Udinese ställs mot Milan i omgång 21 av Serie A. I studion finns Gusten Dahlin, Siavoush Fallahi och Vicki Blommé. Kommentator: Christoffer Svanemar.</desc>
     <category lang="sv">sport</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/639725.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/622126.jpg"/>
   </programme>
   <programme start="20240121023500 +0000" stop="20240121050000 +0000" channel="tv4fotboll.se">
     <title lang="sv">Inget program</title>
@@ -13603,22 +13611,6 @@
     <category lang="sv">series</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/04/08/606f1603b5e22.jpg"/>
   </programme>
-  <programme start="20240120015000 +0000" stop="20240120025000 +0000" channel="tv6.se">
-    <title lang="sv">Magnum P.I.</title>
-    <desc lang="sv">När en ung man som är i behov av en akutoperation försvinner med en kula i bröstet, ber Ethan Magnum och Higgins att hitta honom innan det är för sent.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/01/19/6006ce790064a.jpg"/>
-    <episode-num system="xmltv_ns">2.7.0/1</episode-num>
-    <episode-num system="onscreen">S03E08</episode-num>
-  </programme>
-  <programme start="20240120025000 +0000" stop="20240120040000 +0000" channel="tv6.se">
-    <title lang="sv">The Winter King</title>
-    <desc lang="sv">Arthur och stammens kungar inleder fredssamtal. Arthur föreslår att han ska gifta sig med Gorfydds dotter, Ceinwyn, som ett tecken på tro – vilket hon inte tar emot särskilt väl.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/09/25/65114502961fa.jpg"/>
-    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
-    <episode-num system="onscreen">S01E06</episode-num>
-  </programme>
   <programme start="20240120040000 +0000" stop="20240120050000 +0000" channel="tv6.se">
     <title lang="sv">Ice Road Truckers</title>
     <desc lang="sv">Experter förutspår en av den kortaste och varmaste vintrarna någonsin vilket gör att företag riskerar att gå i konkurs om de inte kan utföra alla leveranser som beställts innan isen smälter.</desc>
@@ -13816,29 +13808,6 @@
     <category lang="sv">series</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/02/05/63e020057d73a.jpg"/>
   </programme>
-  <programme start="20240121002500 +0000" stop="20240121023000 +0000" channel="tv6.se">
-    <title lang="sv">Vanguard</title>
-    <desc lang="sv">Byrån Vanguard erbjuder skydd till klienter runt om i världen, men när en mystisk klient avslöjar topphemlig information om ett lönnmord blir grundaren själv en måltavla för lönnmördarna.</desc>
-    <category lang="sv">program</category>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/05/20/62873882ddfaf.jpg"/>
-  </programme>
-  <programme start="20240121023000 +0000" stop="20240121033000 +0000" channel="tv6.se">
-    <title lang="sv">For Life</title>
-    <desc lang="sv">Aaron hoppas kunna stärka sitt eget fall genom att vinna ett 23-årigt mål mot Maskins. Marie kämpar för att återhämta sig från uppbrottet med Darius, men fortsätter att hjälpa Aaron.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/02/10/5e416bc522c0c.jpg"/>
-    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
-    <episode-num system="onscreen">S01E09</episode-num>
-  </programme>
-  <programme start="20240121033000 +0000" stop="20240121040000 +0000" channel="tv6.se">
-    <title lang="sv">Family Guy</title>
-    <desc lang="sv">Lois pianoelev Alana, kommer för att jobba för familjen Griffin och visar sig ha skumma intentioner.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/14/622fa06608f78.jpg"/>
-    <episode-num system="xmltv_ns">20.16.0/1</episode-num>
-    <episode-num system="onscreen">S21E17</episode-num>
-  </programme>
   <programme start="20240119042500 +0000" stop="20240119050000 +0000" channel="tv8.se">
     <title lang="sv">Idas Fristelser</title>
     <desc lang="sv">Ost är ett välkänt element på dessertbordet och nu har det blivit dags att baka ostkaka med bildskön marmorering. Ida visar också hur man lagar knyten fyllda med ost och skinka.</desc>
@@ -13991,38 +13960,6 @@
     <episode-num system="xmltv_ns">1.3.0/1</episode-num>
     <episode-num system="onscreen">S02E04</episode-num>
   </programme>
-  <programme start="20240120004000 +0000" stop="20240120013500 +0000" channel="tv8.se">
-    <title lang="sv">Dr. Phil</title>
-    <desc lang="sv">Richard Glossip, som dömdes till döden, hävdar att han felaktigt anklagades för mord i januari 1997. Efter 23 år i dödscell intervjuar Dr Phil Richard och diskuterar uppdateringar i det kontroversiella fallet.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/12/08/6391f19283fe7.jpg"/>
-    <episode-num system="xmltv_ns">19.29.0/1</episode-num>
-    <episode-num system="onscreen">S20E30</episode-num>
-  </programme>
-  <programme start="20240120013500 +0000" stop="20240120023000 +0000" channel="tv8.se">
-    <title lang="sv">Dr. Phil</title>
-    <desc lang="sv">Sherri Papini försvann när hon joggade; veckor senare dök hon upp och sade att hon hade förts bort av två kvinnor som brännmärkt henne och planerade att sextrakassera henne.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/10/25/653871437d7b3.jpg"/>
-    <episode-num system="xmltv_ns">20.81.0/1</episode-num>
-    <episode-num system="onscreen">S21E82</episode-num>
-  </programme>
-  <programme start="20240120023000 +0000" stop="20240120033000 +0000" channel="tv8.se">
-    <title lang="sv">New Amsterdam</title>
-    <desc lang="sv">När Helen Sharpe oväntat återvänder till New York flyr Max till vildmarken på en företagsutflykt. Det roliga äventyret förvandlas dock snabbt till en livsfarlig situation.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/20/6329c143e40c7.jpg"/>
-    <episode-num system="xmltv_ns">4.10.0/1</episode-num>
-    <episode-num system="onscreen">S05E11</episode-num>
-  </programme>
-  <programme start="20240120033000 +0000" stop="20240120042500 +0000" channel="tv8.se">
-    <title lang="sv">New Amsterdam</title>
-    <desc lang="sv">Max får reda på en hemlighet om sin cancer. Iggy försöker desperat hjälpa en kvinna i nöd, men upptäcker att systemet arbetar emot honom.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/06/6317553254cc8.jpg"/>
-    <episode-num system="xmltv_ns">4.11.0/1</episode-num>
-    <episode-num system="onscreen">S05E12</episode-num>
-  </programme>
   <programme start="20240120042500 +0000" stop="20240120050000 +0000" channel="tv8.se">
     <title lang="sv">Idas Fristelser</title>
     <desc lang="sv">Idag förbereder den perfekta frukosten. Hon bakar bland annat saftiga scones och valnötsbröd.</desc>
@@ -14171,30 +14108,6 @@
     <category lang="sv">program</category>
     <category lang="sv">series</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/11/24/5fbd2ac26d9d6.jpg"/>
-  </programme>
-  <programme start="20240121013000 +0000" stop="20240121023000 +0000" channel="tv8.se">
-    <title lang="sv">En plats på landet</title>
-    <desc lang="sv">Margherita Taylor är i Bedfordshire med ett sällskapligt par som letar efter ett hus på landet som passar dem och deras hundar och som ska inrymma deras egen skräddarsydda trädgårdspub.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/23/6123859d8952c.jpg"/>
-    <episode-num system="xmltv_ns">27.2.0/1</episode-num>
-    <episode-num system="onscreen">S28E03</episode-num>
-  </programme>
-  <programme start="20240121023000 +0000" stop="20240121033000 +0000" channel="tv8.se">
-    <title lang="sv">En plats på landet</title>
-    <desc lang="sv">Ginny Buckley möter ett ungt gift par som vill fly från Londons Docklands och flytta till de vackra Chiltern Hills i Buckinghamshire.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/11/23/619cc1c308eb2.jpg"/>
-    <episode-num system="xmltv_ns">27.3.0/1</episode-num>
-    <episode-num system="onscreen">S28E04</episode-num>
-  </programme>
-  <programme start="20240121033000 +0000" stop="20240121043000 +0000" channel="tv8.se">
-    <title lang="sv">Dr. Phil</title>
-    <desc lang="sv">Sherri Papini försvann när hon joggade; veckor senare dök hon upp och sade att hon hade förts bort av två kvinnor som brännmärkt henne och planerade att sextrakassera henne.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/10/25/6538714329916.jpg"/>
-    <episode-num system="xmltv_ns">20.81.0/1</episode-num>
-    <episode-num system="onscreen">S21E82</episode-num>
   </programme>
   <programme start="20240119040000 +0000" stop="20240119044400 +0000" channel="tv10.se">
     <title lang="sv">The Curse of Oak Island</title>
@@ -14413,30 +14326,6 @@
     <episode-num system="xmltv_ns">2.9.0/1</episode-num>
     <episode-num system="onscreen">S03E10</episode-num>
   </programme>
-  <programme start="20240120010000 +0000" stop="20240120020000 +0000" channel="tv10.se">
-    <title lang="sv">Guldjägarna i Australien</title>
-    <desc lang="sv">Scrappers-gänget har kommit halvvägs till sitt mål, men de förlorar pengar. Gold Gypsies-gänget är i desperat behov av 850 gram till och Mahoney-gänget återvänder till 8-Mile tidigare under säsongen.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/04/07/5e8c4018ae367.jpg"/>
-    <episode-num system="xmltv_ns">2.10.0/1</episode-num>
-    <episode-num system="onscreen">S03E11</episode-num>
-  </programme>
-  <programme start="20240120020000 +0000" stop="20240120030000 +0000" channel="tv10.se">
-    <title lang="sv">Running Wild with Bear Grylls</title>
-    <desc lang="sv">Michael B. Jordan följer Bear Grylls på äventyr i Wales. De tvingas kämpa mot stora mängder regn och vara kreativa när det gäller att hitta värme för kvällen och mat till middagen.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/06/09/60c08ab376e1a.jpg"/>
-    <episode-num system="xmltv_ns">1.6.0/1</episode-num>
-    <episode-num system="onscreen">S02E07</episode-num>
-  </programme>
-  <programme start="20240120030000 +0000" stop="20240120040000 +0000" channel="tv10.se">
-    <title lang="sv">The Curse of Oak Island</title>
-    <desc lang="sv">Matty Blake tar sig till Oak Island för att ta en titt på lagets senaste ansträngningar för att lösa det nu 224 år gamla skattmysteriet.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/07/622625442138c.jpg"/>
-    <episode-num system="xmltv_ns">6.6.0/1</episode-num>
-    <episode-num system="onscreen">S07E07</episode-num>
-  </programme>
   <programme start="20240120040000 +0000" stop="20240120044500 +0000" channel="tv10.se">
     <title lang="sv">The Curse of Oak Island</title>
     <desc lang="sv">William Shatner ansluter sig till teamet och får en första hand titt på hur en dunkel ö utanför Nova Scotias kust har blivit ett globalt fenomen.</desc>
@@ -14621,38 +14510,6 @@
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/05/02/6451209faacfd.jpg"/>
     <episode-num system="xmltv_ns">1.4.0/1</episode-num>
     <episode-num system="onscreen">S02E05</episode-num>
-  </programme>
-  <programme start="20240121000500 +0000" stop="20240121010500 +0000" channel="tv10.se">
-    <title lang="sv">Lastbilschaufförer på småvägar</title>
-    <desc lang="sv">Dave och sonen Tristan är på ett bärgningsjobb, men spänningarna ökar. Medan Craig blir lerig vid leveransen av en radioantenn, åker Dale på familjeresa för att avsluta en affär åt sin pappa.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/05/02/645120a01d133.jpg"/>
-    <episode-num system="xmltv_ns">1.5.0/1</episode-num>
-    <episode-num system="onscreen">S02E06</episode-num>
-  </programme>
-  <programme start="20240121010500 +0000" stop="20240121020500 +0000" channel="tv10.se">
-    <title lang="sv">Great Escapes with Morgan Freeman</title>
-    <desc lang="sv">Två män som sitter i fängelse med livstidsstraff använde sig av teknisk intelligens och psykologisk manipulation av flera fängelseanställda för att rymma från Dannemora-fängelset.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/10/13/6347ca9bb45d3.jpg"/>
-    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
-    <episode-num system="onscreen">S01E02</episode-num>
-  </programme>
-  <programme start="20240121020500 +0000" stop="20240121030500 +0000" channel="tv10.se">
-    <title lang="sv">The Warfighters</title>
-    <desc lang="sv">Afghanistan 2002: En snabbinsatsstyrka bestående av U.S. Army Rangers beger sig till de snöiga bergen i Afghanistan för att rädda en försvunnen Navy SEAL.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/11/13/65521588725b3.jpg"/>
-    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
-    <episode-num system="onscreen">S01E09</episode-num>
-  </programme>
-  <programme start="20240121030500 +0000" stop="20240121040500 +0000" channel="tv10.se">
-    <title lang="sv">Secret Nazi Expeditions</title>
-    <desc lang="sv">Himalaya tros vara hemvist för en mängd mytiska krafter och varelser. En pseudovetenskaplig teori som anammades av nazisterna hävdade att deras ariska förfäder hade sökt skydd här under en mytomspunnen katastrofal istid.</desc>
-    <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/08/29/64edb0972b933.jpg"/>
-    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
-    <episode-num system="onscreen">S01E04</episode-num>
   </programme>
   <programme start="20240119035500 +0000" stop="20240119040000 +0000" channel="tv12.se">
     <title lang="sv">Star File</title>
@@ -15033,12 +14890,6 @@
     <episode-num system="xmltv_ns">0.73.0/1</episode-num>
     <episode-num system="onscreen">S01E74</episode-num>
   </programme>
-  <programme start="20240120000000 +0000" stop="20240120050000 +0000" channel="vfootball.se">
-    <title lang="sv">Sändningsuppehåll</title>
-    <desc lang="sv">Sändningsuppehåll</desc>
-    <category lang="sv">sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/06/02/5ed683c0c8598.jpg"/>
-  </programme>
   <programme start="20240120101500 +0000" stop="20240120121500 +0000" channel="vfootball.se">
     <title lang="sv">Championship: Sunderland-Hull</title>
     <desc lang="sv">Omgång 28. Från Stadium of Light, Sunderland. (19/1-24)</desc>
@@ -15108,12 +14959,6 @@
     <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2023/12/17/657f5ff1259fb.jpg"/>
     <episode-num system="xmltv_ns">0.73.0/1</episode-num>
     <episode-num system="onscreen">S01E74</episode-num>
-  </programme>
-  <programme start="20240121013000 +0000" stop="20240121050000 +0000" channel="vfootball.se">
-    <title lang="sv">Sändningsuppehåll</title>
-    <desc lang="sv">Sändningsuppehåll</desc>
-    <category lang="sv">sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/06/02/5ed683c0c8598.jpg"/>
   </programme>
   <programme start="20240119044000 +0000" stop="20240119063800 +0000" channel="viasatfilmaction.se">
     <title lang="sv">Sahara</title>
@@ -15190,14 +15035,14 @@
     <desc lang="sv">När en gruva kollapsar i Kanada fångas en grupp gruvarbetare. Nu måste Jim hitta långtradarförare som kan transportera räddningsutrustning via farliga isvägar över frusna vatten innan det är för sent.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/11/18/6196703924cb6.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/11/18/619670389ac7e.jpg"/>
   </programme>
   <programme start="20240120025000 +0000" stop="20240120043100 +0000" channel="viasatfilmaction.se">
     <title lang="sv">In the Land of Saints and Sinners</title>
     <desc lang="sv">Finbar, en pensionerad lönnmördare, tvingas in i en dödlig jakt med tre hämndlystna terrorister och ställs inför en livstid av synder. Men i helgonens och syndarnas land kan vissa synder inte begravas.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/11/24/65608b1d2d26d.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/11/24/65608b1cb290d.jpg"/>
   </programme>
   <programme start="20240120043500 +0000" stop="20240120064200 +0000" channel="viasatfilmaction.se">
     <title lang="sv">Spider-Man: Homecoming</title>
@@ -15280,7 +15125,7 @@
     <title lang="sv">Law Abiding Citizen</title>
     <desc lang="sv">En vanlig man vars fru och dotter mördas i deras eget hem, sätter en manipulativ hämndplan i verket när den ena gärningsmannen kommer lindrigt undan.</desc>
     <category lang="sv">other</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2017/08/07/5987e69b531b5.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2019/02/13/5c6378a4938c6.jpg"/>
   </programme>
   <programme start="20240119040000 +0000" stop="20240119051100 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">Boog &amp; Elliot 3 - Cirkusvänner</title>
@@ -15357,14 +15202,14 @@
     <desc lang="sv">Toula luktar vitlök, är ogift vid 30 års ålder och arbetar på sina föräldrars restaurang. När hon förälskar sig i Ian som är stilig, och vegetarian, vet hon inte hur hennes släkt kommer att reagera.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2017/07/17/596d18ea945d0.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/10/20/5bcaae798a8c9.jpg"/>
   </programme>
   <programme start="20240120020000 +0000" stop="20240120034900 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">Pitch Perfect 2</title>
     <desc lang="sv">Beca, Fat Amy och Barden Bellas är tillbaka för att än en gång slå världen med häpnad. När en skandal hotar deras sista år på Barden, oroar sig mästarna för att de förlorat sin harmoni för alltid.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2017/12/18/5a3767ca177fb.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/12/01/5c01ee46f2580.jpg"/>
   </programme>
   <programme start="20240120040000 +0000" stop="20240120053800 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">Dora and the Lost City</title>
@@ -15441,7 +15286,7 @@
     <desc lang="sv">David Wozniak arbetar på sin familjs företag, med sidoinkomster genom spermadonation. Han är bekymmerslös för att inte säga ansvarslös och, ska det snart visa sig, far till hundratals barn.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/10/30/617cc980cae0e.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/10/30/617cc981b2aea.jpg"/>
   </programme>
   <programme start="20240121020000 +0000" stop="20240121034100 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">Book Of Love</title>
@@ -15609,7 +15454,7 @@
     <desc lang="sv">1988. Jean, som är idrottslärare, lever ett dubbelliv. När en ny elev anländer och hotar att avslöja hennes sexualitet tvingas Jean till extrema ansträngningar för att behålla sitt jobb och sin integritet.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/04/21/6442a0c6519ed.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/04/21/6442a0c6bb913.jpg"/>
   </programme>
   <programme start="20240119040500 +0000" stop="20240119054800 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">The Lost King</title>
@@ -15686,7 +15531,7 @@
     <desc lang="sv">På 1800-talet blev Jem Belcher den yngsta världsmästaren i boxning någonsin. Detta är den fantastiska sanna historien om hur han förvandlade primitiv boxning till en sport för kungar.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/22/632c589746ad3.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/22/632c58979a2af.jpg"/>
   </programme>
   <programme start="20240120022500 +0000" stop="20240120035500 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">The Good Mother</title>
@@ -15770,7 +15615,7 @@
     <desc lang="sv">Clean hemsöks av sitt våldsamma förflutna och förlusten av sin dotter och söker ett lugnt liv. Men när han blir måltavla för en gangsterboss så måste han förlika sig med sin våldsamma bakgrund.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/05/16/6282059b53ed3.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/05/16/6282059af08bd.jpg"/>
   </programme>
   <programme start="20240121020000 +0000" stop="20240121033400 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">Firestarter</title>
@@ -16153,12 +15998,6 @@
     <episode-num system="xmltv_ns">2023.0.0/1</episode-num>
     <episode-num system="onscreen">S2024E01</episode-num>
   </programme>
-  <programme start="20240120013000 +0000" stop="20240120050000 +0000" channel="viasatsport.se">
-    <title lang="sv">Sändningsuppehåll</title>
-    <desc lang="sv">Sändningsuppehåll</desc>
-    <category lang="sv">sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/06/02/5ed685076466d.jpg"/>
-  </programme>
   <programme start="20240120104500 +0000" stop="20240120124500 +0000" channel="viasatsport.se">
     <title lang="sv">Championship: Sunderland-Hull</title>
     <desc lang="sv">Omgång 28. Från Stadium of Light, Sunderland. (19/1-24)</desc>
@@ -16238,21 +16077,6 @@
     <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2023/12/17/657f587dca85a.jpg"/>
     <episode-num system="xmltv_ns">2023.1.0/1</episode-num>
     <episode-num system="onscreen">S2024E02</episode-num>
-  </programme>
-  <programme start="20240121011500 +0000" stop="20240121033500 +0000" channel="viasatsport.se">
-    <title lang="sv">Sändningsuppehåll</title>
-    <desc lang="sv">Sändningsuppehåll</desc>
-    <category lang="sv">sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/06/02/5ed685076466d.jpg"/>
-  </programme>
-  <programme start="20240121033500 +0000" stop="20240121063000 +0000" channel="viasatsport.se">
-    <title lang="sv">NHL: Los Angeles Kings-New York Rangers</title>
-    <desc lang="sv">Från Crypto.com Arena, Los Angeles. (20/1-24)</desc>
-    <category lang="sv">sport</category>
-    <category lang="sv">live-sport</category>
-    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2023/12/14/657ad06e183e6.jpg"/>
-    <episode-num system="xmltv_ns">0.94.0/1</episode-num>
-    <episode-num system="onscreen">S01E95</episode-num>
   </programme>
   <programme start="20240119094500 +0000" stop="20240119114500 +0000" channel="viasatsportpremium.se">
     <title lang="sv">Afrikanska Mästerskapen (H): Elfenbenskusten-Nigeria</title>
@@ -16615,24 +16439,6 @@
     <category lang="sv">sport</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/06/02/5ed683c0c8598.jpg"/>
   </programme>
-  <programme start="20240121000500 +0000" stop="20240121030500 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">NHL: Vancouver Canucks-Toronto Maple Leafs</title>
-    <desc lang="sv">Från Rogers Arena, Vancouver. (20/1-24)</desc>
-    <category lang="sv">sport</category>
-    <category lang="sv">live-sport</category>
-    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2023/12/14/657ace89f308d.jpg"/>
-    <episode-num system="xmltv_ns">0.90.0/1</episode-num>
-    <episode-num system="onscreen">S01E91</episode-num>
-  </programme>
-  <programme start="20240121030500 +0000" stop="20240121060000 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">NHL: Calgary Flames-Edmonton Oilers</title>
-    <desc lang="sv">Från Scotiabank Saddledome, Calgary. (20/1-24)</desc>
-    <category lang="sv">sport</category>
-    <category lang="sv">live-sport</category>
-    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2023/12/14/657acef43c285.jpg"/>
-    <episode-num system="xmltv_ns">0.91.0/1</episode-num>
-    <episode-num system="onscreen">S01E92</episode-num>
-  </programme>
   <programme start="20240119120000 +0000" stop="20240119134500 +0000" channel="vsportextra.se">
     <title lang="sv">Handbolls-EM (H): Frankrike-Kroatien</title>
     <desc lang="sv">Huvudrunda. Från Lanxess-Arena, Köln. Kommentatorer: Tobias Dahlberg &amp; Martin Frändesjö. (18/1-24)</desc>
@@ -16690,21 +16496,6 @@
     <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/01/16/65a67abf94d90.jpg"/>
     <episode-num system="xmltv_ns">2023.42.0/1</episode-num>
     <episode-num system="onscreen">S2024E43</episode-num>
-  </programme>
-  <programme start="20240120000500 +0000" stop="20240120030000 +0000" channel="vsportextra.se">
-    <title lang="sv">NHL: Florida Panthers-Minnesota Wild</title>
-    <desc lang="sv">Från Amerant Bank Arena, Sunrise. (19/1-24)</desc>
-    <category lang="sv">sport</category>
-    <category lang="sv">live-sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
-    <episode-num system="xmltv_ns">0.83.0/1</episode-num>
-    <episode-num system="onscreen">S01E84</episode-num>
-  </programme>
-  <programme start="20240120030000 +0000" stop="20240120050000 +0000" channel="vsportextra.se">
-    <title lang="sv">Sändningsuppehåll</title>
-    <desc lang="sv">Sändningsuppehåll</desc>
-    <category lang="sv">sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/06/02/5ed683c0c8598.jpg"/>
   </programme>
   <programme start="20240120115500 +0000" stop="20240120122500 +0000" channel="vsportextra.se">
     <title lang="sv">Championship Highlights</title>
@@ -16772,24 +16563,6 @@
     <category lang="sv">sport</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2016/05/27/5748022fc5eea.jpg"/>
   </programme>
-  <programme start="20240121000500 +0000" stop="20240121030500 +0000" channel="vsportextra.se">
-    <title lang="sv">NHL: Boston Bruins-Montreal Canadiens</title>
-    <desc lang="sv">Från TD Garden, Boston. (20/1-24)</desc>
-    <category lang="sv">sport</category>
-    <category lang="sv">live-sport</category>
-    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2023/12/14/657ac92ac9c9a.jpg"/>
-    <episode-num system="xmltv_ns">0.88.0/1</episode-num>
-    <episode-num system="onscreen">S01E89</episode-num>
-  </programme>
-  <programme start="20240121030500 +0000" stop="20240121060000 +0000" channel="vsportextra.se">
-    <title lang="sv">NHL: Vegas Golden Knights-Pittsburgh Penguins</title>
-    <desc lang="sv">Från T-Mobile Arena, Las Vegas. (20/1-24)</desc>
-    <category lang="sv">sport</category>
-    <category lang="sv">live-sport</category>
-    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2023/12/14/657acfbb27038.jpg"/>
-    <episode-num system="xmltv_ns">0.93.0/1</episode-num>
-    <episode-num system="onscreen">S01E94</episode-num>
-  </programme>
   <programme start="20240119050000 +0000" stop="20240119110000 +0000" channel="xtra1.viasat.se">
     <title lang="sv">Sändningsuppehåll</title>
     <desc lang="sv">Sändningsuppehåll Live 1</desc>
@@ -16804,15 +16577,6 @@
     <title lang="sv">Sändningsuppehåll</title>
     <desc lang="sv">Sändningsuppehåll Live 1</desc>
     <category lang="sv">sport</category>
-  </programme>
-  <programme start="20240120013500 +0000" stop="20240120043000 +0000" channel="xtra1.viasat.se">
-    <title lang="sv">NHL: Chicago Blackhawks-New York Islanders</title>
-    <desc lang="sv">United Center, Chicago. (19/1-24)</desc>
-    <category lang="sv">sport</category>
-    <category lang="sv">live-sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db707bd8.jpg"/>
-    <episode-num system="xmltv_ns">0.216.0/1</episode-num>
-    <episode-num system="onscreen">S01E217</episode-num>
   </programme>
   <programme start="20240120043000 +0000" stop="20240120050000 +0000" channel="xtra1.viasat.se">
     <title lang="sv">Sändningsuppehåll</title>
@@ -16842,15 +16606,6 @@
     <title lang="sv">Sändningsuppehåll</title>
     <desc lang="sv">Sändningsuppehåll Live 1</desc>
     <category lang="sv">sport</category>
-  </programme>
-  <programme start="20240121010500 +0000" stop="20240121040000 +0000" channel="xtra1.viasat.se">
-    <title lang="sv">NHL: St. Louis Blues-Washington Capitals</title>
-    <desc lang="sv">Enterprise Center, St Louis. (20/1-24)</desc>
-    <category lang="sv">sport</category>
-    <category lang="sv">live-sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
-    <episode-num system="xmltv_ns">0.217.0/1</episode-num>
-    <episode-num system="onscreen">S01E218</episode-num>
   </programme>
   <programme start="20240119050000 +0000" stop="20240119110000 +0000" channel="xtra2.viasat.se">
     <title lang="sv">Sändningsuppehåll</title>
