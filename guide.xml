@@ -500,81 +500,77 @@
     <category lang="en">Series</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p10880351_b_v13_ah.jpg?w=270&amp;h=360"/>
   </programme>
-  <programme start="20240203223000 +0000" stop="20240204004000 +0000" channel="alpha.gr">
-    <title lang="el">Ο Φαροφύλακας</title>
-    <category lang="el">Ψυχολογικό Θρίλερ</category>
+  <programme start="20240202223000 +0000" stop="20240203004000 +0000" channel="alpha.gr">
+    <title lang="el">Οι Ρυθμιστές</title>
+    <category lang="el">Αισθηματική</category>
   </programme>
-  <programme start="20240204004000 +0000" stop="20240204020000 +0000" channel="alpha.gr">
-    <title lang="el">Σασμός Κ3 Ε62 (Ε)</title>
+  <programme start="20240203004000 +0000" stop="20240203020000 +0000" channel="alpha.gr">
+    <title lang="el">Σασμός Κ3 Ε61 (Ε)</title>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20240204020000 +0000" stop="20240204031500 +0000" channel="alpha.gr">
-    <title lang="el">Το Προξενιό της Ιουλίας Ε42 (Ε)</title>
+  <programme start="20240203020000 +0000" stop="20240203031500 +0000" channel="alpha.gr">
+    <title lang="el">Το Προξενιό της Ιουλίας Ε41 (Ε)</title>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20240204031500 +0000" stop="20240204041500 +0000" channel="alpha.gr">
-    <title lang="el">Μυστικά και Λάθη Ε3 (Ε)</title>
-    <category lang="el">Κοινωνική</category>
+  <programme start="20240203031500 +0000" stop="20240203041500 +0000" channel="alpha.gr">
+    <title lang="el">Το Πιο Μεγάλο Παζάρι (Ε)</title>
+    <category lang="el">Τηλεπαιχνίδι</category>
   </programme>
-  <programme start="20240204041500 +0000" stop="20240204044500 +0000" channel="alpha.gr">
+  <programme start="20240203041500 +0000" stop="20240203044500 +0000" channel="alpha.gr">
     <title lang="el">Θυρίδα Τηλεπώλησης</title>
     <category lang="el">Τηλεαγορές</category>
   </programme>
-  <programme start="20240204044500 +0000" stop="20240204054500 +0000" channel="alpha.gr">
-    <title lang="el">Αστέρας Ραχούλας Ε26 (Ε)</title>
+  <programme start="20240203044500 +0000" stop="20240203054500 +0000" channel="alpha.gr">
+    <title lang="el">Αστέρας Ραχούλας Ε25 (Ε)</title>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20240204054500 +0000" stop="20240204064500 +0000" channel="alpha.gr">
-    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ11 Ε22 (Ε)</title>
+  <programme start="20240203054500 +0000" stop="20240203064500 +0000" channel="alpha.gr">
+    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ11 Ε21 (Ε)</title>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20240204064500 +0000" stop="20240204075000 +0000" channel="alpha.gr">
+  <programme start="20240203064500 +0000" stop="20240203075000 +0000" channel="alpha.gr">
     <title lang="el">Οικογενειακές Ιστορίες</title>
     <category lang="el">Ριάλιτι</category>
   </programme>
-  <programme start="20240204075000 +0000" stop="20240204110000 +0000" channel="alpha.gr">
+  <programme start="20240203075000 +0000" stop="20240203110000 +0000" channel="alpha.gr">
     <title lang="el">Σαββατοκύριακο με τον Μάνεση</title>
     <category lang="el">Εκπομπή - Μαγκαζίνο</category>
   </programme>
-  <programme start="20240204110000 +0000" stop="20240204115000 +0000" channel="alpha.gr">
+  <programme start="20240203110000 +0000" stop="20240203115000 +0000" channel="alpha.gr">
     <title lang="el">Ειδήσεις</title>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20240204115000 +0000" stop="20240204144000 +0000" channel="alpha.gr">
+  <programme start="20240203115000 +0000" stop="20240203144000 +0000" channel="alpha.gr">
     <title lang="el">Καλύτερα δε Γίνεται!</title>
     <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20240204144000 +0000" stop="20240204154000 +0000" channel="alpha.gr">
+  <programme start="20240203144000 +0000" stop="20240203154000 +0000" channel="alpha.gr">
     <title lang="el">Kitchen Lab</title>
     <category lang="el">Μαγειρική</category>
   </programme>
-  <programme start="20240204154000 +0000" stop="20240204155000 +0000" channel="alpha.gr">
+  <programme start="20240203154000 +0000" stop="20240203155000 +0000" channel="alpha.gr">
     <title lang="el">Δελτίο Ειδήσεων στη Νοηματική Γλώσσα</title>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20240204155000 +0000" stop="20240204165000 +0000" channel="alpha.gr">
-    <title lang="el">Το Σόι σου Κ5 Ε14 (Ε)</title>
+  <programme start="20240203155000 +0000" stop="20240203165000 +0000" channel="alpha.gr">
+    <title lang="el">Το Σόι σου Κ5 Ε13 (Ε)</title>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20240204165000 +0000" stop="20240204175500 +0000" channel="alpha.gr">
+  <programme start="20240203165000 +0000" stop="20240203180000 +0000" channel="alpha.gr">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20240204175500 +0000" stop="20240204180000 +0000" channel="alpha.gr">
-    <title lang="el">Καιρός</title>
-    <category lang="el">Ειδήσεις</category>
-  </programme>
-  <programme start="20240204180000 +0000" stop="20240204190000 +0000" channel="alpha.gr">
-    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ11 Ε24</title>
+  <programme start="20240203180000 +0000" stop="20240203190000 +0000" channel="alpha.gr">
+    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ11 Ε23</title>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20240204190000 +0000" stop="20240204205000 +0000" channel="alpha.gr">
-    <title lang="el">Ο Σκαραβαίος Κ1 Ε1</title>
+  <programme start="20240203190000 +0000" stop="20240203210000 +0000" channel="alpha.gr">
+    <title lang="el">Μια Κυρία στα Μπουζούκια</title>
+    <category lang="el">Μιούζικαλ</category>
+  </programme>
+  <programme start="20240203210000 +0000" stop="20240203223000 +0000" channel="alpha.gr">
+    <title lang="el">Φόνοι Στο Καμπαναριό Ε6 (Ε)</title>
     <category lang="el">Αστυνομική</category>
-  </programme>
-  <programme start="20240204205000 +0000" stop="20240204225000 +0000" channel="alpha.gr">
-    <title lang="el">Super Troopers 2</title>
-    <category lang="el">Κωμωδία</category>
   </programme>
   <programme start="20240202220000 +0000" stop="20240202223000 +0000" channel="ant1.gr">
     <title lang="el">Brave New Greece</title>
@@ -635,66 +631,6 @@
   <programme start="20240203190000 +0000" stop="20240203211500 +0000" channel="ant1.gr">
     <title lang="el">Μια Ιταλίδα από την Κυψέλη</title>
     <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240203230000 +0000" stop="20240204010000 +0000" channel="ant1.gr">
-    <title lang="el">Τραγούδα!</title>
-    <category lang="el">Παιδική</category>
-  </programme>
-  <programme start="20240204010000 +0000" stop="20240204020000 +0000" channel="ant1.gr">
-    <title lang="el">Το πιο Γλυκό μου Ψέμα (Ε)</title>
-    <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240204020000 +0000" stop="20240204030000 +0000" channel="ant1.gr">
-    <title lang="el">Είναι Στιγμές (Ε)</title>
-    <category lang="el">Ψυχολογικό Δράμα</category>
-  </programme>
-  <programme start="20240204030000 +0000" stop="20240204033000 +0000" channel="ant1.gr">
-    <title lang="el">Για μια Γυναίκα κι ένα Αυτοκίνητο (Ε)</title>
-    <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240204033000 +0000" stop="20240204075000 +0000" channel="ant1.gr">
-    <title lang="el">Στούντιο με Θέα</title>
-    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
-  </programme>
-  <programme start="20240204075000 +0000" stop="20240204110000 +0000" channel="ant1.gr">
-    <title lang="el">I Love Σου Κου</title>
-    <category lang="el">Ψυχαγωγική εκπομπή</category>
-  </programme>
-  <programme start="20240204110000 +0000" stop="20240204115000 +0000" channel="ant1.gr">
-    <title lang="el">ΑΝΤ1 News</title>
-    <category lang="el">Ειδήσεις</category>
-  </programme>
-  <programme start="20240204115000 +0000" stop="20240204120000 +0000" channel="ant1.gr">
-    <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική Γλώσσα</title>
-    <category lang="el">Ειδήσεις</category>
-  </programme>
-  <programme start="20240204120000 +0000" stop="20240204130000 +0000" channel="ant1.gr">
-    <title lang="el">Υγεία Πάνω απ' Όλα Κ12</title>
-    <category lang="el">Υγεία - Wellbeing</category>
-  </programme>
-  <programme start="20240204130000 +0000" stop="20240204144500 +0000" channel="ant1.gr">
-    <title lang="el">Άκρως Οικογενειακόν (Ε)</title>
-    <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240204144500 +0000" stop="20240204164500 +0000" channel="ant1.gr">
-    <title lang="el">Διπλοπενιές</title>
-    <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240204164500 +0000" stop="20240204180000 +0000" channel="ant1.gr">
-    <title lang="el">ANT1 News</title>
-    <category lang="el">Ειδήσεις</category>
-  </programme>
-  <programme start="20240204180000 +0000" stop="20240204190000 +0000" channel="ant1.gr">
-    <title lang="el">Ποιος Θέλει να Γίνει Εκατομμυριούχος</title>
-    <category lang="el">Τηλεπαιχνίδι</category>
-  </programme>
-  <programme start="20240204190000 +0000" stop="20240204211500 +0000" channel="ant1.gr">
-    <title lang="el">Μια Ιταλίδα από την Κυψέλη</title>
-    <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240204211500 +0000" stop="20240204231500 +0000" channel="ant1.gr">
-    <title lang="el">Dragons' Den Κ2</title>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
   <programme start="20240203000000 +0000" stop="20240203003000 +0000" channel="ballysportswisconsin.us">
     <title lang="en">Due North Outdoors</title>
@@ -1894,6 +1830,70 @@
     <title lang="el">NBA on Fire 2023-24 Ε14</title>
     <category lang="el">Μπάσκετ</category>
   </programme>
+  <programme start="20240203221000 +0000" stop="20240203223000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Ισπανικό Πρωτάθλημα 2023-24 - 5η Περίοδος Ε18</title>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20240203223000 +0000" stop="20240203230000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials</title>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20240203230000 +0000" stop="20240204020000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Φιλαδέλφεια 76ερς - Μπρούκλιν Νετς (Ζ)</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240204020000 +0000" stop="20240204040000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Μπαχτσεσεχίρ - Φενέρμπαχτσε</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240204040000 +0000" stop="20240204043000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials</title>
+    <category lang="el">Αθλητισμός - Αθλητές</category>
+  </programme>
+  <programme start="20240204043000 +0000" stop="20240204063000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Βίρτους Μπολόνια - Νάπολι</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240204063000 +0000" stop="20240204065000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Ισπανικό Πρωτάθλημα 2023-24 - 5η Περίοδος Ε18</title>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20240204065000 +0000" stop="20240204090000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Χάποελ Χολόν - ΑΕΚ</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240204090000 +0000" stop="20240204113000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Φιλαδέλφεια 76ερς - Μπρούκλιν Νετς</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240204113000 +0000" stop="20240204140000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Ντάλας Μάβερικς - Μιλγουόκι Μπακς</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240204140000 +0000" stop="20240204143000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">NBA on Fire 2023-24 Ε14</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240204143000 +0000" stop="20240204165500 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Φιλαδέλφεια 76ερς - Μπρούκλιν Νετς</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240204165500 +0000" stop="20240204173000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">NBA Action 2023-24 Ε3315</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240204173000 +0000" stop="20240204200000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Ντάλας Μάβερικς - Μιλγουόκι Μπακς</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240204200000 +0000" stop="20240204203000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">NBA on Fire 2023-24 Ε14</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20240204203000 +0000" stop="20240204233000 +0000" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Ουάσινγκτον Ουίζαρντς - Φοίνιξ Σανς (Ζ)</title>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
   <programme start="20240202230000 +0000" stop="20240203000000 +0000" channel="cosmotesport5.gr">
     <title lang="el">Extreme E - Στιγμιότυπα 2023</title>
     <category lang="el">Στιγμιότυπα</category>
@@ -2382,6 +2382,54 @@
     <title lang="el">COSMOTESport8HD</title>
     <category lang="el">Promo Card</category>
   </programme>
+  <programme start="20240202220000 +0000" stop="20240203000000 +0000" channel="cosmotesport9hd.gr">
+    <title lang="el">COSMOTESport9HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240203000000 +0000" stop="20240203020000 +0000" channel="cosmotesport9hd.gr">
+    <title lang="el">COSMOTESport9HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240203020000 +0000" stop="20240203040000 +0000" channel="cosmotesport9hd.gr">
+    <title lang="el">COSMOTESport9HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240203040000 +0000" stop="20240203060000 +0000" channel="cosmotesport9hd.gr">
+    <title lang="el">COSMOTESport9HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240203060000 +0000" stop="20240203080000 +0000" channel="cosmotesport9hd.gr">
+    <title lang="el">COSMOTESport9HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240203080000 +0000" stop="20240203100000 +0000" channel="cosmotesport9hd.gr">
+    <title lang="el">COSMOTESport9HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240203100000 +0000" stop="20240203120000 +0000" channel="cosmotesport9hd.gr">
+    <title lang="el">COSMOTESport9HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240203120000 +0000" stop="20240203140000 +0000" channel="cosmotesport9hd.gr">
+    <title lang="el">COSMOTESport9HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240203140000 +0000" stop="20240203160000 +0000" channel="cosmotesport9hd.gr">
+    <title lang="el">COSMOTESport9HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240203160000 +0000" stop="20240203180000 +0000" channel="cosmotesport9hd.gr">
+    <title lang="el">COSMOTESport9HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240203180000 +0000" stop="20240203200000 +0000" channel="cosmotesport9hd.gr">
+    <title lang="el">COSMOTESport9HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240203200000 +0000" stop="20240203220000 +0000" channel="cosmotesport9hd.gr">
+    <title lang="el">COSMOTESport9HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
   <programme start="20240203220000 +0000" stop="20240204000000 +0000" channel="cosmotesport9hd.gr">
     <title lang="el">COSMOTESport9HD</title>
     <category lang="el">Promo Card</category>
@@ -2805,6 +2853,118 @@
   <programme start="20240203214500 +0000" stop="20240203224500 +0000" channel="ert2.gr">
     <title lang="el">Ο Δικηγόρος Κ2 Ε8 (Ε)</title>
     <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20240203224500 +0000" stop="20240203234500 +0000" channel="ert2.gr">
+    <title lang="el">Οι Έλληνες (Ε)</title>
+    <category lang="el">Συνέντευξη</category>
+  </programme>
+  <programme start="20240203234500 +0000" stop="20240204004000 +0000" channel="ert2.gr">
+    <title lang="el">Μεσόγειος Ε1 (Ε)</title>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20240204004000 +0000" stop="20240204013000 +0000" channel="ert2.gr">
+    <title lang="el">Οι Μουσικοί του Κόσμου (Ε)</title>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20240204013000 +0000" stop="20240204023000 +0000" channel="ert2.gr">
+    <title lang="el">Ζακέτα να Πάρεις Ε17</title>
+    <category lang="el">Κομεντί</category>
+  </programme>
+  <programme start="20240204023000 +0000" stop="20240204031500 +0000" channel="ert2.gr">
+    <title lang="el">Ρεμπέτικο Ε3 (Ε)</title>
+    <category lang="el">Κοινωνική</category>
+  </programme>
+  <programme start="20240204031500 +0000" stop="20240204041000 +0000" channel="ert2.gr">
+    <title lang="el">Ρεμπέτικο Ε4 (Ε)</title>
+    <category lang="el">Κοινωνική</category>
+  </programme>
+  <programme start="20240204041000 +0000" stop="20240204050000 +0000" channel="ert2.gr">
+    <title lang="el">Σκιές στο Φως (Ε)</title>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20240204050000 +0000" stop="20240204060000 +0000" channel="ert2.gr">
+    <title lang="el">Ταξιδεύοντας με τη Μάγια (Ε)</title>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+  </programme>
+  <programme start="20240204060000 +0000" stop="20240204083000 +0000" channel="ert2.gr">
+    <title lang="el">Θεία Λειτουργία</title>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20240204083000 +0000" stop="20240204090000 +0000" channel="ert2.gr">
+    <title lang="el">Ο Θησαυρός της Βαγίας Ε1 (Ε)</title>
+    <category lang="el">Κοινωνική</category>
+  </programme>
+  <programme start="20240204090000 +0000" stop="20240204093000 +0000" channel="ert2.gr">
+    <title lang="el">Η Αλεπού και ο Μπούφος Ε18 (Ε)</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240204093000 +0000" stop="20240204101500 +0000" channel="ert2.gr">
+    <title lang="el">Κι Όμως Είμαι Ακόμα Εδώ Ε35 (Ε)</title>
+    <category lang="el">Ρομαντική Κομεντί</category>
+  </programme>
+  <programme start="20240204101500 +0000" stop="20240204110000 +0000" channel="ert2.gr">
+    <title lang="el">Κι Όμως Είμαι Ακόμα Εδώ Ε36 (Ε)</title>
+    <category lang="el">Ρομαντική Κομεντί</category>
+  </programme>
+  <programme start="20240204110000 +0000" stop="20240204120000 +0000" channel="ert2.gr">
+    <title lang="el">Σκιές στο Φως (Ε)</title>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20240204120000 +0000" stop="20240204130000 +0000" channel="ert2.gr">
+    <title lang="el">Μεσόγειος Ε2 (Ε)</title>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20240204130000 +0000" stop="20240204140000 +0000" channel="ert2.gr">
+    <title lang="el">Οι Μουσικοί του Κόσμου (Ε)</title>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20240204140000 +0000" stop="20240204150000 +0000" channel="ert2.gr">
+    <title lang="el">Ζακέτα να Πάρεις Ε18 (Ε)</title>
+    <category lang="el">Κομεντί</category>
+  </programme>
+  <programme start="20240204150000 +0000" stop="20240204153000 +0000" channel="ert2.gr">
+    <title lang="el">Η Αλεπού και ο Μπούφος Ε18 (Ε)</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240204153000 +0000" stop="20240204161500 +0000" channel="ert2.gr">
+    <title lang="el">Κι Όμως Είμαι Ακόμα Εδώ Ε35 (Ε)</title>
+    <category lang="el">Ρομαντική Κομεντί</category>
+  </programme>
+  <programme start="20240204161500 +0000" stop="20240204170000 +0000" channel="ert2.gr">
+    <title lang="el">Κι Όμως Είμαι Ακόμα Εδώ Ε36</title>
+    <category lang="el">Ρομαντική Κομεντί</category>
+  </programme>
+  <programme start="20240204170000 +0000" stop="20240204180000 +0000" channel="ert2.gr">
+    <title lang="el">Οι Κεραίες της Εποχής μας - 11 Διάσημοι Συγγραφείς Ε6 (Ε)</title>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20240204180000 +0000" stop="20240204190000 +0000" channel="ert2.gr">
+    <title lang="el">Οι Παλιοί μας Φίλοι (Ε)</title>
+    <category lang="el">Μουσική</category>
+  </programme>
+  <programme start="20240204190000 +0000" stop="20240204193000 +0000" channel="ert2.gr">
+    <title lang="el">Η Τιμή της Αγάπης Ε1 (Ε)</title>
+    <category lang="el">Κοινωνική</category>
+  </programme>
+  <programme start="20240204193000 +0000" stop="20240204195500 +0000" channel="ert2.gr">
+    <title lang="el">Η Τιμή της Αγάπης Ε2 (Ε)</title>
+    <category lang="el">Κοινωνική</category>
+  </programme>
+  <programme start="20240204195500 +0000" stop="20240204202000 +0000" channel="ert2.gr">
+    <title lang="el">Η Τιμή της Αγάπης Ε3 (Ε)</title>
+    <category lang="el">Κοινωνική</category>
+  </programme>
+  <programme start="20240204202000 +0000" stop="20240204204500 +0000" channel="ert2.gr">
+    <title lang="el">Η Τιμή της Αγάπης Ε4 (Ε)</title>
+    <category lang="el">Κοινωνική</category>
+  </programme>
+  <programme start="20240204204500 +0000" stop="20240204214500 +0000" channel="ert2.gr">
+    <title lang="el">ZeroZeroZero Ε1 (Ε)</title>
+    <category lang="el">Αστυνομική</category>
+  </programme>
+  <programme start="20240204214500 +0000" stop="20240204224500 +0000" channel="ert2.gr">
+    <title lang="el">ZeroZeroZero Ε2</title>
+    <category lang="el">Αστυνομική</category>
   </programme>
   <programme start="20240202224000 +0000" stop="20240202231500 +0000" channel="ert3.gr">
     <title lang="el">Στον Καναπέ Ε26</title>
@@ -5946,6 +6106,86 @@
     <desc lang="sv">Inget program</desc>
     <category lang="sv">entertainment</category>
   </programme>
+  <programme start="20240202230000 +0000" stop="20240203000000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Mayday Κ21</title>
+    <category lang="el">Επιστήμη - Μηχανική</category>
+  </programme>
+  <programme start="20240203000000 +0000" stop="20240203010000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Castle Κ8 (Ε)</title>
+    <category lang="el">Μυστηρίου</category>
+  </programme>
+  <programme start="20240203010000 +0000" stop="20240203020000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Criminal Minds Κ8 (Ε)</title>
+    <category lang="el">Μυστηρίου</category>
+  </programme>
+  <programme start="20240203020000 +0000" stop="20240203030000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Mayday Κ21 (Ε)</title>
+    <category lang="el">Επιστήμη - Μηχανική</category>
+  </programme>
+  <programme start="20240203030000 +0000" stop="20240203040000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Άγριες Μέλισσες Κ2 (Ε)</title>
+    <category lang="el">Ψυχολογικό Δράμα</category>
+  </programme>
+  <programme start="20240203040000 +0000" stop="20240203050000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Πέτα τη Φριτέζα (Ε)</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240203050000 +0000" stop="20240203060000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Δεληγιάννειο Παρθεναγωγείο (Ε)</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240203060000 +0000" stop="20240203070000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Θα Βρεις το Δάσκαλό σου Κ2 (Ε)</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240203070000 +0000" stop="20240203110000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Η Αγορά Σήμερα</title>
+    <category lang="el">Τηλεαγορές</category>
+  </programme>
+  <programme start="20240203110000 +0000" stop="20240203120000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Jamie's 30' Meals</title>
+    <category lang="el">Μαγειρική</category>
+  </programme>
+  <programme start="20240203120000 +0000" stop="20240203130000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Φίλα το Βάτραχό σου</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240203130000 +0000" stop="20240203140000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Οι Μεν και οι Δεν</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240203140000 +0000" stop="20240203150000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Δεληγιάννειο Παρθεναγωγείο</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240203150000 +0000" stop="20240203160000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Πέτα τη Φριτέζα Κ1 Ε22</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240203160000 +0000" stop="20240203170000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Θα Βρεις το Δάσκαλό σου Κ2</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240203170000 +0000" stop="20240203183000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Άγριες Μέλισσες Κ2 Ε78</title>
+    <category lang="el">Ψυχολογικό Δράμα</category>
+  </programme>
+  <programme start="20240203183000 +0000" stop="20240203190000 +0000" channel="makedoniatv.gr">
+    <title lang="el">The Nanny</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240203190000 +0000" stop="20240203200000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Castle Κ8</title>
+    <category lang="el">Μυστηρίου</category>
+  </programme>
+  <programme start="20240203200000 +0000" stop="20240203210000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Criminal Minds Κ8 Ε5</title>
+    <category lang="el">Μυστηρίου</category>
+  </programme>
+  <programme start="20240203210000 +0000" stop="20240203230000 +0000" channel="makedoniatv.gr">
+    <title lang="el">Νόμος και Τάξη: Αστυνομικές Ιστορίες Κ8</title>
+    <category lang="el">Αστυνομική</category>
+  </programme>
   <programme start="20240203230000 +0000" stop="20240204000000 +0000" channel="makedoniatv.gr">
     <title lang="el">Mayday Κ21</title>
     <category lang="el">Επιστήμη - Μηχανική</category>
@@ -6088,6 +6328,70 @@
   </programme>
   <programme start="20240203213000 +0000" stop="20240203234000 +0000" channel="mega.gr">
     <title lang="el">Ένας για Όλες</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240203234000 +0000" stop="20240204021000 +0000" channel="mega.gr">
+    <title lang="el">Η Υπόσχεση</title>
+    <category lang="el">Θρίλερ</category>
+  </programme>
+  <programme start="20240204021000 +0000" stop="20240204024000 +0000" channel="mega.gr">
+    <title lang="el">Camera Cafe</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240204024000 +0000" stop="20240204030000 +0000" channel="mega.gr">
+    <title lang="el">Φιλοδοξίες Ε610</title>
+    <category lang="el">Κοινωνική</category>
+  </programme>
+  <programme start="20240204030000 +0000" stop="20240204065000 +0000" channel="mega.gr">
+    <title lang="el">MEGA Σαββατοκύριακο</title>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+  </programme>
+  <programme start="20240204065000 +0000" stop="20240204075000 +0000" channel="mega.gr">
+    <title lang="el">Όλα για τη Ζωή μας Vita</title>
+    <category lang="el">Υγεία - Wellbeing</category>
+  </programme>
+  <programme start="20240204075000 +0000" stop="20240204104500 +0000" channel="mega.gr">
+    <title lang="el">Χαμογέλα και Πάλι!</title>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+  </programme>
+  <programme start="20240204104500 +0000" stop="20240204114000 +0000" channel="mega.gr">
+    <title lang="el">Μεσημβρινό Δελτίο Ειδήσεων</title>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20240204114000 +0000" stop="20240204140000 +0000" channel="mega.gr">
+    <title lang="el">Ακόμα δεν Είδες Τίποτα!</title>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20240204140000 +0000" stop="20240204162000 +0000" channel="mega.gr">
+    <title lang="el">Χτυποκάρδια στο Θρανίο</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240204162000 +0000" stop="20240204163000 +0000" channel="mega.gr">
+    <title lang="el">Δελτίο Νοηματικής</title>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20240204163000 +0000" stop="20240204174500 +0000" channel="mega.gr">
+    <title lang="el">The Chase</title>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20240204174500 +0000" stop="20240204184000 +0000" channel="mega.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20240204184000 +0000" stop="20240204185000 +0000" channel="mega.gr">
+    <title lang="el">MEGA Αθλητικά</title>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20240204185000 +0000" stop="20240204190000 +0000" channel="mega.gr">
+    <title lang="el">Δελτίο Καιρού</title>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20240204190000 +0000" stop="20240204210000 +0000" channel="mega.gr">
+    <title lang="el">Famagusta Ε3</title>
+    <category lang="el">Ψυχολογικό Δράμα</category>
+  </programme>
+  <programme start="20240204210000 +0000" stop="20240204221000 +0000" channel="mega.gr">
+    <title lang="el">Εθνική Ελλάδος Ε1</title>
     <category lang="el">Κωμωδία</category>
   </programme>
   <programme start="20240203000000 +0000" stop="20240203003000 +0000" channel="nbatv.us">
@@ -7682,6 +7986,110 @@
   <programme start="20240203205000 +0000" stop="20240203222000 +0000" channel="star.gr">
     <title lang="el">Στα Σύνορα Ε21 (Ε)</title>
     <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240203222000 +0000" stop="20240203234500 +0000" channel="star.gr">
+    <title lang="el">Στα Σύνορα Ε22 (Ε)</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240203234500 +0000" stop="20240204014500 +0000" channel="star.gr">
+    <title lang="el">Ραντεβού τα Χριστούγεννα</title>
+    <category lang="el">Αισθηματική</category>
+  </programme>
+  <programme start="20240204014500 +0000" stop="20240204040000 +0000" channel="star.gr">
+    <title lang="el">Μια Σύγχρονη Σταχτοπούτα: Το Παραμύθι Συνεχίζεται</title>
+    <category lang="el">Μιούζικαλ</category>
+  </programme>
+  <programme start="20240204040000 +0000" stop="20240204044500 +0000" channel="star.gr">
+    <title lang="el">Wacky Races!</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204044500 +0000" stop="20240204051500 +0000" channel="star.gr">
+    <title lang="el">Scooby Doo and Guess Who?</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204051500 +0000" stop="20240204054500 +0000" channel="star.gr">
+    <title lang="el">Μπινγκ</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204054500 +0000" stop="20240204061000 +0000" channel="star.gr">
+    <title lang="el">Ο Γκρίζι και τα Λέμινγκς</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204061000 +0000" stop="20240204063000 +0000" channel="star.gr">
+    <title lang="el">Booba's Adventure</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204063000 +0000" stop="20240204064500 +0000" channel="star.gr">
+    <title lang="el">Πέππα, το Γουρουνάκι</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204064500 +0000" stop="20240204071500 +0000" channel="star.gr">
+    <title lang="el">Η Τρου και το Βασίλειο του Ουράνιου Τόξου</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204071500 +0000" stop="20240204074500 +0000" channel="star.gr">
+    <title lang="el">Η Μάσα και ο Αρκούδος</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204074500 +0000" stop="20240204081500 +0000" channel="star.gr">
+    <title lang="el">Sonic Boom</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204081500 +0000" stop="20240204084500 +0000" channel="star.gr">
+    <title lang="el">Σπίτι με τον Μπαμπά</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204084500 +0000" stop="20240204091500 +0000" channel="star.gr">
+    <title lang="el">Miraculous Lady Bug</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204091500 +0000" stop="20240204094500 +0000" channel="star.gr">
+    <title lang="el">Ντένις και Νάσερ</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204094500 +0000" stop="20240204101500 +0000" channel="star.gr">
+    <title lang="el">Wabbit</title>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20240204101500 +0000" stop="20240204121000 +0000" channel="star.gr">
+    <title lang="el">Ο Σπαγγοραμένος</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240204121000 +0000" stop="20240204130000 +0000" channel="star.gr">
+    <title lang="el">Traction</title>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20240204130000 +0000" stop="20240204133000 +0000" channel="star.gr">
+    <title lang="el">Star News</title>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20240204133000 +0000" stop="20240204134500 +0000" channel="star.gr">
+    <title lang="el">Ειδήσεις στη Νοηματική Γλώσσα</title>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20240204140000 +0000" stop="20240204143000 +0000" channel="star.gr">
+    <title lang="el">Τα Φιλαράκια Κ2 Ε10</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240204163000 +0000" stop="20240204174500 +0000" channel="star.gr">
+    <title lang="el">Τροχός της Τύχης</title>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20240204174500 +0000" stop="20240204190000 +0000" channel="star.gr">
+    <title lang="el">Star News</title>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20240204190000 +0000" stop="20240204201500 +0000" channel="star.gr">
+    <title lang="el">Στα Σύνορα Ε23</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240204201500 +0000" stop="20240204213000 +0000" channel="star.gr">
+    <title lang="el">Στα Σύνορα Ε24</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240204213000 +0000" stop="20240205000000 +0000" channel="star.gr">
+    <title lang="el">Joker</title>
+    <category lang="el">Ψυχολογικό Θρίλερ</category>
   </programme>
   <programme start="20240203041500 +0000" stop="20240203050000 +0000" channel="svt1.se">
     <title lang="sv">Go'kväll</title>
