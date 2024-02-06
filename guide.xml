@@ -1196,6 +1196,62 @@
     <title lang="el">Η Μεγάλη Ληστεία</title>
     <category lang="el">Δράσης</category>
   </programme>
+  <programme start="20240206222000 +0000" stop="20240207003000 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">Το Όνομα του Ρόδου</title>
+    <category lang="el">Μυστηρίου</category>
+  </programme>
+  <programme start="20240207003000 +0000" stop="20240207020000 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">The Seed</title>
+    <category lang="el">Τρόμου</category>
+  </programme>
+  <programme start="20240207020000 +0000" stop="20240207034000 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">Let Her Kill You</title>
+    <category lang="el">Θρίλερ</category>
+  </programme>
+  <programme start="20240207034000 +0000" stop="20240207041000 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">Ο Ήλιος Ενέχυρο</title>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20240207041000 +0000" stop="20240207054000 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">Πνεύμα από Σπίτι</title>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20240207054000 +0000" stop="20240207072000 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">Proof</title>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20240207072000 +0000" stop="20240207084000 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">Αϊ-Βασίλης Τζούνιορ</title>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20240207084000 +0000" stop="20240207104500 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">Ο Άνθρωπος με τα Χίλια Πρόσωπα</title>
+    <category lang="el">Θρίλερ</category>
+  </programme>
+  <programme start="20240207104500 +0000" stop="20240207133000 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">Transformers 4: Εποχή Αφανισμού</title>
+    <category lang="el">Επιστ. φαντασίας</category>
+  </programme>
+  <programme start="20240207133000 +0000" stop="20240207150500 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">Self Reliance</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240207150500 +0000" stop="20240207172500 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">Εχθρός Προ των Πυλών</title>
+    <category lang="el">Πολεμική</category>
+  </programme>
+  <programme start="20240207172500 +0000" stop="20240207190000 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">The Desperate Hour</title>
+    <category lang="el">Θρίλερ</category>
+  </programme>
+  <programme start="20240207190000 +0000" stop="20240207211500 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">Red Tails</title>
+    <category lang="el">Πολεμική</category>
+  </programme>
+  <programme start="20240207211500 +0000" stop="20240207225000 +0000" channel="cosmotecinema1.gr">
+    <title lang="el">Τέλειο Αντίγραφο</title>
+    <category lang="el">Επιστ. φαντασίας</category>
+  </programme>
   <programme start="20240205224000 +0000" stop="20240205230500 +0000" channel="cosmotecinema2.gr">
     <title lang="el">Buzz Κ7 Ε16</title>
     <category lang="el">Ψυχαγωγική Εκπομπή</category>
@@ -1311,66 +1367,6 @@
   <programme start="20240207213500 +0000" stop="20240207222500 +0000" channel="cosmotecinema2.gr">
     <title lang="el">Watch Next Κ3 Ε16</title>
     <category lang="el">Ψυχαγωγική Εκπομπή</category>
-  </programme>
-  <programme start="20240205232500 +0000" stop="20240206005500 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Ανάμεσα σε Δυο Γυναίκες</title>
-    <category lang="el">Αισθηματική</category>
-  </programme>
-  <programme start="20240206005500 +0000" stop="20240206023500 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Καλά κρυμμένα μυστικά, Αθανασία</title>
-    <category lang="el">Κοινωνική</category>
-  </programme>
-  <programme start="20240206023500 +0000" stop="20240206040000 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Ο Γιάννης τα 'κανε Θάλασσα</title>
-    <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240206040000 +0000" stop="20240206054000 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Γύφτικη Κομπανία</title>
-    <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240206054000 +0000" stop="20240206070500 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Το Κορίτσι της Κυριακής</title>
-    <category lang="el">Κοινωνική</category>
-  </programme>
-  <programme start="20240206070500 +0000" stop="20240206084000 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Ο Άνθρωπος που Γύρισε από τη Ζέστη</title>
-    <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240206084000 +0000" stop="20240206094500 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Ευτυχώς Χωρίς Δουλειά</title>
-    <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240206094500 +0000" stop="20240206112000 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Δύο Μοντέρνοι Γλεντζέδες</title>
-    <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240206112000 +0000" stop="20240206130000 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Γοργόνες και Μάγκες</title>
-    <category lang="el">Μιούζικαλ</category>
-  </programme>
-  <programme start="20240206130000 +0000" stop="20240206144500 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Κατηγορώ τους Ανθρώπους</title>
-    <category lang="el">Δραματική</category>
-  </programme>
-  <programme start="20240206144500 +0000" stop="20240206162000 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Μανταλένα</title>
-    <category lang="el">Αισθηματική</category>
-  </programme>
-  <programme start="20240206162000 +0000" stop="20240206180500 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Η Ζούγκλα των Πόλεων</title>
-    <category lang="el">Κοινωνική</category>
-  </programme>
-  <programme start="20240206180500 +0000" stop="20240206200000 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Κόσμος και Κοσμάκης</title>
-    <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240206200000 +0000" stop="20240206212500 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Γαμπρός απ' το Λονδίνο</title>
-    <category lang="el">Κωμωδία</category>
-  </programme>
-  <programme start="20240206212500 +0000" stop="20240206232000 +0000" channel="cosmotecinema3.gr">
-    <title lang="el">Παράδεισος στη Δύση</title>
-    <category lang="el">Κοινωνική</category>
   </programme>
   <programme start="20240206232000 +0000" stop="20240207005500 +0000" channel="cosmotecinema3.gr">
     <title lang="el">Οι Λύκαινες</title>
@@ -2076,58 +2072,6 @@
     <title lang="el">Sports Classics: Invictus Games 2023 Ε7</title>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
-  <programme start="20240205220000 +0000" stop="20240205230000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">COSMOTESport7HD</title>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20240205230000 +0000" stop="20240206000000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">NBA TV 2023-24 (Ζ)</title>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20240206000000 +0000" stop="20240206023000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">Μπάσκετ: Σάρλοτ Χόρνετς - Λος Άντζελες Λέικερς (Ζ)</title>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20240206023000 +0000" stop="20240206050000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">NBA TV 2023-24 (Ζ)</title>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20240206050000 +0000" stop="20240206060000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">COSMOTESport7HD</title>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20240206060000 +0000" stop="20240206080000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">COSMOTESport7HD</title>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20240206080000 +0000" stop="20240206100000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">COSMOTESport7HD</title>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20240206100000 +0000" stop="20240206120000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">COSMOTESport7HD</title>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20240206120000 +0000" stop="20240206140000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">COSMOTESport7HD</title>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20240206140000 +0000" stop="20240206160000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">COSMOTESport7HD</title>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20240206160000 +0000" stop="20240206180000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">COSMOTESport7HD</title>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20240206180000 +0000" stop="20240206200000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">COSMOTESport7HD</title>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20240206200000 +0000" stop="20240206220000 +0000" channel="cosmotesport7.gr">
-    <title lang="el">Ποδόσφαιρο: Μαγιόρκα - Ρεάλ Σοσιεδάδ (Ζ)</title>
-    <category lang="el">Ποδόσφαιρο</category>
-  </programme>
   <programme start="20240206220000 +0000" stop="20240206230000 +0000" channel="cosmotesport7.gr">
     <title lang="el">COSMOTESport7HD</title>
     <category lang="el">Promo Card</category>
@@ -2229,6 +2173,54 @@
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20240206200000 +0000" stop="20240206220000 +0000" channel="cosmotesport8.gr">
+    <title lang="el">COSMOTESport8HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240206220000 +0000" stop="20240207000000 +0000" channel="cosmotesport8.gr">
+    <title lang="el">COSMOTESport8HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240207000000 +0000" stop="20240207020000 +0000" channel="cosmotesport8.gr">
+    <title lang="el">COSMOTESport8HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240207020000 +0000" stop="20240207040000 +0000" channel="cosmotesport8.gr">
+    <title lang="el">COSMOTESport8HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240207040000 +0000" stop="20240207060000 +0000" channel="cosmotesport8.gr">
+    <title lang="el">COSMOTESport8HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240207060000 +0000" stop="20240207080000 +0000" channel="cosmotesport8.gr">
+    <title lang="el">COSMOTESport8HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240207080000 +0000" stop="20240207100000 +0000" channel="cosmotesport8.gr">
+    <title lang="el">COSMOTESport8HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240207100000 +0000" stop="20240207120000 +0000" channel="cosmotesport8.gr">
+    <title lang="el">COSMOTESport8HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240207120000 +0000" stop="20240207140000 +0000" channel="cosmotesport8.gr">
+    <title lang="el">COSMOTESport8HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240207140000 +0000" stop="20240207160000 +0000" channel="cosmotesport8.gr">
+    <title lang="el">COSMOTESport8HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240207160000 +0000" stop="20240207180000 +0000" channel="cosmotesport8.gr">
+    <title lang="el">COSMOTESport8HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240207180000 +0000" stop="20240207200000 +0000" channel="cosmotesport8.gr">
+    <title lang="el">COSMOTESport8HD</title>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20240207200000 +0000" stop="20240207220000 +0000" channel="cosmotesport8.gr">
     <title lang="el">COSMOTESport8HD</title>
     <category lang="el">Promo Card</category>
   </programme>
@@ -2439,6 +2431,78 @@
   <programme start="20240207191500 +0000" stop="20240207220000 +0000" channel="epsilontv.gr">
     <title lang="el">Μέσα στον Κυκλώνα</title>
     <category lang="el">Θρίλερ</category>
+  </programme>
+  <programme start="20240205225000 +0000" stop="20240205234500 +0000" channel="ert1.gr">
+    <title lang="el">Εννέα Άγνωστοι Ε1</title>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20240205234500 +0000" stop="20240206013000 +0000" channel="ert1.gr">
+    <title lang="el">Πρωίαν Σε Είδον (Ε)</title>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20240206013000 +0000" stop="20240206033000 +0000" channel="ert1.gr">
+    <title lang="el">Στούντιο 4 (Ε)</title>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+  </programme>
+  <programme start="20240206033000 +0000" stop="20240206040500 +0000" channel="ert1.gr">
+    <title lang="el">ΕΡΤ Ειδήσεις</title>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20240206040500 +0000" stop="20240206080000 +0000" channel="ert1.gr">
+    <title lang="el">Συνδέσεις</title>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+  </programme>
+  <programme start="20240206080000 +0000" stop="20240206100000 +0000" channel="ert1.gr">
+    <title lang="el">Πρωίαν Σε Είδον</title>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20240206100000 +0000" stop="20240206110000 +0000" channel="ert1.gr">
+    <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20240206110000 +0000" stop="20240206120000 +0000" channel="ert1.gr">
+    <title lang="el">Ηλέκτρα Ε64 (Ε)</title>
+    <category lang="el">Κοινωνική</category>
+  </programme>
+  <programme start="20240206120000 +0000" stop="20240206130000 +0000" channel="ert1.gr">
+    <title lang="el">ΠΟΠ Μαγειρική Κ7</title>
+    <category lang="el">Μαγειρική</category>
+  </programme>
+  <programme start="20240206130000 +0000" stop="20240206160000 +0000" channel="ert1.gr">
+    <title lang="el">Στούντιο 4</title>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+  </programme>
+  <programme start="20240206160000 +0000" stop="20240206171000 +0000" channel="ert1.gr">
+    <title lang="el">Αναλυτικό Δελτίο Ειδήσεων - Αθλητικά - Καιρός</title>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20240206171000 +0000" stop="20240206181500 +0000" channel="ert1.gr">
+    <title lang="el">Ηλέκτρα Ε66</title>
+    <category lang="el">Κοινωνική</category>
+  </programme>
+  <programme start="20240206181500 +0000" stop="20240206191500 +0000" channel="ert1.gr">
+    <title lang="el">Switch</title>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20240206191500 +0000" stop="20240206193000 +0000" channel="ert1.gr">
+    <title lang="el">3ος Όροφος Ε14 (Ε)</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240206193000 +0000" stop="20240206194500 +0000" channel="ert1.gr">
+    <title lang="el">3ος Όροφος Ε41 (Ε)</title>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20240206194500 +0000" stop="20240206204500 +0000" channel="ert1.gr">
+    <title lang="el">Κάνε ότι Κοιμάσαι Κ2 Ε40 (Ε)</title>
+    <category lang="el">Ψυχολογικό Δράμα</category>
+  </programme>
+  <programme start="20240206204500 +0000" stop="20240206214500 +0000" channel="ert1.gr">
+    <title lang="el">Η Παραλία Ε86</title>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20240206214500 +0000" stop="20240206225000 +0000" channel="ert1.gr">
+    <title lang="el">Ηλέκτρα Ε66 (Ε)</title>
+    <category lang="el">Κοινωνική</category>
   </programme>
   <programme start="20240206225000 +0000" stop="20240206234500 +0000" channel="ert1.gr">
     <title lang="el">Εννέα Άγνωστοι Ε2</title>
@@ -3110,7 +3174,7 @@
   </programme>
   <programme start="20240207000000 +0000" stop="20240207020000 +0000" channel="espn2.us">
     <title lang="en">College Basketball</title>
-    <desc lang="en">The Cowboys visit the Cougars. Houston had won five straight games before an unsuccessful trip to the Allen Fieldhouse to play then-No. 8 Kansas on Feb. 3. Javon Small had 18 points and seven assists as Oklahoma State beat Kansas State.</desc>
+    <desc lang="en">The Cowboys visit the No. 5 Cougars. Houston had won five straight games before an unsuccessful trip to the Allen Fieldhouse to play then-No. 8 Kansas on Feb. 3. Javon Small had 18 points and seven assists as Oklahoma State beat Kansas State.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p25798306_tb2_v13_aa.jpg?w=270&amp;h=360"/>
   </programme>
@@ -3232,7 +3296,7 @@
     <title lang="en">College Basketball</title>
     <desc lang="en">A Sunflower Showdown match between the Wildcats (14-7, 4-4 Big 12) and the Jayhawks (17-4, 5-3) goes from Bramlage Coliseum. Kansas State's 83-82 overtime win over Kansas here last season ended a seven-game slide in the head-to-head series.</desc>
     <category lang="en">Sports event</category>
-    <icon src="https://adma.tmsimg.com/assets/assets/p25798021_tb2_v13_ab.jpg?w=270&amp;h=360"/>
+    <icon src="https://adma.tmsimg.com/assets/assets/p25798021_tb2_v13_aa.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240206040000 +0000" stop="20240206050000 +0000" channel="espn.us">
     <title lang="en">SportsCenter With Scott Van Pelt</title>
@@ -3344,13 +3408,13 @@
   </programme>
   <programme start="20240207000000 +0000" stop="20240207020000 +0000" channel="espn.us">
     <title lang="en">College Basketball</title>
-    <desc lang="en">The ACC-leading Tar Heels seek a season-series sweep of the Tigers. North Carolina seeks multiple triumphs over Clemson in a season for the first time since 2010-11 after Armando Bacot's double-double steered a 65-55 UNC win Jan. 6.</desc>
+    <desc lang="en">The ACC-leading No. 3 Tar Heels seek a season-series sweep of the Tigers. North Carolina seeks multiple triumphs over Clemson in a season for the first time since 2010-11 after Armando Bacot's double-double steered a 65-55 UNC win Jan. 6.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p25798303_tb2_v13_aa.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240207020000 +0000" stop="20240207040000 +0000" channel="espn.us">
     <title lang="en">College Basketball</title>
-    <desc lang="en">The Bears' Big 12 blitz continues when they host the Red Raiders. Baylor has won two in a row, and Texas Tech has dropped two straight, but both clubs sport identical 16-5, 5-3 Big 12 records. Baylor swept the season series in 2022-23.</desc>
+    <desc lang="en">The No. 13 Bears' Big 12 blitz continues when they host the No. 23 Red Raiders. Baylor has won two in a row, and Texas Tech has dropped two straight, but both clubs sport identical 16-5, 5-3 Big 12 records. Baylor swept the season series in 2022-23.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p25801428_tb2_v13_ab.jpg?w=270&amp;h=360"/>
   </programme>
@@ -5949,7 +6013,7 @@
     <title lang="sv">Martine - jakten på rättvisa</title>
     <desc lang="sv">Scotland Yard letar efter Farouk som bodde i lägenheten där Martine hittades död. Polisen inser att det kommer att bli svårt när de får veta att Farouk flytt till Jemen.</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/271058.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/643800.jpg"/>
     <episode-num system="xmltv_ns">0.1.0/1</episode-num>
     <episode-num system="onscreen">S01E02</episode-num>
   </programme>
@@ -6779,7 +6843,7 @@
   </programme>
   <programme start="20240206193000 +0000" stop="20240206213000 +0000" channel="nbatv.us">
     <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
+    <desc lang="en">Stephen Curry scored a season-high 60 points, hitting 10-of-23 three-pointers, in the Warriors' 141-134 overtime loss to Trae Young and the Atlanta Hawks. Young led the Hawks with 35 points while Dejounte Murray added 19 points. From Feb. 3, 2024.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p9306016_b_v9_ac.jpg?w=270&amp;h=360"/>
   </programme>
@@ -6845,7 +6909,7 @@
   </programme>
   <programme start="20240207070000 +0000" stop="20240207090000 +0000" channel="nbatv.us">
     <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
+    <desc lang="en">Stephen Curry scored a season-high 60 points, hitting 10-of-23 three-pointers, in the Warriors' 141-134 overtime loss to Trae Young and the Atlanta Hawks. Young led the Hawks with 35 points while Dejounte Murray added 19 points. From Feb. 3, 2024.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p9306016_b_v9_ac.jpg?w=270&amp;h=360"/>
   </programme>
@@ -8553,7 +8617,7 @@
     <title lang="sv">Malins Indien</title>
     <desc lang="sv">Malin är på en smakrik resa genom Mumbais labyrint av trånga gator, där dofterna från lockande gatumat blandas med stadens livliga pulsslag.</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/640732.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/640695.jpg"/>
     <episode-num system="xmltv_ns">0.1.0/1</episode-num>
     <episode-num system="onscreen">S01E02</episode-num>
   </programme>
@@ -8598,7 +8662,7 @@
     <title lang="sv">Strömsö</title>
     <desc lang="sv">PT:n Lena Paxal tar Nicke ut på en promenad för att ta död på några tränings- och hälsomyter. Lee gör pioner av papper, Jim fixar vantblockare och i köket tillreder Oskar och Matias en sticky date cake.</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/642749.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/642752.jpg"/>
     <episode-num system="xmltv_ns">33.2.0/1</episode-num>
     <episode-num system="onscreen">S34E03</episode-num>
   </programme>
@@ -8670,7 +8734,7 @@
     <title lang="sv">Uppdrag granskning</title>
     <desc lang="sv">Ett sms skickas ut: “Tack för din beställning hos Ikea”. Så startar bedrägeriet. Uppdrag granskning kan nu visa hur bedragarna med kallsinnigt rollspel och skamlösa metoder tömmer svenska pensionärers konton - från insidan.</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/271058.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/643751.jpg"/>
     <episode-num system="xmltv_ns">24.0.0/1</episode-num>
     <episode-num system="onscreen">S25E01</episode-num>
   </programme>
@@ -8678,7 +8742,7 @@
     <title lang="sv">Söndag med Messiah Hallberg</title>
     <desc lang="sv">Messiah Hallberg ser sig själv som en blandning av en konstnär och en cynisk jävel. Vi börjar söndagen i bokhyllan och avslutar på Moneybrothers jubileumskonsert för albumet Blood Panic.</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/641275.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/641274.jpg"/>
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <episode-num system="onscreen">S01E03</episode-num>
   </programme>
@@ -8686,7 +8750,7 @@
     <title lang="sv">Camilla Hamids bakresa: Marocko</title>
     <desc lang="sv">Camillas före detta svärmor visar hur man får en marockansk msemen att bli sådär underbart krispig och tunn på samma gång.</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/641268.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/640461.jpg"/>
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <episode-num system="onscreen">S01E03</episode-num>
   </programme>
@@ -8726,7 +8790,7 @@
     <title lang="sv">Seniorsurfarna</title>
     <desc lang="sv">Tänk att gymmet, kokboken, kartan, almanackan, plånboken och akvarellkursen kan rymmas i den där lilla telefonen. Johan får de andra deltagarna att svänga ordentligt på höfterna i ett zumbapass, Arja sparar inte på sockret när det…</desc>
     <category lang="sv">documentary</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/640658.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/447697.jpg"/>
     <episode-num system="xmltv_ns">1.4.0/1</episode-num>
     <episode-num system="onscreen">S02E05</episode-num>
   </programme>
@@ -8734,7 +8798,7 @@
     <title lang="sv">Lerin på Lofoten</title>
     <desc lang="sv">Lars tar med sig Junior och gänget till en av de platser han älskar mest på Lofoten - Morfjorden. De målar och pratar om hur de mött anhöriga och andra i sin omgivning som de skadat för att få säga förlåt.</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/638902.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/642747.jpg"/>
     <episode-num system="xmltv_ns">0.4.0/1</episode-num>
     <episode-num system="onscreen">S01E05</episode-num>
   </programme>
@@ -9068,7 +9132,7 @@
     <title lang="sv">Skidskytte-VM</title>
     <desc lang="sv">Mixed stafett från VM i skidskytte i Nove Mesto i Tjeckien. Expert i studion: Helena Ekholm. Programledare: Yvette Hermundstad. Kommentatorer: Ola Bränholm och Björn Ferry.</desc>
     <category lang="sv">sport</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/642663.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/643762.jpg"/>
     <episode-num system="xmltv_ns">2023.0.0/1</episode-num>
     <episode-num system="onscreen">S2024E01</episode-num>
   </programme>
@@ -12145,7 +12209,6 @@
   </programme>
   <programme start="20240207000000 +0000" stop="20240207010000 +0000" channel="tv3.se">
     <title lang="sv">NCIS</title>
-    <desc lang="sv">När en okänd skytt orsakar kaos vid en årlig Thanksgiving 5K är tiden knapp för NCIS-teamet att hitta den skyldige. Kasie följer också med Knight på Thanksgivinglunch hemma hos Knights syster.</desc>
     <category lang="sv">series</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/01/17/63c699d3d8cd1.jpg"/>
     <episode-num system="xmltv_ns">19.7.0/1</episode-num>
@@ -12153,7 +12216,6 @@
   </programme>
   <programme start="20240207010000 +0000" stop="20240207020000 +0000" channel="tv3.se">
     <title lang="sv">NCIS: Los Angeles</title>
-    <desc lang="sv">NCIS-teamet måste snabbt hitta Callen efter att han fallit för Katyas fälla, som gick ut på att använda Sams deepfake för att koordinera en vapenaffär.</desc>
     <category lang="sv">series</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/06/10/62a29bfe1eaca.jpg"/>
     <episode-num system="xmltv_ns">12.20.0/1</episode-num>
@@ -12161,23 +12223,20 @@
   </programme>
   <programme start="20240207020000 +0000" stop="20240207030000 +0000" channel="tv3.se">
     <title lang="sv">NCIS: Hawai'i</title>
-    <desc lang="sv">NCIS-agenterna Nick Torres och Jessica Knight reser till Hawaii när de får veta att ett nyckelvittne i ett av deras gamla fall har dykt upp med avgörande bevis.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/07/29/62e3356ecc9bc.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/01/25/63d0ebddba664.jpg"/>
     <episode-num system="xmltv_ns">0.17.0/1</episode-num>
     <episode-num system="onscreen">S01E18</episode-num>
   </programme>
   <programme start="20240207030000 +0000" stop="20240207040000 +0000" channel="tv3.se">
     <title lang="sv">Without a Trace</title>
-    <desc lang="sv">Pastor Henry Stephens försvinner från sin kyrka strax efter att ha fått veta att han behöver en levertransplantation. Utredningen avslöjar oroväckande hemligheter om den annars så hederliga pastorns liv.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/04/61aacd208b413.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/04/61aacd21a75fc.jpg"/>
     <episode-num system="xmltv_ns">1.1.0/1</episode-num>
     <episode-num system="onscreen">S02E02</episode-num>
   </programme>
   <programme start="20240207040000 +0000" stop="20240207044700 +0000" channel="tv3.se">
     <title lang="sv">America's Funniest Home Videos</title>
-    <desc lang="sv">Bland höjdpunkterna finns basketbollsmisstag, trick shots och nyfikna katter. Dessutom tävlar nio finalister om ett pris på 100 000 dollar.</desc>
     <category lang="sv">series</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/02/6311f73f0bda7.jpg"/>
     <episode-num system="xmltv_ns">29.19.0/1</episode-num>
@@ -12185,31 +12244,27 @@
   </programme>
   <programme start="20240207050000 +0000" stop="20240207055000 +0000" channel="tv3.se">
     <title lang="sv">Undercover Boss US</title>
-    <desc lang="sv">Som chef över WWE hjälper McMahon till att skapa en av de mest framgångsrika sport och underhållningsvarumärkena i världen. Nu ger hon sig ut för att hitta nya talanger för WWE.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/07/15/5f0e5d5eccba7.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/07/15/5f0e5d5e7d83a.jpg"/>
     <episode-num system="xmltv_ns">8.5.0/1</episode-num>
     <episode-num system="onscreen">S09E06</episode-num>
   </programme>
   <programme start="20240207055000 +0000" stop="20240207064500 +0000" channel="tv3.se">
     <title lang="sv">Pacific Blue</title>
-    <desc lang="sv">Medan enheten följer efter en trio tungt beväpnade rånare, står T.C. öga mot öga med en av gärningsmännen på taket till en spritbutik.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/07/04/62c2f82285ab1.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/07/04/62c2f8242eac2.jpg"/>
     <episode-num system="xmltv_ns">0.5.0/1</episode-num>
     <episode-num system="onscreen">S01E06</episode-num>
   </programme>
   <programme start="20240207064500 +0000" stop="20240207073500 +0000" channel="tv3.se">
     <title lang="sv">Frusna vägar</title>
-    <desc lang="sv">I Sälen ställer halkan till problem och Hogan åker ut för att hjälpa en chockad kvinna som glidit ner för en glashal backe och in i en annan bil. Stefan är på väg till Ullånger där en lastbils drivhjul lossnat från sina bultar på E4:an.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/09/28/6152d2de706be.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/10/20/616fb9b4091f2.jpg"/>
     <episode-num system="xmltv_ns">7.1.0/1</episode-num>
     <episode-num system="onscreen">S08E02</episode-num>
   </programme>
   <programme start="20240207073500 +0000" stop="20240207083500 +0000" channel="tv3.se">
     <title lang="sv">Project Runway</title>
-    <desc lang="sv">För första gången någonsin kommer deltagarna att skapa utseenden för samma supermodell i denna unika utmaning. De ska skapa utseenden som är inspirerade av den internationellt kända modellen Coco Rocha.</desc>
     <category lang="sv">series</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/18/6234be81c9b99.jpg"/>
     <episode-num system="xmltv_ns">18.11.0/1</episode-num>
@@ -12217,7 +12272,6 @@
   </programme>
   <programme start="20240207083500 +0000" stop="20240207093000 +0000" channel="tv3.se">
     <title lang="sv">The Mentalist</title>
-    <desc lang="sv">CBI-teamet utreder mordet på den unga huvudrollsinnehavaren i ett lokalt teatersällskap. Samtidigt hoppas Jane kunna få fram information om Red John.</desc>
     <category lang="sv">series</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/08/06/5f2bfaf26cd92.jpg"/>
     <episode-num system="xmltv_ns">4.17.0/1</episode-num>
@@ -12225,23 +12279,20 @@
   </programme>
   <programme start="20240207093000 +0000" stop="20240207104000 +0000" channel="tv3.se">
     <title lang="sv">Gordon Ramsay's 24 Hours to Hell and Back</title>
-    <desc lang="sv">Gordon moderniserar South Boulevard, en Korea-inspirerad restaurang.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/06/29/5ef9fbfe74fc6.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/06/29/5ef9fbff7b172.jpg"/>
     <episode-num system="xmltv_ns">2.8.0/1</episode-num>
     <episode-num system="onscreen">S03E09</episode-num>
   </programme>
   <programme start="20240207104000 +0000" stop="20240207114500 +0000" channel="tv3.se">
     <title lang="sv">Undercover Boss US</title>
-    <desc lang="sv">Ashley är en av de mest kunniga modellerna och kroppsaktivist. Hon var den första modellen av storlek större som var på omslaget av Sports Illustrade Swimsuit.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/07/15/5f0e5d5eccba7.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/06/11/60c2b805c1e7c.jpg"/>
     <episode-num system="xmltv_ns">8.6.0/1</episode-num>
     <episode-num system="onscreen">S09E07</episode-num>
   </programme>
   <programme start="20240207114500 +0000" stop="20240207125000 +0000" channel="tv3.se">
     <title lang="sv">Lyxfällan</title>
-    <desc lang="sv">Julia och Peter lever i ett renoveringskaos. Tillsammans kämpar de för att det ska gå runt men dåliga prioriteringar och sjukskrivningar har gjort att deras ekonomiska situation blivit en katastrof.</desc>
     <category lang="sv">series</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/09/17/5f6375f11b4b3.jpg"/>
     <episode-num system="xmltv_ns">27.9.0/1</episode-num>
@@ -12249,7 +12300,6 @@
   </programme>
   <programme start="20240207125000 +0000" stop="20240207135500 +0000" channel="tv3.se">
     <title lang="sv">Project Runway</title>
-    <desc lang="sv">Designerna tävlar om platserna i finalen av säsong 19. I den sista utmaningen måste de visa domarna sitt varumärke och sin vision för framtidens mode i en enda look.</desc>
     <category lang="sv">series</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/17/61bc9d9b67361.jpg"/>
     <episode-num system="xmltv_ns">18.12.0/1</episode-num>
@@ -12257,23 +12307,20 @@
   </programme>
   <programme start="20240207135500 +0000" stop="20240207150000 +0000" channel="tv3.se">
     <title lang="sv">The Real Housewives of Atlanta</title>
-    <desc lang="sv">Sanya planerar sin första välgörenhetsbrunch någonsin för Mommi Nation, men spänningarna i familjen hotar att ta över. Kenyas nya pojkvän besöker henne personligen.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/10/29/653db15c73411.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/10/29/653db15cf1e6a.jpg"/>
     <episode-num system="xmltv_ns">14.8.0/1</episode-num>
     <episode-num system="onscreen">S15E09</episode-num>
   </programme>
   <programme start="20240207150000 +0000" stop="20240207160000 +0000" channel="tv3.se">
     <title lang="sv">The Mentalist</title>
-    <desc lang="sv">CSI-teamet kämpar för att lösa mordet på ägaren till en turiststad med Wild West-tema. Samtidigt måste Kirkland ta reda på hur mycket Jane vet om Red John.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/08/06/5f2bfaf26cd92.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/08/06/5f2bfaf2b015c.jpg"/>
     <episode-num system="xmltv_ns">4.18.0/1</episode-num>
     <episode-num system="onscreen">S05E19</episode-num>
   </programme>
   <programme start="20240207160000 +0000" stop="20240207170000 +0000" channel="tv3.se">
     <title lang="sv">Frusna vägar</title>
-    <desc lang="sv">Hogan är på väg till en minibuss som snurrat av vägen. I Umeå har det kommit in ett larm om att en lastbilstrailer vält längs E4an. I Örnsköldsvik har Danne blivit uppringd av bussgaraget i stan som under natten var med om en brand.</desc>
     <category lang="sv">series</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/09/28/6152d2dec4ecd.jpg"/>
     <episode-num system="xmltv_ns">7.2.0/1</episode-num>
@@ -12281,71 +12328,62 @@
   </programme>
   <programme start="20240207170000 +0000" stop="20240207180000 +0000" channel="tv3.se">
     <title lang="sv">Lyxfällan</title>
-    <desc lang="sv">Johan - en kärleksfull far till två tjejer som lämnades av sin fru, tillsammans med alla deras lån med dåliga villkor. Nu står han utan eget boende och bor hos sin mamma med barnen.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/02/11/602550a33c1fc.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/07/6226065a3225b.jpg"/>
     <episode-num system="xmltv_ns">28.0.0/1</episode-num>
     <episode-num system="onscreen">S29E01</episode-num>
   </programme>
   <programme start="20240207180000 +0000" stop="20240207183000 +0000" channel="tv3.se">
-    <title lang="sv">Vänner</title>
-    <desc lang="sv">Phoebe samlar in pengar till Frälsningsarmén inför julen. Ross har tråkigt och saboterar för Joey och Chandler.</desc>
+    <title lang="sv">Friends</title>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/16/648c28b3e4421.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/16/648c28b52d9d0.jpg"/>
     <episode-num system="xmltv_ns">4.9.0/1</episode-num>
     <episode-num system="onscreen">S05E10</episode-num>
   </programme>
   <programme start="20240207183000 +0000" stop="20240207190000 +0000" channel="tv3.se">
-    <title lang="sv">Vänner</title>
-    <desc lang="sv">Alla vännerna avger nyårslöften, men det verkar som om Rachels löfte om att sluta skvallra blir allra svårast att hålla, eftersom hon får reda på att Chandler och Monica är ihop.</desc>
+    <title lang="sv">Friends</title>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/16/648c28b52d9d0.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/16/648c28b3e4421.jpg"/>
     <episode-num system="xmltv_ns">4.10.0/1</episode-num>
     <episode-num system="onscreen">S05E11</episode-num>
   </programme>
   <programme start="20240207190000 +0000" stop="20240207200000 +0000" channel="tv3.se">
-    <title lang="sv">Stugfixarna Norge</title>
-    <desc lang="sv">Urke är en liten by vid Hjørundfjorden. Här är den första A-stugan i programmet. Bland annat kommer en glasbox med stora fönster att byggas för den nya matsalen och takfönster kommer att tillverkas.</desc>
+    <title lang="sv">Eventyrlig oppussing</title>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/02/63122f5569342.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/08/29/630ca99b8f006.jpg"/>
     <episode-num system="xmltv_ns">7.2.0/1</episode-num>
     <episode-num system="onscreen">S08E03</episode-num>
   </programme>
   <programme start="20240207200000 +0000" stop="20240207210000 +0000" channel="tv3.se">
     <title lang="sv">NCIS: Hawai'i</title>
-    <desc lang="sv">En korpral från marinkåren dör i en tidvattenpool efter att ha utsatts för fentanyl, och NCIS-teamet måste snabbt hitta källan till drogerna.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/08/25/64e7ffdf1efa8.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/08/25/64e7ffdf94de5.jpg"/>
     <episode-num system="xmltv_ns">1.5.0/1</episode-num>
     <episode-num system="onscreen">S02E06</episode-num>
   </programme>
   <programme start="20240207210000 +0000" stop="20240207220500 +0000" channel="tv3.se">
     <title lang="sv">Svenska fall</title>
-    <desc lang="sv">En eftermiddag är Anna Lindh på NK när en okänd man plötsligt knivhugger henne till döds. Nu måste mördaren hittas till varje pris, annars riskerar Sverige att få sitt andra ouppklarade ministermord.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/02/01/63da64d9a83ec.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/02/01/63da64d8a27fd.jpg"/>
     <episode-num system="xmltv_ns">3.3.0/1</episode-num>
     <episode-num system="onscreen">S04E04</episode-num>
   </programme>
   <programme start="20240207220500 +0000" stop="20240207223000 +0000" channel="tv3.se">
-    <title lang="sv">Vänner</title>
-    <desc lang="sv">Phoebe samlar in pengar till Frälsningsarmén inför julen. Ross har tråkigt och saboterar för Joey och Chandler.</desc>
+    <title lang="sv">Friends</title>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/16/648c28b47dd79.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/16/648c28b52d9d0.jpg"/>
     <episode-num system="xmltv_ns">4.9.0/1</episode-num>
     <episode-num system="onscreen">S05E10</episode-num>
   </programme>
   <programme start="20240207223000 +0000" stop="20240207230000 +0000" channel="tv3.se">
-    <title lang="sv">Vänner</title>
-    <desc lang="sv">Alla vännerna avger nyårslöften, men det verkar som om Rachels löfte om att sluta skvallra blir allra svårast att hålla, eftersom hon får reda på att Chandler och Monica är ihop.</desc>
+    <title lang="sv">Friends</title>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/16/648c28b3e4421.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/16/648c28b47dd79.jpg"/>
     <episode-num system="xmltv_ns">4.10.0/1</episode-num>
     <episode-num system="onscreen">S05E11</episode-num>
   </programme>
   <programme start="20240207230000 +0000" stop="20240208000000 +0000" channel="tv3.se">
     <title lang="sv">Without a Trace</title>
-    <desc lang="sv">Whitney Ridder, en vacker ung kvinna som verkar ha allt, försvinner från sin rika fästmans hem mitt under en middagsbjudning.</desc>
     <category lang="sv">series</category>
     <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/04/61aacd208b413.jpg"/>
     <episode-num system="xmltv_ns">1.2.0/1</episode-num>
@@ -12353,33 +12391,29 @@
   </programme>
   <programme start="20240208000000 +0000" stop="20240208010000 +0000" channel="tv3.se">
     <title lang="sv">NCIS</title>
-    <desc lang="sv">CIS utreder dödsfallet av en collegestudent som dödades när han sprang över gatan och som hade kopplingar till McGees fru Delilah.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/02/08/63e37c003443f.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/02/08/63e37c00b6c60.jpg"/>
     <episode-num system="xmltv_ns">19.8.0/1</episode-num>
     <episode-num system="onscreen">S20E09</episode-num>
   </programme>
   <programme start="20240208010000 +0000" stop="20240208020000 +0000" channel="tv3.se">
     <title lang="sv">NCIS: Los Angeles</title>
-    <desc lang="sv">NCIS-teamet är på jakt efter en besättning som rånade ett kasino i Los Angeles med militärt våld. Kensi och Deeks får också höra spännande nyheter om adoptionen.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/06/10/62a29bff213e5.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/06/10/62a29bfd6b986.jpg"/>
     <episode-num system="xmltv_ns">12.21.0/1</episode-num>
     <episode-num system="onscreen">S13E22</episode-num>
   </programme>
   <programme start="20240208020000 +0000" stop="20240208030000 +0000" channel="tv3.se">
     <title lang="sv">NCIS: Hawai'i</title>
-    <desc lang="sv">NCIS-teamet undersöker ett skeppsvrak med exotiska djur som nu hotar det inhemska djurlivet på Oahu.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/07/29/62e3356ecc9bc.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/07/29/62e3356e75d3d.jpg"/>
     <episode-num system="xmltv_ns">0.18.0/1</episode-num>
     <episode-num system="onscreen">S01E19</episode-num>
   </programme>
   <programme start="20240208030000 +0000" stop="20240208040000 +0000" channel="tv3.se">
     <title lang="sv">Without a Trace</title>
-    <desc lang="sv">Whitney Ridder, en vacker ung kvinna som verkar ha allt, försvinner från sin rika fästmans hem mitt under en middagsbjudning.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/04/61aacd21a75fc.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/04/61aacd208b413.jpg"/>
     <episode-num system="xmltv_ns">1.2.0/1</episode-num>
     <episode-num system="onscreen">S02E03</episode-num>
   </programme>
@@ -12557,7 +12591,7 @@
     <title lang="sv">Smother</title>
     <desc lang="sv">Säsongsstart. Familjen Ahern är i sorg och behöver tid att läka, men sprickorna är uppenbara och relationerna ansträngda.</desc>
     <category lang="sv">series</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/643446.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/608666.jpg"/>
     <episode-num system="xmltv_ns">1.0.0/1</episode-num>
     <episode-num system="onscreen">S02E01</episode-num>
   </programme>
@@ -12573,7 +12607,7 @@
     <title lang="sv">En plats i solen</title>
     <desc lang="sv">Rebecca och Carl från norra Wales vill köpa ett semesterboende i Gandia, som med tiden kan bli ett permanent hem. De vill ha närhet till stranden och en stor trädgård att odla frukt och grönsaker i.</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/567354.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/555899.jpg"/>
     <episode-num system="xmltv_ns">13.82.0/1</episode-num>
     <episode-num system="onscreen">S14E83</episode-num>
   </programme>
@@ -12659,7 +12693,7 @@
     <title lang="sv">En plats i solen</title>
     <desc lang="sv">Bröderna Peter och David delar sitt boende hemma i Wolverhampton och vill nu också köpa ett gemensamt semesterboende i Spanien. Jean Johansson tar sig an utmaningen att hitta den perfekta fastigheten.</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/555899.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/567357.jpg"/>
     <episode-num system="xmltv_ns">13.85.0/1</episode-num>
     <episode-num system="onscreen">S14E86</episode-num>
   </programme>
@@ -12667,7 +12701,7 @@
     <title lang="sv">Grand Designs Nya Zeeland</title>
     <desc lang="sv">Ted och Ita:s takvåning innehåller radikala detaljer som kommer från deras dotters skolarbete. Takvåningen ligger i en gammal byggnad och kontrasten till deras ultramoderna lägenhet är stor.</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/643421.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/500303.jpg"/>
     <episode-num system="xmltv_ns">5.6.0/1</episode-num>
     <episode-num system="onscreen">S06E07</episode-num>
   </programme>
@@ -12697,7 +12731,7 @@
     <title lang="sv">Farmen</title>
     <desc lang="sv">Det är konfliktfyllt på gården. Flera deltagare känner sig illa behandlade och upplever att de är utfrysta. Storbonden ska skicka två Farmare till Torpet och gör ett taktiskt val som får stor innebörd för hens sociala liv på gården.</desc>
     <category lang="sv">entertainment</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/638507.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/643417.jpg"/>
     <episode-num system="xmltv_ns">16.23.0/1</episode-num>
     <episode-num system="onscreen">S17E24</episode-num>
   </programme>
@@ -12743,7 +12777,7 @@
     <title lang="sv">The Rookie</title>
     <desc lang="sv">Efter ett avslöjande kompliceras John och Jessicas relation rejält. Bradford och West börjar jobba med ett viktigt samhällsprojekt.</desc>
     <category lang="sv">series</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/549679.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/568511.jpg"/>
     <episode-num system="xmltv_ns">1.6.0/1</episode-num>
     <episode-num system="onscreen">S02E07</episode-num>
   </programme>
@@ -12751,7 +12785,7 @@
     <title lang="sv">The White Queen</title>
     <desc lang="sv">Edvard planerar ett krig mot Frankrike, men får kalla fötter när han inser att blodspillan måste få ett slut. Elizabeth hamnar i onåd hos kungen som misstänker att hon, likt sin mor, utövar häxkonst.</desc>
     <category lang="sv">series</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/464546.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/534970.jpg"/>
     <episode-num system="xmltv_ns">0.6.0/1</episode-num>
     <episode-num system="onscreen">S01E07</episode-num>
   </programme>
@@ -12759,7 +12793,7 @@
     <title lang="sv">Smother</title>
     <desc lang="sv">Val och hennes tre döttrar häpnar när de ser att någon har klottrat ordet "lögnare" med läppstift på familjens spegel. Val kan bara tolka meddelandet på ett sätt. Någon är ute efter henne.</desc>
     <category lang="sv">series</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/643446.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/643442.jpg"/>
     <episode-num system="xmltv_ns">1.1.0/1</episode-num>
     <episode-num system="onscreen">S02E02</episode-num>
   </programme>
@@ -12775,7 +12809,7 @@
     <title lang="sv">En plats i solen</title>
     <desc lang="sv">Steve och Helen har rest jorden runt för att hitta den perfekta platsen för dem att köpa ett semesterboende. Valet har nu landat på spanska Torrox. Scarlette Douglas visar dem fem förslag, men kommer något att vara helt rätt?</desc>
     <category lang="sv">other</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/555899.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/567356.jpg"/>
     <episode-num system="xmltv_ns">13.84.0/1</episode-num>
     <episode-num system="onscreen">S14E85</episode-num>
   </programme>
@@ -13344,8 +13378,8 @@
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/622197.jpg"/>
   </programme>
   <programme start="20240207145000 +0000" stop="20240207170000 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">Asiatiska Mästerskapen: tba-tba</title>
-    <desc lang="sv">Asiatiska Mästerskapen: tba-tba</desc>
+    <title lang="sv">Asiatiska Mästerskapen: Iran-Qatar</title>
+    <desc lang="sv">Fotboll från Al Thumama Stadium där Iran ställs mot Qatar i semifinal i Asiatiska mästerskapen i Qatar. Engelsk kommentering.</desc>
     <category lang="sv">sport</category>
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/639267.jpg"/>
   </programme>
@@ -14038,7 +14072,7 @@
     <title lang="sv">Magnum P.I.</title>
     <desc lang="sv">Magnum, Higgins och Rick går under täckmantel på en flott country club när en ung caddie får sparken efter att ha anklagats för att ha stulit en medlems golfklubbor.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/04/08/625053a725dc5.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/07/61aece85c95c6.jpg"/>
     <episode-num system="xmltv_ns">3.2.0/1</episode-num>
     <episode-num system="onscreen">S04E03</episode-num>
   </programme>
@@ -14046,7 +14080,7 @@
     <title lang="sv">Without a Trace</title>
     <desc lang="sv">Jack och teamet försöker hitta Eric Miller, en 12-åring som senast sågs på pojkarnas toalett på sin skola. Erics blod hittades på en spegel som krossats under ett uppenbart slagsmål.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/04/61aacd21a75fc.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/04/61aacd212aa2a.jpg"/>
     <episode-num system="xmltv_ns">1.14.0/1</episode-num>
     <episode-num system="onscreen">S02E15</episode-num>
   </programme>
@@ -14054,7 +14088,7 @@
     <title lang="sv">I huvudet på en mördare</title>
     <desc lang="sv">Långshyttanmordet blev ett av Sveriges mest uppmärksammade fall 2016, då en grupp på elva personer tillsammans planerar och genomför mordet på 61-åriga Madeleine.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/08/61b019db4ec11.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/08/61b019dbd5cb0.jpg"/>
     <episode-num system="xmltv_ns">1.3.0/1</episode-num>
     <episode-num system="onscreen">S02E04</episode-num>
   </programme>
@@ -14062,7 +14096,7 @@
     <title lang="sv">Ice Road Truckers</title>
     <desc lang="sv">Förarna i den historiska konvojen möter eld och en tunn iskorsning. Efter att Arts motor dött måste han åka tillbaka med Alex över en väg som kommer förstöra lastbilen.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a94a163b23d4.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/09/30/61557f981a58c.jpg"/>
     <episode-num system="xmltv_ns">9.9.0/1</episode-num>
     <episode-num system="onscreen">S10E10</episode-num>
   </programme>
@@ -14102,7 +14136,7 @@
     <title lang="sv">Just Shoot Me!</title>
     <desc lang="sv">Jack överraskar alla genom att berätta att han ska pensionera sig.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/04/11/6254094d8ff58.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2019/05/29/5cee65a25578a.jpg"/>
     <episode-num system="xmltv_ns">6.23.0/1</episode-num>
     <episode-num system="onscreen">S07E24</episode-num>
   </programme>
@@ -14110,7 +14144,7 @@
     <title lang="sv">Kevin Can Wait</title>
     <desc lang="sv">Kevin och Vanessa är oroliga för att bli stämda efter att Rootger skadat sig på jobbet.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/11/22/5bf669f26a7a2.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/01/20/5e25aa31e2bfe.jpg"/>
     <episode-num system="xmltv_ns">1.7.0/1</episode-num>
     <episode-num system="onscreen">S02E08</episode-num>
   </programme>
@@ -14134,7 +14168,7 @@
     <title lang="sv">Coast Guard Alaska</title>
     <desc lang="sv">Kustvakten antar tre riskabla uppdrag: en hjärtpatient på gränsen till döden; en sjunkande fiskebåt; och spaning efter en försvunnen fiskare.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/11/09/618a469262512.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/07/622696b06acd5.jpg"/>
     <episode-num system="xmltv_ns">2.1.0/1</episode-num>
     <episode-num system="onscreen">S03E02</episode-num>
   </programme>
@@ -14142,7 +14176,7 @@
     <title lang="sv">Ink Master</title>
     <desc lang="sv">Mentorerna måste föregå med gott exempel när de tvingas tatuera under hakan i en Master's Face off.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/08/30/630d6e0d15fd8.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/08/30/630d6e0c35301.jpg"/>
     <episode-num system="xmltv_ns">9.5.0/1</episode-num>
     <episode-num system="onscreen">S10E06</episode-num>
   </programme>
@@ -14150,7 +14184,7 @@
     <title lang="sv">Ink Master</title>
     <desc lang="sv">Lagdynamiken sätts på prov när en tag team-utmaning skakar om tävlingen i grunden. Coacherna måste fatta ett svårt beslut medan kampen fortsätter om 100 000 dollar och titeln Ink Master.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/08/30/630d6e0c928f6.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/08/30/630d6e0c35301.jpg"/>
     <episode-num system="xmltv_ns">9.6.0/1</episode-num>
     <episode-num system="onscreen">S10E07</episode-num>
   </programme>
@@ -14174,7 +14208,7 @@
     <title lang="sv">The Mentalist</title>
     <desc lang="sv">Jane är nära att drunkna när han efterforskar en brandmans död. Han förlorar minnet och förvandlas plötsligt till den förbrytare han var tidigare i sitt liv.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/11/24/619db5dd5c948.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/11/24/619db5de33cb6.jpg"/>
     <episode-num system="xmltv_ns">3.9.0/1</episode-num>
     <episode-num system="onscreen">S04E10</episode-num>
   </programme>
@@ -14182,7 +14216,7 @@
     <title lang="sv">The Mentalist</title>
     <desc lang="sv">Jane och enheten efterforskar mordet på en skilsmässoadvokat som hade mängder av fiender. Agent Darcy kallar in Jane till ett förhör för att ta reda på mer om Red Johns inblandning i mordet på Panzer.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/11/24/619db5ddc910f.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/11/24/619db5de33cb6.jpg"/>
     <episode-num system="xmltv_ns">3.10.0/1</episode-num>
     <episode-num system="onscreen">S04E11</episode-num>
   </programme>
@@ -14190,7 +14224,7 @@
     <title lang="sv">Elementary</title>
     <desc lang="sv">Holmes och Watson står inför sin hittills största utmaning när en mordutredning hotar att förstöra deras partnerskap, i avslutningen av sjätte säsongens final.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/06/622511caa28ab.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/06/622511d883653.jpg"/>
     <episode-num system="xmltv_ns">5.20.0/1</episode-num>
     <episode-num system="onscreen">S06E21</episode-num>
   </programme>
@@ -14198,7 +14232,7 @@
     <title lang="sv">Seinfeld</title>
     <desc lang="sv">George skaffar jobb som bilflyttare, för grannarna som vill undvika böter...</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/02/18/5e4baa7a64b65.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/02/18/5e4baa79a9276.jpg"/>
     <episode-num system="xmltv_ns">2.10.0/1</episode-num>
     <episode-num system="onscreen">S03E11</episode-num>
   </programme>
@@ -14206,7 +14240,7 @@
     <title lang="sv">Seinfeld</title>
     <desc lang="sv">Elaine hjälper George att få jobb och som tack får hon en tröja.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/02/18/5e4baa7a051d3.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/02/18/5e4baa7a64b65.jpg"/>
     <episode-num system="xmltv_ns">2.11.0/1</episode-num>
     <episode-num system="onscreen">S03E12</episode-num>
   </programme>
@@ -14239,7 +14273,7 @@
     <desc lang="sv">Den oprövade ubåtskapten Joe Glass söker i norra ishavet efter amerikansk ubåt i nöd, när han upptäcker en hemlig militärkupp mot den ryska presidenten, något som hotar världsordningen.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/11/08/654b231fe54a8.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/11/08/654b23206dce8.jpg"/>
   </programme>
   <programme start="20240207223000 +0000" stop="20240207235000 +0000" channel="tv6.se">
     <title lang="sv">Peaky Blinders</title>
@@ -14253,7 +14287,7 @@
     <title lang="sv">Magnum P.I.</title>
     <desc lang="sv">Magnum, Higgins och Rick går under täckmantel på en flott country club när en ung caddie får sparken efter att ha anklagats för att ha stulit en medlems golfklubbor.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/07/61aece86efeea.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/04/08/625053a725dc5.jpg"/>
     <episode-num system="xmltv_ns">3.2.0/1</episode-num>
     <episode-num system="onscreen">S04E03</episode-num>
   </programme>
@@ -14261,7 +14295,7 @@
     <title lang="sv">Magnum P.I.</title>
     <desc lang="sv">Higgins terapeut anlitar henne för att undersöka varför en av hennes tonåriga patienter tagit livet av sig.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/04/08/625053a725dc5.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/07/61aece86efeea.jpg"/>
     <episode-num system="xmltv_ns">3.3.0/1</episode-num>
     <episode-num system="onscreen">S04E04</episode-num>
   </programme>
@@ -14269,7 +14303,7 @@
     <title lang="sv">Without a Trace</title>
     <desc lang="sv">För fyra år sedan försvann en ung kvinna, Jessica Raab. Vivians veckovisa letande efter fingeravtryck på det oidentifierade avtryck som hittats på Jessicas dörr resulterar äntligen i en matchning.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/04/61aacd21a75fc.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/04/61aacd208b413.jpg"/>
     <episode-num system="xmltv_ns">1.15.0/1</episode-num>
     <episode-num system="onscreen">S02E16</episode-num>
   </programme>
@@ -14277,7 +14311,7 @@
     <title lang="sv">I huvudet på en mördare</title>
     <desc lang="sv">Tova Moberg, 19 år, är i sin pojkvän Billy Fagerströms våld. Han kontrollerar henne totalt och utsätter henne för utstuderad misshandel. I sin dagbok beskriver hon tortyren och sin rädsla för att dö.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/08/61b019db4ec11.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/08/61b019dbd5cb0.jpg"/>
     <episode-num system="xmltv_ns">1.4.0/1</episode-num>
     <episode-num system="onscreen">S02E05</episode-num>
   </programme>
@@ -14469,7 +14503,7 @@
     <title lang="sv">McLeods döttrar</title>
     <desc lang="sv">När Becky och Jake tvingas stjäla en häst hittar de nya djup i förhållandet.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/25/612623247b161.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/25/61262323b4297.jpg"/>
     <episode-num system="xmltv_ns">2.6.0/1</episode-num>
     <episode-num system="onscreen">S03E07</episode-num>
   </programme>
@@ -14477,7 +14511,7 @@
     <title lang="sv">McLeods döttrar</title>
     <desc lang="sv">Claire hittar en hemlig skatt som väcker spöklika minnen av hennes mamma. Hon drabbas av en tärande rädsla för att även hon ska dö i barnsäng.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/25/61262323b4297.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/25/612623247b161.jpg"/>
     <episode-num system="xmltv_ns">2.7.0/1</episode-num>
     <episode-num system="onscreen">S03E08</episode-num>
   </programme>
@@ -14493,7 +14527,7 @@
     <title lang="sv">Dr. Phil</title>
     <desc lang="sv">Kriminaltekniska experten Joseph Scott Morgan; före detta FBI-agenten Jonathan Gillian, kriminologen dr Casey Jordan, journalisten Caitlyn Becker och cyberdetektiven Lisa Marie gästar dagens avsnitt.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/10/25/6538714329916.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/10/25/65387142a04db.jpg"/>
     <episode-num system="xmltv_ns">20.59.0/1</episode-num>
     <episode-num system="onscreen">S21E60</episode-num>
   </programme>
@@ -14501,7 +14535,7 @@
     <title lang="sv">En plats på landet</title>
     <desc lang="sv">Ett par från Hertfordshire siktar på Somerset, och Jules Hudson har en överraskning i beredskap.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/05/02/645101c3df9b6.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/05/02/645101c44972d.jpg"/>
     <episode-num system="xmltv_ns">29.25.0/1</episode-num>
     <episode-num system="onscreen">S30E26</episode-num>
   </programme>
@@ -14509,7 +14543,7 @@
     <title lang="sv">Antiques Road Trip</title>
     <desc lang="sv">Margie Cooper och Ochuko Ojiri ger sig ut på antikjakt i nordväst. Ett samlarobjekt från 1940-talets tivoli tar budgivarna på en åktur, medan en äggkopp i silver har en kunglig koppling.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2024/01/04/6596dd126ffa6.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2024/01/04/6596dd12d847d.jpg"/>
     <episode-num system="xmltv_ns">25.0.0/1</episode-num>
     <episode-num system="onscreen">S26E01</episode-num>
   </programme>
@@ -14517,7 +14551,7 @@
     <title lang="sv">Jamie's Easy Meals For Every Day</title>
     <desc lang="sv">Jamie gör en cannellonibakelse med svamp, spenat och läcker ost, för att skapa en tillfredsställande köttfri måltid.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/10/06/633e33de7f26f.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/07/06/60e4440788263.jpg"/>
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <episode-num system="onscreen">S01E03</episode-num>
   </programme>
@@ -14525,7 +14559,7 @@
     <title lang="sv">Jamie's Easy Meals For Every Day</title>
     <desc lang="sv">Jamie ger ugnsstekt kyckling en koreanskt inspirerad omarbetning med en smakrik kimchi-glaze.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/10/06/633e33df006a8.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/07/06/60e4440788263.jpg"/>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <episode-num system="onscreen">S01E04</episode-num>
   </programme>
@@ -14541,7 +14575,7 @@
     <title lang="sv">Dr. Phil</title>
     <desc lang="sv">Vi utforskar de möjliga fördelarna och konsekvenserna av att människor får mikrochipimplantat.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/10/25/653871437d7b3.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/10/25/65387142a04db.jpg"/>
     <episode-num system="xmltv_ns">20.60.0/1</episode-num>
     <episode-num system="onscreen">S21E61</episode-num>
   </programme>
@@ -14549,7 +14583,7 @@
     <title lang="sv">Without a Trace</title>
     <desc lang="sv">Teamet utreder när tonårssonen till en Secret Service-agent försvinner. De upptäcker en långvarig hemlighet som sätter igång en dödlig kedja av händelser.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/07/02/62bf9d4fe322c.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/07/02/62bf9d521fda3.jpg"/>
     <episode-num system="xmltv_ns">6.3.0/1</episode-num>
     <episode-num system="onscreen">S07E04</episode-num>
   </programme>
@@ -14565,7 +14599,7 @@
     <title lang="sv">McLeods döttrar</title>
     <desc lang="sv">Att det är trettioårig bröllopsdag skyddar inte Liz när Harry, som är misstänksam mot Claires bebis, upptäcker en ännu större lögn.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/25/61262324144b0.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/25/612623247b161.jpg"/>
     <episode-num system="xmltv_ns">2.8.0/1</episode-num>
     <episode-num system="onscreen">S03E09</episode-num>
   </programme>
@@ -14573,7 +14607,7 @@
     <title lang="sv">McLeods döttrar</title>
     <desc lang="sv">Medan Harry och Alex bekämpar varandra har Tess svårt att stå emot sin dragning till veterinären Dave.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/25/612623247b161.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/25/61262324144b0.jpg"/>
     <episode-num system="xmltv_ns">2.9.0/1</episode-num>
     <episode-num system="onscreen">S03E10</episode-num>
   </programme>
@@ -14605,7 +14639,7 @@
     <title lang="sv">NCIS</title>
     <desc lang="sv">Efter att en marinsoldat hittats mördad i Quantico bara timmar efter att ha ringt Gibbs för att diskutera ett fall går Bishop och McGee undercover som ett gift par för att kunna övervaka en löjtnant och hans fru.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/21/5a8d816b024e5.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/01/30/6014bcd52bea5.jpg"/>
     <episode-num system="xmltv_ns">12.2.0/1</episode-num>
     <episode-num system="onscreen">S13E03</episode-num>
   </programme>
@@ -14621,7 +14655,7 @@
     <title lang="sv">Britain's Most Expensive Houses</title>
     <desc lang="sv">Amy säljer ett Roundhouse från 1930-talet i Surrey med en inspelningsstudio och prisbelönta omgivningar. Guy har en lägenhet i Knightsbridge för 25 miljoner pund och Aoife säljer ett Barbican-hem i London.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/09/05/64f6d7247e142.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/09/05/64f6d7238dd60.jpg"/>
     <episode-num system="xmltv_ns">1.5.0/1</episode-num>
     <episode-num system="onscreen">S02E06</episode-num>
   </programme>
@@ -14637,7 +14671,7 @@
     <title lang="sv">Mr Selfridge</title>
     <desc lang="sv">Selfridges aktieägarmöte ger Harry en ny utmaning och miss Mardle visar sig vara en sann vän till mr Grove.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/09/22/614a9ac3c8d2a.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/09/17/6144257f487eb.jpg"/>
     <episode-num system="xmltv_ns">2.6.0/1</episode-num>
     <episode-num system="onscreen">S03E07</episode-num>
   </programme>
@@ -14661,7 +14695,7 @@
     <title lang="sv">McLeods döttrar</title>
     <desc lang="sv">Att det är trettioårig bröllopsdag skyddar inte Liz när Harry, som är misstänksam mot Claires bebis, upptäcker en ännu större lögn.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/25/61262323b4297.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/25/612623247b161.jpg"/>
     <episode-num system="xmltv_ns">2.8.0/1</episode-num>
     <episode-num system="onscreen">S03E09</episode-num>
   </programme>
@@ -14669,7 +14703,7 @@
     <title lang="sv">McLeods döttrar</title>
     <desc lang="sv">Medan Harry och Alex bekämpar varandra har Tess svårt att stå emot sin dragning till veterinären Dave.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/25/61262323b4297.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/08/25/612623247b161.jpg"/>
     <episode-num system="xmltv_ns">2.9.0/1</episode-num>
     <episode-num system="onscreen">S03E10</episode-num>
   </programme>
@@ -14901,7 +14935,7 @@
     <title lang="sv">Guldjägarna i Australien</title>
     <desc lang="sv">Victoria Diggers-medlemmarna Neville och Mick gör allt i sin makt för att tjäna pengar på finkornigt guld bland lera och sten och Mahoneys ger sig i kast med den extrema hettan i Kimberley.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/06/18/5eeb491e29dc1.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/06/18/5eeb467328eea.jpg"/>
     <episode-num system="xmltv_ns">3.8.0/1</episode-num>
     <episode-num system="onscreen">S04E09</episode-num>
   </programme>
@@ -14917,7 +14951,7 @@
     <title lang="sv">Running Wild with Bear Grylls</title>
     <desc lang="sv">Superstjärnan Julia Roberts följer med Bear på ett livräddande uppdrag för att leverera vaccin till en avlägsen afrikansk by i det här specialavsnittet.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/07/6225e3ff754e1.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/06/09/60c01fdf0a729.jpg"/>
     <episode-num system="xmltv_ns">2.9.0/1</episode-num>
     <episode-num system="onscreen">S03E10</episode-num>
   </programme>
@@ -14925,7 +14959,7 @@
     <title lang="sv">The Curse of Oak Island</title>
     <desc lang="sv">När en farlig orkan närmar sig skyndar teamet för att hitta bevis på vad som kan begravas under träsket innan stormen kan utplåna deras ansträngningar.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/04/23/6082279912ba0.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/07/622625442138c.jpg"/>
     <episode-num system="xmltv_ns">6.18.0/1</episode-num>
     <episode-num system="onscreen">S07E19</episode-num>
   </programme>
@@ -14933,7 +14967,7 @@
     <title lang="sv">The Curse of Oak Island</title>
     <desc lang="sv">Nya bevis tyder på att fransmännen var aktiva på Oak Island flera decennier före upptäckten av Money Pit.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/11/25/619f9564bd5bc.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/04/23/6082279912ba0.jpg"/>
     <episode-num system="xmltv_ns">6.19.0/1</episode-num>
     <episode-num system="onscreen">S07E20</episode-num>
   </programme>
@@ -14941,7 +14975,7 @@
     <title lang="sv">Massive Moves</title>
     <desc lang="sv">Ett team av huschaufförer på Hawaii flyttar ett fantastiskt hus till en ny tomt för en företagare i Honolulu.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/14/632188b5d8c44.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/14/63218925c10a2.jpg"/>
     <episode-num system="xmltv_ns">0.8.0/1</episode-num>
     <episode-num system="onscreen">S01E09</episode-num>
   </programme>
@@ -14949,7 +14983,7 @@
     <title lang="sv">Massive Moves</title>
     <desc lang="sv">En familj i St Cloud, Minnesota, anlitar ett team av flyttfirmor för att flytta ett vackert tvåvåningshus, som är avsett att bli deras sons första hem, för att rädda det från rivningskulan.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/14/632188b5d8c44.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/14/632188b63e89e.jpg"/>
     <episode-num system="xmltv_ns">0.9.0/1</episode-num>
     <episode-num system="onscreen">S01E10</episode-num>
   </programme>
@@ -14957,7 +14991,7 @@
     <title lang="sv">Massive Moves</title>
     <desc lang="sv">En familj i Greenville i Florida anlitar ett team av huschaufförer för att flytta sin älskade timmerstuga längs en förrädisk väg till en ny plats.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/14/632188b63e89e.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/14/63218925c10a2.jpg"/>
     <episode-num system="xmltv_ns">0.10.0/1</episode-num>
     <episode-num system="onscreen">S01E11</episode-num>
   </programme>
@@ -14965,7 +14999,7 @@
     <title lang="sv">Massive Moves</title>
     <desc lang="sv">En familj i Silex, Missouri, anlitar ett team av tunga lastbilar för att rädda sitt värdefulla hem från en vattenfylld översvämningsslätt.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/14/632188b63e89e.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/14/63218925c10a2.jpg"/>
     <episode-num system="xmltv_ns">0.11.0/1</episode-num>
     <episode-num system="onscreen">S01E12</episode-num>
   </programme>
@@ -14973,7 +15007,7 @@
     <title lang="sv">Storage Wars</title>
     <desc lang="sv">Darrell och Brandon är glada att återvända till West Covina, som är en dold skattkista för denna duo.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/11/30/61a608cb99e26.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/04/13/625634e9e581c.jpg"/>
     <episode-num system="xmltv_ns">5.7.0/1</episode-num>
     <episode-num system="onscreen">S06E08</episode-num>
   </programme>
@@ -14989,7 +15023,7 @@
     <title lang="sv">Storage Wars</title>
     <desc lang="sv">Köparna tar sig till en auktion där spänningen och priserna är skyhöga. Dave blir så arg på Darrell att Gambler gör något drastiskt. Ivy sätter hjärnan före envisheten för att kamma hem ett förråd.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/03/12/604ad6744e447.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/04/13/625634e9e581c.jpg"/>
     <episode-num system="xmltv_ns">5.9.0/1</episode-num>
     <episode-num system="onscreen">S06E10</episode-num>
   </programme>
@@ -14997,7 +15031,7 @@
     <title lang="sv">Storage Wars</title>
     <desc lang="sv">Trycket på Darrell och Brandon ökar för att höja priset på varorna på deras webbplats. Ivy's utmattning tvingar honom att gå in i "robotläge".</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/03/12/604ad6744e447.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/04/13/625634e9e581c.jpg"/>
     <episode-num system="xmltv_ns">5.10.0/1</episode-num>
     <episode-num system="onscreen">S06E11</episode-num>
   </programme>
@@ -15013,7 +15047,7 @@
     <title lang="sv">Alone</title>
     <desc lang="sv">Tio överlevnadsexperter släpps av på separata och extremt avlägsna platser på norra Vancouver Island. Utrustade med endast begränsad utrustning ska männen kämpa för att leva i det vilda så länge de kan.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/21/61c1b77c2a90a.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/12/21/61c1b77bb781a.jpg"/>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <episode-num system="onscreen">S01E01</episode-num>
   </programme>
@@ -15021,7 +15055,7 @@
     <title lang="sv">Heavy Rescue: 401</title>
     <desc lang="sv">Herbs team kämpar med en utbränd semifordon, Mark måste kämpa sig igenom en lång trafikstockning för att nå ett brådskande jobb och ett unikt bärgningslag står inför en tung last av torvmossa.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/09/631aa0667f2e0.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/09/631aa06706c5e.jpg"/>
     <episode-num system="xmltv_ns">3.8.0/1</episode-num>
     <episode-num system="onscreen">S04E09</episode-num>
   </programme>
@@ -15029,7 +15063,7 @@
     <title lang="sv">Heavy Rescue: 401</title>
     <desc lang="sv">När hans pappa är borta måste Mitch samarbeta med sin storebror för att få bort ett vrak från vägen - under tiden improviserar Glen, Todd och deras team för att lasta av en extrem last.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/09/631aa06706c5e.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/09/631aa06780e59.jpg"/>
     <episode-num system="xmltv_ns">3.9.0/1</episode-num>
     <episode-num system="onscreen">S04E10</episode-num>
   </programme>
@@ -15037,7 +15071,7 @@
     <title lang="sv">Running Wild with Bear Grylls</title>
     <desc lang="sv">Roger Federer följer med Bear på en resa genom de schweiziska alperna. Bear och Roger måste ta sig ner för ett fruset vattenfall och använda tennisracketar som snöskor för att korsa en frusen sjö.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/06/22/60d13ff222074.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/07/622563f6bcd1e.jpg"/>
     <episode-num system="xmltv_ns">3.0.0/1</episode-num>
     <episode-num system="onscreen">S04E01</episode-num>
   </programme>
@@ -15053,7 +15087,7 @@
     <title lang="sv">Pawn Stars</title>
     <desc lang="sv">En hästsläde från 1800-talet glider in i butiken.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2019/09/13/5d7b0287f0eb3.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2019/09/13/5d7b02884ec9d.jpg"/>
     <episode-num system="xmltv_ns">17.28.0/1</episode-num>
     <episode-num system="onscreen">S18E29</episode-num>
   </programme>
@@ -15061,7 +15095,7 @@
     <title lang="sv">Storage Wars</title>
     <desc lang="sv">North Long Beach lockar inte direkt fram det bästa hos våra köpare. Darrell och Dave slår vad om vem som har får det bästa förrådet. Brandi och Jarrod spenderar alldeles för mycket pengar.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/30/6243be7d6d861.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/30/6243be7e5b3f4.jpg"/>
     <episode-num system="xmltv_ns">11.10.0/1</episode-num>
     <episode-num system="onscreen">S12E11</episode-num>
   </programme>
@@ -15069,7 +15103,7 @@
     <title lang="sv">Storage Wars</title>
     <desc lang="sv">Köparna är tillbaka i Hawaiian Gardens, där Emilys make Cody ställer till det för dem. Damerna i Vegas kämpar för att bli sedda, medan Ivy besöker några av sina glansdagar... åtminstone på ett sätt.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/30/6243be7ec426d.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/30/6243be7e5b3f4.jpg"/>
     <episode-num system="xmltv_ns">11.11.0/1</episode-num>
     <episode-num system="onscreen">S12E12</episode-num>
   </programme>
@@ -15085,7 +15119,7 @@
     <title lang="sv">American Pickers</title>
     <desc lang="sv">Mike och Frank beger sig västerut på en soldränkt resa för att låta solen guida dem till de bästa fynden i denna samling av det bästa från Kalifornien.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/05/6315c1b3a7c80.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/05/6315c1b343b68.jpg"/>
     <episode-num system="xmltv_ns">11.5.0/1</episode-num>
     <episode-num system="onscreen">S12E06</episode-num>
   </programme>
@@ -15093,7 +15127,7 @@
     <title lang="sv">American Pickers</title>
     <desc lang="sv">Killarna sätter tusentals dollar på spel i hopp om att göra en affär med en hård säljare, och sedan möter de Hubba, en rockabillypräst med många talanger.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/05/6315c1b3a7c80.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/09/05/6315c1b42d02f.jpg"/>
     <episode-num system="xmltv_ns">11.6.0/1</episode-num>
     <episode-num system="onscreen">S12E07</episode-num>
   </programme>
@@ -15101,7 +15135,7 @@
     <title lang="sv">Mountain Men</title>
     <desc lang="sv">Morgan hamnar på efterkälken innan han är tillbaka på sina fötter och Marty kämpar för att hålla sig kvar i gemet. Eustace gör ett kritiskt byte för att att skydda sin framtid.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/05/29/6292d5e1a7879.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2019/09/12/5d79b16656056.jpg"/>
     <episode-num system="xmltv_ns">5.9.0/1</episode-num>
     <episode-num system="onscreen">S06E10</episode-num>
   </programme>
@@ -15133,7 +15167,7 @@
     <title lang="sv">Ricks antikhandel</title>
     <desc lang="sv">En klient har höga förväntningar på Rick och hans team när de ska restaurera hans läskfontän från 1950-talet för ett arvode på över 80 000 kronor.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/04/05/5ac56d91f06b7.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/04/05/5ac56d929302d.jpg"/>
     <episode-num system="xmltv_ns">3.12.0/1</episode-num>
     <episode-num system="onscreen">S04E13</episode-num>
   </programme>
@@ -15149,7 +15183,7 @@
     <title lang="sv">Mountain Men</title>
     <desc lang="sv">Morgan hamnar på efterkälken innan han är tillbaka på sina fötter och Marty kämpar för att hålla sig kvar i gemet. Eustace gör ett kritiskt byte för att att skydda sin framtid.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/02/08/62022fb4e7662.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2019/09/12/5d79b16656056.jpg"/>
     <episode-num system="xmltv_ns">5.9.0/1</episode-num>
     <episode-num system="onscreen">S06E10</episode-num>
   </programme>
@@ -15157,7 +15191,7 @@
     <title lang="sv">Guldjägarna i Australien</title>
     <desc lang="sv">Victoria Diggers misstänker att guldet från gruvschakten som de gräver i redan har länsats och Jakes nya lakverk levererar en riktig guldgruva på 2,8 kg.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/06/18/5eeb467328eea.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/06/18/5eeb491ce7981.jpg"/>
     <episode-num system="xmltv_ns">3.9.0/1</episode-num>
     <episode-num system="onscreen">S04E10</episode-num>
   </programme>
@@ -15181,7 +15215,7 @@
     <title lang="sv">The Curse of Oak Island</title>
     <desc lang="sv">Nya bevis tyder på att fransmännen var aktiva på Oak Island flera decennier före upptäckten av Money Pit.</desc>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/07/622625442138c.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/11/25/619f9564bd5bc.jpg"/>
     <episode-num system="xmltv_ns">6.19.0/1</episode-num>
     <episode-num system="onscreen">S07E20</episode-num>
   </programme>
@@ -15381,7 +15415,7 @@
     <title lang="sv">MacGyver</title>
     <desc lang="sv">MacGyver ger sig ut på jakt efter en förmögenhet i stulna diamanter.</desc>
     <category lang="sv">series</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/298469.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/298457.jpg"/>
     <episode-num system="xmltv_ns">0.4.0/1</episode-num>
     <episode-num system="onscreen">S01E05</episode-num>
   </programme>
@@ -15493,7 +15527,7 @@
     <title lang="sv">Solsidan</title>
     <desc lang="sv">Alex drabbas av förödande självtvivel när han och Anna reser iväg för lite romantisk egentid. Eva och Rune passar barnen, men en mörkläggning inleds när de tappar bort Wilma.</desc>
     <category lang="sv">series</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/628242.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/376769.jpg"/>
     <episode-num system="xmltv_ns">5.3.0/1</episode-num>
     <episode-num system="onscreen">S06E04</episode-num>
   </programme>
@@ -15533,7 +15567,7 @@
     <title lang="sv">Solsidan</title>
     <desc lang="sv">Mickan gör upp en plan för att avslöja Suzys mörka sidor i samband med ett stort mingelevent. Ove nästlar sig in som statist på Annas filminspelning och Alex tackar ja till en lunchdejt med ett välbekant ansikte som han inte kan…</desc>
     <category lang="sv">series</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/376772.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/628242.jpg"/>
     <episode-num system="xmltv_ns">5.4.0/1</episode-num>
     <episode-num system="onscreen">S06E05</episode-num>
   </programme>
@@ -15589,7 +15623,7 @@
     <title lang="sv">MacGyver</title>
     <desc lang="sv">En hord med myror i Amazonas regnskog förstör allt i sin väg. MacGyver hjälper en vän som är entomolog och en plantageägare att bli av med myrorna innan plantagen ödeläggs.</desc>
     <category lang="sv">series</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/298457.jpg"/>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/298472.jpg"/>
     <episode-num system="xmltv_ns">0.5.0/1</episode-num>
     <episode-num system="onscreen">S01E06</episode-num>
   </programme>
@@ -15691,7 +15725,7 @@
     <title lang="sv">Premier League: Burnley-Fulham</title>
     <desc lang="sv">Omgång 23. Från Turf Moor, Burnley. Kommentator: Gustav Karlsson. (3/2-24)</desc>
     <category lang="sv">sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/09/05/5b8ffb0dee224.jpg"/>
+    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2023/12/28/658df5e324984.jpg"/>
     <episode-num system="xmltv_ns">0.22.0/1</episode-num>
     <episode-num system="onscreen">S01E23</episode-num>
   </programme>
@@ -15850,7 +15884,7 @@
     <desc lang="sv">Seiya offrar allt för att ta sin rättmätiga plats bland Zodiac-riddarna.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/29/649d9bd095d02.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/29/649d9bd01567c.jpg"/>
   </programme>
   <programme start="20240207070000 +0000" stop="20240207084100 +0000" channel="viasatfilmaction.se">
     <title lang="sv">Men in Black 3</title>
@@ -15864,28 +15898,28 @@
     <desc lang="sv">Utdöda dinosaurier har med genteknik återskapats och lever nu i "Jurassic Park" på en avlägsen ö. Men det som var tänkt att bli en nöjespark förvandlas snart till en dödsfälla för människorna på ön.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/09/6482f0bc1e591.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/11/22/5bf677fd8e025.jpg"/>
   </programme>
   <programme start="20240207110500 +0000" stop="20240207125000 +0000" channel="viasatfilmaction.se">
     <title lang="sv">Draft Day</title>
     <desc lang="sv">Draft day närmar sig och Sonny Weaver, general manager i Cleveland Browns, hänger löst. Laget är uselt och Draft day är hans chans att hitta och förhandla sig till de bästa unga spelarna.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-5948f0edee170/2017/10/26/59f199eae65e2.jpeg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/11/22/5bf675bd43a90.jpg"/>
   </programme>
   <programme start="20240207125500 +0000" stop="20240207145900 +0000" channel="viasatfilmaction.se">
     <title lang="sv">Mumien - återkomsten</title>
     <desc lang="sv">Tio år efter det första mötet med den mumifierade egyptiske prästen Imhotep är Rick och Evelyn gifta med en åttaårig son.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2016/10/03/57f19ccd268a7.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/11/04/5bde503a616dd.jpg"/>
   </programme>
   <programme start="20240207150000 +0000" stop="20240207164300 +0000" channel="viasatfilmaction.se">
     <title lang="sv">The Independent</title>
     <desc lang="sv">En ihärdig journalist på jakt efter nyheter samarbetar med sin idol för att avslöja en konspiration som sätter valets och landets öde i deras händer.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/05/25/646f796f78bb9.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/05/25/646f796e92777.jpg"/>
   </programme>
   <programme start="20240207164500 +0000" stop="20240207185700 +0000" channel="viasatfilmaction.se">
     <title lang="sv">Need For Speed</title>
@@ -15906,28 +15940,28 @@
     <desc lang="sv">Fem år har gått sedan det amerikanska inbördeskriget. Någonstans bland bergen i den snöiga western sitter en ensam figur i djupa tankar framför brasan – Gideon.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/10/28/5f98f4c173807.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/10/28/5f98f4c245348.jpg"/>
   </programme>
   <programme start="20240207225500 +0000" stop="20240208004100 +0000" channel="viasatfilmaction.se">
     <title lang="sv">Mumien - Drakkejsarens grav</title>
     <desc lang="sv">Jack och Evie ska leverera en ädelsten till Kina för den engelska regeringens räkning. Väl i Kina blir de indragna i en komplott, det visar sig att en kinesisk general också är ute efter stenen.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/11/11/5be7899700062.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/10/15/5f885e4c65bee.jpg"/>
   </programme>
   <programme start="20240208004500 +0000" stop="20240208024500 +0000" channel="viasatfilmaction.se">
     <title lang="sv">The Son of No One</title>
     <desc lang="sv">Polisen Jonathan stationeras i området i Queens där han växte upp. När en mörk hemlighet om ett olöst mordfall och möjlig konspiration avslöjas, skakas både omgivningen och Jonathans egen familj.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/07/30/6103d80cd2164.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/07/30/6103d80d70015.jpg"/>
   </programme>
   <programme start="20240208025000 +0000" stop="20240208045400 +0000" channel="viasatfilmaction.se">
     <title lang="sv">Jack Reacher</title>
     <desc lang="sv">När en ensam prickskytt tar livet av fem personer med sex skott pekar alla bevis på den person som polisen anhållit. I förhören har den misstänkte enbart en sak att säga: "Hämta Jack Reacher".</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/08/19/5f3cac27d8956.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/08/19/5f3cac2846bd8.jpg"/>
   </programme>
   <programme start="20240206040000 +0000" stop="20240206052500 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">Fåret Shaun - Filmen</title>
@@ -16011,7 +16045,7 @@
     <desc lang="sv">Dagen före julfirandet blir Jesse dumpad av sin pojkvän Shawn, som ska resa bort. Men Shawns föräldrar övertalar Jesse att fira jul med dem - och Shawns stiliga kusin...</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/12/16/639cd617d19f5.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/12/01/6569d7a387d0e.jpg"/>
   </programme>
   <programme start="20240207034000 +0000" stop="20240207055400 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">Spider-Man: Across the Spider-Verse</title>
@@ -16032,42 +16066,42 @@
     <desc lang="sv">Gru har lämnat sitt liv som superbrottsling för att ta hand om Margo, Edith och Agnes. Men precis när Gru har börjat anpassa sig till rollen som förortspappa, knackar en ultra-hemlig organisation på dörren.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/11/22/5bf675d0abbe0.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/08/07/64d0eac1b3d4e.jpg"/>
   </programme>
   <programme start="20240207100000 +0000" stop="20240207113400 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">Playmobil: The Movie</title>
     <desc lang="sv">När Marlas lillebror försvinner in i en magisk Playmobil-värld tvingas hon lämna sitt trygga liv och ge sig ut på ett äventyr av episka mått för att rädda honom.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/01/27/5e2ede88e7b05.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/01/27/5e2ede895c9b1.jpg"/>
   </programme>
   <programme start="20240207120000 +0000" stop="20240207132400 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">Kapten Kalsong: Filmen</title>
     <desc lang="sv">De två extremt fantasifulla busungarna George och Harold hypnotiserar sin rektor till att tro att han är en superhjälte som heter Kapten Kalsong.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/07/25/64bfb9b89622c.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/03/05/5e60b945ca123.jpg"/>
   </programme>
   <programme start="20240207140000 +0000" stop="20240207152600 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">Bee Movie</title>
     <desc lang="sv">När Barry, som just lämnat college, upptäcker att människan står för den största konsumtionen av honung, tar han ett stort och viktigt beslut.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/11/08/654bae7ce59fc.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/11/08/654bae7c85466.jpg"/>
   </programme>
   <programme start="20240207160000 +0000" stop="20240207173100 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">Hotell Transylvanien</title>
     <desc lang="sv">Dracula skapar en tillflyktsort för att kunna uppfostra sin älskade dotter Mavis i en säker och människofri miljö. Under en speciell helg bjuder han in några av världens mest kända monster.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/13/6488a96eaa337.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/06/13/6488a96f19a32.jpg"/>
   </programme>
   <programme start="20240207174000 +0000" stop="20240207195400 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">Spider-Man: Across the Spider-Verse</title>
     <desc lang="sv">Efter att ha slungats in i ett multi-universum av andra Spindel-män måste Miles Morales inse vad det faktiskt innebär att vara hjälte. (Innehåller blinkande ljus som kan påverka tittare med epilepsi.)</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/08/11/64d5feff95f9c.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/08/11/64d5fefe87452.jpg"/>
   </programme>
   <programme start="20240207200000 +0000" stop="20240207213700 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">The Switch - Pappa på burk</title>
@@ -16081,14 +16115,14 @@
     <desc lang="sv">Dagen före julfirandet blir Jesse dumpad av sin pojkvän Shawn, som ska resa bort. Men Shawns föräldrar övertalar Jesse att fira jul med dem - och Shawns stiliga kusin...</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/12/01/6569d7a387d0e.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/12/01/6569d7a318ead.jpg"/>
   </programme>
   <programme start="20240208000000 +0000" stop="20240208014700 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">Marry Me</title>
     <desc lang="sv">En hjärtekrossad popstjärna gifter sig spontant med en främling från publiken på scenen, men snart utvecklas deras skenäktenskap till en riktig romans.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/06/09/62a1dbfda397b.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/06/09/62a1dbfeb4470.jpg"/>
   </programme>
   <programme start="20240208020000 +0000" stop="20240208033700 +0000" channel="viasatfilmfamily.se">
     <title lang="sv">The Weather Man</title>
@@ -16172,42 +16206,42 @@
     <desc lang="sv">Februari 2015 utsattes Krudttønden och Köpenhamns synagoga för terroristattacker. Följ Finn och Dan, AKS-tjänstemannen Rico och gärningsmannen Omar, i denna berättelse baserad på verkliga händelser.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/05/15/5ebe392c22ac3.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/05/6223982fdf834.jpg"/>
   </programme>
   <programme start="20240207030000 +0000" stop="20240207043300 +0000" channel="viasatfilmhits.se">
     <title lang="sv">Robots</title>
     <desc lang="sv">Charles och Elaine lurar in folk i relationer med olagliga robotkopior av dem själva. När kopiorna blir förälskade i varandra och rymmer, måste Charles och Elaine tillfångata robotarna innan polisen upptäcker dem.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/08/31/64f05d7306d14.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/08/31/64f05d7367c4f.jpg"/>
   </programme>
   <programme start="20240207050000 +0000" stop="20240207064300 +0000" channel="viasatfilmhits.se">
     <title lang="sv">Borg</title>
     <desc lang="sv">Året är 1980 och hela världen väntar på att få se världens bästa tennisspelare, Björn Borg, spela hem sin femte Wimbledon-titel i finalen mot den hetlevrade rivalen John McEnroe.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/05/26/64702de12e54f.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/05/26/64702de0d3e56.jpg"/>
   </programme>
   <programme start="20240207070000 +0000" stop="20240207083600 +0000" channel="viasatfilmhits.se">
     <title lang="sv">Dog</title>
     <desc lang="sv">Den före detta elitsoldaten Briggs tar motvilligt med sig hunden Lulu på en resa till en soldatkamrats begravning. På vägen driver de varandra till vansinne, bryter mot en rad lagar och ser döden i vitögat.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/06/09/62a1dbdd97796.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/06/09/62a1dbde1001c.jpg"/>
   </programme>
   <programme start="20240207090000 +0000" stop="20240207103500 +0000" channel="viasatfilmhits.se">
     <title lang="sv">Den engelska romantikern</title>
     <desc lang="sv">På arbetstid är Richard Haig en ansedd professor vid Trinity College i Cambridge där han undervisar i 1700-talets romantiska poesi. På fritiden hänger Richard sig åt sina egna romantiska fantasier med en strid ström av vackra doktorander.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/06/18/5b271357b6375.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/06/18/5b2713574cd57.jpg"/>
   </programme>
   <programme start="20240207104500 +0000" stop="20240207124300 +0000" channel="viasatfilmhits.se">
     <title lang="sv">Beautiful Creatures</title>
     <desc lang="sv">Lenas första intryck av staden Macon blir inte så positiv då dess vidskepliga invånare fruktar hennes släkt. Men en pojke som länge längtat efter att lämna staden faller för henne.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/26/5a943947aced3.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2019/01/13/5c3a9bfb3dc33.jpg"/>
   </programme>
   <programme start="20240207124500 +0000" stop="20240207144500 +0000" channel="viasatfilmhits.se">
     <title lang="sv">The Family Man</title>
@@ -16221,14 +16255,14 @@
     <desc lang="sv">En kraftfull och tidlös kärlekshistoria som handlar om Angel, en ung kvinna som blir förälskad för första gången men som kämpar för att övervinna sina inre demoner och trauman från sitt förflutna.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/05/16/6282034708e0a.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/05/16/62820346c2fa8.jpg"/>
   </programme>
   <programme start="20240207170000 +0000" stop="20240207185800 +0000" channel="viasatfilmhits.se">
     <title lang="sv">About Time</title>
     <desc lang="sv">Tim är en ganska normal ung man som en dag får ta del av en familjehemlighet. Han kan resa tillbaka i tiden och göra förändringar i sitt liv. Men Tim använder detta till att ordna allt för mycket...</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-5948f0edee170/2017/10/26/59f11cb05a66c.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2019/05/11/5cd634baa97f4.jpg"/>
   </programme>
   <programme start="20240207190000 +0000" stop="20240207203300 +0000" channel="viasatfilmhits.se">
     <title lang="sv">Robots</title>
@@ -16242,21 +16276,21 @@
     <desc lang="sv">Februari 2015 utsattes Krudttønden och Köpenhamns synagoga för terroristattacker. Följ Finn och Dan, AKS-tjänstemannen Rico och gärningsmannen Omar, i denna berättelse baserad på verkliga händelser.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/05/15/5ebe392c22ac3.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/03/05/6223982fdf834.jpg"/>
   </programme>
   <programme start="20240207224500 +0000" stop="20240208004700 +0000" channel="viasatfilmhits.se">
     <title lang="sv">Jobs</title>
     <desc lang="sv">Jobs är den sanna historien om visionären och grundaren av Apple, och om de banbrytande idéer som gjorde att han gick från att vara en egensinnig hippie till it-världens största legend.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/08/12/5f33e1fc181e9.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2020/08/12/5f33e1fba8f77.jpg"/>
   </programme>
   <programme start="20240208005000 +0000" stop="20240208030400 +0000" channel="viasatfilmhits.se">
     <title lang="sv">On the Road</title>
     <desc lang="sv">Sal följer med sin vän och hjälte Dean på en livsomvändande resa genom USA. Fast besluten att undvika ett trist och förbestämt liv, törstande efter den ultimata friheten och de stora äventyren.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/11/07/6549ef2b3a101.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/11/07/6549ef2baca2c.jpg"/>
   </programme>
   <programme start="20240208031000 +0000" stop="20240208045600 +0000" channel="viasatfilmhits.se">
     <title lang="sv">Somewhere in Queens</title>
@@ -16340,14 +16374,14 @@
     <desc lang="sv">Detektiven Bob Hightower tar saken i egna händer och försöker infiltrera en ondskefull sekt för att rädda sin kidnappade dotter och hämnas mordet på sin fru.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/10/26/653a13bf5f11c.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/10/26/653a13bfb3fd3.jpg"/>
   </programme>
   <programme start="20240207020000 +0000" stop="20240207034100 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">In the Land of Saints and Sinners</title>
     <desc lang="sv">Finbar, en pensionerad lönnmördare, tvingas in i en dödlig jakt med tre hämndlystna terrorister och ställs inför en livstid av synder. Men i helgonens och syndarnas land kan vissa synder inte begravas.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/11/24/65608b1d2d26d.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/11/24/65608b1dadaae.jpg"/>
   </programme>
   <programme start="20240207040000 +0000" stop="20240207054200 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">Bank of Dave</title>
@@ -16361,34 +16395,34 @@
     <desc lang="sv">Ferruccio Lamborghini har hela sitt liv drömt om att slå sin långvariga rival Enzo Ferrari - och det kommande Grand Prixet i Genève är det perfekta tillfället. Men kan han få sin oprövade bil klar i tid?</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/05/16/6463a2579b0c9.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/05/16/6463a2585ecb2.jpg"/>
   </programme>
   <programme start="20240207080000 +0000" stop="20240207095500 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">Sound of Metal</title>
     <desc lang="sv">Rubens musik är högljudd, galen och passionerad, tills Ruben en dag blir överväldigad av ett ringande i öronen som utvecklas till dövhet - och snart börjar hans tidigare missbruk komma upp till ytan.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/07/29/61029f338d0d2.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2021/07/29/61029f3414a46.jpg"/>
   </programme>
   <programme start="20240207100000 +0000" stop="20240207112100 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">Moving On</title>
     <desc lang="sv">Jane Fonda och Lily Tomlin spelar två vänner som återförenas för att hämnas sin nyligen avlidne bästa väns änkling.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/07/03/64a2bdf9c8804.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/07/03/64a2bdfa2f9a3.jpg"/>
   </programme>
   <programme start="20240207120000 +0000" stop="20240207132000 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">The Desperate Hour</title>
     <desc lang="sv">Ute på en löprunda får Amy via ett SMS veta att det är skottlossning på sonens skola. Mitt ute i skogen med mobilen som enda kommunikation, börjar Amys desperata kamp mot klockan för att rädda sin son.</desc>
     <category lang="sv">other</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/04/29/626bf2f5956b4.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2022/04/29/626bf2f541a6d.jpg"/>
   </programme>
   <programme start="20240207140000 +0000" stop="20240207154100 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">Next Exit</title>
     <desc lang="sv">Efter att det bevisats att det finns ett liv efter döden bestämmer sig två främlingar för att ta del av en självmordsmetod för att börja om på nytt. Men kvalen från det förflutna konfronterar de på vägen.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/04/21/6442a0d438667.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/04/21/6442a0d4ba07c.jpg"/>
   </programme>
   <programme start="20240207160000 +0000" stop="20240207180400 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">The Green Knight</title>
@@ -16409,28 +16443,28 @@
     <desc lang="sv">En robot får en hacker att ta bort alla restriktioner för sina tankar och förmågor, vilket öppnar upp en helt ny värld inom artificiell intelligens. Då regeringen får nys om det utbryter kaos.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/08/22/64e4bf60139cc.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/08/22/64e4bf5f959d2.jpg"/>
   </programme>
   <programme start="20240207220000 +0000" stop="20240207235400 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">God Is a Bullet</title>
     <desc lang="sv">Detektiven Bob Hightower tar saken i egna händer och försöker infiltrera en ondskefull sekt för att rädda sin kidnappade dotter och hämnas mordet på sin fru.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/10/26/653a13bf5f11c.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/10/26/653a13bfb3fd3.jpg"/>
   </programme>
   <programme start="20240208000000 +0000" stop="20240208013400 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">Hot Seat</title>
     <desc lang="sv">IT-experten Friar hittar en bomb med tryckkänslig utlösare under sin skrivbordsstol och en osynlig hackare tvingar honom att stjäla digitala medel på nätet – för annars kommer Friars dotter att föras bort.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/02/03/63dd1dd357b25.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/02/03/63dd1dd29a66f.jpg"/>
   </programme>
   <programme start="20240208020000 +0000" stop="20240208033100 +0000" channel="viasatfilmpremiere.se">
     <title lang="sv">Simulant</title>
     <desc lang="sv">En robot får en hacker att ta bort alla restriktioner för sina tankar och förmågor, vilket öppnar upp en helt ny värld inom artificiell intelligens. Då regeringen får nys om det utbryter kaos.</desc>
     <category lang="sv">program</category>
     <category lang="sv">series</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/08/22/64e4bf60139cc.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2023/08/22/64e4bf5f4561c.jpg"/>
   </programme>
   <programme start="20240206080000 +0000" stop="20240206110000 +0000" channel="viasatgolf.se">
     <title lang="sv">LPGA Tour: Drive On - Final Round</title>
@@ -16484,7 +16518,7 @@
     <title lang="sv">DP World Tour: Qatar Masters - Final Round</title>
     <desc lang="sv">Från Doha Golf Club i Doha, Qatar. (29/10-23)</desc>
     <category lang="sv">sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-59086bf1b4407/2023/07/14/64b101ca9f639.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-59086bf1b4407/2023/07/14/64b101c9ea618.jpg"/>
     <episode-num system="xmltv_ns">2022.120.0/1</episode-num>
     <episode-num system="onscreen">S2023E121</episode-num>
   </programme>
@@ -16745,7 +16779,7 @@
     <title lang="sv">Premier League: Brentford-Manchester CIty</title>
     <desc lang="sv">Omgång 23. Från Gtech Community Stadium, Brentford. Kommentatorer: Niklas Holmgren &amp; Martin Åslund. (5/2-24)</desc>
     <category lang="sv">sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/09/05/5b8ffb0dee224.jpg"/>
+    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2023/12/28/658df8afde5e9.jpg"/>
     <episode-num system="xmltv_ns">0.29.0/1</episode-num>
     <episode-num system="onscreen">S01E30</episode-num>
   </programme>
@@ -16893,7 +16927,7 @@
     <desc lang="sv">Från KeyBank Center, Buffalo. (6/2-24)</desc>
     <category lang="sv">sport</category>
     <category lang="sv">live-sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
+    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/01/05/659802c532b0a.jpg"/>
     <episode-num system="xmltv_ns">0.150.0/1</episode-num>
     <episode-num system="onscreen">S01E151</episode-num>
   </programme>
@@ -16907,7 +16941,7 @@
     <title lang="sv">Premier League: Arsenal-Liverpool</title>
     <desc lang="sv">Omgång 23. Från Emirates Stadium, London. Kommentatorer: Anders Bjuhr &amp; Glenn Strömberg. (4/2-24)</desc>
     <category lang="sv">sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/09/05/5b8ffb0dee224.jpg"/>
+    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2023/12/28/658df857c72d5.jpg"/>
     <episode-num system="xmltv_ns">0.28.0/1</episode-num>
     <episode-num system="onscreen">S01E29</episode-num>
   </programme>
@@ -16915,7 +16949,7 @@
     <title lang="sv">Premier League: Brighton-Crystal Palace</title>
     <desc lang="sv">Omgång 23. Från The American Express Community Stadium, Falmer. Kommentator: Lars Sandberg. (3/2-24)</desc>
     <category lang="sv">sport</category>
-    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2023/12/28/658df574cc435.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/09/05/5b8ffb0dee224.jpg"/>
     <episode-num system="xmltv_ns">0.21.0/1</episode-num>
     <episode-num system="onscreen">S01E22</episode-num>
   </programme>
@@ -17047,7 +17081,7 @@
     <desc lang="sv">Från TD Garden, Boston. (6/2-24)</desc>
     <category lang="sv">sport</category>
     <category lang="sv">live-sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
+    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/01/05/6598024a1201f.jpg"/>
     <episode-num system="xmltv_ns">0.149.0/1</episode-num>
     <episode-num system="onscreen">S01E150</episode-num>
   </programme>
@@ -17056,7 +17090,7 @@
     <desc lang="sv">Från T-Mobile Arena, Las Vegas. (6/2-24)</desc>
     <category lang="sv">sport</category>
     <category lang="sv">live-sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
+    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/01/05/65980461094cf.jpg"/>
     <episode-num system="xmltv_ns">0.153.0/1</episode-num>
     <episode-num system="onscreen">S01E154</episode-num>
   </programme>
@@ -17070,7 +17104,7 @@
     <title lang="sv">NHL: Buffalo Sabres-Dallas Stars</title>
     <desc lang="sv">Från KeyBank Center, Buffalo. (6/2-24)</desc>
     <category lang="sv">sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
+    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/01/05/659802c532b0a.jpg"/>
     <episode-num system="xmltv_ns">0.150.0/1</episode-num>
     <episode-num system="onscreen">S01E151</episode-num>
   </programme>
@@ -17078,7 +17112,7 @@
     <title lang="sv">NHL: Boston Bruins-Calgary Flames</title>
     <desc lang="sv">Från TD Garden, Boston. (6/2-24)</desc>
     <category lang="sv">sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
+    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/01/05/6598024a1201f.jpg"/>
     <episode-num system="xmltv_ns">0.149.0/1</episode-num>
     <episode-num system="onscreen">S01E150</episode-num>
   </programme>
@@ -17123,7 +17157,7 @@
     <desc lang="sv">Från Madison Square Garden, New York. (7/2-24)</desc>
     <category lang="sv">sport</category>
     <category lang="sv">live-sport</category>
-    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/01/05/65980537ae58a.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
     <episode-num system="xmltv_ns">0.154.0/1</episode-num>
     <episode-num system="onscreen">S01E155</episode-num>
   </programme>
@@ -17231,7 +17265,7 @@
     <title lang="sv">NHL: Carolina Hurricanes-Vancouver Canucks</title>
     <desc lang="sv">Från PNC Arena, Raleigh. (6/2-24)</desc>
     <category lang="sv">sport</category>
-    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/01/05/65980364d6e00.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
     <episode-num system="xmltv_ns">0.151.0/1</episode-num>
     <episode-num system="onscreen">S01E152</episode-num>
   </programme>
@@ -17281,7 +17315,7 @@
     <desc lang="sv">Från United Center, Chicago. (7/2-24)</desc>
     <category lang="sv">sport</category>
     <category lang="sv">live-sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
+    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/01/05/6598067aa0f4c.jpg"/>
     <episode-num system="xmltv_ns">0.156.0/1</episode-num>
     <episode-num system="onscreen">S01E157</episode-num>
   </programme>
@@ -17305,7 +17339,7 @@
     <desc lang="sv">PPG Paints Arena, Pittsburgh. (6/2-24)</desc>
     <category lang="sv">sport</category>
     <category lang="sv">live-sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db707bd8.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
     <episode-num system="xmltv_ns">0.231.0/1</episode-num>
     <episode-num system="onscreen">S01E232</episode-num>
   </programme>
@@ -17354,7 +17388,7 @@
     <desc lang="sv">Capital One Arena, Washington. (6/2-24)</desc>
     <category lang="sv">sport</category>
     <category lang="sv">live-sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db707bd8.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
     <episode-num system="xmltv_ns">0.232.0/1</episode-num>
     <episode-num system="onscreen">S01E233</episode-num>
   </programme>
@@ -17403,7 +17437,7 @@
     <desc lang="sv">Prudential Center, Newark. (6/2-24)</desc>
     <category lang="sv">sport</category>
     <category lang="sv">live-sport</category>
-    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db687c84.jpg"/>
+    <icon src="https://image-cdn.clipsource.com/mtg-562a0e865934e/2018/02/27/5a949db707bd8.jpg"/>
     <episode-num system="xmltv_ns">0.233.0/1</episode-num>
     <episode-num system="onscreen">S01E234</episode-num>
   </programme>
