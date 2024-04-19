@@ -472,7 +472,7 @@
   </programme>
   <programme start="20240420033500 +0000" stop="20240420043700 +0000" channel="abcwabc.us">
     <title lang="en">Jimmy Kimmel Live!</title>
-    <desc lang="en">Emmy-winning funnyman Jimmy Kimmel serves up comedy bits and welcomes guests that include other comics, celebrities, athletes and musicians, as well as everyday people with unusual or compelling personal stories. Kimmel's family and friends take part in the festivities, including his Cousin Sal, Uncle Frank (until his death in 2011) and childhood friend Cleto Escobedo III, who leads the show's house band. Recurring segments include the FCC-pleasing This Week in Unnecessary Censorship in which they take TV clips and "bleep and blur things whether they need it or not," as Kimmel describes it. But it's too bad they consistently run out of time for Matt Damon's segment.</desc>
+    <desc lang="en">Actor Tom Hiddleston; actress Joey King; Phosphorescent performs.</desc>
     <category lang="en">Series</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p184869_b_v13_an.jpg?w=270&amp;h=360"/>
   </programme>
@@ -520,19 +520,19 @@
   </programme>
   <programme start="20240420163000 +0000" stop="20240420193000 +0000" channel="abcwabc.us">
     <title lang="en">United Football League</title>
-    <desc lang="en">From The Dome at America’s Center in Saint Louis, Mo.</desc>
+    <desc lang="en">The Battlehawks (2-1) host the Showboats (1-2) for a Week 4 showdown. Quarterback A.J. McCarron passed for one touchdown and rushed for another in the first quarter as St. Louis rolled to a second straight win, 31-24, over San Antonio on April 14.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p26676700_tb2_v13_ab.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240420193000 +0000" stop="20240420200000 +0000" channel="abcwabc.us">
     <title lang="en">NCAA Women's College Gymnastics Championship Preshow</title>
-    <desc lang="en">From Fort Worth, Texas.</desc>
+    <desc lang="en">Preview the upcoming NCAA Women's Gymnastics Championship. From Fort Worth, Texas.</desc>
     <category lang="en">Sports non-event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p26790311_b_v13_aa.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240420200000 +0000" stop="20240420220000 +0000" channel="abcwabc.us">
     <title lang="en">Women's College Gymnastics</title>
-    <desc lang="en">From Dickies Arena in Fort Worth, Texas.</desc>
+    <desc lang="en">National titles will be won at the NCAA Women's Gymnastics Championship. From Fort Worth, Texas.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p191293_b_v9_ad.jpg?w=270&amp;h=360"/>
   </programme>
@@ -1172,7 +1172,7 @@
   </programme>
   <programme start="20240420213000 +0000" stop="20240420220000 +0000" channel="ballysportswisconsin.us">
     <title lang="en">The Card Life</title>
-    <desc lang="en">A show dedicated to the hobby and business of sports card collecting.</desc>
+    <desc lang="en">This month, former Heisman Trophy winner Ricky Williams talks about his favorite cards from his career; how a collector "traded up" from a $1 card to a collection worth over $30,000.</desc>
     <category lang="en">Sports non-event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p20148127_b_v9_ab.jpg?w=270&amp;h=360"/>
   </programme>
@@ -3614,11 +3614,16 @@
     <category lang="en">Sports non-event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p11865120_b_v9_ab.jpg?w=270&amp;h=360"/>
   </programme>
-  <programme start="20240420140000 +0000" stop="20240420160000 +0000" channel="espn2.us">
-    <title lang="en">E60</title>
-    <desc lang="en">ESPN's morning sports magazine show, featuring the biggest names and stories in sports.</desc>
+  <programme start="20240420140000 +0000" stop="20240420150000 +0000" channel="espn2.us">
+    <title lang="en">Cheerleading</title>
+    <desc lang="en">Coverage of competitive cheerleading events.</desc>
+    <category lang="en">Sports event</category>
+    <icon src="https://adma.tmsimg.com/assets/assets/p9653418_b_v9_ac.jpg?w=270&amp;h=360"/>
+  </programme>
+  <programme start="20240420150000 +0000" stop="20240420160000 +0000" channel="espn2.us">
+    <title lang="en">National High School Cheerleading Championship: Division II</title>
     <category lang="en">Sports non-event</category>
-    <icon src="https://adma.tmsimg.com/assets/assets/p19984458_b_v9_aa.jpg?w=270&amp;h=360"/>
+    <icon src="https://adma.tmsimg.com/assets/assets/p18035163_b_v13_aa.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240420160000 +0000" stop="20240420180000 +0000" channel="espn2.us">
     <title lang="en">College Softball</title>
@@ -3796,13 +3801,13 @@
   </programme>
   <programme start="20240419230000 +0000" stop="20240420013000 +0000" channel="espn.us">
     <title lang="en">NBA Basketball</title>
-    <desc lang="en">From Kaseya Center in Miami.</desc>
+    <desc lang="en">The Heat and Bulls duel in an East play-in game for the final playoff slot. Chicago got 42 points from Coby White to knock out Atlanta 131-116, while Miami fell 105-104 to Philadelphia and may have lost star Jimmy Butler to a knee injury.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p26791538_tb2_v13_ac.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240419230000 +0000" stop="20240420013000 +0000" channel="espn.us">
     <title lang="en">NBA Basketball</title>
-    <desc lang="en">From Kaseya Center in Miami.</desc>
+    <desc lang="en">The Heat and Bulls duel in an East play-in game for the final playoff slot. Chicago got 42 points from Coby White to knock out Atlanta 131-116, while Miami fell 105-104 to Philadelphia and may have lost star Jimmy Butler to a knee injury.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p26791538_tb2_v13_ac.jpg?w=270&amp;h=360"/>
   </programme>
@@ -3838,7 +3843,7 @@
   </programme>
   <programme start="20240420080000 +0000" stop="20240420100000 +0000" channel="espn.us">
     <title lang="en">NBA Basketball</title>
-    <desc lang="en">From Kaseya Center in Miami.</desc>
+    <desc lang="en">The Heat and Bulls duel in an East play-in game for the final playoff slot. Chicago got 42 points from Coby White to knock out Atlanta 131-116, while Miami fell 105-104 to Philadelphia and may have lost star Jimmy Butler to a knee injury.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p26791538_tb2_v13_ac.jpg?w=270&amp;h=360"/>
   </programme>
@@ -3904,7 +3909,7 @@
   </programme>
   <programme start="20240420220000 +0000" stop="20240421003000 +0000" channel="espn.us">
     <title lang="en">NBA Basketball</title>
-    <desc lang="en">The No. 2 Knicks host the No. 7 76ers for Game 1 of a first-round series. The clubs last met in the postseason in 1989. Philadelphia escaped the play-in tournament with a 105-104 win over Miami behind Joel Embiid's 23 points and 15 rebounds.</desc>
+    <desc lang="en">No. 2 New York hosts No. 7 Philadelphia for Game 1 of their first-round series. The clubs last met in the postseason in 1989. The 76ers escaped the play-in tournament with a 105-104 win over the Heat behind Joel Embiid's 23 points and 15 rebounds.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p26791547_tb2_v13_aa.jpg?w=270&amp;h=360"/>
   </programme>
@@ -11744,7 +11749,7 @@
     <title lang="en">NBA Basketball</title>
     <desc lang="en">The Pelicans and Kings duke it out for the No. 8 seed in the Western Conference in this play-in game. Sacramento eliminated Golden State in the 9-10 matchup, while New Orleans fell to the Lakers. The Pelicans won all five regular-season meetings.</desc>
     <category lang="en">Sports event</category>
-    <icon src="https://adma.tmsimg.com/assets/assets/p26791536_tb2_v13_ab.jpg?w=270&amp;h=360"/>
+    <icon src="https://adma.tmsimg.com/assets/assets/p26791536_tb2_v13_ac.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240420040000 +0000" stop="20240420050000 +0000" channel="tnt.us">
     <title lang="en">Inside the NBA</title>
@@ -11754,9 +11759,9 @@
   </programme>
   <programme start="20240420050000 +0000" stop="20240420073000 +0000" channel="tnt.us">
     <title lang="en">NBA Basketball</title>
-    <desc lang="en">Professional basketball action from the NBA.</desc>
+    <desc lang="en">Focusing on betting angles and prop bets throughout live action.</desc>
     <category lang="en">Sports event</category>
-    <icon src="https://adma.tmsimg.com/assets/assets/p191276_b_v13_bb.jpg?w=270&amp;h=360"/>
+    <icon src="https://adma.tmsimg.com/assets/assets/p26989153_tb2_v13_ab.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240420073000 +0000" stop="20240420100000 +0000" channel="tnt.us">
     <title lang="en">Red 2</title>
