@@ -3465,6 +3465,7 @@
   </programme>
   <programme start="20240427100000 +0000" stop="20240427103000 +0000" channel="espn2.us">
     <title lang="en">PFL 2024 Midseason Highlights</title>
+    <desc lang="en">Review the best moments from the first half of the PFL season.</desc>
     <category lang="en">Sports non-event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p27228583_b_v13_aa.jpg?w=270&amp;h=360"/>
   </programme>
@@ -3652,7 +3653,7 @@
     <title lang="en">NBA Basketball</title>
     <desc lang="en">The Suns return home needing a win in Game 3 of their West quarterfinal against the Timberwolves. Jaden McDaniels scored a playoff career-high 25 points to lead Minnesota to a commanding 105-93 triumph in Game 2, giving the Wolves a 2-0 series lead.</desc>
     <category lang="en">Sports event</category>
-    <icon src="https://adma.tmsimg.com/assets/assets/p26791610_tb2_v13_aa.jpg?w=270&amp;h=360"/>
+    <icon src="https://adma.tmsimg.com/assets/assets/p26791610_tb2_v13_ab.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240427050000 +0000" stop="20240427060000 +0000" channel="espn.us">
     <title lang="en">SportsCenter With Scott Van Pelt</title>
@@ -3676,7 +3677,7 @@
     <title lang="en">NBA Basketball</title>
     <desc lang="en">The Suns return home needing a win in Game 3 of their West quarterfinal against the Timberwolves. Jaden McDaniels scored a playoff career-high 25 points to lead Minnesota to a commanding 105-93 triumph in Game 2, giving the Wolves a 2-0 series lead.</desc>
     <category lang="en">Sports event</category>
-    <icon src="https://adma.tmsimg.com/assets/assets/p26791610_tb2_v13_aa.jpg?w=270&amp;h=360"/>
+    <icon src="https://adma.tmsimg.com/assets/assets/p26791610_tb2_v13_ab.jpg?w=270&amp;h=360"/>
   </programme>
   <programme start="20240427100000 +0000" stop="20240427110000 +0000" channel="espn.us">
     <title lang="en">SportsCenter With Scott Van Pelt</title>
@@ -3722,7 +3723,7 @@
   </programme>
   <programme start="20240427230000 +0000" stop="20240428020000 +0000" channel="espn.us">
     <title lang="en">UFC Fight Night: Nicolau vs. Perez</title>
-    <desc lang="en">Austen Lane vs. Jhonata Diniz, heavyweight; Ariane Lipski vs. Karine Silva, flyweight; Ryan Spann vs. Bogdan Guskov, light heavyweight; Matheus Nicolau vs. Alex Perez, flyweight. From UFC Apex in Las Vegas.</desc>
+    <desc lang="en">Austen Lane vs. Jhonata Diniz, heavyweight; Ariane da Silva vs. Karine Silva, flyweight; Ryan Spann vs. Bogdan Guskov, light heavyweight; Matheus Nicolau vs. Alex Perez, flyweight. From UFC Apex in Las Vegas.</desc>
     <category lang="en">Sports event</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p27153018_b_v13_aa.jpg?w=270&amp;h=360"/>
   </programme>
