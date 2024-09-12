@@ -708,300 +708,8 @@
     <country lang="sv">SE</country>
     <episode-num system="onscreen">S24 E19</episode-num>
   </programme>
-  <programme start="20240913031500 +0000" stop="20240913040000 +0000" channel="svt1.se">
-    <title lang="sv">Go'kväll</title>
-    <sub-title lang="sv">Mordet på Tintin</sub-title>
-    <desc lang="sv">(R) Svenskt magasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Leisure</category>
-    <category lang="sv">Lifestyle</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/638897"/>
-    <country lang="sv">SE</country>
-  </programme>
-  <programme start="20240913040000 +0000" stop="20240913080000 +0000" channel="svt1.se">
-    <title lang="sv">Morgonstudion</title>
-    <desc lang="sv">Svenskt nyhetsprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Social And Society</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637952"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E184</episode-num>
-  </programme>
-  <programme start="20240913080000 +0000" stop="20240913082000 +0000" channel="svt1.se">
-    <title lang="sv">Hemmagympa med Sofia</title>
-    <sub-title lang="sv">Träning med pinne</sub-title>
-    <desc lang="sv">(R) Svenskt hälsoprogram från 2021.</desc>
-    <date>2021</date>
-    <category lang="sv">Leisure</category>
-    <category lang="sv">Lifestyle</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/462207"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S4 E15</episode-num>
-  </programme>
-  <programme start="20240913082000 +0000" stop="20240913085000 +0000" channel="svt1.se">
-    <title lang="sv">Strömsö</title>
-    <sub-title lang="sv">Skördefest med grillad fisk och oliver av gröna plommon</sub-title>
-    <desc lang="sv">(R) Finlandssvenskt livsstilsmagasin från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Leisure</category>
-    <category lang="sv">Home And Garden</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665981"/>
-    <country lang="sv">FI</country>
-    <episode-num system="onscreen">S35 E1</episode-num>
-  </programme>
-  <programme start="20240913085000 +0000" stop="20240913092000 +0000" channel="svt1.se">
-    <title lang="sv">Sverige!</title>
-    <sub-title lang="sv">Maja Francis: "Not your babe"</sub-title>
-    <desc lang="sv">(R) Svenskt kulturmagasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Culture</category>
-    <category lang="sv">Culture Magasines</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664246"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S33 E3</episode-num>
-  </programme>
-  <programme start="20240913092000 +0000" stop="20240913095000 +0000" channel="svt1.se">
-    <title lang="sv">Första dejten</title>
-    <sub-title lang="sv">Var fan är mina blommor!</sub-title>
-    <desc lang="sv">(R) Svensk realityserie från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Entertainment</category>
-    <category lang="sv">Tv Games</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/659246"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S7 E12</episode-num>
-  </programme>
-  <programme start="20240913095000 +0000" stop="20240913105000 +0000" channel="svt1.se">
-    <title lang="sv">Draknästet</title>
-    <desc lang="sv">(R) Svensk underhållning från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Entertainment</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664089"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S4 E4</episode-num>
-  </programme>
-  <programme start="20240913105000 +0000" stop="20240913115000 +0000" channel="svt1.se">
-    <title lang="sv">Arvinge okänd</title>
-    <sub-title lang="sv">Skrotnisse / Sångarens son</sub-title>
-    <desc lang="sv">(R) Svensk dokumentärserie från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Entertainment</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664769"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S5 E3</episode-num>
-  </programme>
-  <programme start="20240913115000 +0000" stop="20240913125000 +0000" channel="svt1.se">
-    <title lang="sv">Oldsberg - en gränslös gigant</title>
-    <sub-title lang="sv">Älskad och urspårad</sub-title>
-    <desc lang="sv">(R) Svenskt porträt från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Facts</category>
-    <category lang="sv">Portrait</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664937"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240913125000 +0000" stop="20240913135000 +0000" channel="svt1.se">
-    <title lang="sv">Antikrundan</title>
-    <sub-title lang="sv">Avsnitt 3</sub-title>
-    <desc lang="sv">(R) Svensk magasin från 2018.</desc>
-    <date>2018</date>
-    <category lang="sv">Leisure</category>
-    <category lang="sv">Antiques</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/280507"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S29 E3</episode-num>
-  </programme>
-  <programme start="20240913135000 +0000" stop="20240913153000 +0000" channel="svt1.se">
-    <title lang="sv">Flicka i kasern</title>
-    <desc lang="sv">(R) Svenskt drama från 1955.</desc>
-    <date>1955</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Comedy</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/345215"/>
-    <country lang="sv">SE</country>
-  </programme>
-  <programme start="20240913153000 +0000" stop="20240913160000 +0000" channel="svt1.se">
-    <title lang="sv">Sverige idag</title>
-    <sub-title lang="sv">Avsnitt 20</sub-title>
-    <desc lang="sv">Svenskt magasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Society Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/663873"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S24</episode-num>
-  </programme>
-  <programme start="20240913160000 +0000" stop="20240913161700 +0000" channel="svt1.se">
-    <title lang="sv">Rapport</title>
-    <sub-title lang="sv">Avsnitt 184</sub-title>
-    <desc lang="sv">Svensk nyhetsrapportering från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637684"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E184</episode-num>
-  </programme>
-  <programme start="20240913161700 +0000" stop="20240913162800 +0000" channel="svt1.se">
-    <title lang="sv">Kulturnyheterna</title>
-    <desc lang="sv">Svenskt kulturprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Culture</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/638708"/>
-    <country lang="sv">SE</country>
-  </programme>
-  <programme start="20240913162800 +0000" stop="20240913163300 +0000" channel="svt1.se">
-    <title lang="sv">Sportnytt</title>
-    <sub-title lang="sv">Avsnitt 261</sub-title>
-    <desc lang="sv">Svenska sportnyhetar från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sportsnews General</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637679"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E261</episode-num>
-  </programme>
-  <programme start="20240913163300 +0000" stop="20240913164500 +0000" channel="svt1.se">
-    <title lang="sv">Lokala nyheter</title>
-    <desc lang="sv">Svenskt nyhetsprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637948"/>
-    <country lang="sv">SE</country>
-  </programme>
-  <programme start="20240913164500 +0000" stop="20240913173000 +0000" channel="svt1.se">
-    <title lang="sv">Go'kväll</title>
-    <sub-title lang="sv">Middagsvärd Michelle Coleman</sub-title>
-    <desc lang="sv">Svenskt magasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Leisure</category>
-    <category lang="sv">Lifestyle</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/638897"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E91</episode-num>
-  </programme>
-  <programme start="20240913173000 +0000" stop="20240913175500 +0000" channel="svt1.se">
-    <title lang="sv">Rapport</title>
-    <sub-title lang="sv">Avsnitt 221</sub-title>
-    <desc lang="sv">Svensk nyhetsrapportering från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637684"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E221</episode-num>
-  </programme>
-  <programme start="20240913175500 +0000" stop="20240913180000 +0000" channel="svt1.se">
-    <title lang="sv">Lokala nyheter</title>
-    <desc lang="sv">Svenskt nyhetsprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637948"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E221</episode-num>
-  </programme>
-  <programme start="20240913180000 +0000" stop="20240913190000 +0000" channel="svt1.se">
-    <title lang="sv">Doobidoo</title>
-    <desc lang="sv">Svensk frågesport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Music And Dance</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664097"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S19 E4</episode-num>
-  </programme>
-  <programme start="20240913190000 +0000" stop="20240913200000 +0000" channel="svt1.se">
-    <title lang="sv">Tyst vittne</title>
-    <sub-title lang="sv">Familiar faces, del 2 av 2</sub-title>
-    <desc lang="sv">Brittisk kriminalserie från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Series</category>
-    <category lang="sv">Crime Series</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664102"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">S26 E4</episode-num>
-  </programme>
-  <programme start="20240913200000 +0000" stop="20240913203000 +0000" channel="svt1.se">
-    <title lang="sv">Svenska nyheter</title>
-    <sub-title lang="sv">Avsnitt 4</sub-title>
-    <desc lang="sv">Svenskt satirprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Entertainment</category>
-    <category lang="sv">Humour</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664109"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S14 E4</episode-num>
-  </programme>
-  <programme start="20240913203000 +0000" stop="20240913210000 +0000" channel="svt1.se">
-    <title lang="sv">Cyklopernas land</title>
-    <sub-title lang="sv">Avsnitt 4</sub-title>
-    <desc lang="sv">Svenskt kulturprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Culture</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664113"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S7 E4</episode-num>
-  </programme>
-  <programme start="20240913210000 +0000" stop="20240913210500 +0000" channel="svt1.se">
-    <title lang="sv">Rapport</title>
-    <sub-title lang="sv">Avsnitt 257</sub-title>
-    <desc lang="sv">Svensk nyhetsrapportering från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637684"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E257</episode-num>
-  </programme>
-  <programme start="20240913210500 +0000" stop="20240913215000 +0000" channel="svt1.se">
-    <title lang="sv">Bäst i test Nya Zeeland</title>
-    <sub-title lang="sv">Kan någon slå en utter?</sub-title>
-    <desc lang="sv">Nyzeeländsk underhållningsserie från 2021.</desc>
-    <date>2021</date>
-    <category lang="sv">Entertainment</category>
-    <category lang="sv">Humour</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664241"/>
-    <country lang="sv">NZ</country>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme start="20240913215000 +0000" stop="20240913223500 +0000" channel="svt1.se">
-    <title lang="sv">The Bay</title>
-    <sub-title lang="sv">Avsnitt 4</sub-title>
-    <desc lang="sv">(R) Brittisk kriminalserie från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Series</category>
-    <category lang="sv">Crime Series</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/663571"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">S5 E4</episode-num>
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme start="20240913223500 +0000" stop="20240913230500 +0000" channel="svt1.se">
-    <title lang="sv">Blodsband</title>
-    <sub-title lang="sv">Avsnitt 5</sub-title>
-    <desc lang="sv">(R) Svensk realityserie från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Entertainment</category>
-    <category lang="sv">Docusoap</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/663314"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
   <programme start="20240913230500 +0000" stop="20240913024500 +0000" channel="svt1.se">
     <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913024500 +0000" stop="20240913031500 +0000" channel="svt1.se">
-    <title lang="sv">Sverige idag</title>
-    <sub-title lang="sv">Avsnitt 19</sub-title>
-    <desc lang="sv">(R) Svenskt magasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Society Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/663873"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S24 E19</episode-num>
   </programme>
   <programme start="20240913031500 +0000" stop="20240913040000 +0000" channel="svt1.se">
     <title lang="sv">Go'kväll</title>
@@ -1580,253 +1288,7 @@
   <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="svt2.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240913070000 +0000" stop="20240913100000 +0000" channel="svt2.se">
-    <title lang="sv">SVT Forum</title>
-    <desc lang="sv">Svenskt samhällsprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Politics</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/638691"/>
-    <country lang="sv">SE</country>
-  </programme>
-  <programme start="20240913100000 +0000" stop="20240913100300 +0000" channel="svt2.se">
-    <title lang="sv">Rapport</title>
-    <sub-title lang="sv">Avsnitt 130</sub-title>
-    <desc lang="sv">Svensk nyhetsrapportering från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637684"/>
-    <country lang="sv">SE</country>
-  </programme>
-  <programme start="20240913100300 +0000" stop="20240913140000 +0000" channel="svt2.se">
-    <title lang="sv">SVT Forum</title>
-    <desc lang="sv">Svenskt samhällsprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Politics</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/638691"/>
-    <country lang="sv">SE</country>
-  </programme>
-  <programme start="20240913140000 +0000" stop="20240913140500 +0000" channel="svt2.se">
-    <title lang="sv">Rapport</title>
-    <sub-title lang="sv">Avsnitt 257</sub-title>
-    <desc lang="sv">Svensk nyhetsrapportering från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637684"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E257</episode-num>
-  </programme>
-  <programme start="20240913140500 +0000" stop="20240913143500 +0000" channel="svt2.se">
-    <title lang="sv">Loppislärlingen</title>
-    <sub-title lang="sv">Den med ljusträdet</sub-title>
-    <desc lang="sv">(R) Dansk underhållning från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Entertainment</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665713"/>
-    <country lang="sv">DK</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240913143500 +0000" stop="20240913150500 +0000" channel="svt2.se">
-    <title lang="sv">Möte med (teckenspråk)</title>
-    <sub-title lang="sv">Dövkompetens</sub-title>
-    <desc lang="sv">(R) Svensk intervjuserie från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Social And Society</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/649381"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S2 E9</episode-num>
-  </programme>
-  <programme start="20240913150500 +0000" stop="20240913151500 +0000" channel="svt2.se">
-    <title lang="sv">Nya arkitekturens pärlor</title>
-    <sub-title lang="sv">Fågelmuseet Ottenby</sub-title>
-    <desc lang="sv">(R) Svensk dokumentärserie från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Documentary</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/614871"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240913151500 +0000" stop="20240913152000 +0000" channel="svt2.se">
-    <title lang="sv">Nyheter på lätt svenska</title>
-    <desc lang="sv">Svenskt nyhetsprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/638692"/>
-    <country lang="sv">SE</country>
-  </programme>
-  <programme start="20240913152000 +0000" stop="20240913153000 +0000" channel="svt2.se">
-    <title lang="sv">Nyhetstecken</title>
-    <desc lang="sv">Svenska nyheter på teckenspråk från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637984"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E184</episode-num>
-  </programme>
-  <programme start="20240913153000 +0000" stop="20240913154500 +0000" channel="svt2.se">
-    <title lang="sv">Oddasat</title>
-    <desc lang="sv">Nyheter på samisk från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637985"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E138</episode-num>
-  </programme>
-  <programme start="20240913154500 +0000" stop="20240913155500 +0000" channel="svt2.se">
-    <title lang="sv">Uutiset</title>
-    <desc lang="sv">Finskspråkiga nyheter från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637986"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E138</episode-num>
-  </programme>
-  <programme start="20240913155500 +0000" stop="20240913160000 +0000" channel="svt2.se">
-    <title lang="sv">Ögonblick från Svalbard</title>
-    <sub-title lang="sv">Vilande isbjörn</sub-title>
-    <desc lang="sv">(R) Norsk reportageserie från 2021.</desc>
-    <date>2021</date>
-    <category lang="sv">Facts</category>
-    <category lang="sv">Kids</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/632730"/>
-    <country lang="sv">NO</country>
-    <episode-num system="onscreen">S1 E15</episode-num>
-  </programme>
-  <programme start="20240913160000 +0000" stop="20240913163000 +0000" channel="svt2.se">
-    <title lang="sv">Tjejer gör lumpen</title>
-    <sub-title lang="sv">Det är väl bara att sätta igång och köra</sub-title>
-    <desc lang="sv">Finsk realityserie från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Entertainment</category>
-    <category lang="sv">Tv Games</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/660226"/>
-    <country lang="sv">FI</country>
-    <episode-num system="onscreen">S4 E7</episode-num>
-  </programme>
-  <programme start="20240913163000 +0000" stop="20240913170000 +0000" channel="svt2.se">
-    <title lang="sv">Zofias matresa</title>
-    <sub-title lang="sv">Jag flydde från min verklighet</sub-title>
-    <desc lang="sv">Svenskt kulturprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Leisure</category>
-    <category lang="sv">Cooking</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/666137"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240913170000 +0000" stop="20240913173000 +0000" channel="svt2.se">
-    <title lang="sv">30 minuter</title>
-    <desc lang="sv">(R) Svenskt intervjuprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <category lang="sv">Debate General</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/639803"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S8 E4</episode-num>
-  </programme>
-  <programme start="20240913173000 +0000" stop="20240913180000 +0000" channel="svt2.se">
-    <title lang="sv">Loppislärlingen</title>
-    <sub-title lang="sv">Den med vinkylen</sub-title>
-    <desc lang="sv">Dansk underhållning från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Entertainment</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665713"/>
-    <country lang="sv">DK</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240913180000 +0000" stop="20240913190000 +0000" channel="svt2.se">
-    <title lang="sv">Pontus Hultén: Succéerna och Brilloskandalen</title>
-    <desc lang="sv">Svensk dokumentär från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Documentary</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/666140"/>
-    <country lang="sv">SE</country>
-  </programme>
-  <programme start="20240913190000 +0000" stop="20240913192200 +0000" channel="svt2.se">
-    <title lang="sv">Aktuellt</title>
-    <sub-title lang="sv">Avsnitt 36</sub-title>
-    <desc lang="sv">Svenskt nyhetsmagasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637982"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E36</episode-num>
-  </programme>
-  <programme start="20240913192200 +0000" stop="20240913193000 +0000" channel="svt2.se">
-    <title lang="sv">Kulturnyheterna</title>
-    <desc lang="sv">Svenskt kulturprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Culture</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/638708"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E36</episode-num>
-  </programme>
-  <programme start="20240913193000 +0000" stop="20240913194500 +0000" channel="svt2.se">
-    <title lang="sv">Sportnytt</title>
-    <sub-title lang="sv">Avsnitt 185</sub-title>
-    <desc lang="sv">Svenska sportnyhetar från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sportsnews General</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637679"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E185</episode-num>
-  </programme>
-  <programme start="20240913194500 +0000" stop="20240913212500 +0000" channel="svt2.se">
-    <title lang="sv">My Salinger Year</title>
-    <desc lang="sv">Amerikanskt drama från 2020.</desc>
-    <date>2020</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Drama</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/534377"/>
-    <country lang="sv">US</country>
-  </programme>
-  <programme start="20240913212500 +0000" stop="20240913225500 +0000" channel="svt2.se">
-    <title lang="sv">Dox: Bastusystrar</title>
-    <desc lang="sv">(R) Estnisk dokumentär från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Documentary</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665878"/>
-    <country lang="sv">EE</country>
-  </programme>
-  <programme start="20240913225500 +0000" stop="20240913232500 +0000" channel="svt2.se">
-    <title lang="sv">Loppislärlingen</title>
-    <sub-title lang="sv">Den med vinkylen</sub-title>
-    <desc lang="sv">(R) Dansk underhållning från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Entertainment</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665713"/>
-    <country lang="sv">DK</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240913232500 +0000" stop="20240913234000 +0000" channel="svt2.se">
-    <title lang="sv">Sportnytt</title>
-    <sub-title lang="sv">Avsnitt 185</sub-title>
-    <desc lang="sv">(R) Svenska sportnyhetar från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sportsnews General</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637679"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E185</episode-num>
-  </programme>
-  <programme start="20240913234000 +0000" stop="20240913235000 +0000" channel="svt2.se">
-    <title lang="sv">Nyhetstecken</title>
-    <desc lang="sv">(R) Svenska nyheter på teckenspråk från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">News</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637984"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">E184</episode-num>
-  </programme>
   <programme start="20240913235000 +0000" stop="20240913040000 +0000" channel="svt2.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="svt2.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240913070000 +0000" stop="20240913100000 +0000" channel="svt2.se">
@@ -8303,9 +7765,6 @@
   <programme start="20240912232500 +0000" stop="20240912023000 +0000" channel="kunskapskanalen.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240912040000 +0000" stop="20240912070000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Inget program</title>
-  </programme>
   <programme start="20240912070000 +0000" stop="20240912100000 +0000" channel="kunskapskanalen.se">
     <title lang="sv">Inget program</title>
   </programme>
@@ -8454,177 +7913,7 @@
   <programme start="20240913022500 +0000" stop="20240913040000 +0000" channel="kunskapskanalen.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913070000 +0000" stop="20240913100000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913100000 +0000" stop="20240913130000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913130000 +0000" stop="20240913132000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Humanist- och teologdagen 2024</title>
-    <sub-title lang="sv">Avsnitt 8</sub-title>
-    <desc lang="sv">Svenskt vetenskapsmagasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Culture</category>
-    <category lang="sv">Beliefs</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/652649"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20240913132000 +0000" stop="20240913133500 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Humanist- och teologdagen 2024</title>
-    <sub-title lang="sv">Avsnitt 4</sub-title>
-    <desc lang="sv">Svenskt vetenskapsmagasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Culture</category>
-    <category lang="sv">Beliefs</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/652649"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240913133500 +0000" stop="20240913141500 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">NMT-dagarna 2024</title>
-    <sub-title lang="sv">Avsnitt 8</sub-title>
-    <desc lang="sv">Svenskt vetenskapsmagasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Facts</category>
-    <category lang="sv">Nature Science</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/653213"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20240913141500 +0000" stop="20240913150000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">NMT-dagarna 2024</title>
-    <sub-title lang="sv">Avsnitt 12</sub-title>
-    <desc lang="sv">Svenskt vetenskapsmagasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Facts</category>
-    <category lang="sv">Nature Science</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/653213"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20240913150000 +0000" stop="20240913151500 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Brynsten från Eidsborg</title>
-    <desc lang="sv">(R) Norskt program från 2012.</desc>
-    <date>2012</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Reporting</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/231320"/>
-    <country lang="sv">NO</country>
-  </programme>
-  <programme start="20240913151500 +0000" stop="20240913161000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Spektakulära broar</title>
-    <desc lang="sv">(R) Tysk dokumentär från 2021.</desc>
-    <date>2021</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Documentary</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/501416"/>
-    <country lang="sv">DE</country>
-  </programme>
-  <programme start="20240913161000 +0000" stop="20240913164000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Studio 65</title>
-    <sub-title lang="sv">Släktforska och skriv ditt liv</sub-title>
-    <desc lang="sv">(R) Svenskt samtalsprogram från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Society Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665347"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S4 E2</episode-num>
-  </programme>
-  <programme start="20240913164000 +0000" stop="20240913171500 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Tvillingar</title>
-    <desc lang="sv">Svensk dokumentärserie från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Documentary</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665528"/>
-    <country lang="sv">SE</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240913171500 +0000" stop="20240913180000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Brittiska fiskeäventyr</title>
-    <sub-title lang="sv">Skaldjur i Skottland</sub-title>
-    <desc lang="sv">(R) Brittisk serie från 2021.</desc>
-    <date>2021</date>
-    <category lang="sv">Leisure</category>
-    <category lang="sv">Outdoors</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/606074"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240913180000 +0000" stop="20240913190000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Psykisk ohälsa i familjen</title>
-    <desc lang="sv">Brittisk dokumentär från 2021.</desc>
-    <date>2021</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Documentary</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/666244"/>
-    <country lang="sv">GB</country>
-  </programme>
-  <programme start="20240913190000 +0000" stop="20240913195000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Griffs äventyr i Kanada</title>
-    <sub-title lang="sv">Saskatchewans prärier</sub-title>
-    <desc lang="sv">(R) Brittisk reseserie från 2022.</desc>
-    <date>2022</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Documentary</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/628641"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240913195000 +0000" stop="20240913203500 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Övergivna byggnader</title>
-    <sub-title lang="sv">Sikta mot stjärnorna</sub-title>
-    <desc lang="sv">Brittisk faktaserie från 2022.</desc>
-    <date>2022</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Documentary</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664168"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">S8 E4</episode-num>
-  </programme>
-  <programme start="20240913203500 +0000" stop="20240913213000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Med egna ord - Australien</title>
-    <sub-title lang="sv">Att våga försöka</sub-title>
-    <desc lang="sv">(R) Australisk dokumentärserie från 2022.</desc>
-    <date>2022</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Documentary</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665721"/>
-    <country lang="sv">AU</country>
-    <episode-num system="onscreen">S2 E1</episode-num>
-  </programme>
-  <programme start="20240913213000 +0000" stop="20240913222500 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Den svarta svanen</title>
-    <sub-title lang="sv">Avsnitt 2</sub-title>
-    <desc lang="sv">(R) Dansk dokumentärserie från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Social And Society</category>
-    <category lang="sv">Crime Programs</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/658581"/>
-    <country lang="sv">DK</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240913222500 +0000" stop="20240913232000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Framtidens återskapade landskap</title>
-    <sub-title lang="sv">Costa Ricas trädprojekt</sub-title>
-    <desc lang="sv">(R) Tysk serie från 2021.</desc>
-    <date>2020</date>
-    <category lang="sv">Facts</category>
-    <category lang="sv">Kids</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/612024"/>
-    <country lang="sv">DE</country>
-    <episode-num system="onscreen">S2 E1</episode-num>
-  </programme>
   <programme start="20240913232000 +0000" stop="20240913022500 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913022500 +0000" stop="20240913040000 +0000" channel="kunskapskanalen.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="kunskapskanalen.se">
@@ -8857,17 +8146,6 @@
   </programme>
   <programme start="20240912233500 +0000" stop="20240912022500 +0000" channel="svtb.se">
     <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240912030000 +0000" stop="20240912032500 +0000" channel="svtb.se">
-    <title lang="sv">I drömmarnas trädgård</title>
-    <sub-title lang="sv">Tomblibooernas byxor</sub-title>
-    <desc lang="sv">(R) Brittisk barnserie från 2007.</desc>
-    <date>2007</date>
-    <category lang="sv">Kids And Youth</category>
-    <category lang="sv">Pre School Ages</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/387521"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20240912032500 +0000" stop="20240912034000 +0000" channel="svtb.se">
     <title lang="sv">Lilla prinsessan</title>
@@ -10629,17 +9907,6 @@
   </programme>
   <programme start="20240912233500 +0000" stop="20240912022500 +0000" channel="svt24.se">
     <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240912030000 +0000" stop="20240912032500 +0000" channel="svt24.se">
-    <title lang="sv">I drömmarnas trädgård</title>
-    <sub-title lang="sv">Tomblibooernas byxor</sub-title>
-    <desc lang="sv">(R) Brittisk barnserie från 2007.</desc>
-    <date>2007</date>
-    <category lang="sv">Kids And Youth</category>
-    <category lang="sv">Pre School Ages</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/387521"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20240912032500 +0000" stop="20240912034000 +0000" channel="svt24.se">
     <title lang="sv">Lilla prinsessan</title>
@@ -13191,22 +12458,7 @@
   <programme start="20240913030000 +0000" stop="20240913060000 +0000" channel="tv4sportlive.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240913060000 +0000" stop="20240913090000 +0000" channel="tv4sportlive.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913090000 +0000" stop="20240913120000 +0000" channel="tv4sportlive.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913120000 +0000" stop="20240913150000 +0000" channel="tv4sportlive.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913150000 +0000" stop="20240913160000 +0000" channel="tv4sportlive.se">
-    <title lang="sv">Inget program</title>
-  </programme>
   <programme start="20240913160000 +0000" stop="20240913030000 +0000" channel="tv4sportlive.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913030000 +0000" stop="20240913060000 +0000" channel="tv4sportlive.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240913060000 +0000" stop="20240913090000 +0000" channel="tv4sportlive.se">
@@ -13268,19 +12520,7 @@
   <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="tv4sportlive2.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240913070000 +0000" stop="20240913100000 +0000" channel="tv4sportlive2.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913100000 +0000" stop="20240913130000 +0000" channel="tv4sportlive2.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913130000 +0000" stop="20240913160000 +0000" channel="tv4sportlive2.se">
-    <title lang="sv">Inget program</title>
-  </programme>
   <programme start="20240913160000 +0000" stop="20240913040000 +0000" channel="tv4sportlive2.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="tv4sportlive2.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240913070000 +0000" stop="20240913100000 +0000" channel="tv4sportlive2.se">
@@ -13319,22 +12559,7 @@
   <programme start="20240913030000 +0000" stop="20240913060000 +0000" channel="tv4sportlive3.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240913060000 +0000" stop="20240913090000 +0000" channel="tv4sportlive3.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913090000 +0000" stop="20240913120000 +0000" channel="tv4sportlive3.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913120000 +0000" stop="20240913150000 +0000" channel="tv4sportlive3.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913150000 +0000" stop="20240913160000 +0000" channel="tv4sportlive3.se">
-    <title lang="sv">Inget program</title>
-  </programme>
   <programme start="20240913160000 +0000" stop="20240913030000 +0000" channel="tv4sportlive3.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913030000 +0000" stop="20240913060000 +0000" channel="tv4sportlive3.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240913060000 +0000" stop="20240913090000 +0000" channel="tv4sportlive3.se">
@@ -13376,22 +12601,7 @@
   <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="tv4sportlive4.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240913070000 +0000" stop="20240913100000 +0000" channel="tv4sportlive4.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913100000 +0000" stop="20240913130000 +0000" channel="tv4sportlive4.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913130000 +0000" stop="20240913160000 +0000" channel="tv4sportlive4.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913160000 +0000" stop="20240913170000 +0000" channel="tv4sportlive4.se">
-    <title lang="sv">Inget program</title>
-  </programme>
   <programme start="20240913170000 +0000" stop="20240913040000 +0000" channel="tv4sportlive4.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="tv4sportlive4.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240913070000 +0000" stop="20240913100000 +0000" channel="tv4sportlive4.se">
@@ -14146,132 +13356,6 @@
       <value>15</value>
     </rating>
   </programme>
-  <programme start="20240913033900 +0000" stop="20240913040000 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913040000 +0000" stop="20240913052700 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Midnight Sun</title>
-    <desc lang="sv">(R) Amerikanskt romantiskt drama från 2018.</desc>
-    <date>2018</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Romantic Comedy</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/344923"/>
-    <country lang="sv">US</country>
-    <rating>
-      <value>11</value>
-    </rating>
-  </programme>
-  <programme start="20240913052700 +0000" stop="20240913054500 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913054500 +0000" stop="20240913080000 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Öknens drottning</title>
-    <desc lang="sv">(R) Amerikanskt drama från 2015.</desc>
-    <date>2015</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Drama</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/325838"/>
-    <country lang="sv">US</country>
-    <rating>
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20240913080000 +0000" stop="20240913092700 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Here And Now</title>
-    <desc lang="sv">(R) Amerikanskt drama från 2018.</desc>
-    <date>2018</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Drama</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/506026"/>
-    <country lang="sv">US</country>
-  </programme>
-  <programme start="20240913092700 +0000" stop="20240913095000 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913095000 +0000" stop="20240913120000 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Jobs</title>
-    <desc lang="sv">Amerikanskt drama från 2013.</desc>
-    <date>2013</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Drama</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/222870"/>
-    <country lang="sv">US</country>
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme start="20240913120000 +0000" stop="20240913132700 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Fallen</title>
-    <desc lang="sv">Brittisk drama från 2016.</desc>
-    <date>2016</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Drama</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/325892"/>
-    <country lang="sv">GB</country>
-  </programme>
-  <programme start="20240913132700 +0000" stop="20240913140000 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913140000 +0000" stop="20240913160000 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Megan Leavey</title>
-    <desc lang="sv">Amerikansk krigsdrama från 2017.</desc>
-    <date>2017</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Drama</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/388629"/>
-    <country lang="sv">US</country>
-    <rating>
-      <value>11</value>
-    </rating>
-  </programme>
-  <programme start="20240913160000 +0000" stop="20240913180000 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Mrs. Harris Goes to Paris</title>
-    <desc lang="sv">(R) Brittisk dramakomedi från 2022.</desc>
-    <date>2022</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Drama Comedy</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/619645"/>
-    <country lang="sv">GB</country>
-    <rating>
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20240913180000 +0000" stop="20240913194500 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Looking Glass</title>
-    <desc lang="sv">(R) Canadensisk thriller från 2018.</desc>
-    <date>2018</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Thriller</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/605038"/>
-    <country lang="sv">CA</country>
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme start="20240913194500 +0000" stop="20240913214000 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">The Card Counter</title>
-    <desc lang="sv">(R) Amerikansk thriller från 2021.</desc>
-    <date>2021</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Thriller</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/536989"/>
-    <country lang="sv">GB</country>
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme start="20240913214000 +0000" stop="20240913235000 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Green Book</title>
-    <desc lang="sv">Amerikansk drama från 2018.</desc>
-    <date>2018</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Drama</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/376995"/>
-    <country lang="sv">US</country>
-    <rating>
-      <value>7</value>
-    </rating>
-  </programme>
   <programme start="20240913235000 +0000" stop="20240913020000 +0000" channel="viasatfilmhits.se">
     <title lang="sv">The Mauritanian</title>
     <date>2020</date>
@@ -14279,18 +13363,6 @@
     <category lang="sv">Crime</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/642656"/>
     <country lang="sv">US</country>
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme start="20240913020000 +0000" stop="20240913033900 +0000" channel="viasatfilmhits.se">
-    <title lang="sv">Looking Glass</title>
-    <desc lang="sv">Canadensisk thriller från 2018.</desc>
-    <date>2018</date>
-    <category lang="sv">Fiction</category>
-    <category lang="sv">Thriller</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/605038"/>
-    <country lang="sv">CA</country>
     <rating>
       <value>15</value>
     </rating>
@@ -14894,168 +13966,11 @@
   <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="vsportextra.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240913070000 +0000" stop="20240913100000 +0000" channel="vsportextra.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913100000 +0000" stop="20240913110000 +0000" channel="vsportextra.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913110000 +0000" stop="20240913120000 +0000" channel="vsportextra.se">
-    <title lang="sv">DTM Highlights: Sachsenring</title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Motor Sports</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/653301"/>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20240913120000 +0000" stop="20240913123000 +0000" channel="vsportextra.se">
-    <title lang="sv">MLB: Plays Of The Week</title>
-    <desc lang="sv">(R) Baseball från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Baseball</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/654589"/>
-    <country lang="sv">US</country>
-  </programme>
-  <programme start="20240913123000 +0000" stop="20240913130000 +0000" channel="vsportextra.se">
-    <title lang="sv">MLB: Plays Of The Week</title>
-    <desc lang="sv">(R) Baseball från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Baseball</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/654589"/>
-    <country lang="sv">US</country>
-  </programme>
-  <programme start="20240913130000 +0000" stop="20240913140000 +0000" channel="vsportextra.se">
-    <title lang="sv">IMSA Sportscar Championship Highlights: Michelin Challenge at VIR</title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Motor Sports</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/646006"/>
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20240913140000 +0000" stop="20240913150000 +0000" channel="vsportextra.se">
-    <title lang="sv">Formel 1 Highlights: Italiens GP</title>
-    <sub-title lang="sv">Italiens GP</sub-title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Formula 1</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/646011"/>
-    <episode-num system="onscreen">E16</episode-num>
-  </programme>
-  <programme start="20240913150000 +0000" stop="20240913153000 +0000" channel="vsportextra.se">
-    <title lang="sv">Track &amp; Field Weekly</title>
-    <desc lang="sv">(R) Magasin.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/300604"/>
-    <country lang="sv">GB</country>
-  </programme>
-  <programme start="20240913153000 +0000" stop="20240913160000 +0000" channel="vsportextra.se">
-    <title lang="sv">Track &amp; Field Weekly</title>
-    <desc lang="sv">(R) Magasin.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/300604"/>
-    <country lang="sv">GB</country>
-  </programme>
-  <programme start="20240913160000 +0000" stop="20240913170000 +0000" channel="vsportextra.se">
-    <title lang="sv">Trans World Sport</title>
-    <desc lang="sv">(R) Sportsmagasin.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/118025"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20240913170000 +0000" stop="20240913173000 +0000" channel="vsportextra.se">
-    <title lang="sv">UEFA Champions League Magazine</title>
-    <desc lang="sv">Svensk fotbollsmagasin från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665449"/>
-    <country lang="sv">SE</country>
-  </programme>
-  <programme start="20240913173000 +0000" stop="20240913180000 +0000" channel="vsportextra.se">
-    <title lang="sv">MLB: Plays Of The Week</title>
-    <desc lang="sv">(R) Baseball från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Baseball</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/654589"/>
-    <country lang="sv">US</country>
-  </programme>
-  <programme start="20240913180000 +0000" stop="20240913183000 +0000" channel="vsportextra.se">
-    <title lang="sv">PL Stories</title>
-    <desc lang="sv">(R) Fotbollsmagasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/641183"/>
-    <country lang="sv">GB</country>
-  </programme>
-  <programme start="20240913183000 +0000" stop="20240913190000 +0000" channel="vsportextra.se">
-    <title lang="sv">PL Stories</title>
-    <desc lang="sv">(R) Fotbollsmagasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/641183"/>
-    <country lang="sv">GB</country>
-  </programme>
-  <programme start="20240913190000 +0000" stop="20240913200000 +0000" channel="vsportextra.se">
-    <title lang="sv">Formel 1 Highlights: Italiens GP</title>
-    <sub-title lang="sv">Italiens GP</sub-title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Formula 1</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/646011"/>
-    <episode-num system="onscreen">E16</episode-num>
-  </programme>
-  <programme start="20240913200000 +0000" stop="20240913210000 +0000" channel="vsportextra.se">
-    <title lang="sv">IMSA Sportscar Championship Highlights: Michelin Challenge at VIR</title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Motor Sports</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/646006"/>
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20240913210000 +0000" stop="20240913220000 +0000" channel="vsportextra.se">
-    <title lang="sv">Trans World Sport</title>
-    <desc lang="sv">(R) Sportsmagasin.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/118025"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20240913220000 +0000" stop="20240913230000 +0000" channel="vsportextra.se">
-    <title lang="sv">DTM Highlights: Sachsenring</title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Motor Sports</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/653301"/>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
   <programme start="20240913230000 +0000" stop="20240913040000 +0000" channel="vsportextra.se">
     <title lang="sv">Sändningsuppehåll</title>
     <category lang="sv">Other</category>
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
-  </programme>
-  <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="vsportextra.se">
-    <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240913070000 +0000" stop="20240913100000 +0000" channel="vsportextra.se">
     <title lang="sv">Inget program</title>
@@ -15294,94 +14209,11 @@
   <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="viasatsportpremium.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240913070000 +0000" stop="20240913094500 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913094500 +0000" stop="20240913101500 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">PL Stories</title>
-    <desc lang="sv">(R) Fotbollsmagasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/641183"/>
-    <country lang="sv">GB</country>
-  </programme>
-  <programme start="20240913101500 +0000" stop="20240913121500 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">UEFA Nations League: Israel-Italien</title>
-    <desc lang="sv">(R) Fotboll från UEFA Nations League 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665238"/>
-  </programme>
-  <programme start="20240913121500 +0000" stop="20240913141500 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">UEFA Nations League: Frankrike-Belgien</title>
-    <desc lang="sv">(R) Fotboll från UEFA Nations League 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665238"/>
-  </programme>
-  <programme start="20240913141500 +0000" stop="20240913161500 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">UEFA Nations League: Nederländerna-Tyskland</title>
-    <desc lang="sv">(R) Fotboll från UEFA Nations League 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665238"/>
-  </programme>
-  <programme start="20240913161500 +0000" stop="20240913182000 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">UEFA Nations League: England-Finland</title>
-    <desc lang="sv">(R) Fotboll från UEFA Nations League 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665238"/>
-  </programme>
-  <programme start="20240913182000 +0000" stop="20240913203000 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">Bundesliga: Dortmund-Heidenheim</title>
-    <desc lang="sv">Fotboll från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/620697"/>
-    <country lang="sv">DE</country>
-  </programme>
-  <programme start="20240913203000 +0000" stop="20240913210000 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">Premier League Preview</title>
-    <desc lang="sv">Fotbollsmagasin från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/663958"/>
-    <country lang="sv">GB</country>
-  </programme>
-  <programme start="20240913210000 +0000" stop="20240913230000 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">Championship: Hull-Sheffield United</title>
-    <desc lang="sv">(R) Fotboll från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665630"/>
-    <country lang="sv">GB</country>
-  </programme>
-  <programme start="20240913230000 +0000" stop="20240913233000 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">UEFA Champions League Magazine</title>
-    <desc lang="sv">Svensk fotbollsmagasin från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665449"/>
-    <country lang="sv">SE</country>
-  </programme>
   <programme start="20240913233000 +0000" stop="20240913040000 +0000" channel="viasatsportpremium.se">
     <title lang="sv">Sändningsuppehåll</title>
     <category lang="sv">Other</category>
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
-  </programme>
-  <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240913070000 +0000" stop="20240913094500 +0000" channel="viasatsportpremium.se">
     <title lang="sv">Inget program</title>
@@ -15546,76 +14378,11 @@
   <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="vfootball.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240913070000 +0000" stop="20240913101500 +0000" channel="vfootball.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913101500 +0000" stop="20240913121500 +0000" channel="vfootball.se">
-    <title lang="sv">UEFA Nations League: Portugal-Skottland</title>
-    <desc lang="sv">(R) Fotboll från UEFA Nations League 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665238"/>
-  </programme>
-  <programme start="20240913121500 +0000" stop="20240913141500 +0000" channel="vfootball.se">
-    <title lang="sv">UEFA Nations League: Schweiz-Spanien</title>
-    <desc lang="sv">(R) Fotboll från UEFA Nations League 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665238"/>
-  </programme>
-  <programme start="20240913141500 +0000" stop="20240913144500 +0000" channel="vfootball.se">
-    <title lang="sv">PL Stories</title>
-    <desc lang="sv">(R) Fotbollsmagasin från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/641183"/>
-    <country lang="sv">GB</country>
-  </programme>
-  <programme start="20240913144500 +0000" stop="20240913164500 +0000" channel="vfootball.se">
-    <title lang="sv">UEFA Nations League: Sverige-Estland</title>
-    <desc lang="sv">(R) Fotboll från UEFA Nations League 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665238"/>
-  </programme>
-  <programme start="20240913164500 +0000" stop="20240913185500 +0000" channel="vfootball.se">
-    <title lang="sv">UEFA Nations League: Danmark-Serbien</title>
-    <desc lang="sv">(R) Fotboll från UEFA Nations League 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665238"/>
-  </programme>
-  <programme start="20240913185500 +0000" stop="20240913210000 +0000" channel="vfootball.se">
-    <title lang="sv">Championship: Hull-Sheffield United</title>
-    <desc lang="sv">Fotboll från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665630"/>
-    <country lang="sv">GB</country>
-  </programme>
-  <programme start="20240913210000 +0000" stop="20240913230000 +0000" channel="vfootball.se">
-    <title lang="sv">Bundesliga: Dortmund-Heidenheim</title>
-    <desc lang="sv">(R) Fotboll från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/620697"/>
-    <country lang="sv">DE</country>
-  </programme>
   <programme start="20240913230000 +0000" stop="20240913040000 +0000" channel="vfootball.se">
     <title lang="sv">Sändningsuppehåll</title>
     <category lang="sv">Other</category>
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
-  </programme>
-  <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="vfootball.se">
-    <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240913070000 +0000" stop="20240913101500 +0000" channel="vfootball.se">
     <title lang="sv">Inget program</title>
@@ -15756,73 +14523,11 @@
   <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="viasatsportvinter.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240913070000 +0000" stop="20240913100000 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913100000 +0000" stop="20240913120000 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">NHL: New York Islanders-New York Rangers</title>
-    <desc lang="sv">(R) Ishockey från NHL 2023/24.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Icehockey</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/557029"/>
-    <country lang="sv">US</country>
-    <episode-num system="onscreen">E222</episode-num>
-  </programme>
-  <programme start="20240913120000 +0000" stop="20240913140000 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">CHL: Ocelari Trinec-Växjö Lakers</title>
-    <desc lang="sv">(R) Ishockey från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Icehockey</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/645265"/>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20240913140000 +0000" stop="20240913160000 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">CHL: Fehervar AV19-Färjestad BK</title>
-    <desc lang="sv">(R) Ishockey från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Icehockey</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/645265"/>
-    <episode-num system="onscreen">E8</episode-num>
-  </programme>
-  <programme start="20240913160000 +0000" stop="20240913180000 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">NHL: Buffalo Sabres-Anaheim Ducks</title>
-    <desc lang="sv">(R) Ishockey från NHL 2023/24.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Icehockey</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/557029"/>
-    <country lang="sv">US</country>
-    <episode-num system="onscreen">E225</episode-num>
-  </programme>
-  <programme start="20240913180000 +0000" stop="20240913200000 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">NHL: Vegas Golden Knights-Nashville Predators</title>
-    <desc lang="sv">(R) Ishockey från NHL 2023/24.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Icehockey</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/557029"/>
-    <country lang="sv">US</country>
-    <episode-num system="onscreen">E241</episode-num>
-  </programme>
-  <programme start="20240913200000 +0000" stop="20240913220000 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">CHL: Skellefteå AIK-Lahti Pelicans</title>
-    <desc lang="sv">(R) Ishockey från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Icehockey</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/645265"/>
-  </programme>
   <programme start="20240913220000 +0000" stop="20240913040000 +0000" channel="viasatsportvinter.se">
     <title lang="sv">Sändningsuppehåll</title>
     <category lang="sv">Other</category>
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
-  </programme>
-  <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240913070000 +0000" stop="20240913100000 +0000" channel="viasatsportvinter.se">
     <title lang="sv">Inget program</title>
@@ -16006,141 +14711,11 @@
   <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="viasatmotor.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240913070000 +0000" stop="20240913092500 +0000" channel="viasatmotor.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913092500 +0000" stop="20240913104500 +0000" channel="viasatmotor.se">
-    <title lang="sv">Formel 1: Azerbajdzjans GP-Träning 1</title>
-    <sub-title lang="sv">Azerbajdzjans GP - Träning 1</sub-title>
-    <desc lang="sv">Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Formula 1</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/602343"/>
-    <episode-num system="onscreen">E84</episode-num>
-  </programme>
-  <programme start="20240913104500 +0000" stop="20240913114500 +0000" channel="viasatmotor.se">
-    <title lang="sv">NASCAR Highlights: Cup Series Quaker State 400</title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Motor Sports</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/642515"/>
-    <country lang="sv">US</country>
-    <episode-num system="onscreen">E69</episode-num>
-  </programme>
-  <programme start="20240913114500 +0000" stop="20240913125500 +0000" channel="viasatmotor.se">
-    <title lang="sv">NASCAR Highlights: Xfinity Series Focused Health 250</title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Motor Sports</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/642515"/>
-    <country lang="sv">US</country>
-  </programme>
-  <programme start="20240913125500 +0000" stop="20240913140500 +0000" channel="viasatmotor.se">
-    <title lang="sv">Formel 1: Azerbajdzjans GP-Träning 2</title>
-    <sub-title lang="sv">Azerbajdzjans GP - Träning 2</sub-title>
-    <desc lang="sv">Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Formula 1</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/602343"/>
-    <episode-num system="onscreen">E85</episode-num>
-  </programme>
-  <programme start="20240913140500 +0000" stop="20240913150500 +0000" channel="viasatmotor.se">
-    <title lang="sv">DTM Highlights: Sachsenring</title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Motor Sports</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/653301"/>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20240913150500 +0000" stop="20240913160000 +0000" channel="viasatmotor.se">
-    <title lang="sv">IMSA Sportscar Championship Highlights: Michelin Challenge at VIR</title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Motor Sports</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/646006"/>
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20240913160000 +0000" stop="20240913170000 +0000" channel="viasatmotor.se">
-    <title lang="sv">Formel 1 Highlights: Azerbajdzjans GP</title>
-    <desc lang="sv">(R) Motorsport från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Formula 1</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/512804"/>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20240913170000 +0000" stop="20240913181500 +0000" channel="viasatmotor.se">
-    <title lang="sv">Formel 1: Azerbajdzjans GP-Träning 1</title>
-    <sub-title lang="sv">Azerbajdzjans GP - Träning 1</sub-title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Formula 1</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/602343"/>
-    <episode-num system="onscreen">E84</episode-num>
-  </programme>
-  <programme start="20240913181500 +0000" stop="20240913193000 +0000" channel="viasatmotor.se">
-    <title lang="sv">Formel 1: Azerbajdzjans GP-Träning 2</title>
-    <sub-title lang="sv">Azerbajdzjans GP - Träning 2</sub-title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Formula 1</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/602343"/>
-    <episode-num system="onscreen">E85</episode-num>
-  </programme>
-  <programme start="20240913193000 +0000" stop="20240913200000 +0000" channel="viasatmotor.se">
-    <title lang="sv">Mobil 1: The Grid</title>
-    <desc lang="sv">(R) Magasin.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/611617"/>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20240913200000 +0000" stop="20240913210000 +0000" channel="viasatmotor.se">
-    <title lang="sv">Formel 1 Highlights: Nederländernas GP</title>
-    <sub-title lang="sv">Nederländernas GP</sub-title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Formula 1</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/646011"/>
-    <episode-num system="onscreen">E15</episode-num>
-  </programme>
-  <programme start="20240913210000 +0000" stop="20240913220500 +0000" channel="viasatmotor.se">
-    <title lang="sv">Formel 1 Highlights: Italiens GP</title>
-    <sub-title lang="sv">Italiens GP</sub-title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Formula 1</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/646011"/>
-    <episode-num system="onscreen">E16</episode-num>
-  </programme>
-  <programme start="20240913220500 +0000" stop="20240913230000 +0000" channel="viasatmotor.se">
-    <title lang="sv">IMSA Sportscar Championship Highlights: Michelin Challenge at VIR</title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Motor Sports</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/646006"/>
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
   <programme start="20240913230000 +0000" stop="20240913040000 +0000" channel="viasatmotor.se">
     <title lang="sv">Sändningsuppehåll</title>
     <category lang="sv">Other</category>
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
-  </programme>
-  <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="viasatmotor.se">
-    <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240913070000 +0000" stop="20240913092500 +0000" channel="viasatmotor.se">
     <title lang="sv">Inget program</title>
@@ -16279,9 +14854,6 @@
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240912230000 +0000" stop="20240912020000 +0000" channel="viasatsport.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240912040000 +0000" stop="20240912070000 +0000" channel="viasatsport.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240912070000 +0000" stop="20240912100000 +0000" channel="viasatsport.se">
@@ -16450,185 +15022,7 @@
   <programme start="20240913020000 +0000" stop="20240913040000 +0000" channel="viasatsport.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="viasatsport.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913070000 +0000" stop="20240913100000 +0000" channel="viasatsport.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913100000 +0000" stop="20240913110000 +0000" channel="viasatsport.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913110000 +0000" stop="20240913120000 +0000" channel="viasatsport.se">
-    <title lang="sv">Premier League Review</title>
-    <desc lang="sv">Fotbollsmagasin från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/663700"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20240913120000 +0000" stop="20240913123000 +0000" channel="viasatsport.se">
-    <title lang="sv">Premier League Stories</title>
-    <desc lang="sv">Brittisk dokumentärserie från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sport Documentary</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664920"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">E35</episode-num>
-  </programme>
-  <programme start="20240913123000 +0000" stop="20240913130000 +0000" channel="viasatsport.se">
-    <title lang="sv">Championship Highlights</title>
-    <desc lang="sv">Fotbollsmagasin från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/663950"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20240913130000 +0000" stop="20240913133000 +0000" channel="viasatsport.se">
-    <title lang="sv">Track &amp; Field Weekly</title>
-    <desc lang="sv">Magasin.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/300604"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">E21</episode-num>
-  </programme>
-  <programme start="20240913133000 +0000" stop="20240913140000 +0000" channel="viasatsport.se">
-    <title lang="sv">Track &amp; Field Weekly</title>
-    <desc lang="sv">Magasin.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/300604"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">E22</episode-num>
-  </programme>
-  <programme start="20240913140000 +0000" stop="20240913143000 +0000" channel="viasatsport.se">
-    <title lang="sv">MLB: Plays Of The Week</title>
-    <desc lang="sv">Baseball från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Baseball</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/654589"/>
-    <country lang="sv">US</country>
-  </programme>
-  <programme start="20240913143000 +0000" stop="20240913150000 +0000" channel="viasatsport.se">
-    <title lang="sv">MLB: Plays Of The Week</title>
-    <desc lang="sv">Baseball från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Baseball</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/654589"/>
-    <country lang="sv">US</country>
-  </programme>
-  <programme start="20240913150000 +0000" stop="20240913160000 +0000" channel="viasatsport.se">
-    <title lang="sv">Premier League Review</title>
-    <desc lang="sv">Fotbollsmagasin från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/663700"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20240913160000 +0000" stop="20240913170000 +0000" channel="viasatsport.se">
-    <title lang="sv">Bundesliga Highlights</title>
-    <desc lang="sv">Tyskt fotbollsmagasin från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664917"/>
-    <country lang="sv">DE</country>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20240913170000 +0000" stop="20240913180000 +0000" channel="viasatsport.se">
-    <title lang="sv">Trans World Sport</title>
-    <desc lang="sv">Sportmagasin från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/611692"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">E35</episode-num>
-  </programme>
-  <programme start="20240913180000 +0000" stop="20240913183000 +0000" channel="viasatsport.se">
-    <title lang="sv">Track &amp; Field Weekly</title>
-    <desc lang="sv">Magasin.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/300604"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">E21</episode-num>
-  </programme>
-  <programme start="20240913183000 +0000" stop="20240913190000 +0000" channel="viasatsport.se">
-    <title lang="sv">Track &amp; Field Weekly</title>
-    <desc lang="sv">Magasin.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/300604"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">E22</episode-num>
-  </programme>
-  <programme start="20240913190000 +0000" stop="20240913200000 +0000" channel="viasatsport.se">
-    <title lang="sv">Bundesliga Highlights</title>
-    <desc lang="sv">Tyskt fotbollsmagasin från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664917"/>
-    <country lang="sv">DE</country>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20240913200000 +0000" stop="20240913210000 +0000" channel="viasatsport.se">
-    <title lang="sv">Holländska ligan Highlights</title>
-    <desc lang="sv">Fotbollsmagasin från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664901"/>
-    <country lang="sv">NL</country>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20240913210000 +0000" stop="20240913213000 +0000" channel="viasatsport.se">
-    <title lang="sv">MLB: Plays Of The Week</title>
-    <desc lang="sv">Baseball från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Baseball</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/654589"/>
-    <country lang="sv">US</country>
-  </programme>
-  <programme start="20240913213000 +0000" stop="20240913220000 +0000" channel="viasatsport.se">
-    <title lang="sv">MLB: Plays Of The Week</title>
-    <desc lang="sv">Baseball från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Baseball</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/654589"/>
-    <country lang="sv">US</country>
-  </programme>
-  <programme start="20240913220000 +0000" stop="20240913230000 +0000" channel="viasatsport.se">
-    <title lang="sv">Trans World Sport</title>
-    <desc lang="sv">Sportmagasin från 2023.</desc>
-    <date>2023</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/611692"/>
-    <country lang="sv">GB</country>
-    <episode-num system="onscreen">E35</episode-num>
-  </programme>
   <programme start="20240913230000 +0000" stop="20240913020000 +0000" channel="viasatsport.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20240913020000 +0000" stop="20240913040000 +0000" channel="viasatsport.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20240913040000 +0000" stop="20240913070000 +0000" channel="viasatsport.se">
@@ -30037,13 +28431,13 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/05/26/15/32/56/stb_xl_8941d7c11812efa5a8bbf181b52e1008bd0dd263.jpg"/>
   </programme>
   <programme start="20240912090000 +0000" stop="20240912130000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis - Davis Cup: Czechia - Spain</title>
+    <title lang="sr">Tenis - Davis Cup (Valencia): Czechia - Spain</title>
     <desc lang="sr">Dejvis Kup je elitno ekipno takmičenje za tenisere. Svake godine 16 najboljih reprezentacija sveta kreće u trku za osvajanje popularne Salatare.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/11/18/00/08/35/stb_xl_ef32142f6f1658420e988f2e6c9f0ddbb9c2c64d_964519b42aca500e27626e7518e593fc.jpg"/>
   </programme>
   <programme start="20240912130000 +0000" stop="20240912183000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis - Davis Cup: Holland - Brazil</title>
+    <title lang="sr">Tenis - Davis Cup (Bologna): Holland - Brazil</title>
     <desc lang="sr">Dejvis Kup je elitno ekipno takmičenje za tenisere. Svake godine 16 najboljih reprezentacija sveta kreće u trku za osvajanje popularne Salatare. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/11/18/00/08/35/stb_xl_ef32142f6f1658420e988f2e6c9f0ddbb9c2c64d_964519b42aca500e27626e7518e593fc.jpg"/>
@@ -30055,11 +28449,18 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/05/25/15/07/06/stb_xl_fastzone_2880x1620_sk.jpg"/>
   </programme>
-  <programme start="20240912190000 +0000" stop="20240912223000 +0000" channel="sportklub2.rs">
-    <title lang="sr">WTA 500 Guadalajara</title>
+  <programme start="20240912190000 +0000" stop="20240912204500 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 500 Guadalajara: Stefanini - Bouzkova</title>
     <desc lang="sr">Bliži se kraj WTA sezone. Prošle sezone, ovde je bilo veliko finale, sada poslednja šansa da se sakupe bodovi za završni turnir u Teksasu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_6ef5783be691e3d24ea7b27a71e0662e.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_2e6932afcfd807511b3662d73086ca44b91fac2f_8afab60e6994aaed322d7dcbf10f2c7e.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240912204500 +0000" stop="20240912223000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 500 Guadalajara: Garcia - Shibahara</title>
+    <desc lang="sr">Bliži se kraj WTA sezone. Prošle sezone, ovde je bilo veliko finale, sada poslednja šansa da se sakupe bodovi za završni turnir u Teksasu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_2e6932afcfd807511b3662d73086ca44b91fac2f_8afab60e6994aaed322d7dcbf10f2c7e.jpg"/>
     <premiere/>
   </programme>
   <programme start="20240912223000 +0000" stop="20240912230000 +0000" channel="sportklub2.rs">
@@ -30069,7 +28470,7 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/14/06/56/stb_xl_cdea72dbac3ad3552dada60326352c9c89ceea45_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
   <programme start="20240912230000 +0000" stop="20240913021000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis - Davis Cup: Australia - Czechia</title>
+    <title lang="sr">Tenis - Davis Cup (Valencia): Australia - Czechia</title>
     <desc lang="sr">Dejvis Kup je elitno ekipno takmičenje za tenisere. Svake godine 16 najboljih reprezentacija sveta kreće u trku za osvajanje popularne Salatare.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/11/18/00/08/35/stb_xl_ef32142f6f1658420e988f2e6c9f0ddbb9c2c64d_964519b42aca500e27626e7518e593fc.jpg"/>
