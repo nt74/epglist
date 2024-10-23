@@ -757,7 +757,7 @@
   </programme>
   <programme start="20241024031500 +0000" stop="20241024040000 +0000" channel="svt1.se">
     <title lang="sv">Go'kväll</title>
-    <sub-title lang="sv">Avsnitt 112</sub-title>
+    <sub-title lang="sv">Det amerikanska valet</sub-title>
     <desc lang="sv">(R) Svenskt magasin från 2024.</desc>
     <date>2024</date>
     <category lang="sv">Leisure</category>
@@ -7865,9 +7865,6 @@
   <programme start="20241023232000 +0000" stop="20241023021500 +0000" channel="kunskapskanalen.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20241023070000 +0000" stop="20241023100000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Inget program</title>
-  </programme>
   <programme start="20241023100000 +0000" stop="20241023130000 +0000" channel="kunskapskanalen.se">
     <title lang="sv">Inget program</title>
   </programme>
@@ -11910,14 +11907,6 @@
     <country lang="sv">US</country>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20241023095000 +0000" stop="20241023120000 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">Ulsan - Vissel Kobe AFC Champions League</title>
-    <desc lang="sv">Fotboll från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626555"/>
-  </programme>
   <programme start="20241023120000 +0000" stop="20241023122900 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">La Liga Power</title>
     <desc lang="sv">(R) Fotbollsmagasin från 2024/25.</desc>
@@ -14386,9 +14375,6 @@
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
   </programme>
-  <programme start="20241023081500 +0000" stop="20241023110000 +0000" channel="vsportextra.se">
-    <title lang="sv">Inget program</title>
-  </programme>
   <programme start="20241023110000 +0000" stop="20241023113000 +0000" channel="vsportextra.se">
     <title lang="sv">UEFA Champions League Magazine</title>
     <desc lang="sv">(R) Svensk fotbollsmagasin från 2024/25.</desc>
@@ -14728,15 +14714,6 @@
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
   </programme>
-  <programme start="20241023090000 +0000" stop="20241023100000 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">Holländska ligan Highlights</title>
-    <desc lang="sv">(R) Fotbollsmagasin från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664901"/>
-    <country lang="sv">NL</country>
-  </programme>
   <programme start="20241023100000 +0000" stop="20241023120000 +0000" channel="viasatsportpremium.se">
     <title lang="sv">Premier League: Wolverhampton-Manchester City</title>
     <desc lang="sv">(R) Fotboll från 2024/25.</desc>
@@ -14920,15 +14897,6 @@
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
   </programme>
-  <programme start="20241023093000 +0000" stop="20241023113000 +0000" channel="vfootball.se">
-    <title lang="sv">Premier League: Fulham-Aston Villa</title>
-    <desc lang="sv">(R) Fotboll från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/618035"/>
-    <country lang="sv">GB</country>
-  </programme>
   <programme start="20241023113000 +0000" stop="20241023133000 +0000" channel="vfootball.se">
     <title lang="sv">Bundesliga: Bayern München-Stuttgart</title>
     <desc lang="sv">(R) Fotboll från 2024/25.</desc>
@@ -15108,9 +15076,6 @@
     <category lang="sv">Icehockey</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/667219"/>
     <country lang="sv">US</country>
-  </programme>
-  <programme start="20241023100000 +0000" stop="20241023103000 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">Inget program</title>
   </programme>
   <programme start="20241023103000 +0000" stop="20241023113000 +0000" channel="viasatsportvinter.se">
     <title lang="sv">NHL On The Fly</title>
@@ -15303,9 +15268,6 @@
     <category lang="sv">Other</category>
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
-  </programme>
-  <programme start="20241023100000 +0000" stop="20241023110000 +0000" channel="viasatmotor.se">
-    <title lang="sv">Inget program</title>
   </programme>
   <programme start="20241023110000 +0000" stop="20241023130000 +0000" channel="viasatmotor.se">
     <title lang="sv">MotoGP: Australien MotoGP-Race</title>
@@ -15512,9 +15474,6 @@
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20241023230000 +0000" stop="20241023020000 +0000" channel="viasatsport.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20241023060000 +0000" stop="20241023090000 +0000" channel="viasatsport.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20241023090000 +0000" stop="20241023110000 +0000" channel="viasatsport.se">
@@ -15853,7 +15812,7 @@
     <category lang="el">Ενημ. εκπομπή</category>
     <icon src="https://www.ishow.gr/files/images/2021/3/800f9e40-f4c1-4837-8f8c-3c55b1e1c708.jpg"/>
   </programme>
-  <programme start="20241023092000 +0300" stop="20241023124500 +0300" channel="mega.gr">
+  <programme start="20241023092000 +0300" stop="20241023125000 +0300" channel="mega.gr">
     <title lang="el">Buongiorno, notte</title>
     <credits>
       <director>Μάρκο Μπελόκιο</director>
@@ -15875,23 +15834,10 @@
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/files/images/2009/11/6/ebbc3e31-8e29-4f16-96b4-c3b1103f00f5.jpg"/>
   </programme>
-  <programme start="20241023124500 +0300" stop="20241023134000 +0300" channel="mega.gr">
-    <title lang="el">Μεσημβρινό δελτίο ειδήσεων MEGA</title>
-    <desc lang="el">Παρακολουθήστε πως διαμορφώνεται η επικαιρότητα της ημέρας, στην Ελλάδα και στον κόσμο, μέσα από το πιο δυναμικό δελτίο της ελληνικής τηλεόρασης. Ρεπορτάζ και ζωντανές συνδέσεις για όλα τα γεγονότα, την ώρα που συμβαίνουν.
-Η ισχυρή δημοσιογραφική ομάδα του σταθμού μεταδίδει τον παλμό των εξελίξεων, με έγκυρη και ψύχραιμη ματιά. Το μεσημβρινό δελτίο ειδήσεων καταγράφει όλες τις εξελίξεις έως το μεσημέρι από την Ελλάδα και τον κόσμο. Με ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις τα MEGA Γεγονότα βρίσκονται στον  πυρήνα των εξελίξεων και ενημερώνουν  για όσα συμβαίνουν στον κόσμο.
-Όλες οι τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο με έγκυρη και αντικειμενική ματιά στο μεσημβρινό δελτίο του MEGA. Χωρίς εντυπωσιασμούς. Με προσήλωση και σεβασμό στις αξίες της ενημέρωσης.
-Καθημερινά στις 13.00 το μεσημβρινό δελτίο ειδήσεων μεταδίδει με σαφήνεια και αξιοπιστία όλες τις ειδήσεις για την καθημερινότητα των πολιτών, τις εξελίξεις στην χώρα και τον κόσμο, την κοινωνία, την πολιτική, με διεισδυτικά ρεπορτάζ και ζωντανές συνδέσεις από τον τόπο των εξελίξεων.
-
-Παρουσίαση:
-Δευτέρα – Παρασκευή:  Δώρα Αναγνωστοπούλου
-Σάββατο – Κυριακή: Παρουσίαση: Μαριλένα Γεραντώνη.</desc>
-    <credits>
-      <actor role="Παρουσίαση">Δώρα Αναγνωστοπούλου</actor>
-      <actor role="Παρουσίαση">Μαριλένα Γεραντώνη</actor>
-      <actor role="Αθλητικές ειδήσεις">Ευρυδίκη Γούση</actor>
-    </credits>
-    <category lang="el">Ειδήσεις</category>
-    <icon src="https://www.ishow.gr/files/images/2013/9/25/b24bcc53-7159-4561-80bf-41551c434e8b.jpg"/>
+  <programme start="20241023125000 +0300" stop="20241023134000 +0300" channel="mega.gr">
+    <title lang="el">Έχω Παιδιά</title>
+    <desc lang="el">Η Σάρα και ο Μιχάλης 'Έχουν παιδιά' και πλέον η ζωή τους ως ζευγάρι βρίσκεται σε... άλλη διάσταση. Η καθημερινότητα τους προσγειώνεται από το ροζ συννεφάκι σε μια ξεκαρδιστική 'συνωμοσία', όπου η καθημερινή ρουτίνα γίνεται περιπέτεια. Το περιβάλλον του ζευγαριού προσαρμόζεται στις νέες συνθήκες.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
   </programme>
   <programme start="20241023134000 +0300" stop="20241023155000 +0300" channel="mega.gr">
     <title lang="el">Πάμε Δανάη!</title>
@@ -16228,33 +16174,7 @@
     </credits>
     <icon src="https://www.ishow.gr/files/images/2022/9/b9ab14d3-719c-4633-b0be-72281057f557.jpg"/>
   </programme>
-  <programme start="20241023130000 +0300" stop="20241023133000 +0300" channel="ant1.gr">
-    <title lang="el">ΑΝΤ1 News</title>
-    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα του ANT1.</desc>
-    <credits>
-      <actor>Γιώργος Κούρος</actor>
-      <actor>Μαρία Σαράφογλου</actor>
-      <actor>Νικόλας Βαφειάδης</actor>
-    </credits>
-    <category lang="el">Ειδήσεις</category>
-    <icon src="https://www.ishow.gr/files/images/2021/3/2395b8a1-c4dc-4aed-9f93-6c7ba67cec7a.jpg"/>
-  </programme>
-  <programme start="20241023133000 +0300" stop="20241023135000 +0300" channel="ant1.gr">
-    <title lang="el">Τώρα για το Μέλλον</title>
-    <desc lang="el">Οι προκλήσεις, οι προοπτικές, αλλά και όλα όσα γίνονται ΤΩΡΑ και οδηγούν σε μια νέα ψηφιακή και «πράσινη» εποχή! Το ενημερωτικό ένθετο «Τώρα για το Μέλλον», με τον Γιώργο Κούρο και την Ηρώ Ράντου κάνει focus σε μια νέα επιχειρηματική κουλτούρα που διαθέτει δυναμική, καινοτομία και υπευθυνότητα για την κοινωνία και το περιβάλλον, συμβάλλοντας σε ένα βιώσιμο ΜΕΛΛΟΝ για όλους!</desc>
-    <credits>
-      <actor>Γιώργος Κούρος</actor>
-      <actor>Ηρώ Ράντου</actor>
-    </credits>
-    <icon src="https://www.ishow.gr/files/images/2022/9/e9ba35ad-31d5-413a-b10a-1a586cf5c4ef.jpg"/>
-  </programme>
-  <programme start="20241023135000 +0300" stop="20241023140000 +0300" channel="ant1.gr">
-    <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική Γλώσσα</title>
-    <desc lang="el">Ο ΑΝΤ1 παρουσιάζει το δελτίο ειδήσεων στη νοηματική γλώσσα για άτομα με προβλήματα ακοής και ομιλίας.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <icon src="https://www.ishow.gr/files/images/2021/3/3a2fc5f0-e592-4f29-b65f-0c17418ead53.jpg"/>
-  </programme>
-  <programme start="20241023140000 +0300" stop="20241023150000 +0300" channel="ant1.gr">
+  <programme start="20241023130000 +0300" stop="20241023150000 +0300" channel="ant1.gr">
     <title lang="el">Κωνσταντίνου και Ελένης</title>
     <desc lang="el">Η συνύπαρξη δύο διαφορετικών ανθρώπων και οι αντιδράσεις στα ποικίλα γεγονότα της καθημερινής ζωής είναι το θέμα της σειράς. Ο Θόδωρος Κατακουζηνός, πεθαίνοντας, αφήνει δυο χειρόγραφες διαθήκες, γραμμένες την ίδια μέρα, χωρίς να αναγράφεται η ώρα σύνταξής τους.Στη μια κληροδοτεί το νεοκλασικό σπίτι του στο Μαρούσι στον ανιψιό του Κωνσταντίνο Κατακουζηνό, ενώ στην άλλη, το κληροδοτεί στην Ελένη Βλαχάκου, κόρη του πιστού του κηπουρού. Ο Κωνσταντίνος Κατακουζηνός είναι επίκουρος καθηγητής της Βυζαντινολογίας, συντηρητικός, προγονολάτρης, εσωστρεφής, πικρόχολος και γενικά μισάνθρωπος. Η Ελένη Βλαχάκου είναι μια χαρούμενη και "έξω καρδιά" κοπέλα, πρώην "φρικιό", που έχει περάσει δια πυρός και σιδήρου, καμένη από τους άνδρες με τους οποίους είχε διάφορους άτυχους δεσμούς. Εργάζεται σαν σερβιτόρα και ψάχνει να δημιουργήσει σχέση, που θα την ισορροπήσει.Ο καθένας από τους δυο ήρωες θεωρεί ότι η διαθήκη που τον αφορά είναι η έγκυρη. Αρνούνται να βρουν συμβιβαστική λύση, κυρίως εξαιτίας της αδιαλλαξίας του Κωνσταντίνου. Ετσι, θα καταφύγουν στα δικαστήρια, ενώ αποφασίζουν κρυφά ο ένας από τον άλλον - ο μεν Κωνσταντίνος από ιδιοτροπία, η δε Ελένη από οικονομική ανάγκη - να κατοικήσουν στο σπίτι. Από τη συμβίωση των δυο άκρως αντίθετων χαρακτήρων δημιουργούνται διάφορα ευτράπελα. Τους ήρωές μας ενώνει κάτι κοινό, μια αδιόρατη υπόγεια ερωτική έλξη.</desc>
     <credits>
@@ -16443,7 +16363,7 @@
     </credits>
     <icon src="https://www.ishow.gr/files/images/2022/9/b9ab14d3-719c-4633-b0be-72281057f557.jpg"/>
   </programme>
-  <programme start="20241024130000 +0300" stop="20241024135000 +0300" channel="ant1.gr">
+  <programme start="20241024130000 +0300" stop="20241024133000 +0300" channel="ant1.gr">
     <title lang="el">ΑΝΤ1 News</title>
     <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα του ANT1.</desc>
     <credits>
@@ -16453,6 +16373,15 @@
     </credits>
     <category lang="el">Ειδήσεις</category>
     <icon src="https://www.ishow.gr/files/images/2021/3/2395b8a1-c4dc-4aed-9f93-6c7ba67cec7a.jpg"/>
+  </programme>
+  <programme start="20241024133000 +0300" stop="20241024135000 +0300" channel="ant1.gr">
+    <title lang="el">Τώρα για το Μέλλον</title>
+    <desc lang="el">Οι προκλήσεις, οι προοπτικές, αλλά και όλα όσα γίνονται ΤΩΡΑ και οδηγούν σε μια νέα ψηφιακή και «πράσινη» εποχή! Το ενημερωτικό ένθετο «Τώρα για το Μέλλον», με τον Γιώργο Κούρο και την Ηρώ Ράντου κάνει focus σε μια νέα επιχειρηματική κουλτούρα που διαθέτει δυναμική, καινοτομία και υπευθυνότητα για την κοινωνία και το περιβάλλον, συμβάλλοντας σε ένα βιώσιμο ΜΕΛΛΟΝ για όλους!</desc>
+    <credits>
+      <actor>Γιώργος Κούρος</actor>
+      <actor>Ηρώ Ράντου</actor>
+    </credits>
+    <icon src="https://www.ishow.gr/files/images/2022/9/e9ba35ad-31d5-413a-b10a-1a586cf5c4ef.jpg"/>
   </programme>
   <programme start="20241024135000 +0300" stop="20241024140000 +0300" channel="ant1.gr">
     <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική Γλώσσα</title>
@@ -16539,7 +16468,7 @@
     <desc lang="el">ο Σάκης Τανιμανίδης και ο Γιώργος Μαυρίδης ξαναενώνονται σε ένα 'Reunion', που μέσα από 12 συναρπαστικά επεισόδια θα μας ταξιδέψει από τους γορίλες στην ομίχλη της Ουγκάντας, στην έρημο του Φεστιβάλ 'Burning Man' στη Νεβάδα και στην κουλτούρα K-Pop της Σεούλ, αλλά και ακόμα πιο μακριά!</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/2.png"/>
   </programme>
-  <programme start="20241023003000 +0300" stop="20241023024500 +0300" channel="alpha.gr">
+  <programme start="20241023005500 +0300" stop="20241023031000 +0300" channel="alpha.gr">
     <title lang="el">Δρόμος από πάγο</title>
     <desc lang="el">Μετά την κατάρρευση ενός ορυχείου διαμαντιών στα βόρεια του Καναδά, ένας οδηγός νταλίκας δέχεται να ηγηθεί μιας αποστολής διάσωσης των παγιδευμένων ανθρακωρύχων. Δεν φαντάζεται, όμως, τις προκλήσεις που πρέπει να αντιμετωπίσει.</desc>
     <credits>
@@ -16561,7 +16490,7 @@
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/files/images/2022/4/58697f44-afb9-4bee-aff0-d00274d6ec25.jpg"/>
   </programme>
-  <programme start="20241023024500 +0300" stop="20241023051500 +0300" channel="alpha.gr">
+  <programme start="20241023031000 +0300" stop="20241023051500 +0300" channel="alpha.gr">
     <title lang="el">Πρόγευμα στο Τίφανις</title>
     <desc lang="el">Η Χόλι είναι μία εκκεντρική Νεοϋορκέζα, αποφασισμένη να παντρευτεί έναν Βραζιλιάνο εκατομμυριούχο. Ο Τζωρτζ Πέπαρντ είναι ο γείτονάς της, ένας συγγραφέας που «επιχορηγείται» από την πλούσια Πατρίσια Νηλ. Είναι εύκολο να μαντέψει κανείς ποιός είναι ο ιδανικός άντρας για τη Χόλι.</desc>
     <credits>
@@ -16649,29 +16578,11 @@
     <icon src="https://www.ishow.gr/files/images/2014/10/6/ec48510f-3dd7-4cad-a490-77258a789365.jpg"/>
     <episode-num system="onscreen">S3 E27</episode-num>
   </programme>
-  <programme start="20241023140000 +0300" stop="20241023144000 +0300" channel="alpha.gr">
-    <title lang="el">Ειδήσεις</title>
-    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα του Alpha TV.</desc>
-    <credits>
-      <actor>Μαρία Νικόλτσιου</actor>
-      <actor>Παναγιώτης Σουρέλης</actor>
-      <actor>Χρύσανθος Κασελόγλου</actor>
-      <actor>Έφη Μπαρμπάτση</actor>
-    </credits>
-    <category lang="el">Ειδήσεις</category>
-    <icon src="https://www.ishow.gr/files/images/2021/3/07ee3c90-32ca-4a82-aae1-81ea8c3ca834.jpg"/>
-  </programme>
-  <programme start="20241023144000 +0300" stop="20241023150000 +0300" channel="alpha.gr">
-    <title lang="el">Δελτίο ειδήσεων στη νοηματική γλώσσα</title>
-    <desc lang="el">Με ταυτόχρονη εμφάνιση υποτίτλων [Ν/Γ]. Ο Alpha TV παρουσιάζει το δελτίο ειδήσεων στη νοηματική γλώσσα για άτομα με προβλήματα ακοής και ομιλίας.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <icon src="https://www.ishow.gr/files/images/2021/3/f70ab561-9dde-4a89-80cb-91710e220f95.jpg"/>
-  </programme>
-  <programme start="20241023150000 +0300" stop="20241023155000 +0300" channel="alpha.gr">
-    <title lang="el">Το σόι σου</title>
-    <desc lang="el">Του κοριτσιού απέναντιΣτο ρόλο της Ισμήνης η Μάρα Δαρμουσλή Μια καινούργια γειτόνισσα έρχεται να αναστατώσει τους Τριαντάφυλλους. Η πανέμορφη Ισμήνη της διπλανής πόρτας γίνεται αιτία να ξυπνήσει ο ανταγωνισμός ανάμεσα στα τρία αγόρια της οικογένειας, όταν μαθαίνουν πως η Αλεξάνδρα την έχει καλέσει για φαγητό. Ποιος απ’ τους τρεις αρέσει περισσότερο σε μια γυναίκα; Έχει σημασία αν είσαι παντρεμένος; Τι κοιτάει τελικά μια γυναίκα σε έναν άντρα; Πους απς, κοιλιακοί, παιχνίδια γνώσεων και εντυπωσιασμού είναι μόνο η αρχή. Το τέλος θα ‘ρθει όταν τους καταλάβουν η Λυδία και η Αντωνία! Και θα ‘ναι τελείως διαφορετικό απ’ ό,τι έχουν φανταστεί….</desc>
-    <icon src="https://www.ishow.gr/files/images/2014/10/6/ec48510f-3dd7-4cad-a490-77258a789365.jpg"/>
-    <episode-num system="onscreen">S3 E28</episode-num>
+  <programme start="20241023140000 +0300" stop="20241023155000 +0300" channel="alpha.gr">
+    <title lang="el">Η Κατάρα της Τζέλας Δελαφράγκα</title>
+    <desc lang="el">Οι απειλές του Σώτου γίνονται όλο και πιο πιεστικές στην αδελφή Κατσάμπα. Η Κατσάμπα δεν ξέρει τι να κάνει και ξαφνικά της μπαίνει η ιδέα να κρύψει το σκελετό της πεθεράς της Αλέξις και να βάλει στη θέση του έναν αρχαίο σκελετό.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
+    <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
   <programme start="20241023155000 +0300" stop="20241023164500 +0300" channel="alpha.gr">
     <title lang="el">Οικογενειακές ιστορίες</title>
@@ -17026,24 +16937,15 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/4.png"/>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20241023150000 +0300" stop="20241023154500 +0300" channel="star.gr">
-    <title lang="el">STAR News</title>
-    <desc lang="el">Διακεκριμένοι δημοσιογράφοι παρουσιάζουν και αναλύουν όλες τις εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο, ενώ έμπειροι αναλυτές σχολιάζουν τις πολιτικές και οικονομικές εξελίξεις και μας ενημερώνουν για όλα τα ζητήματα που μας απασχολούν. Περιλαμβάνει ειδήσεις και στη νοηματική γλώσσα.</desc>
+  <programme start="20241023150000 +0300" stop="20241023155000 +0300" channel="star.gr">
+    <title lang="el">Cash or Trash</title>
+    <desc lang="el">Cash or Trash, η πρώτη εκπομπή στην ελληνική τηλεόραση που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, επιστρέφει στην οθόνη του Star ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος!</desc>
     <credits>
-      <director>Σάκης Σιάρκος</director>
-      <actor>Μάρα Ζαχαρέα</actor>
-      <actor>Γιώργος Ευγενίδης</actor>
-      <actor>Κατερίνα Τσαμούρη</actor>
-      <actor>Ράνια Τραγόμαλλου</actor>
-      <actor>Σπύρος Λάμπρου</actor>
+      <director>Jo Σισμάνογλου</director>
+      <actor>Δέσποινα Μοιραράκη</actor>
+      <producer>Green Pixel</producer>
     </credits>
-    <category lang="el">Ειδήσεις</category>
-    <icon src="https://www.ishow.gr/files/images/2021/3/8fe0366b-ab15-4b7e-bf77-4a3a2b68e6c5.jpg"/>
-  </programme>
-  <programme start="20241023154500 +0300" stop="20241023155000 +0300" channel="star.gr">
-    <title lang="el">Ειδήσεις στη Νοηματική Γλώσσα</title>
-    <desc lang="el">Το Star παρουσιάζει το δελτίο ειδήσεων στη νοηματική γλώσσα για άτομα με προβλήματα ακοής και ομιλίας. Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/4.png"/>
+    <icon src="https://www.ishow.gr/files/images/2023/5/17309e6f-4e4c-4208-9ccc-4ba0e3ab4e5c.jpg"/>
   </programme>
   <programme start="20241023155000 +0300" stop="20241023173000 +0300" channel="star.gr">
     <title lang="el">Shopping Star</title>
@@ -17535,13 +17437,15 @@
     <icon src="https://www.ishow.gr/files/images/2023/10/f41875fa-f05a-45ae-a654-302babd63fb9.jpg"/>
   </programme>
   <programme start="20241023130000 +0300" stop="20241023140000 +0300" channel="epsilontv.gr">
-    <title lang="el">Open News - Μεσημεριανό Δελτίο</title>
-    <desc lang="el">Στην καρδιά της ημέρας το πρώτο ολοκληρωμένο δελτίο. Ενημερώνουμε τον τηλεθεατή με σοβαρότητα, νηφαλιότητα και ψύχραιμη ματιά συγκεντρώνοντας τα θέματα της ημέρας σ' ένα γρήγορο, σαφές και περιεκτικό δελτίο με όσα χρειάζεται να γνωρίζει ο πολίτης.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
+    <title lang="el">Εικόνες</title>
+    <desc lang="el">Η αγαπημένη ταξιδιωτική εκπομπή συνεχίζει τις περιπλανήσεις της στην Ελλάδα και το εξωτερικό και μας δείχνει τις πιο όμορφες Εικόνες, με τον Τάσο Δούση. Ο παρουσιαστής και δημοσιογράφος Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες». Με μήνυμα «Δεν ταξιδεύουμε για εμάς αλλά ταξιδεύουμε για εσάς», ο Τάσος Δούσης κάνει τους τηλεθεατές συνταξιδιώτες του, «ταξιδεύοντας» το κοινό μέσα από ένα οδοιπορικό στους πιο συναρπαστικούς προορισμούς.Από την Καππαδοκία της Τουρκίας μέχρι το πολύβουο Λος Άντζελες και το Λας Βέγκας της Αμερικής, από τις εξωτικές Μαλδίβες μέχρι και την απροσπέλαστη Νότια Κορέα, από το Ουζμπεκιστάν και τον πανάρχαιο πολιτισμό μέχρι το Ντουμπάι -τη δύση της Ανατολής-, ο Τάσος Δούσης αναδεικνύει τις ιδιαίτερες ιστορίες του κάθε πολιτισμού και της κάθε χώρας. Συναντά ντόπιους, αναζητά την παράδοση, τα αξιοθέατα, τις εμπειρίες που προσφέρει ο κάθε προορισμός και δοκιμάζει τα τοπικά φαγητά.</desc>
+    <credits>
+      <actor>Τάσος Δούσης</actor>
+    </credits>
+    <icon src="https://www.ishow.gr/files/images/2022/11/7692d92d-a16b-4a17-80f6-62fec9925964.jpg"/>
   </programme>
   <programme start="20241023140000 +0300" stop="20241023161500 +0300" channel="epsilontv.gr">
-    <title lang="el">Open Τώρα!</title>
-    <desc lang="el">Ό,τι συμβαίνει είναι στο OPEN ΤΩΡΑ! Όλη η επικαιρότητα, αποκλειστικά νέα αλλά και αποκαλύψεις που θα συζητηθούν.</desc>
+    <title lang="el">Σαν Ψέμα</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
   </programme>
   <programme start="20241023161500 +0300" stop="20241023163000 +0300" channel="epsilontv.gr">
@@ -17710,9 +17614,26 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
   </programme>
   <programme start="20241024210000 +0300" stop="20241024233000 +0300" channel="epsilontv.gr">
-    <title lang="el">Ταινία</title>
-    <desc lang="el">Ταινία. (150').</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
+    <title lang="el">Love Is Love Is Love</title>
+    <desc lang="el">Ένα ζευγάρι πασχίζει να διαχειριστεί τη μεταξύ του απόσταση, ένα αντρόγυνο αναζωπυρώνει τον έρωτά του, και μια νεαρή γυναίκα συναντά τις φίλες της εκλιπούσας μητέρας της... Τρεις διαφορετικές ιστορίες με κεντρικό άξονα την αγάπη.</desc>
+    <credits>
+      <director>Eleanor Coppola</director>
+      <actor role="Anne">Ροζάνα Αρκέτ</actor>
+      <actor role="Man on boat">Τζάστιν Ashforth</actor>
+      <actor role="Diana">Κάθι Μπέικερ</actor>
+      <actor role="John">Marshall Bell</actor>
+      <actor role="Dock Boy">Caleb Cabrera</actor>
+      <actor role="Patty">Νάνσι Carlin</actor>
+      <actor role="Montana Patron">Regina Coppola</actor>
+      <actor role="Single Man">Todd DeVincenzi</actor>
+      <actor role="Milly / Marlene">Polly Draper</actor>
+      <actor role="Montana Patron">Stephanie Gamble</actor>
+      <writer>Eleanor Coppola</writer>
+      <composer>Laura Karpman</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr/files/images/2021/11/e63d492b-7ace-47cf-a9a5-7a6a8a4ff1a7.jpg"/>
   </programme>
   <programme start="20241023011000 +0300" stop="20241023020000 +0300" channel="ert1.gr">
     <title lang="el">Αρχελάου 5</title>
@@ -17745,7 +17666,7 @@
     </credits>
     <icon src="https://www.ishow.gr/files/images/2022/8/72841105-5aca-4127-85de-c128ce6781bf.jpg"/>
   </programme>
-  <programme start="20241023090000 +0300" stop="20241023120000 +0300" channel="ert1.gr">
+  <programme start="20241023090000 +0300" stop="20241023113000 +0300" channel="ert1.gr">
     <title lang="el">Πρωίαν σε είδον</title>
     <desc lang="el">Ο Φώτης Σεργουλόπουλος και η Τζένη Μελιτά επιστρέφουν και μας προσφέρουν καθημερινά δύο ώρες ψυχαγωγίας, διασκέδασης και ενημέρωσης.</desc>
     <credits>
@@ -17754,28 +17675,37 @@
     </credits>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/123.png"/>
   </programme>
-  <programme start="20241023120000 +0300" stop="20241023130000 +0300" channel="ert1.gr">
-    <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
-    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
+  <programme start="20241023113000 +0300" stop="20241023132000 +0300" channel="ert1.gr">
+    <title lang="el">Ο εαυτούλης μου</title>
+    <desc lang="el">Ο Γιάγκος Αγγελής (Λάμπρος Κωνσταντάρας), διευθυντής ενός εργοστασίου, είναι ο τύπος του κλασικού φίλαυτου. Ενδιαφέρεται μόνο για τον εαυτό του, ενώ είναι αρραβωνιασμένος, εδώ και πέντε χρόνια, με την Ελένη (Μπεάτα Ασημακοπούλου) την οποία δεν λέει να παντρευτεί. Ταυτόχρονα συνδέεται ερωτικά με την τσαχπίνα γραμματέα του, τη Λιλή, την οποία θέλει να παντρέψει μ’ έναν άβουλο υπάλληλό του, για να την έχει του χεριού του. Όταν μαθαίνει ότι η κυρία Παπαγεωργίου (Μιράντα Μυράτ), η χήρα του ιδιοκτήτη του εργοστασίου, σκοπεύει να ξαναπαντρευτεί, δεν διστάζει να θέσει υποψηφιότητα. Όμως, ο υπέρμετρος εγωισμός του και η ανεύθυνη συμπεριφορά του, τον οδηγούν στην πλήρη απομόνωση, καθώς τον εγκαταλείπουν οι πάντες.</desc>
     <credits>
-      <actor>Μαρία Σιώζου</actor>
-      <actor>Αλεξάνδρα Δουβαρά</actor>
-      <actor>Αντριάνα Παρασκευοπούλου</actor>
+      <director>Ορέστης Λάσκος</director>
+      <actor>Γιώργος Γαβριηλίδης</actor>
+      <actor>Κώστας Μεντής</actor>
+      <actor>Δημήτρης Νικολαΐδης</actor>
+      <actor>Κώστας Πίτσιος</actor>
+      <actor>Μπεάτα Ασημακοπούλου</actor>
+      <actor>Γιώργος Κωνσταντίνου</actor>
+      <actor>Θανάσης Μυλωνάς</actor>
+      <actor>Μιράντα Μυράτ</actor>
+      <actor>Ζωή Φυτούση</actor>
+      <actor>Άννα Μαντζουράνη</actor>
+      <composer>Λάμπρος Κωνσταντάρας</composer>
     </credits>
-    <icon src="https://www.ishow.gr/files/images/2022/11/35f400fc-fa8a-438d-95f1-08636d7afc35.jpg"/>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/123.png"/>
   </programme>
-  <programme start="20241023130000 +0300" stop="20241023140000 +0300" channel="ert1.gr">
+  <programme start="20241023132000 +0300" stop="20241023143000 +0300" channel="ert1.gr">
     <title lang="el">Ηλέκτρα</title>
     <desc lang="el">Όλοι είναι παγωμένοι από την εξαφάνιση του Βρεττού, έχει μπλεχτεί πλέον και η ΚΥΠ, κι έχουν έρθει ενισχύσεις από την Αθήνα. Πρέπει να έχουν απάντηση άμεσα, δεν γίνεται ο άρχων του τόπου να είναι εξαφανισμένος τόσο καιρό. (2023).</desc>
     <icon src="https://www.ishow.gr/files/images/2023/10/eb57ccee-b3dc-4d4a-a21f-48fc9262c6ce.jpg"/>
     <episode-num system="onscreen">S3 E33</episode-num>
   </programme>
-  <programme start="20241023140000 +0300" stop="20241023150000 +0300" channel="ert1.gr">
+  <programme start="20241023143000 +0300" stop="20241023153000 +0300" channel="ert1.gr">
     <title lang="el">ΠΟΠ Μαγειρική</title>
     <desc lang="el">Ο Ανδρέας Λαγός υποδέχεται στο στούντιο της 'ΠΟΠ Μαγειρικής' τον ηθοποιό Μανώλη Γεραπετρίτη. Μαζί δημιουργούν δύο υπέροχα πιάτα, το πρώτο με κρίταμο Σύρου και το δεύτερο με αγουρέλαιο Χαλκιδικής. Παραγωγή: Ελλάδα (2024).</desc>
     <icon src="https://www.ishow.gr/files/images/2023/5/88953df9-ef72-4296-b456-a11e1243b5b8.jpg"/>
   </programme>
-  <programme start="20241023150000 +0300" stop="20241023180000 +0300" channel="ert1.gr">
+  <programme start="20241023153000 +0300" stop="20241023180000 +0300" channel="ert1.gr">
     <title lang="el">Στούντιο 4</title>
     <desc lang="el">Η καθαρή και σύγχρονη ματιά στα ζητήματα της επικαιρότητας, η πλούσια θεματολογία και η θετική ενέργεια των παρουσιαστών είναι αυτά που κάνουν το «Στούντιο 4» το πιο ξεχωριστό μαγκαζίνο της ελληνικής τηλεόρασης. Μαζί με τη Νάνσυ και τον Θανάση παρακολουθούμε συνεντεύξεις που εμπνέουν, γινόμαστε μέρος μιας όμορφης παρέας, και γνωρίζουμε ανθρώπους της διπλανής πόρτας που αξίζουν το θαυμασμό μας! Παίρνουμε ιδέες για μικρές απολαύσεις που μπορούν να ανανεώσουν την καθημερινότητα μας, και μένουμε πάντα ενημερωμένοι για τις νέες τάσεις, τον πολιτισμό και όλα τα θέματα που μας αφορούν! Ένα μοναδικό κοκτέιλ, με συστατικά τη χαλάρωση, τη διασκέδαση και την ενημέρωση, ειδικά φτιαγμένο για να καλύπτει τις ανάγκες του σύγχρονου ανθρώπου!</desc>
     <credits>
@@ -21967,14 +21897,9 @@
     <desc lang="el">Ο Άλεξ αναλαμβάνει μια αποστολή για τη Σκόρπια για να αποδείξει την αφοσίωσή του, με τον Τομ και την Κάιρα να ακολουθούν ελπίζοντας να τον σώσουν.</desc>
     <icon src="https://www.ishow.gr/files/images/2020/7/cfebb47a-bc8e-45d7-938c-8e01b125634f_pposter.jpg"/>
   </programme>
-  <programme start="20241023000500 +0300" stop="20241023013000 +0300" channel="cosmotesport1.gr">
+  <programme start="20241023000500 +0300" stop="20241023020000 +0300" channel="cosmotesport1.gr">
     <title lang="el">UEFA Champions League Show 2024-25</title>
     <desc lang="el">Δείτε όλη τη δράση των αγώνων του UEFA Champions League. Περιγραφή: Μιχάλης Τσόχος, Βασίλης Σαμπράκος.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
-  </programme>
-  <programme start="20241023013000 +0300" stop="20241023020000 +0300" channel="cosmotesport1.gr">
-    <title lang="el">Sports Classics: My Sporting Moment</title>
-    <desc lang="el">Κορυφαίοι αθλητές μιλούν για την καλύτερη στιγμή της καριέρας τους.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
   <programme start="20241023020000 +0300" stop="20241023040000 +0300" channel="cosmotesport1.gr">
@@ -22022,12 +21947,17 @@
     <desc lang="el">UEFA Champions League 2024-25. League Phase, 3η Αγωνιστική. Στην 33η σεζόν του UEFA Champions League, καθεμιά από τις 36 ομάδες στη φάση των ομίλων δίνει 8 αναμετρήσεις εναντίον διαφορετικών αντιπάλων. Ο τελικός θα φιλοξενηθεί στην Allianz Arena του Μονάχου. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
-  <programme start="20241023173000 +0300" stop="20241023183000 +0300" channel="cosmotesport1.gr">
+  <programme start="20241023173000 +0300" stop="20241023180000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Sports Classics: My Sporting Moment</title>
+    <desc lang="el">Κορυφαίοι αθλητές μιλούν για την καλύτερη στιγμή της καριέρας τους.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
+  </programme>
+  <programme start="20241023180000 +0300" stop="20241023190000 +0300" channel="cosmotesport1.gr">
     <title lang="el">UEFA Champions League - Στιγμιότυπα 2024-25</title>
     <desc lang="el">Τα καλύτερα στιγμιότυπα της αγωνιστικής του UEFA Champions League. Στιγμές γεμάτες πάθος, δυνατές μάχες και τα καλύτερα γκολ που ξεχώρισαν ανά αγωνιστική ημέρα αφιερωμένα στην κορυφαία διοργάνωση.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
-  <programme start="20241023183000 +0300" stop="20241023194500 +0300" channel="cosmotesport1.gr">
+  <programme start="20241023190000 +0300" stop="20241023194500 +0300" channel="cosmotesport1.gr">
     <title lang="el">UEFA Champions League Show 2024-25</title>
     <desc lang="el">Δείτε όλη τη δράση των αγώνων του UEFA Champions League. Περιγραφή: Μιχάλης Τσόχος, Βασίλης Σαμπράκος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
@@ -22042,14 +21972,9 @@
     <desc lang="el">Παρακολουθήστε λεπτό προς λεπτό όλη την αγωνιστική δράση από την κορυφαία διασυλλογική διοργάνωση της Ευρώπης. Περιγραφή: Μιχάλης Τσόχος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
-  <programme start="20241024000500 +0300" stop="20241024013000 +0300" channel="cosmotesport1.gr">
+  <programme start="20241024000500 +0300" stop="20241024020000 +0300" channel="cosmotesport1.gr">
     <title lang="el">UEFA Champions League Show 2024-25</title>
     <desc lang="el">Δείτε όλη τη δράση των αγώνων του UEFA Champions League. Περιγραφή: Μιχάλης Τσόχος, Βασίλης Σαμπράκος.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
-  </programme>
-  <programme start="20241024013000 +0300" stop="20241024020000 +0300" channel="cosmotesport1.gr">
-    <title lang="el">Sports Classics: My Sporting Moment</title>
-    <desc lang="el">Κορυφαίοι αθλητές μιλούν για την καλύτερη στιγμή της καριέρας τους.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
   <programme start="20241024020000 +0300" stop="20241024040000 +0300" channel="cosmotesport1.gr">
@@ -22374,9 +22299,20 @@
     <desc lang="el">Στιγμιότυπα από το NBA.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20241023013000 +0300" stop="20241023023000 +0300" channel="cosmotesport4.gr">
+  <programme start="20241023000500 +0300" stop="20241023014000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Pick n' Roll</title>
+    <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
+  </programme>
+  <programme start="20241023014000 +0300" stop="20241023020000 +0300" channel="cosmotesport4.gr">
     <title lang="el">NBA Specials</title>
-    <desc lang="el">Στιγμιότυπα από το NBA.</desc>
+    <desc lang="el">75 Stories: Thomas, Paul, Archibald &amp; Westbrook. Στιγμιότυπα από το NBA.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20241023020000 +0300" stop="20241023023000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">NBA Championship Ring Ceremony 2024</title>
+    <desc lang="el">Παρακολουθήστε την απονομή των δαχτυλιδιών στους πρωταθλητές του NBA της σεζόν 2023-24, Μπόστον Σέλτικς. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
   <programme start="20241023023000 +0300" stop="20241023053000 +0300" channel="cosmotesport4.gr">
@@ -22748,7 +22684,12 @@
     <desc lang="el">Βασιλεία. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20241023123000 +0300" stop="20241023150000 +0300" channel="cosmotesport6.gr">
+  <programme start="20241023123000 +0300" stop="20241023130000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: ATP 500 2024</title>
+    <desc lang="el">Βασιλεία. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20241023130000 +0300" stop="20241023150000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Βόλεϊ: Ολυμπιακός - Κορόνα Μπράσοβ</title>
     <desc lang="el">CEV Champions League Ανδρών 2025. 3ος Προκριματικός Γύρος, 2η Αγωνιστική. Η 66η σεζόν του CEV Champions League Ανδρών φιλοξενεί 20 ομάδες στη φάση των ομίλων. Η ιταλική Τρεντίνο είναι η κάτοχος του τροπαίου. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
@@ -23204,7 +23145,7 @@
     <icon src="https://www.ishow.gr/files/images/2024/10/3460edad-35b3-4e8f-ade0-d1304000911e.jpg"/>
   </programme>
   <programme start="20241023193000 +0300" stop="20241023213000 +0300" channel="novasports4.gr">
-    <title lang="el">Άνκαρα - Βαλένθια (Ζ) : EuroCup 2024/25</title>
+    <title lang="el">Άνκαρα - Βαλένθια : EuroCup 2024/25</title>
     <desc lang="el">EuroCup 2024/25. Η Άνκαρα (3-1) προέρχεται από την πρώτη της ήττα κόντρα στην Μπουργκ εκτός και φιλοξενεί στην 5η αγωνιστική του 2ου ομίλου τη Βαλένθια (4-0), που έκανε το τέσσερα στα τέσσερα.</desc>
     <icon src="https://www.ishow.gr/files/images/2024/10/495441ae-8398-42e0-9644-1c7add35ddd1.jpg"/>
   </programme>
@@ -26807,7 +26748,7 @@
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241024230000 +0200" stop="20241024233000 +0200" channel="arenasport1.rs">
-    <title lang="bs">One žive za fudbal - ep. 29</title>
+    <title lang="bs">One žive za fudbal - ep. 29 RFK NOVI SAD</title>
   </programme>
   <programme start="20241024233000 +0200" stop="20241025013000 +0200" channel="arenasport1.rs">
     <title lang="bs">Hull - Sunderland</title>
@@ -26859,8 +26800,13 @@
     <desc lang="bs">ŠPANSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241023180000 +0200" stop="20241023190000 +0200" channel="arenasport2.rs">
+  <programme start="20241023180000 +0200" stop="20241023183000 +0200" channel="arenasport2.rs">
     <title lang="bs">Buduće zvezde Arene</title>
+  </programme>
+  <programme start="20241023183000 +0200" stop="20241023190000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Sea to Sky, Turkey, pregled</title>
+    <desc lang="bs">FIM HARD ENDURO.</desc>
+    <category lang="bs">Auto moto</category>
   </programme>
   <programme start="20241023190000 +0200" stop="20241023210000 +0200" channel="arenasport2.rs">
     <title lang="bs">Uživo: Eldense - Zaragoza</title>
@@ -26944,7 +26890,7 @@
     <title lang="bs">Oni žive za fudbal - FK KELTI - Novi Beograd</title>
   </programme>
   <programme start="20241023013000 +0200" stop="20241023033000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Rubin - Dinamo</title>
+    <title lang="bs">Dynamo (Ma) - CSKA</title>
     <desc lang="bs">RUSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
@@ -27205,9 +27151,7 @@
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241024180000 +0200" stop="20241024184500 +0200" channel="arenasport4.rs">
-    <title lang="bs">Pregled 22.10.</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
-    <category lang="bs">Fudbal</category>
+    <title lang="bs">Teme do Arene</title>
   </programme>
   <programme start="20241024184500 +0200" stop="20241024210000 +0200" channel="arenasport4.rs">
     <title lang="bs">Uživo: Maccabi  Real Sociedad</title>
@@ -27244,10 +27188,15 @@
     <desc lang="bs">FIBA 3X3 WT MACAU.</desc>
     <category lang="bs">Basket 3x3</category>
   </programme>
-  <programme start="20241023123000 +0200" stop="20241023160000 +0200" channel="arenasport5.rs">
+  <programme start="20241023123000 +0200" stop="20241023150000 +0200" channel="arenasport5.rs">
     <title lang="bs">Skate America, parovi</title>
     <desc lang="bs">ISU GRAND PRIX.</desc>
     <category lang="bs">Umetničko klizanje</category>
+  </programme>
+  <programme start="20241023150000 +0200" stop="20241023160000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Live stage 4</title>
+    <desc lang="bs">WRC CENTRAL EUROPEAN RALLY.</desc>
+    <category lang="bs">Auto moto</category>
   </programme>
   <programme start="20241023160000 +0200" stop="20241023180000 +0200" channel="arenasport5.rs">
     <title lang="bs">Polufinala i finale</title>
@@ -27313,7 +27262,7 @@
     <category lang="bs">Skokovi u vodu</category>
   </programme>
   <programme start="20241024180000 +0200" stop="20241024183000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Xross Hard Enduro Rally Romania, pregled</title>
+    <title lang="bs">Sea to Sky, Turkey, pregled</title>
     <desc lang="bs">FIM HARD ENDURO.</desc>
     <category lang="bs">Auto moto</category>
   </programme>
@@ -27490,14 +27439,9 @@
     <desc lang="bs">TURSKA LIGA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
-  <programme start="20241023060000 +0200" stop="20241023073000 +0200" channel="arenasport7.rs">
+  <programme start="20241023060000 +0200" stop="20241023080000 +0200" channel="arenasport7.rs">
     <title lang="bs">Vardar - Porto</title>
     <desc lang="bs">LIGA EVROPE.</desc>
-    <category lang="bs">Rukomet</category>
-  </programme>
-  <programme start="20241023073000 +0200" stop="20241023080000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Pregled 5. kola</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Rukomet</category>
   </programme>
   <programme start="20241023080000 +0200" stop="20241023093000 +0200" channel="arenasport7.rs">
@@ -27521,8 +27465,8 @@
     <category lang="bs">Vaterpolo</category>
   </programme>
   <programme start="20241023143000 +0200" stop="20241023163000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Virtus - Tortona</title>
-    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <title lang="bs">Hapoel Holon - Igokea</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
   <programme start="20241023163000 +0200" stop="20241023180000 +0200" channel="arenasport7.rs">
@@ -27582,8 +27526,8 @@
     <category lang="bs">Rukomet</category>
   </programme>
   <programme start="20241024093000 +0200" stop="20241024113000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Virtus - Tortona</title>
-    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <title lang="bs">Unicaja - Petkimspor</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
   <programme start="20241024113000 +0200" stop="20241024133000 +0200" channel="arenasport7.rs">
