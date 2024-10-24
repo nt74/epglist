@@ -7865,9 +7865,6 @@
   <programme start="20241023232000 +0000" stop="20241023021500 +0000" channel="kunskapskanalen.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20241023100000 +0000" stop="20241023130000 +0000" channel="kunskapskanalen.se">
-    <title lang="sv">Inget program</title>
-  </programme>
   <programme start="20241023130000 +0000" stop="20241023134000 +0000" channel="kunskapskanalen.se">
     <title lang="sv">Nordiska dyslexikongressen 2024</title>
     <sub-title lang="sv">Avsnitt 5</sub-title>
@@ -11907,16 +11904,6 @@
     <country lang="sv">US</country>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20241023120000 +0000" stop="20241023122900 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">La Liga Power</title>
-    <desc lang="sv">(R) Fotbollsmagasin från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">La Liga</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/666270"/>
-    <country lang="sv">ES</country>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
   <programme start="20241023122900 +0000" stop="20241023130000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Sverige springer</title>
     <desc lang="sv">(R) Magasinsprogram om löpning från 2024.</desc>
@@ -14375,15 +14362,6 @@
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
   </programme>
-  <programme start="20241023110000 +0000" stop="20241023113000 +0000" channel="vsportextra.se">
-    <title lang="sv">UEFA Champions League Magazine</title>
-    <desc lang="sv">(R) Svensk fotbollsmagasin från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665449"/>
-    <country lang="sv">SE</country>
-  </programme>
   <programme start="20241023113000 +0000" stop="20241023120000 +0000" channel="vsportextra.se">
     <title lang="sv">DP World Tour Highlights: Fedex Open de France</title>
     <desc lang="sv">(R) Golf från 2024.</desc>
@@ -14714,15 +14692,6 @@
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
   </programme>
-  <programme start="20241023100000 +0000" stop="20241023120000 +0000" channel="viasatsportpremium.se">
-    <title lang="sv">Premier League: Wolverhampton-Manchester City</title>
-    <desc lang="sv">(R) Fotboll från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/624260"/>
-    <country lang="sv">GB</country>
-  </programme>
   <programme start="20241023120000 +0000" stop="20241023140000 +0000" channel="viasatsportpremium.se">
     <title lang="sv">Premier League: Liverpool-Chelsea</title>
     <desc lang="sv">(R) Fotboll från 2024/25.</desc>
@@ -14897,15 +14866,6 @@
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
   </programme>
-  <programme start="20241023113000 +0000" stop="20241023133000 +0000" channel="vfootball.se">
-    <title lang="sv">Bundesliga: Bayern München-Stuttgart</title>
-    <desc lang="sv">(R) Fotboll från 2024/25.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Football</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/635156"/>
-    <country lang="sv">DE</country>
-  </programme>
   <programme start="20241023133000 +0000" stop="20241023153000 +0000" channel="vfootball.se">
     <title lang="sv">Championship: Oxford-West Bromwich</title>
     <desc lang="sv">(R) Fotboll från 2024/25.</desc>
@@ -15075,15 +15035,6 @@
     <category lang="sv">Sport</category>
     <category lang="sv">Icehockey</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/667219"/>
-    <country lang="sv">US</country>
-  </programme>
-  <programme start="20241023103000 +0000" stop="20241023113000 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">NHL On The Fly</title>
-    <desc lang="sv">Magasin.</desc>
-    <date>2020</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Sports Magazine</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/299590"/>
     <country lang="sv">US</country>
   </programme>
   <programme start="20241023113000 +0000" stop="20241023133000 +0000" channel="viasatsportvinter.se">
@@ -15268,15 +15219,6 @@
     <category lang="sv">Other</category>
     <category lang="sv">To Be Announced</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/626882"/>
-  </programme>
-  <programme start="20241023110000 +0000" stop="20241023130000 +0000" channel="viasatmotor.se">
-    <title lang="sv">MotoGP: Australien MotoGP-Race</title>
-    <desc lang="sv">(R) Motorsport från 2024.</desc>
-    <date>2024</date>
-    <category lang="sv">Sport</category>
-    <category lang="sv">Moto Racing</category>
-    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/646532"/>
-    <episode-num system="onscreen">E199</episode-num>
   </programme>
   <programme start="20241023130000 +0000" stop="20241023140000 +0000" channel="viasatmotor.se">
     <title lang="sv">NASCAR Highlights: Cup Series South Point 400</title>
@@ -15474,9 +15416,6 @@
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20241023230000 +0000" stop="20241023020000 +0000" channel="viasatsport.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20241023090000 +0000" stop="20241023110000 +0000" channel="viasatsport.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20241023110000 +0000" stop="20241023120000 +0000" channel="viasatsport.se">
