@@ -21166,20 +21166,83 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <desc lang="el">Αθλητική Εκπομπή. Η μακροβιότερη εκπομπή του Novasports κλείνει την ποδοσφαιρική βραδιά με εκλεκτούς καλεσμένους, συνεντεύξεις από τους πρωταγωνιστές και αναλύσεις όσων συνέβησαν στον αγωνιστικό χώρο!</desc>
     <icon src="https://www.ishow.gr/files/images/2022/8/dc4f9253-4f53-4578-95f1-1445daa93deb.jpg"/>
   </programme>
-  <programme start="20241025060000 +0200" stop="20241025070000 +0200" channel="abcwabc.us">
+  <programme start="20241025053500 +0200" stop="20241025063700 +0200" channel="abcwabc.us">
+    <title lang="en">Jimmy Kimmel Live!</title>
+    <sub-title lang="en">Tim Walz; Judd Apatow</sub-title>
+    <desc lang="en">Gov. Tim Walz (D-Minn.); film producer Judd Apatow.Guests: Tim Walz, Judd Apatow..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241025063700 +0200" stop="20241025070600 +0200" channel="abcwabc.us">
+    <title lang="en">Nightline</title>
+    <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025070600 +0200" stop="20241025080500 +0200" channel="abcwabc.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Actress Juno Temple ("Venom: The Last Dance"); author James Patterson ("American Heroes"); Duff Goldman shows how to make some easy Halloween treats.Guests: Juno Temple, James Patterson, Duff Goldman..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241025080500 +0200" stop="20241025083500 +0200" channel="abcwabc.us">
+    <title lang="en">Daytime Jeopardy</title>
+    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241025083500 +0200" stop="20241025090500 +0200" channel="abcwabc.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025090500 +0200" stop="20241025100000 +0200" channel="abcwabc.us">
+    <title lang="en">Tamron Hall</title>
+    <sub-title lang="en">Men We Love</sub-title>
+    <desc lang="en">Emmy, Peabody and Grammy award winning actor, director and producer LeVar Burton (show "Trivial Pursuit"); George Lopez talks about his stand-up comedy, and daughter Mayan tells how real life inspired "Lopez vs Lopez."Guests: LeVar Burton, George Lopez, Mayan Lopez..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241025100000 +0200" stop="20241025103000 +0200" channel="abcwabc.us">
+    <title lang="en">Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025103000 +0200" stop="20241025120000 +0200" channel="abcwabc.us">
     <title lang="en">Eyewitness News This Morning</title>
     <desc lang="en">News coverage to start the day.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025070000 +0200" stop="20241025090000 +0200" channel="abcwabc.us">
+  <programme start="20241025120000 +0200" stop="20241025130000 +0200" channel="abcwabc.us">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025130000 +0200" stop="20241025150000 +0200" channel="abcwabc.us">
     <title lang="en">Good Morning America</title>
     <desc lang="en">Actress Nicole Scherzinger; singer Elton John; actress Katie Brayben and songwriter Jake Shears.</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025090000 +0200" stop="20241025100000 +0200" channel="abcwabc.us">
+  <programme start="20241025150000 +0200" stop="20241025160000 +0200" channel="abcwabc.us">
     <title lang="en">Live with Kelly and Mark</title>
     <desc lang="en">Actress Emmy Rossum (off-Broadway's "Walden"); Dr. Jessica Shepherd talks about breast cancer awareness month.Guests: Emmy Rossum, Jessica Shepherd..</desc>
     <category lang="en">Talk Shows</category>
@@ -21188,12 +21251,12 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20241025100000 +0200" stop="20241025110000 +0200" channel="abcwabc.us">
+  <programme start="20241025160000 +0200" stop="20241025170000 +0200" channel="abcwabc.us">
     <title lang="en">Eyewitness News Mornings at 10</title>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025110000 +0200" stop="20241025120000 +0200" channel="abcwabc.us">
+  <programme start="20241025170000 +0200" stop="20241025180000 +0200" channel="abcwabc.us">
     <title lang="en">The View</title>
     <desc lang="en">Former Gov. Chris Christie (R-N.J.).Guests: Chris Christie..</desc>
     <category lang="en">Talk Shows</category>
@@ -21202,20 +21265,20 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20241025120000 +0200" stop="20241025130000 +0200" channel="abcwabc.us">
+  <programme start="20241025180000 +0200" stop="20241025190000 +0200" channel="abcwabc.us">
     <title lang="en">Eyewitness News at Noon</title>
     <desc lang="en">Midday news update.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025130000 +0200" stop="20241025140000 +0200" channel="abcwabc.us">
+  <programme start="20241025190000 +0200" stop="20241025200000 +0200" channel="abcwabc.us">
     <title lang="en">GMA3: What You Need to Know</title>
     <desc lang="en">Faith Friday with Pastor Chad Veach; lifestyle and beauty expert Milly Almodovar; NBA photographer Nathaniel Butler; actor James Monroe Iglehart; the cast of Broadway's "A Wonderful World: The Louis Armstrong Musical."Guests: Chad Veach, Milly Almodovar, Nathaniel Butler, James Monroe Iglehart..</desc>
     <category lang="en">News</category>
     <category lang="en">Talk Shows</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025140000 +0200" stop="20241025150000 +0200" channel="abcwabc.us">
+  <programme start="20241025200000 +0200" stop="20241025210000 +0200" channel="abcwabc.us">
     <title lang="en">Tamron Hall</title>
     <sub-title lang="en">Changing the Way You Age</sub-title>
     <desc lang="en">Ways to help look and feel younger; model and entrepreneur Nicole Murphy; a "three-dimensional" approach to skin care; a menopause makeover; a 63-year-old viral bodybuilding sensation.Guests: Nicole Murphy..</desc>
@@ -21225,7 +21288,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20241025150000 +0200" stop="20241025160000 +0200" channel="abcwabc.us">
+  <programme start="20241025210000 +0200" stop="20241025220000 +0200" channel="abcwabc.us">
     <title lang="en">General Hospital</title>
     <desc lang="en">Elizabeth gets a happy surprise; Sasha confides in Nina; Diane is stunned; Anna checks in on Laura; Alexis awaits news on Sam.</desc>
     <credits>
@@ -21240,30 +21303,30 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20241025160000 +0200" stop="20241025170000 +0200" channel="abcwabc.us">
+  <programme start="20241025220000 +0200" stop="20241025230000 +0200" channel="abcwabc.us">
     <title lang="en">Eyewitness News First at 4</title>
     <desc lang="en">Local and regional news coverage.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025170000 +0200" stop="20241025180000 +0200" channel="abcwabc.us">
+  <programme start="20241025230000 +0200" stop="20241026000000 +0200" channel="abcwabc.us">
     <title lang="en">Eyewitness News at 5</title>
     <desc lang="en">Local and regional news.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025180000 +0200" stop="20241025183000 +0200" channel="abcwabc.us">
+  <programme start="20241026000000 +0200" stop="20241026003000 +0200" channel="abcwabc.us">
     <title lang="en">Eyewitness News at 6</title>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025183000 +0200" stop="20241025190000 +0200" channel="abcwabc.us">
+  <programme start="20241026003000 +0200" stop="20241026010000 +0200" channel="abcwabc.us">
     <title lang="en">ABC World News Tonight With David Muir</title>
     <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025190000 +0200" stop="20241025193000 +0200" channel="abcwabc.us">
+  <programme start="20241026010000 +0200" stop="20241026013000 +0200" channel="abcwabc.us">
     <title lang="en">Jeopardy!</title>
     <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
     <category lang="en">Game Shows</category>
@@ -21272,7 +21335,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025193000 +0200" stop="20241025200000 +0200" channel="abcwabc.us">
+  <programme start="20241026013000 +0200" stop="20241026020000 +0200" channel="abcwabc.us">
     <title lang="en">Wheel of Fortune</title>
     <sub-title lang="en">Happy Halloween</sub-title>
     <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
@@ -21282,7 +21345,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025200000 +0200" stop="20241025210100 +0200" channel="abcwabc.us">
+  <programme start="20241026020000 +0200" stop="20241026030100 +0200" channel="abcwabc.us">
     <title lang="en">Shark Tank</title>
     <desc lang="en">At-home seafood steam pots; fried chicken-shaped ice cream; a magnetic solution to safely secure skis and snowboards; a portable backyard golf game; Todd Graves guest sharks.Guests: Todd Graves..</desc>
     <category lang="en">Reality TV</category>
@@ -21291,20 +21354,20 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20241025210100 +0200" stop="20241025230000 +0200" channel="abcwabc.us">
+  <programme start="20241026030100 +0200" stop="20241026050000 +0200" channel="abcwabc.us">
     <title lang="en">20/20</title>
     <sub-title lang="en">Who killed Lita?</sub-title>
     <desc lang="en">A flower delivery turns deadly when a young woman is fatally shot at her front door.</desc>
     <category lang="en">News Magazine</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025230000 +0200" stop="20241025233500 +0200" channel="abcwabc.us">
+  <programme start="20241026050000 +0200" stop="20241026053500 +0200" channel="abcwabc.us">
     <title lang="en">Eyewitness News at 11</title>
     <desc lang="en">Breaking news.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025233500 +0200" stop="20241026003700 +0200" channel="abcwabc.us">
+  <programme start="20241026053500 +0200" stop="20241026053500 +0200" channel="abcwabc.us">
     <title lang="en">Jimmy Kimmel Live!</title>
     <sub-title lang="en">Morgan Freeman; Niecy Nash-Betts; Brad Paisley</sub-title>
     <desc lang="en">Actor Morgan Freeman; actress Niecy Nash-Betts; Brad Paisley sits in with Cleto and the Cletones.Guests: Morgan Freeman, Niecy Nash-Betts..</desc>
@@ -21315,14 +21378,25 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20241026003700 +0200" stop="20241026010600 +0200" channel="abcwabc.us">
+  <programme start="20241026053500 +0200" stop="20241026063700 +0200" channel="abcwabc.us">
+    <title lang="en">Jimmy Kimmel Live!</title>
+    <sub-title lang="en">Morgan Freeman; Niecy Nash-Betts; Brad Paisley</sub-title>
+    <desc lang="en">Actor Morgan Freeman; actress Niecy Nash-Betts; Brad Paisley sits in with Cleto and the Cletones.Guests: Morgan Freeman, Niecy Nash-Betts..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241026063700 +0200" stop="20241026070600 +0200" channel="abcwabc.us">
     <title lang="en">Nightline</title>
     <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026010600 +0200" stop="20241026020500 +0200" channel="abcwabc.us">
+  <programme start="20241026070600 +0200" stop="20241026080500 +0200" channel="abcwabc.us">
     <title lang="en">Live with Kelly and Mark</title>
     <desc lang="en">Actress Emmy Rossum (off-Broadway's "Walden"); Dr. Jessica Shepherd talks about breast cancer awareness month.Guests: Emmy Rossum, Jessica Shepherd..</desc>
     <category lang="en">Talk Shows</category>
@@ -21331,7 +21405,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20241026020500 +0200" stop="20241026023500 +0200" channel="abcwabc.us">
+  <programme start="20241026080500 +0200" stop="20241026083500 +0200" channel="abcwabc.us">
     <title lang="en">Daytime Jeopardy</title>
     <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
     <category lang="en">Game Shows</category>
@@ -21340,13 +21414,13 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026023500 +0200" stop="20241026030500 +0200" channel="abcwabc.us">
+  <programme start="20241026083500 +0200" stop="20241026090500 +0200" channel="abcwabc.us">
     <title lang="en">ABC World News Tonight With David Muir</title>
     <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026030500 +0200" stop="20241026040000 +0200" channel="abcwabc.us">
+  <programme start="20241026090500 +0200" stop="20241026100000 +0200" channel="abcwabc.us">
     <title lang="en">Tamron Hall</title>
     <sub-title lang="en">Changing the Way You Age</sub-title>
     <desc lang="en">Ways to help look and feel younger; model and entrepreneur Nicole Murphy; a "three-dimensional" approach to skin care; a menopause makeover; a 63-year-old viral bodybuilding sensation.Guests: Nicole Murphy..</desc>
@@ -21356,7 +21430,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20241026040000 +0200" stop="20241026043000 +0200" channel="abcwabc.us">
+  <programme start="20241026100000 +0200" stop="20241026103000 +0200" channel="abcwabc.us">
     <title lang="en">Secretly Awesome</title>
     <desc lang="en">The places, experiences and businesses around town that only the locals know about.</desc>
     <category lang="en">Performing Arts</category>
@@ -21365,7 +21439,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026043000 +0200" stop="20241026050000 +0200" channel="abcwabc.us">
+  <programme start="20241026103000 +0200" stop="20241026110000 +0200" channel="abcwabc.us">
     <title lang="en">My Go-To</title>
     <desc lang="en">Go-to spots for the places to be, people to see and things to do.</desc>
     <category lang="en">Performing Arts</category>
@@ -21374,7 +21448,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026050000 +0200" stop="20241026053000 +0200" channel="abcwabc.us">
+  <programme start="20241026110000 +0200" stop="20241026113000 +0200" channel="abcwabc.us">
     <title lang="en">Jeopardy!</title>
     <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
     <category lang="en">Game Shows</category>
@@ -21383,7 +21457,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026053000 +0200" stop="20241026060000 +0200" channel="abcwabc.us">
+  <programme start="20241026113000 +0200" stop="20241026120000 +0200" channel="abcwabc.us">
     <title lang="en">Animal Science</title>
     <sub-title lang="en">In Flight</sub-title>
     <desc lang="en">The lifecycle of the butterfly; how birds fly; how a Venus flytrap catches its prey.</desc>
@@ -21394,33 +21468,33 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026060000 +0200" stop="20241026080000 +0200" channel="abcwabc.us">
+  <programme start="20241026120000 +0200" stop="20241026140000 +0200" channel="abcwabc.us">
     <title lang="en">Eyewitness News This Morning</title>
     <desc lang="en">News coverage to start the day.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026080000 +0200" stop="20241026090000 +0200" channel="abcwabc.us">
+  <programme start="20241026140000 +0200" stop="20241026150000 +0200" channel="abcwabc.us">
     <title lang="en">Good Morning America</title>
     <desc lang="en">Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026090000 +0200" stop="20241026100000 +0200" channel="abcwabc.us">
+  <programme start="20241026150000 +0200" stop="20241026160000 +0200" channel="abcwabc.us">
     <title lang="en">Eyewitness News This Morning</title>
     <desc lang="en">News coverage to start the day.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026100000 +0200" stop="20241026110000 +0200" channel="abcwabc.us">
+  <programme start="20241026160000 +0200" stop="20241026170000 +0200" channel="abcwabc.us">
     <title lang="en">Good Morning America</title>
     <desc lang="en">Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026110000 +0200" stop="20241026113000 +0200" channel="abcwabc.us">
+  <programme start="20241026170000 +0200" stop="20241026173000 +0200" channel="abcwabc.us">
     <title lang="en">Wildlife Nation With Jeff Corwin</title>
     <sub-title lang="en">The Slow Road to Conservation</sub-title>
     <desc lang="en">Jeff Corwin joins forces with Florida conservationists in a multifaceted mission to safeguard its diverse wildlife; rehabilitating and releasing an injured pelican at Pelican Harbor Seabird Station.</desc>
@@ -21428,7 +21502,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Instructional</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026113000 +0200" stop="20241026120000 +0200" channel="abcwabc.us">
+  <programme start="20241026173000 +0200" stop="20241026180000 +0200" channel="abcwabc.us">
     <title lang="en">oh baby!</title>
     <sub-title lang="en">Tropical Tots</sub-title>
     <desc lang="en">Animal babies of the tropical rainforests.</desc>
@@ -21439,120 +21513,58 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026120000 +0200" stop="20241026150000 +0200" channel="abcwabc.us">
+  <programme start="20241026180000 +0200" stop="20241026210000 +0200" channel="abcwabc.us">
     <title lang="en">Live: College Football</title>
     <sub-title lang="en">Notre Dame vs. Navy</sub-title>
     <desc lang="en">The No. 12 Fighting Irish (6-1) try to spoil the perfect record of the No. 24 Midshipmen (6-0) at MetLife Stadium. Notre Dame has won 11 of the last 12 against Navy after scoring a 42-3 decision in Dublin last year. Navy beat Notre Dame here in 2010.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20241026150000 +0200" stop="20241026153000 +0200" channel="abcwabc.us">
+  <programme start="20241026210000 +0200" stop="20241026213000 +0200" channel="abcwabc.us">
     <title lang="en">Live: College Football Scoreboard</title>
     <desc lang="en">All the latest news and analysis from the world of college football.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
   </programme>
-  <programme start="20241026153000 +0200" stop="20241026183000 +0200" channel="abcwabc.us">
+  <programme start="20241026213000 +0200" stop="20241027003000 +0200" channel="abcwabc.us">
     <title lang="en">Live: College Football</title>
     <sub-title lang="en">Missouri at Alabama</sub-title>
     <desc lang="en">The No. 15 Crimson Tide (5-2, 2-2 SEC) seek their sixth straight victory over the No. 21 Tigers (6-1, 2-1). Alabama is saddled with two losses by the end of October for the first time since 2007 following a 24-17 setback at then-No. 11 Tennessee.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20241026183000 +0200" stop="20241026190000 +0200" channel="abcwabc.us">
+  <programme start="20241027003000 +0200" stop="20241027010000 +0200" channel="abcwabc.us">
     <title lang="en">Live: College Football Scoreboard</title>
     <desc lang="en">All the latest news and analysis from the world of college football.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
   </programme>
-  <programme start="20241026190000 +0200" stop="20241026193000 +0200" channel="abcwabc.us">
+  <programme start="20241027010000 +0200" stop="20241027013000 +0200" channel="abcwabc.us">
     <title lang="en">Live: College Football Scoreboard</title>
     <desc lang="en">All the latest news and analysis from the world of college football.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
   </programme>
-  <programme start="20241026193000 +0200" stop="20241026230000 +0200" channel="abcwabc.us">
+  <programme start="20241027013000 +0200" stop="20241027040000 +0100" channel="abcwabc.us">
     <title lang="en">Live: College Football</title>
     <sub-title lang="en">LSU at Texas A&amp;M</sub-title>
     <desc lang="en">A key SEC clash sees the No. 14 Aggies (6-1, 4-0) face the No. 8 Tigers (6-1, 3-0). The two are the lone remaining schools with perfect SEC marks. Texas A&amp;M has won three straight home meetings, with LSU's last win in College Station coming in 2016.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20241026230000 +0200" stop="20241027000000 +0200" channel="abcwabc.us">
+  <programme start="20241027040000 +0100" stop="20241027050000 +0100" channel="abcwabc.us">
     <title lang="en">Eyewitness News at 11</title>
     <desc lang="en">Breaking news.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241027000000 +0200" stop="20241027010000 +0200" channel="abcwabc.us">
-    <title lang="en">9-1-1</title>
-    <sub-title lang="en">Peer Pressure</sub-title>
-    <desc lang="en">A man over-exerts himself exercising; a groundskeeper is cut by his chainsaw; an explosion occurs at a retirement community; May gets an emergency call from a suicidal teen.</desc>
-    <credits>
-      <actor>Angela Bassett</actor>
-      <actor>Peter Krause</actor>
-      <actor>Oliver Stark</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241027010000 +0200" stop="20241027020000 +0200" channel="abcwabc.us">
-    <title lang="en">9-1-1</title>
-    <sub-title lang="en">Ghost Stories</sub-title>
-    <desc lang="en">A man claims he was carjacked, shot and buried alive; a homeowner thinks her roommate is a ghost; Hen receives a visit from the past; Athena and family are concerned that Harry is still haunted by visions of Jeffrey.</desc>
-    <credits>
-      <actor>Angela Bassett</actor>
-      <actor>Peter Krause</actor>
-      <actor>Oliver Stark</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241027020000 +0200" stop="20241027030000 +0100" channel="abcwabc.us">
-    <title lang="en">Fast: Home Rescue</title>
-    <sub-title lang="en">Coach's Corner</sub-title>
-    <desc lang="en">Cody and Felicia Walker rebuild the Marcel family house in Houma, La., after is was badly damaged by Hurricane Ida; emotions run high as they transform the property into a coach's corner sports-themed home for the Marcels.</desc>
-    <category lang="en">Environmental</category>
-    <category lang="en">Home</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241027033000 +0100" stop="20241027040000 +0100" channel="abcwabc.us">
-    <title lang="en">The American Athlete</title>
-    <category lang="en">Specials</category>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241027040000 +0100" stop="20241027043000 +0100" channel="abcwabc.us">
-    <title lang="en">Wheel of Fortune</title>
-    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
-    <category lang="en">Game Shows</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241027043000 +0100" stop="20241027053000 +0100" channel="abcwabc.us">
-    <title lang="en">Entertainment Tonight</title>
-    <desc lang="en">News and features about performers, productions and the milieu.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown/>
-  </programme>
   <programme start="20241025060000 +0200" stop="20241025063000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">A Fishing Story With Ronnie Green</title>
-    <sub-title lang="en">Toyota Series Western Division Champion Tau Au</sub-title>
-    <desc lang="en">Anglers from all walks of life share their fishing stories.</desc>
-    <category lang="en">Reality TV</category>
+    <title lang="en">Becoming Wild</title>
+    <sub-title lang="en">Jesper Wallstedt</sub-title>
+    <desc lang="en">See what a day in the life on the Minnesota Wild roster looks like.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
     <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20241025063000 +0200" stop="20241025070000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Wild Live Pregame</title>
@@ -21588,48 +21600,33 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     </rating>
   </programme>
   <programme start="20241025100000 +0200" stop="20241025103000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">John Gillespie's Water &amp; Woods</title>
-    <desc lang="en">A tour of Wisconsin's best fishing spots.</desc>
+    <title lang="en">Rooster Tales</title>
+    <sub-title lang="en">Colorado Ptarmigan</sub-title>
+    <desc lang="en">A look at wild bird habitat. Showcasing the people that help create habitats.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Outdoors</category>
     <previously-shown/>
   </programme>
   <programme start="20241025103000 +0200" stop="20241025110000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">MidWest Outdoors</title>
-    <desc lang="en">Hunting, boating, canoeing, camping, hiking, snowmobiling.</desc>
+    <title lang="en">Made for the Outdoors</title>
+    <sub-title lang="en">Mepps</sub-title>
+    <desc lang="en">Take a look into the factory and see how various brands of outdoor gear are made.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Outdoors</category>
     <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20241025110000 +0200" stop="20241025113000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">Larry Smith Outdoors</title>
-    <desc lang="en">All things outdoors with Larry Smith.</desc>
+    <title lang="en">Offroad Odyssey</title>
+    <sub-title lang="en">Mountain Rides</sub-title>
+    <desc lang="en">Alexa explores three diverse mountain rides from Denali to Pikes Peak, to the Ozark Mountains.</desc>
+    <credits>
+      <actor>Alexa Score</actor>
+    </credits>
     <category lang="en">Sports</category>
     <category lang="en">Outdoors</category>
     <previously-shown/>
   </programme>
   <programme start="20241025113000 +0200" stop="20241025120000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">Discover Wisconsin</title>
-    <sub-title lang="en">Wood County Parks - Celebrating 90 Years of Outdoor Adventures</sub-title>
-    <desc lang="en">Exploring five scenic parks in Wood County; the Wood County Parks Department celebrates 90 years of outdoor adventures.</desc>
-    <category lang="en">Travel</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241025120000 +0200" stop="20241025123000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">Jason Mitchell Outdoors</title>
-    <sub-title lang="en">Slab Crappie Remote Ice Fishing Adventure</sub-title>
-    <desc lang="en">Information-packed episodes highlighting open water and ice fishing tactics from across the Midwest. Explore some of the most effective tactics, presentations and locations you can incorporate into your own fishing experiences.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241025123000 +0200" stop="20241025130000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Boondock Nation</title>
     <sub-title lang="en">Surprise POW at Spring Fever</sub-title>
     <desc lang="en">Snowmobiles conquer deep snow.</desc>
@@ -21645,15 +21642,24 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20241025130000 +0200" stop="20241025150000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">Overtime Select Basketball</title>
-    <sub-title lang="en">Final: ISO WRLD vs. Double Dynasty</sub-title>
-    <desc lang="en">From OTE Arena in Atlanta.</desc>
+  <programme start="20241025120000 +0200" stop="20241025123000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">A Fishing Story With Ronnie Green</title>
+    <sub-title lang="en">Toyota Series Western Division Champion Tau Au</sub-title>
+    <desc lang="en">Anglers from all walks of life share their fishing stories.</desc>
+    <category lang="en">Reality TV</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241025123000 +0200" stop="20241025130000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Wild Live Pregame</title>
+    <desc lang="en">Pregame coverage of Wild hockey.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
+    <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025150000 +0200" stop="20241025170000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241025130000 +0200" stop="20241025150000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">NHL Hockey</title>
     <sub-title lang="en">Minnesota Wild at Tampa Bay Lightning</sub-title>
     <desc lang="en">From Amalie Arena in Tampa, Fla.</desc>
@@ -21661,7 +21667,14 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025170000 +0200" stop="20241025173000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241025150000 +0200" stop="20241025153000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Wild Live Postgame</title>
+    <desc lang="en">Postgame coverage of Wild hockey.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025153000 +0200" stop="20241025160000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Due North Outdoors</title>
     <sub-title lang="en">Sandhills and Bigwoods</sub-title>
     <desc lang="en">Ron Schara shares his stories of outdoor sports.</desc>
@@ -21672,7 +21685,92 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
+  <programme start="20241025160000 +0200" stop="20241025163000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">John Gillespie's Water &amp; Woods</title>
+    <desc lang="en">A tour of Wisconsin's best fishing spots.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025163000 +0200" stop="20241025170000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">MidWest Outdoors</title>
+    <desc lang="en">Hunting, boating, canoeing, camping, hiking, snowmobiling.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241025170000 +0200" stop="20241025173000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Larry Smith Outdoors</title>
+    <desc lang="en">All things outdoors with Larry Smith.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
   <programme start="20241025173000 +0200" stop="20241025180000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Discover Wisconsin</title>
+    <sub-title lang="en">Wood County Parks - Celebrating 90 Years of Outdoor Adventures</sub-title>
+    <desc lang="en">Exploring five scenic parks in Wood County; the Wood County Parks Department celebrates 90 years of outdoor adventures.</desc>
+    <category lang="en">Travel</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241025180000 +0200" stop="20241025183000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Jason Mitchell Outdoors</title>
+    <sub-title lang="en">Slab Crappie Remote Ice Fishing Adventure</sub-title>
+    <desc lang="en">Information-packed episodes highlighting open water and ice fishing tactics from across the Midwest. Explore some of the most effective tactics, presentations and locations you can incorporate into your own fishing experiences.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025183000 +0200" stop="20241025190000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Boondock Nation</title>
+    <sub-title lang="en">Surprise POW at Spring Fever</sub-title>
+    <desc lang="en">Snowmobiles conquer deep snow.</desc>
+    <credits>
+      <actor>Dylan Rose</actor>
+      <actor>Jack Sarama</actor>
+      <actor>Collin D'Antonio</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241025190000 +0200" stop="20241025210000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Overtime Select Basketball</title>
+    <sub-title lang="en">Final: ISO WRLD vs. Double Dynasty</sub-title>
+    <desc lang="en">From OTE Arena in Atlanta.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025210000 +0200" stop="20241025230000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">NHL Hockey</title>
+    <sub-title lang="en">Minnesota Wild at Tampa Bay Lightning</sub-title>
+    <desc lang="en">From Amalie Arena in Tampa, Fla.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025230000 +0200" stop="20241025233000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Due North Outdoors</title>
+    <sub-title lang="en">Sandhills and Bigwoods</sub-title>
+    <desc lang="en">Ron Schara shares his stories of outdoor sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241025233000 +0200" stop="20241026000000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Rooster Tales</title>
     <sub-title lang="en">Colorado Ptarmigan</sub-title>
     <desc lang="en">A look at wild bird habitat. Showcasing the people that help create habitats.</desc>
@@ -21680,7 +21778,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Outdoors</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025180000 +0200" stop="20241025183000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026000000 +0200" stop="20241026003000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Pro Football Weekly</title>
     <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
     <category lang="en">Sports</category>
@@ -21690,7 +21788,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025183000 +0200" stop="20241025190000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026003000 +0200" stop="20241026010000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Badger Sports Report</title>
     <desc lang="en">An inside look at Wisconsin Badger sports.</desc>
     <category lang="en">Sports</category>
@@ -21700,88 +21798,24 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025190000 +0200" stop="20241025200000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026010000 +0200" stop="20241026020000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Live: Bucks Live Pregame</title>
     <desc lang="en">Preview of the Milwaukee Bucks game.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241025200000 +0200" stop="20241025223000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026020000 +0200" stop="20241026043000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Live: NBA Basketball</title>
     <sub-title lang="en">Chicago Bulls at Milwaukee Bucks</sub-title>
     <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241025223000 +0200" stop="20241025230000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026043000 +0200" stop="20241026050000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Live: Bucks Live Postgame</title>
     <desc lang="en">Review of the Milwaukee Bucks game.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20241025230000 +0200" stop="20241025233000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">Badger Sports Report</title>
-    <desc lang="en">An inside look at Wisconsin Badger sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241025233000 +0200" stop="20241026000000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">The Big Ten Show</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026000000 +0200" stop="20241026010000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">Bucks Live Pregame</title>
-    <desc lang="en">Preview of the Milwaukee Bucks game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026010000 +0200" stop="20241026030000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Chicago Bulls at Milwaukee Bucks</sub-title>
-    <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026030000 +0200" stop="20241026033000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">Bucks Live Postgame</title>
-    <desc lang="en">Review of the Milwaukee Bucks game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026033000 +0200" stop="20241026040000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">Badger Sports Report</title>
-    <desc lang="en">An inside look at Wisconsin Badger sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241026040000 +0200" stop="20241026043000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">Pro Football Weekly</title>
-    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241026043000 +0200" stop="20241026050000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">The Big Ten Show</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
   </programme>
   <programme start="20241026050000 +0200" stop="20241026050000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">NHL Hockey</title>
@@ -21791,7 +21825,71 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026050000 +0200" stop="20241026070000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026050000 +0200" stop="20241026053000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Badger Sports Report</title>
+    <desc lang="en">An inside look at Wisconsin Badger sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241026053000 +0200" stop="20241026060000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">The Big Ten Show</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026060000 +0200" stop="20241026070000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Bucks Live Pregame</title>
+    <desc lang="en">Preview of the Milwaukee Bucks game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026070000 +0200" stop="20241026090000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Chicago Bulls at Milwaukee Bucks</sub-title>
+    <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026090000 +0200" stop="20241026093000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Bucks Live Postgame</title>
+    <desc lang="en">Review of the Milwaukee Bucks game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026093000 +0200" stop="20241026100000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Badger Sports Report</title>
+    <desc lang="en">An inside look at Wisconsin Badger sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241026100000 +0200" stop="20241026103000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">Pro Football Weekly</title>
+    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241026103000 +0200" stop="20241026110000 +0200" channel="ballysportswisconsin.us">
+    <title lang="en">The Big Ten Show</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026110000 +0200" stop="20241026130000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">NHL Hockey</title>
     <sub-title lang="en">Minnesota Wild at Tampa Bay Lightning</sub-title>
     <desc lang="en">From Amalie Arena in Tampa, Fla.</desc>
@@ -21799,7 +21897,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026070000 +0200" stop="20241026073000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026130000 +0200" stop="20241026133000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Facing Waves</title>
     <sub-title lang="en">Kayaking Ireland's West Coast</sub-title>
     <desc lang="en">Ken Whiting explores the Republic of Ireland's West Coast and kayaks and hikes along the Wild Atlantic Way.</desc>
@@ -21810,7 +21908,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026073000 +0200" stop="20241026080000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026133000 +0200" stop="20241026140000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">MidWest Outdoors</title>
     <desc lang="en">Hunting, boating, canoeing, camping, hiking, snowmobiling.</desc>
     <category lang="en">Sports</category>
@@ -21820,7 +21918,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026080000 +0200" stop="20241026083000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026140000 +0200" stop="20241026143000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Nick's Wild Ride With Nick Hoffman</title>
     <sub-title lang="en">Red Deer And Red Wine</sub-title>
     <desc lang="en">Nick returns to Italy to try to complete the Italian Slam of big game. He travels to the Italian Alps to chase red stag during the rut and explores the Piedmont region and samples the local wine and cuisine it's famous for.</desc>
@@ -21831,7 +21929,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20241026083000 +0200" stop="20241026090000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026143000 +0200" stop="20241026150000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Due North Outdoors</title>
     <sub-title lang="en">Sandhills and Bigwoods</sub-title>
     <desc lang="en">Ron Schara shares his stories of outdoor sports.</desc>
@@ -21842,7 +21940,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026090000 +0200" stop="20241026093000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026150000 +0200" stop="20241026153000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Rooster Tales</title>
     <sub-title lang="en">Bird Dog's First Hunt</sub-title>
     <desc lang="en">A look at wild bird habitat. Showcasing the people that help create habitats.</desc>
@@ -21850,28 +21948,28 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Outdoors</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026093000 +0200" stop="20241026100000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026153000 +0200" stop="20241026160000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Larry Smith Outdoors</title>
     <desc lang="en">All things outdoors with Larry Smith.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Outdoors</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026100000 +0200" stop="20241026103000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026160000 +0200" stop="20241026163000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">John Gillespie's Water &amp; Woods</title>
     <desc lang="en">A tour of Wisconsin's best fishing spots.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Outdoors</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026103000 +0200" stop="20241026110000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026163000 +0200" stop="20241026170000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">MidWest Outdoors</title>
     <sub-title lang="en">Late Season Pheasant Hunt; Froggin' on Detroit Lake; Slip Floats for Crappies</sub-title>
     <desc lang="en">MidWest Outdoors will help you catch more fish, bag more game and enjoy the outdoors.</desc>
     <category lang="en">Local</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026110000 +0200" stop="20241026113000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026170000 +0200" stop="20241026173000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Discover Wisconsin</title>
     <sub-title lang="en">Operating Engineers - Following the Footprint</sub-title>
     <desc lang="en">From Wonewoc to Coloma...exploring remarkable destinations created by Operating Engineers Local 139.</desc>
@@ -21881,7 +21979,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026113000 +0200" stop="20241026120000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026173000 +0200" stop="20241026180000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Made for the Outdoors</title>
     <sub-title lang="en">Old Dutch Potato Chips</sub-title>
     <desc lang="en">Take a look into the factory and see how various brands of outdoor gear are made.</desc>
@@ -21889,7 +21987,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Outdoors</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026120000 +0200" stop="20241026123000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026180000 +0200" stop="20241026183000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Offroad Odyssey</title>
     <sub-title lang="en">Mountain Rides</sub-title>
     <desc lang="en">Alexa explores three diverse mountain rides from Denali to Pikes Peak, to the Ozark Mountains.</desc>
@@ -21900,32 +21998,32 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Outdoors</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026123000 +0200" stop="20241026130000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026183000 +0200" stop="20241026190000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Live: Wild Live Pregame</title>
     <desc lang="en">Pregame coverage of Wild hockey.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
   </programme>
-  <programme start="20241026130000 +0200" stop="20241026153000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026190000 +0200" stop="20241026213000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Live: NHL Hockey</title>
     <sub-title lang="en">Minnesota Wild at Philadelphia Flyers</sub-title>
     <desc lang="en">From Wells Fargo Center in Philadelphia.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
   </programme>
-  <programme start="20241026153000 +0200" stop="20241026160000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026213000 +0200" stop="20241026220000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Live: Wild Live Postgame</title>
     <desc lang="en">Postgame coverage of Wild hockey.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
   </programme>
-  <programme start="20241026160000 +0200" stop="20241026163000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026220000 +0200" stop="20241026223000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Wild on 7th</title>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026163000 +0200" stop="20241026170000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026223000 +0200" stop="20241026230000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Pro Football Weekly</title>
     <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
     <category lang="en">Sports</category>
@@ -21935,7 +22033,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026170000 +0200" stop="20241026190000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241026230000 +0200" stop="20241027010000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Overtime Select Basketball</title>
     <sub-title lang="en">Final: ISO WRLD vs. Double Dynasty</sub-title>
     <desc lang="en">From OTE Arena in Atlanta.</desc>
@@ -21943,7 +22041,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026190000 +0200" stop="20241026210000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241027010000 +0200" stop="20241027020000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Athletes Unlimited Pro Softball</title>
     <sub-title lang="en">Team Kilfoyl vs. Team Lorenz</sub-title>
     <desc lang="en">From Parkway Bank Sports Complex in Rosemont, Ill.</desc>
@@ -21951,7 +22049,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Softball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026210000 +0200" stop="20241026230000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241027020000 +0200" stop="20241027040000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Athletes Unlimited Pro Volleyball</title>
     <sub-title lang="en">Team Hentz vs. Team De La Criz-Mejia</sub-title>
     <desc lang="en">From Arizona Athletic Grounds in Mesa, Ariz.</desc>
@@ -21959,7 +22057,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Volleyball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026230000 +0200" stop="20241026233000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241027040000 +0200" stop="20241027043000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Pro Football Weekly</title>
     <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
     <category lang="en">Sports</category>
@@ -21969,7 +22067,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026233000 +0200" stop="20241027000000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241027043000 +0200" stop="20241027050000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">The Card Life</title>
     <sub-title lang="en">Phoenix</sub-title>
     <desc lang="en">This month, a photographer that took baseball card photos for Fleer for more than 20 years; Matt Strahm has two big breaks and also introduces his new online obsession for adding to his collection.</desc>
@@ -21977,7 +22075,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Miscellaneous</category>
     <previously-shown/>
   </programme>
-  <programme start="20241027000000 +0200" stop="20241027003000 +0200" channel="ballysportswisconsin.us">
+  <programme start="20241027050000 +0200" stop="20241027053000 +0200" channel="ballysportswisconsin.us">
     <title lang="en">Becoming Wild</title>
     <sub-title lang="en">Jesper Wallstedt</sub-title>
     <desc lang="en">See what a day in the life on the Minnesota Wild roster looks like.</desc>
@@ -21985,33 +22083,11 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme start="20241027003000 +0200" stop="20241027010000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">Wild Live Pregame</title>
-    <desc lang="en">Pregame coverage of Wild hockey.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241027010000 +0200" stop="20241027030000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">NHL Hockey</title>
-    <sub-title lang="en">Minnesota Wild at Philadelphia Flyers</sub-title>
-    <desc lang="en">From Wells Fargo Center in Philadelphia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241027033000 +0200" stop="20241027040000 +0200" channel="ballysportswisconsin.us">
-    <title lang="en">Wild on 7th</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
   <programme start="20241025060000 +0200" stop="20241025070000 +0200" channel="espn.us">
-    <title lang="en">SportsCenter</title>
+    <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
-    <previously-shown/>
   </programme>
   <programme start="20241025070000 +0200" stop="20241025080000 +0200" channel="espn.us">
     <title lang="en">Live: SportsCenter</title>
@@ -22019,114 +22095,155 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241025080000 +0200" stop="20241025100000 +0200" channel="espn.us">
-    <title lang="en">Live: Get Up</title>
-    <desc lang="en">Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20241025100000 +0200" stop="20241025120000 +0200" channel="espn.us">
-    <title lang="en">Live: First Take</title>
-    <desc lang="en">Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241025120000 +0200" stop="20241025140000 +0200" channel="espn.us">
-    <title lang="en">Live: The Pat McAfee Show</title>
-    <desc lang="en">Former NFL punter Pat McAfee brings his humor and candor to the microphone to highlight the day's top stories.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20241025140000 +0200" stop="20241025150000 +0200" channel="espn.us">
+  <programme start="20241025080000 +0200" stop="20241025090000 +0200" channel="espn.us">
     <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241025150000 +0200" stop="20241025160000 +0200" channel="espn.us">
+  <programme start="20241025090000 +0200" stop="20241025100000 +0200" channel="espn.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025100000 +0200" stop="20241025120000 +0200" channel="espn.us">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Syracuse at Pittsburgh</sub-title>
+    <desc lang="en">The No. 19 Panthers and the Orange return from the bye. Pittsburgh is 6-0 for the first time since 1982 after surviving California 17-15 on Oct. 12. Syracuse quarterback Kyle McCord enters Week 9 ranked seventh nationally with 2,160 passing yards.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025120000 +0200" stop="20241025130000 +0200" channel="espn.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025130000 +0200" stop="20241025140000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20241025140000 +0200" stop="20241025160000 +0200" channel="espn.us">
+    <title lang="en">Live: Get Up</title>
+    <desc lang="en">Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20241025160000 +0200" stop="20241025180000 +0200" channel="espn.us">
+    <title lang="en">Live: First Take</title>
+    <desc lang="en">Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20241025180000 +0200" stop="20241025200000 +0200" channel="espn.us">
+    <title lang="en">Live: The Pat McAfee Show</title>
+    <desc lang="en">Former NFL punter Pat McAfee brings his humor and candor to the microphone to highlight the day's top stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20241025200000 +0200" stop="20241025210000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20241025210000 +0200" stop="20241025220000 +0200" channel="espn.us">
     <title lang="en">Live: NBA Today</title>
     <desc lang="en">In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241025160000 +0200" stop="20241025170000 +0200" channel="espn.us">
+  <programme start="20241025220000 +0200" stop="20241025230000 +0200" channel="espn.us">
     <title lang="en">Live: NFL Live</title>
     <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20241025170000 +0200" stop="20241025173000 +0200" channel="espn.us">
+  <programme start="20241025230000 +0200" stop="20241025233000 +0200" channel="espn.us">
     <title lang="en">Around the Horn</title>
     <desc lang="en">Sportswriters around the country discuss sports issues.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025173000 +0200" stop="20241025180000 +0200" channel="espn.us">
+  <programme start="20241025233000 +0200" stop="20241026000000 +0200" channel="espn.us">
     <title lang="en">Live: Pardon the Interruption</title>
     <desc lang="en">Opinions regarding the day's top sports stories.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
   </programme>
-  <programme start="20241025180000 +0200" stop="20241025190000 +0200" channel="espn.us">
+  <programme start="20241026000000 +0200" stop="20241026010000 +0200" channel="espn.us">
     <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241025190000 +0200" stop="20241025193000 +0200" channel="espn.us">
+  <programme start="20241026010000 +0200" stop="20241026013000 +0200" channel="espn.us">
     <title lang="en">Live: NBA Countdown</title>
     <desc lang="en">Bold opinions, discussion and debate centered on the top storylines from around the league. Mike Greenberg hosts this pregame show with analysts Stephen A. Smith and Michael Wilbon.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241025193000 +0200" stop="20241025194300 +0200" channel="espn.us">
+  <programme start="20241026013000 +0200" stop="20241026014300 +0200" channel="espn.us">
     <title lang="en">Live: NBA Courtside</title>
     <desc lang="en">An insight into upcoming National Basketball Association matches, highlighting the players to watch and the top team news.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241025194300 +0200" stop="20241025220500 +0200" channel="espn.us">
+  <programme start="20241026014300 +0200" stop="20241026040500 +0200" channel="espn.us">
     <title lang="en">Live: NBA Basketball</title>
     <sub-title lang="en">Indiana Pacers at New York Knicks</sub-title>
     <desc lang="en">Indiana tries to spoil New York's home opener. In the 2024 East semifinals, the home team won six straight games before the Pacers' 130-109 Game 7 triumph to send them to the conference finals. New York was 27-14 at Madison Square Garden in 2023-24.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241025220500 +0200" stop="20241026003500 +0200" channel="espn.us">
+  <programme start="20241026040500 +0200" stop="20241026040500 +0200" channel="espn.us">
     <title lang="en">Live: NBA Basketball</title>
     <sub-title lang="en">Phoenix Suns at Los Angeles Lakers</sub-title>
     <desc lang="en">The Lakers play host to the Suns. In 2023-24, Los Angeles earned a 3-2 edge in the head-to-head series by virtue of a 106-103 victory in the NBA In-Season Tournament's quarterfinals. LeBron James (LAL) posted a 31-point double-double in that win.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241026003500 +0200" stop="20241026013500 +0200" channel="espn.us">
+  <programme start="20241026040500 +0200" stop="20241026063500 +0200" channel="espn.us">
+    <title lang="en">Live: NBA Basketball</title>
+    <sub-title lang="en">Phoenix Suns at Los Angeles Lakers</sub-title>
+    <desc lang="en">The Lakers play host to the Suns. In 2023-24, Los Angeles earned a 3-2 edge in the head-to-head series by virtue of a 106-103 victory in the NBA In-Season Tournament's quarterfinals. LeBron James (LAL) posted a 31-point double-double in that win.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20241026063500 +0200" stop="20241026073500 +0200" channel="espn.us">
     <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241026013500 +0200" stop="20241026023500 +0200" channel="espn.us">
+  <programme start="20241026073500 +0200" stop="20241026083500 +0200" channel="espn.us">
     <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241026023500 +0200" stop="20241026033500 +0200" channel="espn.us">
+  <programme start="20241026083500 +0200" stop="20241026093500 +0200" channel="espn.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026033500 +0200" stop="20241026040000 +0200" channel="espn.us">
+  <programme start="20241026093500 +0200" stop="20241026100000 +0200" channel="espn.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026040000 +0200" stop="20241026060000 +0200" channel="espn.us">
+  <programme start="20241026100000 +0200" stop="20241026120000 +0200" channel="espn.us">
     <title lang="en">NBA Basketball</title>
     <sub-title lang="en">Phoenix Suns at Los Angeles Lakers</sub-title>
     <desc lang="en">The Lakers play host to the Suns. In 2023-24, Los Angeles earned a 3-2 edge in the head-to-head series by virtue of a 106-103 victory in the NBA In-Season Tournament's quarterfinals. LeBron James (LAL) posted a 31-point double-double in that win.</desc>
@@ -22134,87 +22251,62 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026060000 +0200" stop="20241026070000 +0200" channel="espn.us">
+  <programme start="20241026120000 +0200" stop="20241026130000 +0200" channel="espn.us">
     <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241026070000 +0200" stop="20241026080000 +0200" channel="espn.us">
+  <programme start="20241026130000 +0200" stop="20241026140000 +0200" channel="espn.us">
     <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241026080000 +0200" stop="20241026090000 +0200" channel="espn.us">
+  <programme start="20241026140000 +0200" stop="20241026150000 +0200" channel="espn.us">
     <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241026090000 +0200" stop="20241026120000 +0200" channel="espn.us">
+  <programme start="20241026150000 +0200" stop="20241026180000 +0200" channel="espn.us">
     <title lang="en">Live: College GameDay</title>
     <desc lang="en">Originating from the site of Saturday's biggest games, host Rece Davis and analysts Lee Corso, Kirk Herbstreit, Desmond Howard, Pat McAfee, and Nick Saban cover college football with pregame breakdowns, exclusive interviews, features and predictions.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20241026120000 +0200" stop="20241026150000 +0200" channel="espn.us">
+  <programme start="20241026180000 +0200" stop="20241026210000 +0200" channel="espn.us">
     <title lang="en">Live: College Football</title>
     <sub-title lang="en">Oklahoma at Ole Miss</sub-title>
     <desc lang="en">The No. 18 Rebels (5-2, 1-2 SEC) try to get well against the struggling Sooners (4-3, 1-3). Ole Miss lost at then-No. 13 LSU 29-26 in overtime on Oct. 12. Oklahoma dropped its last two, totaling 12 points against then-No. 1 Texas and South Carolina.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20241026150000 +0200" stop="20241026153000 +0200" channel="espn.us">
+  <programme start="20241026210000 +0200" stop="20241026213000 +0200" channel="espn.us">
     <title lang="en">Live: College Football Scoreboard</title>
     <desc lang="en">All the latest news and analysis from the world of college football.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
   </programme>
-  <programme start="20241026153000 +0200" stop="20241026183000 +0200" channel="espn.us">
+  <programme start="20241026213000 +0200" stop="20241027003000 +0200" channel="espn.us">
     <title lang="en">Live: College Football</title>
     <sub-title lang="en">BYU at UCF</sub-title>
     <desc lang="en">The Knights (3-4, 1-3) face a stiff Big 12 test as they host the No. 11 Cougars (7-0, 4-0). BYU rocked UCF in their last meeting, 49-23 at the 2020 Boca Raton Bowl. The Cougars have pushed into the CFP picture with their highest rank since 2021.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20241026183000 +0200" stop="20241026190000 +0200" channel="espn.us">
+  <programme start="20241027003000 +0200" stop="20241027010000 +0200" channel="espn.us">
     <title lang="en">Live: College Football Scoreboard</title>
     <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20241026190000 +0200" stop="20241026220000 +0200" channel="espn.us">
+  <programme start="20241027010000 +0200" stop="20241027030000 +0100" channel="espn.us">
     <title lang="en">Live: College Football</title>
     <sub-title lang="en">Florida State at Miami</sub-title>
     <desc lang="en">The No. 6 Hurricanes (7-0, 3-0 ACC) look to clinch the first Florida Cup competition since 2019 as they host the Seminoles (1-6, 1-5) in Week 9. Miami has the hammer in the sporadic rivalry series after dumping Florida 41-17 in the season opener.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-  </programme>
-  <programme start="20241026220000 +0200" stop="20241026221500 +0200" channel="espn.us">
-    <title lang="en">Live: College Football Scoreboard</title>
-    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241026221500 +0200" stop="20241027011500 +0200" channel="espn.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">Cincinnati at Colorado</sub-title>
-    <desc lang="en">Shedeur Sanders and the Buffaloes host the Bearcats. Both Big 12 schools are 5-2, 3-1. Entering Week 9, Sanders ranked fifth nationally with 2,268 passing yards and 19 TDs. Travis Hunter exited Colorado's Week 8 win at Arizona with a shoulder injury.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241027011500 +0200" stop="20241027021500 +0200" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241027021500 +0200" stop="20241027030000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
   </programme>
   <programme start="20241027030000 +0100" stop="20241027040000 +0100" channel="espn.us">
     <title lang="en">College Football Scoreboard</title>
@@ -22230,61 +22322,109 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025060000 +0200" stop="20241025080000 +0200" channel="espn2.us">
-    <title lang="en">Live: Unsportsmanlike with Evan, Canty and Michelle</title>
-    <desc lang="en">Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it's all about.</desc>
+  <programme start="20241025050000 +0200" stop="20241025070000 +0200" channel="espn2.us">
+    <title lang="en">Yankees-Dodgers: An Uncivil War</title>
+    <desc lang="en">In 1977 and 1978, the New York Yankees and Los Angeles Dodgers squared off in back-to-back World Series. This ESPN Films documentary tells the story of a rivalry filled with colorful characters, seismic controversies and unforgettable moments.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
+    <category lang="en">Baseball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025070000 +0200" stop="20241025080000 +0200" channel="espn2.us">
+    <title lang="en">30 for 30</title>
+    <sub-title lang="en">The House of Steinbrenner</sub-title>
+    <desc lang="en">Filmmaker Barbara Kopple examines the legacy of baseball owner George M. Steinbrenner, including the building of a new Yankee Stadium and the transition of ownership to his heirs, led by his younger son, Hal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <previously-shown/>
   </programme>
   <programme start="20241025080000 +0200" stop="20241025090000 +0200" channel="espn2.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <title lang="en">The Captain</title>
+    <sub-title lang="en">Loyalty One Way</sub-title>
+    <desc lang="en">Jeter has an instant impact on the Yankees as he captures a title in his first season as a pro. This catapults him to superstardom but fame comes with a price. Jeter reveals the privileges and perils of fame.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Baseball</category>
+    <previously-shown/>
   </programme>
   <programme start="20241025090000 +0200" stop="20241025100000 +0200" channel="espn2.us">
+    <title lang="en">UFC Main Events</title>
+    <sub-title lang="en">Holloway vs. Ortega</sub-title>
+    <desc lang="en">Max Holloway vs. Brian Ortega. From Dec. 8, 2018 in Toronto.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241025100000 +0200" stop="20241025110000 +0200" channel="espn2.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025100000 +0200" stop="20241025120000 +0200" channel="espn2.us">
+  <programme start="20241025110000 +0200" stop="20241025120000 +0200" channel="espn2.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025120000 +0200" stop="20241025140000 +0200" channel="espn2.us">
+    <title lang="en">Live: Unsportsmanlike with Evan, Canty and Michelle</title>
+    <desc lang="en">Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it's all about.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20241025140000 +0200" stop="20241025150000 +0200" channel="espn2.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20241025150000 +0200" stop="20241025160000 +0200" channel="espn2.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025160000 +0200" stop="20241025180000 +0200" channel="espn2.us">
     <title lang="en">Get Up</title>
     <desc lang="en">Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025120000 +0200" stop="20241025140000 +0200" channel="espn2.us">
+  <programme start="20241025180000 +0200" stop="20241025200000 +0200" channel="espn2.us">
     <title lang="en">First Take</title>
     <desc lang="en">Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025140000 +0200" stop="20241025142500 +0200" channel="espn2.us">
+  <programme start="20241025200000 +0200" stop="20241025202500 +0200" channel="espn2.us">
     <title lang="en">The Breakdown with Peyton and Belichick</title>
     <desc lang="en">Peyton Manning and Bill Belichick analyze film of upcoming matchups for the NFL season.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025142500 +0200" stop="20241025153000 +0200" channel="espn2.us">
+  <programme start="20241025202500 +0200" stop="20241025213000 +0200" channel="espn2.us">
     <title lang="en">Live: Formula 1 Racing</title>
     <sub-title lang="en">Mexico City Grand Prix, Practice 1</sub-title>
     <desc lang="en">First free practice of round 20 of the 2024 Formula One World Championship, the Mexico Grand Prix at Autódromo Hermanos Rodríguez in Mexico City, Mexico.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Auto Racing</category>
   </programme>
-  <programme start="20241025153000 +0200" stop="20241025160000 +0200" channel="espn2.us">
+  <programme start="20241025213000 +0200" stop="20241025220000 +0200" channel="espn2.us">
     <title lang="en">The Breakdown with Peyton and Belichick</title>
     <desc lang="en">Peyton Manning and Bill Belichick analyze film of upcoming matchups for the NFL season.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025160000 +0200" stop="20241025163000 +0200" channel="espn2.us">
+  <programme start="20241025220000 +0200" stop="20241025223000 +0200" channel="espn2.us">
     <title lang="en">UFC Live</title>
     <sub-title lang="en">Topuria vs. Holloway</sub-title>
     <desc lang="en">Exclusive takes on the biggest news, stars, and stories from UFC.</desc>
@@ -22292,14 +22432,14 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Martial Arts</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025163000 +0200" stop="20241025170000 +0200" channel="espn2.us">
+  <programme start="20241025223000 +0200" stop="20241025230000 +0200" channel="espn2.us">
     <title lang="en">College Football Live</title>
     <desc lang="en">ESPN's daily college football show sharing reactions to the day's biggest stories and previews of each week's most important matchups. Kelsey Riggs and Jen Lada host alongside contributors Desmond Howard, Sam Acho, Greg McElroy and Pete Thamel.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025170000 +0200" stop="20241025180000 +0200" channel="espn2.us">
+  <programme start="20241025230000 +0200" stop="20241026000000 +0200" channel="espn2.us">
     <title lang="en">Live: Baseball Tonight</title>
     <desc lang="en">Nightly baseball news and highlights.</desc>
     <credits>
@@ -22308,12 +22448,12 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241025180000 +0200" stop="20241025190000 +0200" channel="espn2.us">
+  <programme start="20241026000000 +0200" stop="20241026010000 +0200" channel="espn2.us">
     <title lang="en">Live: ESPN BET Live</title>
     <desc lang="en">ESPN Sports Betting Analysts Erin Dolan and Joe Fortenbaugh, along with host Tyler Fulghum, break down the biggest storylines through the lens of sports betting, with breakdowns, discussions and picks.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241025190000 +0200" stop="20241025193000 +0200" channel="espn2.us">
+  <programme start="20241026010000 +0200" stop="20241026013000 +0200" channel="espn2.us">
     <title lang="en">Live: Baseball Tonight</title>
     <desc lang="en">Nightly baseball news and highlights.</desc>
     <credits>
@@ -22322,26 +22462,26 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241025193000 +0200" stop="20241025223000 +0200" channel="espn2.us">
+  <programme start="20241026013000 +0200" stop="20241026043000 +0200" channel="espn2.us">
     <title lang="en">Live: College Football</title>
     <sub-title lang="en">Louisville at Boston College</sub-title>
     <desc lang="en">The Cardinals fly into Chestnut Hill, Mass., for an avian affair with the Eagles. On Oct. 19, Louisville fell short of an upset of No. 6 Miami in a 52-45 setback. Tyler Shough (LOU) has 18 TD passes in 2024. Louisville doubled up BC 56-28 in 2023.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20241025223000 +0200" stop="20241026000000 +0200" channel="espn2.us">
+  <programme start="20241026043000 +0200" stop="20241026060000 +0200" channel="espn2.us">
     <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241026000000 +0200" stop="20241026003000 +0200" channel="espn2.us">
+  <programme start="20241026060000 +0200" stop="20241026063000 +0200" channel="espn2.us">
     <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20241026003000 +0200" stop="20241026013000 +0200" channel="espn2.us">
+  <programme start="20241026063000 +0200" stop="20241026073000 +0200" channel="espn2.us">
     <title lang="en">ESPN FC</title>
     <sub-title lang="en">El Clasico Special</sub-title>
     <desc lang="en">Highlights, news, reactions and opinions from the day in soccer.</desc>
@@ -22349,68 +22489,19 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026013000 +0200" stop="20241026020000 +0200" channel="espn2.us">
+  <programme start="20241026073000 +0200" stop="20241026080000 +0200" channel="espn2.us">
     <title lang="en">Pardon the Interruption</title>
     <desc lang="en">Opinions regarding the day's top sports stories.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026020000 +0200" stop="20241026040000 +0200" channel="espn2.us">
+  <programme start="20241026080000 +0200" stop="20241026100000 +0200" channel="espn2.us">
     <title lang="en">NBA Basketball</title>
     <sub-title lang="en">Indiana Pacers at New York Knicks</sub-title>
     <desc lang="en">Indiana tries to spoil New York's home opener. In the 2024 East semifinals, the home team won six straight games before the Pacers' 130-109 Game 7 triumph to send them to the conference finals. New York was 27-14 at Madison Square Garden in 2023-24.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026040000 +0200" stop="20241026050000 +0200" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026050000 +0200" stop="20241026060000 +0200" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026060000 +0200" stop="20241026070000 +0200" channel="espn2.us">
-    <title lang="en">UFC 308 Countdown: Topuria vs. Holloway</title>
-    <desc lang="en">A pre-fight look a UFC 308, headlined by the Ilia Topuria vs. Max Holloway bout.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Martial Arts</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026070000 +0200" stop="20241026080000 +0200" channel="espn2.us">
-    <title lang="en">NFL Live</title>
-    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026080000 +0200" stop="20241026083000 +0200" channel="espn2.us">
-    <title lang="en">NFL Matchup</title>
-    <desc lang="en">Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the Xs and Os analysis of weekend's NFL matchups.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026083000 +0200" stop="20241026090000 +0200" channel="espn2.us">
-    <title lang="en">The Breakdown with Peyton and Belichick</title>
-    <desc lang="en">Peyton Manning and Bill Belichick analyze film of upcoming matchups for the NFL season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026090000 +0200" stop="20241026100000 +0200" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
     <previously-shown/>
   </programme>
   <programme start="20241026100000 +0200" stop="20241026110000 +0200" channel="espn2.us">
@@ -22421,60 +22512,76 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <previously-shown/>
   </programme>
   <programme start="20241026110000 +0200" stop="20241026120000 +0200" channel="espn2.us">
-    <title lang="en">Live: ESPN BET Live</title>
-    <desc lang="en">ESPN Sports Betting Analysts Erin Dolan and Joe Fortenbaugh, along with host Tyler Fulghum, break down the biggest storylines through the lens of sports betting, with breakdowns, discussions and picks.</desc>
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
     <category lang="en">News</category>
+    <previously-shown/>
   </programme>
-  <programme start="20241026120000 +0200" stop="20241026150000 +0200" channel="espn2.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">Tulane at North Texas</sub-title>
-    <desc lang="en">The Green Wave (5-2, 3-0) roll into this American Athletic Conference matchup with the Mean Green (5-2, 2-1). Tulane dumped Rice 24-10 on Oct. 19 for a fourth straight victory. North Texas has piled up 131 points in going 3-0 at home this year.</desc>
+  <programme start="20241026120000 +0200" stop="20241026130000 +0200" channel="espn2.us">
+    <title lang="en">UFC 308 Countdown: Topuria vs. Holloway</title>
+    <desc lang="en">A pre-fight look a UFC 308, headlined by the Ilia Topuria vs. Max Holloway bout.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Martial Arts</category>
+    <previously-shown/>
   </programme>
-  <programme start="20241026150000 +0200" stop="20241026160000 +0200" channel="espn2.us">
-    <title lang="en">Live: College Football Scoreboard</title>
-    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241026160000 +0200" stop="20241026190000 +0200" channel="espn2.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">Oregon State at California</sub-title>
-    <desc lang="en">The Golden Bears (3-4) pause their ACC slate to face an old conference foe in the Beavers (4-3). Oregon State has won four of the last five meetings, culminating in a 52-40 barn-burner victory at California in their final Pac-12 meeting last year.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241026190000 +0200" stop="20241026200000 +0200" channel="espn2.us">
-    <title lang="en">College Football Scoreboard</title>
-    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
+  <programme start="20241026130000 +0200" stop="20241026140000 +0200" channel="espn2.us">
+    <title lang="en">NFL Live</title>
+    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026200000 +0200" stop="20241026230000 +0200" channel="espn2.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">Kansas at Kansas State</sub-title>
-    <desc lang="en">The No. 16 Wildcats (6-1, 3-1 Big 12) seek their 16th straight win over the Jayhawks (2-5, 1-3) in the Sunflower Showdown. Kansas State has won three straight after a 45-18 walloping of West Virginia behind three touchdown passes by Avery Johnson.</desc>
+  <programme start="20241026140000 +0200" stop="20241026143000 +0200" channel="espn2.us">
+    <title lang="en">NFL Matchup</title>
+    <desc lang="en">Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the Xs and Os analysis of weekend's NFL matchups.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
+    <previously-shown/>
   </programme>
-  <programme start="20241026230000 +0200" stop="20241026233000 +0200" channel="espn2.us">
-    <title lang="en">Live: College Football Scoreboard</title>
-    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241026233000 +0200" stop="20241027000000 +0200" channel="espn2.us">
+  <programme start="20241026143000 +0200" stop="20241026150000 +0200" channel="espn2.us">
     <title lang="en">The Breakdown with Peyton and Belichick</title>
     <desc lang="en">Peyton Manning and Bill Belichick analyze film of upcoming matchups for the NFL season.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme start="20241027000000 +0200" stop="20241027010000 +0200" channel="espn2.us">
+  <programme start="20241026150000 +0200" stop="20241026160000 +0200" channel="espn2.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026160000 +0200" stop="20241026170000 +0200" channel="espn2.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026170000 +0200" stop="20241026180000 +0200" channel="espn2.us">
+    <title lang="en">Live: ESPN BET Live</title>
+    <desc lang="en">ESPN Sports Betting Analysts Erin Dolan and Joe Fortenbaugh, along with host Tyler Fulghum, break down the biggest storylines through the lens of sports betting, with breakdowns, discussions and picks.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20241026180000 +0200" stop="20241026210000 +0200" channel="espn2.us">
+    <title lang="en">Live: College Football</title>
+    <sub-title lang="en">Tulane at North Texas</sub-title>
+    <desc lang="en">The Green Wave (5-2, 3-0) roll into this American Athletic Conference matchup with the Mean Green (5-2, 2-1). Tulane dumped Rice 24-10 on Oct. 19 for a fourth straight victory. North Texas has piled up 131 points in going 3-0 at home this year.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241026210000 +0200" stop="20241026220000 +0200" channel="espn2.us">
     <title lang="en">Live: College Football Scoreboard</title>
     <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241026220000 +0200" stop="20241027010000 +0200" channel="espn2.us">
+    <title lang="en">Live: College Football</title>
+    <sub-title lang="en">Oregon State at California</sub-title>
+    <desc lang="en">The Golden Bears (3-4) pause their ACC slate to face an old conference foe in the Beavers (4-3). Oregon State has won four of the last five meetings, culminating in a 52-40 barn-burner victory at California in their final Pac-12 meeting last year.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
   </programme>
@@ -22485,28 +22592,78 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme start="20241027020000 +0200" stop="20241027030000 +0200" channel="espn2.us">
-    <title lang="en">College Football Scoreboard</title>
+  <programme start="20241027020000 +0200" stop="20241027040000 +0200" channel="espn2.us">
+    <title lang="en">Live: College Football</title>
+    <sub-title lang="en">Kansas at Kansas State</sub-title>
+    <desc lang="en">The No. 16 Wildcats (6-1, 3-1 Big 12) seek their 16th straight win over the Jayhawks (2-5, 1-3) in the Sunflower Showdown. Kansas State has won three straight after a 45-18 walloping of West Virginia behind three touchdown passes by Avery Johnson.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241027040000 +0200" stop="20241027043000 +0200" channel="espn2.us">
+    <title lang="en">Live: College Football Scoreboard</title>
     <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241027043000 +0200" stop="20241027050000 +0200" channel="espn2.us">
+    <title lang="en">The Breakdown with Peyton and Belichick</title>
+    <desc lang="en">Peyton Manning and Bill Belichick analyze film of upcoming matchups for the NFL season.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme start="20241027030000 +0200" stop="20241027040000 +0200" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241027040000 +0200" stop="20241027050000 +0200" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <previously-shown/>
-  </programme>
   <programme start="20241025060000 +0200" stop="20241025080000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">My Norwegian Holiday</title>
+    <desc lang="en">A grieving woman forges a deep connection with a Norwegian man when he discovers she has a troll figurine from his hometown. She soon agrees to accompany him to Norway to uncover the troll's origins and find her own path to healing, love and family.</desc>
+    <credits>
+      <actor>Rhiannon Fish</actor>
+      <actor>David Elsendoorn</actor>
+      <actor>Peter Vollebregt</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241025080000 +0200" stop="20241025100000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Heart of the Holidays</title>
+    <desc lang="en">Career-driven Sam returns to her hometown for the holidays, where she comes face-to-face with her high school boyfriend, Noah. Together, they rediscover what matters most in life.</desc>
+    <credits>
+      <actor>Vanessa Lengies</actor>
+      <actor>Corey Sevier</actor>
+      <actor>René Escobar Jr.</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241025100000 +0200" stop="20241025120000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Christmas Getaway</title>
+    <desc lang="en">After a surprising breakup with her boyfriend, a travel writer decides to go on the picturesque Christmas vacation planned for the two of them, alone.</desc>
+    <credits>
+      <actor>Bridget Regan</actor>
+      <actor>Travis Van Winkle</actor>
+      <actor>Raven Stewart</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241025120000 +0200" stop="20241025140000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">A Wish for Christmas</title>
     <desc lang="en">Sara prefers to be on the sidelines at work until someone steals her big idea for a Christmas initiative. She makes a wish to Santa to gain the courage to stand up for herself, and he gives her 48 hours to discover how to speak her own mind.</desc>
     <credits>
@@ -22523,7 +22680,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025080000 +0200" stop="20241025100000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241025140000 +0200" stop="20241025160000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">One Royal Holiday</title>
     <desc lang="en">When Anna offers a stranded mother and son shelter from a blizzard, she learns that they are the royal family of Galwick and that they are both in need of a little Christmas magic.</desc>
     <credits>
@@ -22540,7 +22697,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025100000 +0200" stop="20241025120000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241025160000 +0200" stop="20241025180000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">Christmas at Dollywood</title>
     <desc lang="en">When a NYC event planner returns to Tennessee to organize the Christmas celebration at Dollywood, she's paired with the head of operations who thinks he can handle the party just fine on his own.</desc>
     <credits>
@@ -22557,7 +22714,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025120000 +0200" stop="20241025140000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241025180000 +0200" stop="20241025200000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">A Magical Christmas Village</title>
     <desc lang="en">A woman tells her young granddaughter, Chloe, that her miniature Christmas village can magically grant holiday wishes. As Chloe begins setting up the figurines, real-life events seem to mimic the scenes she creates.</desc>
     <credits>
@@ -22574,7 +22731,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025140000 +0200" stop="20241025160000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241025200000 +0200" stop="20241025220000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">A Royal Christmas Crush</title>
     <desc lang="en">Ava accepts the opportunity of a lifetime to work at the Royal Ice Hotel, which leads to a surprise whirlwind romance with the most important guest of all, the prince himself.</desc>
     <credits>
@@ -22591,7 +22748,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025160000 +0200" stop="20241025180000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241025220000 +0200" stop="20241026000000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">Flipping for Christmas</title>
     <desc lang="en">It's almost Christmas when busy realtor Abigail agrees to help her sister with the simple flip of a recently inherited home. Unfortunately, co-beneficiary Bo has other plans in mind.</desc>
     <credits>
@@ -22608,7 +22765,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025180000 +0200" stop="20241025200000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241026000000 +0200" stop="20241026020000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">The Sweetest Christmas</title>
     <desc lang="en">A struggling pastry chef is thrilled to learn that she has made it to the finals of the American Gingerbread Competition, but distractions in her love life threaten to derail her dreams of taking home the grand prize.</desc>
     <credits>
@@ -22625,7 +22782,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025200000 +0200" stop="20241025220100 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241026020000 +0200" stop="20241026040100 +0200" channel="Hallmark Channel (East)">
     <title lang="en">Operation Nutcracker</title>
     <desc lang="en">When an antique nutcracker set to be auctioned at the Warby family Christmas charity goes missing, a demanding event planner and the heir to the Warby dynasty try to track it down.</desc>
     <credits>
@@ -22639,7 +22796,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Romance</category>
     <premiere lang="en"/>
   </programme>
-  <programme start="20241025220100 +0200" stop="20241026000100 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241026040100 +0200" stop="20241026040100 +0200" channel="Hallmark Channel (East)">
     <title lang="en">Holiday Crashers</title>
     <desc lang="en">Two best friends crash Christmas parties and unexpectedly find love and purpose.</desc>
     <credits>
@@ -22653,7 +22810,21 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Comedy</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026000100 +0200" stop="20241026020100 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241026040100 +0200" stop="20241026060100 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Holiday Crashers</title>
+    <desc lang="en">Two best friends crash Christmas parties and unexpectedly find love and purpose.</desc>
+    <credits>
+      <actor>Lyndsy Fonseca</actor>
+      <actor>Chris McNally</actor>
+      <actor>Daniella Monet</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026060100 +0200" stop="20241026080100 +0200" channel="Hallmark Channel (East)">
     <title lang="en">The Royal Nanny</title>
     <desc lang="en">Working under cover as a nanny, an MI5 agent must resist the charms of Prince Colin while keeping the royal family safe during Christmastime.</desc>
     <credits>
@@ -22670,7 +22841,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026020100 +0200" stop="20241026040100 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241026080100 +0200" stop="20241026100100 +0200" channel="Hallmark Channel (East)">
     <title lang="en">My Christmas Family Tree</title>
     <desc lang="en">A woman meets long-lost relatives for the first time after discovering her family tree during the holidays.</desc>
     <credits>
@@ -22687,7 +22858,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026040100 +0200" stop="20241026060000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241026100100 +0200" stop="20241026120000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">Christmas by Design</title>
     <desc lang="en">A fashion designer learns what's most important in life when she joins a Christmas challenge to create a new holiday-themed collection.</desc>
     <credits>
@@ -22704,7 +22875,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026060000 +0200" stop="20241026080000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241026120000 +0200" stop="20241026140000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">Switched for Christmas</title>
     <desc lang="en">At their obligatory pre-Christmas lunch, estranged identical twins decide to swap lives up until Christmas Day.</desc>
     <credits>
@@ -22721,7 +22892,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026080000 +0200" stop="20241026100000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241026140000 +0200" stop="20241026160000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">Noel Next Door</title>
     <desc lang="en">A single mother gets into a war of words with an irritable neighbor who is ruining Christmas, only to find that this misunderstood Grinch is the man who has stolen her heart.</desc>
     <credits>
@@ -22738,7 +22909,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026100000 +0200" stop="20241026120000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241026160000 +0200" stop="20241026180000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">Write Before Christmas</title>
     <desc lang="en">Jessica sends Christmas cards to five people who have greatly impacted her life.</desc>
     <credits>
@@ -22755,7 +22926,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026120000 +0200" stop="20241026140000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241026180000 +0200" stop="20241026200000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">Christmas Under Wraps</title>
     <desc lang="en">After unexpectedly moving to Alaska, an ambitious doctor starts a new romance and learns that her small town is hiding a holiday secret.</desc>
     <credits>
@@ -22772,7 +22943,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026140000 +0200" stop="20241026160000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241026200000 +0200" stop="20241026220000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">Christmas Island</title>
     <desc lang="en">When a snowstorm diverts Kate's first private flight to Christmas Island, she must team up with an air traffic controller to secure her dream job as the family's pilot.</desc>
     <credits>
@@ -22789,7 +22960,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026160000 +0200" stop="20241026180000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241026220000 +0200" stop="20241027000000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">Everything Christmas</title>
     <desc lang="en">A woman and her roommate embark on a road trip to Yuletide Springs, a town where Christmas is celebrated year-round.</desc>
     <credits>
@@ -22806,7 +22977,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026180000 +0200" stop="20241026200000 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241027000000 +0200" stop="20241027020000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">Operation Nutcracker</title>
     <desc lang="en">When an antique nutcracker set to be auctioned at the Warby family Christmas charity goes missing, a demanding event planner and the heir to the Warby dynasty try to track it down.</desc>
     <credits>
@@ -22820,7 +22991,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Romance</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026200000 +0200" stop="20241026220100 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241027020000 +0200" stop="20241027030100 +0100" channel="Hallmark Channel (East)">
     <title lang="en">The Christmas Charade</title>
     <desc lang="en">Facing another dull Christmas alone, sparks fly when a risk-averse librarian accidentally gets wrapped up with a grinchy FBI agent in an undercover mission to save the Heart of Christmas.</desc>
     <credits>
@@ -22837,7 +23008,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026220100 +0200" stop="20241027000100 +0200" channel="Hallmark Channel (East)">
+  <programme start="20241027030100 +0100" stop="20241027050100 +0100" channel="Hallmark Channel (East)">
     <title lang="en">Scouting for Christmas</title>
     <desc lang="en">A single mom tries to make her daughter's Christmas special since her dad is working overseas for the holidays. She partners with her daughter's favorite baker for the Holiday Ball.</desc>
     <credits>
@@ -22851,32 +23022,15 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Romance</category>
     <previously-shown/>
   </programme>
-  <programme start="20241027000100 +0200" stop="20241027020100 +0200" channel="Hallmark Channel (East)">
-    <title lang="en">Take Me Back for Christmas</title>
-    <desc lang="en">A Christmas wish grants Renée the successful life she's always dreamed of -- except she finds herself no longer married to her beloved husband.</desc>
+  <programme start="20241025040100 +0200" stop="20241025060100 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">A Godwink Christmas</title>
+    <desc lang="en">As Christmas approaches, Paula reluctantly accepts a marriage proposal from her boyfriend. When her Aunt Jane invites Paula to her Nantucket home, she bonds with a charming inn owner.</desc>
     <credits>
-      <actor>Vanessa Lengies</actor>
-      <actor>Corey Sevier</actor>
-      <actor>Paula Boudreau</actor>
+      <actor>Kimberley Sustad</actor>
+      <actor>Paul Campbell</actor>
+      <actor>Kathie Lee Gifford</actor>
     </credits>
-    <date>2023</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Christmas</category>
-    <category lang="en">Romance</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241027020100 +0200" stop="20241027040100 +0100" channel="Hallmark Channel (East)">
-    <title lang="en">Let It Snow</title>
-    <desc lang="en">An executive examines her company's new property and prepares a presentation to transform the rustic lodge into a new hot spot. She tries to ignore the lodge's festive celebrations during her stay, but an unexpected romance changes her heart.</desc>
-    <credits>
-      <actor>Candace Cameron Bure</actor>
-      <actor>Jesse Hutch</actor>
-      <actor>Alan Thicke</actor>
-    </credits>
-    <date>2013</date>
+    <date>2018</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
     <category lang="en">Drama</category>
@@ -22885,7 +23039,58 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025060000 +0200" stop="20241025080000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241025060100 +0200" stop="20241025080100 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Family for Christmas</title>
+    <desc lang="en">After an offhand wish to a man playing Santa Claus, a woman wakes up to find herself married to her college sweetheart.</desc>
+    <credits>
+      <actor>Lacey Chabert</actor>
+      <actor>Tyron Leitso</actor>
+      <actor>Milli Wilkinson</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241025080100 +0200" stop="20241025100100 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Merry &amp; Bright</title>
+    <desc lang="en">Merry and Bright Candy Cane Company owner Cate meets a man during the busy Christmas season and assumes he is the suitor her mother is trying to set her up with.</desc>
+    <credits>
+      <actor>Jodie Sweetin</actor>
+      <actor>Andrew Walker</actor>
+      <actor>Sharon Lawrence</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241025100100 +0200" stop="20241025120000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Jingle Bell Bride</title>
+    <desc lang="en">A wedding planner finds romance with a handsome local after traveling to a remote town in Alaska to find a rare flower for a celebrity client.</desc>
+    <credits>
+      <actor>Julie Gonzalo</actor>
+      <actor>Ronnie Rowe Jr.</actor>
+      <actor>BJ Harrison</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241025120000 +0200" stop="20241025140000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Christmas Bedtime Stories</title>
     <desc lang="en">When Danielle's husband goes missing in action during his deployment, she's left to raise her daughter on her own. Three years later, as she acclimates to life without him, she begins to tell her daughter bedtime stories about her father.</desc>
     <credits>
@@ -22902,7 +23107,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025080000 +0200" stop="20241025100000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241025140000 +0200" stop="20241025160000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">A Godwink Christmas: Miracle of Love</title>
     <desc lang="en">Joy and Eric find a new sense of purpose -- and get a chance at love -- as they work together to build a home for a family during Christmastime.</desc>
     <credits>
@@ -22919,7 +23124,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025100000 +0200" stop="20241025120000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241025160000 +0200" stop="20241025180000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Mystery on Mistletoe Lane</title>
     <desc lang="en">New to town, Heidi Wicks and her kids discover a Christmas mystery in their historic home. Local handyman and historian David helps along the way, finding his own surprising connection.</desc>
     <credits>
@@ -22936,7 +23141,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025120000 +0200" stop="20241025140000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241025180000 +0200" stop="20241025200000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">A Merry Christmas Match</title>
     <desc lang="en">A woman spends her time working in her mother's antique shop in a small ski village. One day she meets a man who makes her wonder if she should have left town and followed her dreams.</desc>
     <credits>
@@ -22953,7 +23158,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025140000 +0200" stop="20241025160000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241025200000 +0200" stop="20241025220000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Miracle in Bethlehem, PA</title>
     <desc lang="en">A single woman with a newly adopted baby gets stuck in Bethlehem, Pa.; with no room at the inn, she's forced to stay with a stranger who turns out to be the miracle she has needed.</desc>
     <credits>
@@ -22970,7 +23175,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025160000 +0200" stop="20241025180000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241025220000 +0200" stop="20241026000000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Journey Back to Christmas</title>
     <desc lang="en">A nurse (Candace Cameron Bure) from World War II is transported in time to 2016 and meets a man who helps her discover the bonds of family and that the true meaning of Christmas is timeless.</desc>
     <credits>
@@ -22987,7 +23192,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025180000 +0200" stop="20241025200000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241026000000 +0200" stop="20241026020000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">A Godwink Christmas: Second Chance, First Love</title>
     <desc lang="en">After 15 years, a single father moves home from Hawaii with his two sons and, through a series of coincidences -- or Godwinks, ends up stuck in traffic next to his high school sweetheart.</desc>
     <credits>
@@ -23001,7 +23206,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Drama</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025200000 +0200" stop="20241025220000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241026020000 +0200" stop="20241026040000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">A Godwink Christmas: Meant for Love</title>
     <desc lang="en">A chance meeting at a weekend wedding celebration brings together Alice and Jack, two singles from very different family backgrounds.</desc>
     <credits>
@@ -23018,7 +23223,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025220000 +0200" stop="20241026000000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241026040000 +0200" stop="20241026060000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">A Season for Family</title>
     <desc lang="en">Maddy's adopted son, Wesley, has just one wish for Christmas -- to meet his brother, Cody, who was adopted into a different family. Circumstances soon bring the two siblings together while sparks fly between their respective parents.</desc>
     <credits>
@@ -23035,7 +23240,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026000000 +0200" stop="20241026020000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241026060000 +0200" stop="20241026080000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Christmas on My Mind</title>
     <desc lang="en">Lucy Lovett wakes up holding a wedding dress and assumes she is about to marry the love her life, Zach Callahan.</desc>
     <credits>
@@ -23052,7 +23257,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026020000 +0200" stop="20241026040000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241026080000 +0200" stop="20241026100000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Christmas Homecoming</title>
     <desc lang="en">A military widow whose faith in Christmas has lapsed rents an apartment to a soldier who is recovering from an injury in battle. When they team up to save the town's military museum, these two wounded birds find themselves falling in love.</desc>
     <credits>
@@ -23069,7 +23274,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026040000 +0200" stop="20241026060000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241026100000 +0200" stop="20241026120000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Nantucket Noel</title>
     <desc lang="en">Tensions rise when a woman falls for the son of a developer who wants to tear down the wharf that is home to her toy store.</desc>
     <credits>
@@ -23086,7 +23291,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026060000 +0200" stop="20241026080000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241026120000 +0200" stop="20241026140000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Christmas Wonderland</title>
     <desc lang="en">Heidi returns home to watch her niece and nephew and comes face to face with her high school love. Heidi offers to help him with a dance, and the more time she spends decorating, the more she finds herself inspired to start painting again.</desc>
     <credits>
@@ -23103,7 +23308,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026080000 +0200" stop="20241026100000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241026140000 +0200" stop="20241026160000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Northern Lights of Christmas</title>
     <desc lang="en">Life deals Zoey Hathaway a strange blow when she inherits a reindeer farm and becomes buried in taking care of the animals and all of the Christmas responsibilities.</desc>
     <credits>
@@ -23120,7 +23325,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026100000 +0200" stop="20241026120000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241026160000 +0200" stop="20241026180000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">The Perfect Christmas Present</title>
     <desc lang="en">Tom Jacobs has built a business around helping clients find the perfect gift for their loved ones. When he's hired to find a gift for his friend's girlfriend, he finds himself in a bit of trouble: The more he researches her, the more he likes her.</desc>
     <credits>
@@ -23137,7 +23342,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026120000 +0200" stop="20241026140000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241026180000 +0200" stop="20241026200000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Christmas at Grand Valley</title>
     <desc lang="en">Kelly returns to Grand Valley for Christmas. When Leo, a single dad, arrives in town with his kids to review a hotel, the two cross paths. As Kelly re-experiences traditions with Leo, she begins to find her way back to her passion for art.</desc>
     <credits>
@@ -23154,7 +23359,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026140000 +0200" stop="20241026160000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241026200000 +0200" stop="20241026220000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">A Glenbrooke Christmas</title>
     <desc lang="en">As Christmas nears, heiress Jessica Morgan seizes what seems like her last chance to experience a relaxed Christmas and heads off to the small town of Glenbrooke, where she meets a handsome fireman.</desc>
     <credits>
@@ -23171,7 +23376,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026160000 +0200" stop="20241026180000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241026220000 +0200" stop="20241027000000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">A Little Christmas Charm</title>
     <desc lang="en">A jewelry designer teams up with an investigative reporter to find the owner of a charm bracelet before Christmas Eve.</desc>
     <credits>
@@ -23188,7 +23393,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026180000 +0200" stop="20241026200000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241027000000 +0200" stop="20241027020000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">The Christmas Promise</title>
     <desc lang="en">Nicole learns to deal with grief, with the help of her grandfather and a carpenter she hires to renovate the home that was once meant for her and her fiancé.</desc>
     <credits>
@@ -23205,7 +23410,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026200000 +0200" stop="20241026220000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241027020000 +0200" stop="20241027030000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Holiday Hearts</title>
     <desc lang="en">While planning an annual Christmas party, Peyton is forced together with Ben to care for a friend's daughter.</desc>
     <credits>
@@ -23222,7 +23427,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241026220000 +0200" stop="20241027000000 +0200" channel="Hallmark Movies and Mysteries HD">
+  <programme start="20241027030000 +0200" stop="20241027050000 +0200" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Karen Kingsbury's Maggie's Christmas Miracle</title>
     <desc lang="en">Maggie tries to maintain the balance of being a mother and having a career. When her son Jordan needs help at school, he meets Casey, a tutor, and the two quickly bond. As Casey becomes a father figure, Jordan wishes his mom could find love again.</desc>
     <credits>
@@ -23239,90 +23444,14 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241027000000 +0200" stop="20241027020000 +0200" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">Time for Me to Come Home for Christmas</title>
-    <desc lang="en">Two strangers, a businesswoman and a country music star, are both booked on a flight to Tulsa before the holidays, but it ends up getting canceled due to a snowstorm. They decide to try to get to Tulsa together, and share their secrets along the way.</desc>
-    <credits>
-      <actor>Megan Park</actor>
-      <actor>Josh Henderson</actor>
-      <actor>Lindsay Maxwell</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Christmas</category>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241027020000 +0200" stop="20241027040000 +0200" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">Cherished Memories: A Gift to Remember 2</title>
-    <desc lang="en">As Darcy and Aiden prepare to celebrate their second Christmas together, an unexpected guest and a fight to save the beloved community center unites everyone for an unforgettable holiday.</desc>
-    <credits>
-      <actor>Peter Porte</actor>
-      <actor>Ali Liebert</actor>
-      <actor>Tina Lifford</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Christmas</category>
-    <category lang="en">Romance</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241025060000 +0200" stop="20241025070000 +0200" channel="nbatv.us">
-    <title lang="en">Inside the NBA</title>
-    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
+  <programme start="20241025060000 +0200" stop="20241025063000 +0200" channel="nbatv.us">
+    <title lang="en">Basketball Stories: 2000 Slam Dunk Contest- 20th Anniversary</title>
+    <desc lang="en">A look back at Vince Carter's performance in the 2000 Slam Dunk Contest.</desc>
+    <category lang="en">Specials</category>
     <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025070000 +0200" stop="20241025080000 +0200" channel="nbatv.us">
-    <title lang="en">Inside the NBA</title>
-    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241025080000 +0200" stop="20241025090000 +0200" channel="nbatv.us">
-    <title lang="en">Inside the NBA</title>
-    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241025090000 +0200" stop="20241025100000 +0200" channel="nbatv.us">
-    <title lang="en">Inside the NBA</title>
-    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241025100000 +0200" stop="20241025120000 +0200" channel="nbatv.us">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241025120000 +0200" stop="20241025140000 +0200" channel="nbatv.us">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241025140000 +0200" stop="20241025160000 +0200" channel="nbatv.us">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241025160000 +0200" stop="20241025163000 +0200" channel="nbatv.us">
+  <programme start="20241025063000 +0200" stop="20241025070000 +0200" channel="nbatv.us">
     <title lang="en">NBA Action</title>
     <desc lang="en">A weekly look back at the top news and highlights in the NBA.</desc>
     <category lang="en">Sports</category>
@@ -23332,14 +23461,94 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241025163000 +0200" stop="20241025183000 +0200" channel="nbatv.us">
+  <programme start="20241025070000 +0200" stop="20241025090000 +0200" channel="nbatv.us">
     <title lang="en">NBA TV Marquee Matchup</title>
     <desc lang="en">The best match-up of the week from around the Association.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025183000 +0200" stop="20241025190000 +0200" channel="nbatv.us">
+  <programme start="20241025090000 +0200" stop="20241025110000 +0200" channel="nbatv.us">
+    <title lang="en">NBA TV Marquee Matchup</title>
+    <desc lang="en">The best match-up of the week from around the Association.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025110000 +0200" stop="20241025120000 +0200" channel="nbatv.us">
+    <title lang="en">Inside the NBA</title>
+    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025120000 +0200" stop="20241025130000 +0200" channel="nbatv.us">
+    <title lang="en">Inside the NBA</title>
+    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025130000 +0200" stop="20241025140000 +0200" channel="nbatv.us">
+    <title lang="en">Inside the NBA</title>
+    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025140000 +0200" stop="20241025150000 +0200" channel="nbatv.us">
+    <title lang="en">Inside the NBA</title>
+    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025150000 +0200" stop="20241025160000 +0200" channel="nbatv.us">
+    <title lang="en">Inside the NBA</title>
+    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025160000 +0200" stop="20241025180000 +0200" channel="nbatv.us">
+    <title lang="en">NBA TV Marquee Matchup</title>
+    <desc lang="en">The best match-up of the week from around the Association.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025180000 +0200" stop="20241025200000 +0200" channel="nbatv.us">
+    <title lang="en">NBA TV Marquee Matchup</title>
+    <desc lang="en">The best match-up of the week from around the Association.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025200000 +0200" stop="20241025220000 +0200" channel="nbatv.us">
+    <title lang="en">NBA TV Marquee Matchup</title>
+    <desc lang="en">The best match-up of the week from around the Association.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241025220000 +0200" stop="20241025223000 +0200" channel="nbatv.us">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">A weekly look back at the top news and highlights in the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241025223000 +0200" stop="20241026003000 +0200" channel="nbatv.us">
+    <title lang="en">NBA TV Marquee Matchup</title>
+    <desc lang="en">The best match-up of the week from around the Association.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026003000 +0200" stop="20241026010000 +0200" channel="nbatv.us">
     <title lang="en">NBABet</title>
     <sub-title lang="en">NBABet 10/25</sub-title>
     <desc lang="en">Studio show dedicated to NBA betting-focused information and analysis.</desc>
@@ -23347,111 +23556,22 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025190000 +0200" stop="20241025223000 +0200" channel="nbatv.us">
+  <programme start="20241026010000 +0200" stop="20241026043000 +0200" channel="nbatv.us">
     <title lang="en">NBA GameTime Live</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241025223000 +0200" stop="20241026010000 +0200" channel="nbatv.us">
+  <programme start="20241026043000 +0200" stop="20241026043000 +0200" channel="nbatv.us">
     <title lang="en">NBA GameTime Live</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026010000 +0200" stop="20241026013000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <sub-title lang="en">NBA GameTime 10/25</sub-title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026013000 +0200" stop="20241026020000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <sub-title lang="en">NBA GameTime 10/25</sub-title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026020000 +0200" stop="20241026023000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <sub-title lang="en">NBA GameTime 10/25</sub-title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026023000 +0200" stop="20241026030000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <sub-title lang="en">NBA GameTime 10/25</sub-title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026030000 +0200" stop="20241026033000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <sub-title lang="en">NBA GameTime 10/25</sub-title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026033000 +0200" stop="20241026040000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <sub-title lang="en">NBA GameTime 10/25</sub-title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026040000 +0200" stop="20241026043000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <sub-title lang="en">NBA GameTime 10/25</sub-title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026043000 +0200" stop="20241026050000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <sub-title lang="en">NBA GameTime 10/25</sub-title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026050000 +0200" stop="20241026053000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <sub-title lang="en">NBA GameTime 10/25</sub-title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026053000 +0200" stop="20241026060000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <sub-title lang="en">NBA GameTime 10/25</sub-title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026060000 +0200" stop="20241026063000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <sub-title lang="en">NBA GameTime 10/25</sub-title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241026063000 +0200" stop="20241026070000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+  <programme start="20241026043000 +0200" stop="20241026070000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime Live</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
@@ -23513,150 +23633,171 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026103000 +0200" stop="20241026123000 +0200" channel="nbatv.us">
+  <programme start="20241026103000 +0200" stop="20241026110000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026110000 +0200" stop="20241026113000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026113000 +0200" stop="20241026120000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026120000 +0200" stop="20241026123000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026123000 +0200" stop="20241026130000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026130000 +0200" stop="20241026133000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026133000 +0200" stop="20241026140000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026140000 +0200" stop="20241026143000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026143000 +0200" stop="20241026150000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026150000 +0200" stop="20241026153000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026153000 +0200" stop="20241026160000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026160000 +0200" stop="20241026163000 +0200" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <sub-title lang="en">NBA GameTime 10/25</sub-title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241026163000 +0200" stop="20241026183000 +0200" channel="nbatv.us">
     <title lang="en">NBA TV Marquee Matchup</title>
     <desc lang="en">The best match-up of the week from around the Association.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026123000 +0200" stop="20241026143000 +0200" channel="nbatv.us">
+  <programme start="20241026183000 +0200" stop="20241026203000 +0200" channel="nbatv.us">
     <title lang="en">NBA TV Marquee Matchup</title>
     <desc lang="en">The best match-up of the week from around the Association.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026143000 +0200" stop="20241026163000 +0200" channel="nbatv.us">
+  <programme start="20241026203000 +0200" stop="20241026223000 +0200" channel="nbatv.us">
     <title lang="en">NBA TV Marquee Matchup</title>
     <desc lang="en">The best match-up of the week from around the Association.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026163000 +0200" stop="20241026170000 +0200" channel="nbatv.us">
+  <programme start="20241026223000 +0200" stop="20241026230000 +0200" channel="nbatv.us">
     <title lang="en">NBA TV Pregame Show</title>
     <desc lang="en">Preview of tonight's game.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026170000 +0200" stop="20241026193000 +0200" channel="nbatv.us">
+  <programme start="20241026230000 +0200" stop="20241027013000 +0200" channel="nbatv.us">
     <title lang="en">Live: NBA Basketball</title>
     <sub-title lang="en">LA Clippers at Denver Nuggets</sub-title>
     <desc lang="en">The Clippers play the first of back-to-back road contests when they visit the Nuggets. Former MVP Russell Westbrook was dealt by LA to Utah on July 18 for Kris Dunn, but was waived July 20 by the Jazz and signed with Denver six days later.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241026193000 +0200" stop="20241026200000 +0200" channel="nbatv.us">
+  <programme start="20241027013000 +0200" stop="20241027020000 +0200" channel="nbatv.us">
     <title lang="en">NBA GameTime Live</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241026200000 +0200" stop="20241026223000 +0200" channel="nbatv.us">
+  <programme start="20241027020000 +0200" stop="20241027033000 +0100" channel="nbatv.us">
     <title lang="en">Live: NBA Basketball</title>
     <sub-title lang="en">Orlando Magic at Memphis Grizzlies</sub-title>
     <desc lang="en">The Grizzlies open up FedExForum for the 2024-25 campaign by playing host to the Magic. Last season, Orlando snapped a five-game slide against Memphis with a 118-88 victory on March 30 by getting scoring contributions from 13 different players.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241026223000 +0200" stop="20241027010000 +0200" channel="nbatv.us">
+  <programme start="20241025040000 +0200" stop="20241025063000 +0200" channel="tnt.us">
     <title lang="en">Live: NBA Basketball</title>
-    <sub-title lang="en">Sacramento Kings at Los Angeles Lakers</sub-title>
-    <desc lang="en">The Kings visit the Lakers. Sacramento swept four meetings from Los Angeles in 2023-24. The Kings acquired Compton, Calif., native DeMar DeRozan from the Bulls on July 8. DeRozan is averaging 22.4 points per game in his career facing the Lakers.</desc>
+    <sub-title lang="en">Oklahoma City Thunder at Denver Nuggets</sub-title>
+    <desc lang="en">The Nuggets host the Thunder. In 2023-24, Oklahoma City and Denver produced identical 57-25 records, with the Thunder earning the West's No. 1 seed by virtue of winning the season series 3-1. Shai Gilgeous-Alexander (OKC) was runner-up in MVP voting.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241027010000 +0200" stop="20241027020000 +0200" channel="nbatv.us">
-    <title lang="en">NBA TV Postgame Show</title>
-    <desc lang="en">Review of the game; highlights; interviews with players and coaches.</desc>
+  <programme start="20241025063000 +0200" stop="20241025073000 +0200" channel="tnt.us">
+    <title lang="en">Live: Inside the NBA</title>
+    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
+    <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241027020000 +0200" stop="20241027023000 +0200" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241027023000 +0200" stop="20241027030000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241027030000 +0100" stop="20241027053000 +0100" channel="nbatv.us">
+  <programme start="20241025073000 +0200" stop="20241025100000 +0200" channel="tnt.us">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">LA Clippers at Denver Nuggets</sub-title>
-    <desc lang="en">The Clippers play the first of back-to-back road contests when they visit the Nuggets. Former MVP Russell Westbrook was dealt by LA to Utah on July 18 for Kris Dunn, but was waived July 20 by the Jazz and signed with Denver six days later.</desc>
+    <sub-title lang="en">San Antonio Spurs at Dallas Mavericks</sub-title>
+    <desc lang="en">Victor Wembanyama begins act two in this season opener between his Spurs and the Mavericks. The 7-foot-4 Frenchman won Rookie of the Year honors after averaging 21.4 points, 10.6 rebounds and a league-leading 3.6 blocks per game in 2023-24.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <previously-shown/>
-  </programme>
-  <programme start="20241025060000 +0200" stop="20241025070000 +0200" channel="tnt.us">
-    <title lang="en">Cold Case</title>
-    <sub-title lang="en">Strange Fruit</sub-title>
-    <desc lang="en">When a black teen makes friends with his white peers, despite his family being a target of racism, he ends up a murder victim, and detectives must sift through a slew of suspects to find the killer.</desc>
-    <credits>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241025070000 +0200" stop="20241025080000 +0200" channel="tnt.us">
-    <title lang="en">Cold Case</title>
-    <sub-title lang="en">Kensington</sub-title>
-    <desc lang="en">Rush and the team reopen the case of an optimistic young mill worker who was murdered in a town filled with despair.</desc>
-    <credits>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241025080000 +0200" stop="20241025090000 +0200" channel="tnt.us">
-    <title lang="en">Cold Case</title>
-    <sub-title lang="en">Creatures of the Night</sub-title>
-    <desc lang="en">Rush and Valens try to connect a murder from 1977 to a serial killer about to be released from prison on a legal technicality.</desc>
-    <credits>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241025090000 +0200" stop="20241025100000 +0200" channel="tnt.us">
-    <title lang="en">Cold Case</title>
-    <sub-title lang="en">Best Friends</sub-title>
-    <desc lang="en">When a truck containing human bones is retrieved from the Delaware River, Rush and Valens link the truck to a Prohibition bootlegger and believe the remains are those of a woman who went missing in 1932.</desc>
-    <credits>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
   </programme>
   <programme start="20241025100000 +0200" stop="20241025110000 +0200" channel="tnt.us">
     <title lang="en">Cold Case</title>
@@ -23673,7 +23814,97 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20241025110000 +0200" stop="20241025141500 +0200" channel="tnt.us">
+  <programme start="20241025110000 +0200" stop="20241025120000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Ravaged</sub-title>
+    <desc lang="en">The investigation into an accidental death reopens when the victim's sister asserts she may have been murdered by members of a fraternity.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241025120000 +0200" stop="20241025130000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Strange Fruit</sub-title>
+    <desc lang="en">When a black teen makes friends with his white peers, despite his family being a target of racism, he ends up a murder victim, and detectives must sift through a slew of suspects to find the killer.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241025130000 +0200" stop="20241025140000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Kensington</sub-title>
+    <desc lang="en">Rush and the team reopen the case of an optimistic young mill worker who was murdered in a town filled with despair.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241025140000 +0200" stop="20241025150000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Creatures of the Night</sub-title>
+    <desc lang="en">Rush and Valens try to connect a murder from 1977 to a serial killer about to be released from prison on a legal technicality.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241025150000 +0200" stop="20241025160000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Best Friends</sub-title>
+    <desc lang="en">When a truck containing human bones is retrieved from the Delaware River, Rush and Valens link the truck to a Prohibition bootlegger and believe the remains are those of a woman who went missing in 1932.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241025160000 +0200" stop="20241025170000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">The Woods</sub-title>
+    <desc lang="en">The discovery of nine human skulls prompts Rush to look again at a serial killer she was unable to put away months earlier, flushing him from hiding for a final showdown.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241025170000 +0200" stop="20241025201500 +0200" channel="tnt.us">
     <title lang="en">Dune</title>
     <desc lang="en">Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people.</desc>
     <credits>
@@ -23692,7 +23923,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241025141500 +0200" stop="20241025161500 +0200" channel="tnt.us">
+  <programme start="20241025201500 +0200" stop="20241025221500 +0200" channel="tnt.us">
     <title lang="en">Jurassic Park III</title>
     <desc lang="en">A paleontologist (Sam Neill) and a couple (William H. Macy, Tea Leoni) outrun cloned dinosaurs after their plane crashes on an island.</desc>
     <credits>
@@ -23711,7 +23942,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241025161500 +0200" stop="20241025191500 +0200" channel="tnt.us">
+  <programme start="20241025221500 +0200" stop="20241026011500 +0200" channel="tnt.us">
     <title lang="en">The Lost World: Jurassic Park</title>
     <desc lang="en">Four years after "Jurassic Park", mathematician Ian Malcolm ventures onto a second island to save his girlfriend from becoming dinosaur bait.</desc>
     <credits>
@@ -23730,7 +23961,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241025191500 +0200" stop="20241025220000 +0200" channel="tnt.us">
+  <programme start="20241026011500 +0200" stop="20241026040000 +0200" channel="tnt.us">
     <title lang="en">Jurassic Park</title>
     <desc lang="en">An entrepreneur invites scientists (Sam Neill, Laura Dern), a mathematics theorist (Jeff Goldblum) and others to his jungle theme-park featuring dinosaurs regenerated from DNA.</desc>
     <credits>
@@ -23750,7 +23981,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241025220000 +0200" stop="20241025230000 +0200" channel="tnt.us">
+  <programme start="20241026040000 +0200" stop="20241026050000 +0200" channel="tnt.us">
     <title lang="en">All Elite Wrestling: Rampage</title>
     <desc lang="en">Ricochet battles rookie sensation Nick Wayne. Three-way tag team match: Shane Taylor Promotions vs. Gates of Agony vs. The Undisputed Kingdom.</desc>
     <category lang="en">Sports</category>
@@ -23760,7 +23991,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20241025230000 +0200" stop="20241026020000 +0200" channel="tnt.us">
+  <programme start="20241026050000 +0200" stop="20241026050000 +0200" channel="tnt.us">
     <title lang="en">American Sniper</title>
     <desc lang="en">Sniper and U.S. Navy SEAL Chris Kyle (Bradley Cooper) saves many lives on battlefields in Iraq while striving to be a good husband and father to his loved ones back in America.</desc>
     <credits>
@@ -23779,95 +24010,24 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241026020000 +0200" stop="20241026030000 +0200" channel="tnt.us">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">Man on Fire</sub-title>
-    <desc lang="en">After the discovery of a petty officer's body inside a sports arena, evidence leads Pride and the NCIS team to a kidnapping case of another petty officer, last seen in Mexico.</desc>
+  <programme start="20241026050000 +0200" stop="20241026080000 +0200" channel="tnt.us">
+    <title lang="en">American Sniper</title>
+    <desc lang="en">Sniper and U.S. Navy SEAL Chris Kyle (Bradley Cooper) saves many lives on battlefields in Iraq while striving to be a good husband and father to his loved ones back in America.</desc>
     <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Vanessa Ferlito</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Sienna Miller</actor>
+      <actor>Jake McDorman</actor>
     </credits>
-    <category lang="en">Drama</category>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">War</category>
     <previously-shown/>
     <rating system="MPAA">
-      <value>TV14</value>
+      <value>TVPG</value>
     </rating>
-  </programme>
-  <programme start="20241026030000 +0200" stop="20241026040000 +0200" channel="tnt.us">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">Escape Plan</sub-title>
-    <desc lang="en">The NCIS must come to the rescue of one of its own when Sebastian is kidnapped while dining in a restaurant with his mother; Sebastian relies on his gaming skills in a prison break.</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Vanessa Ferlito</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241026040000 +0200" stop="20241026050000 +0200" channel="tnt.us">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">Course Correction</sub-title>
-    <desc lang="en">The NCIS and the FBI investigate a private plane crash in the bayou that killed three sailors; Sonja and Lasalle interview candidates for a job opening on the team.</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Vanessa Ferlito</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241026050000 +0200" stop="20241026060000 +0200" channel="tnt.us">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">One Good Man</sub-title>
-    <desc lang="en">A Navy SEAL candidate is murdered weeks before his graduation; Wade seeks Pride's help when her adopted son announces his plan to join the Navy.</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Vanessa Ferlito</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241026060000 +0200" stop="20241026070000 +0200" channel="tnt.us">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">Breaking Brig</sub-title>
-    <desc lang="en">An armored transport bus crashes, resulting in the escape of four prisoners -- including a black market broker topping the list of national security threats; Pride needs Gibbs' help with a case file full of redactions.</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Zoe McLellan</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241026070000 +0200" stop="20241026080000 +0200" channel="tnt.us">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">The Recruits</sub-title>
-    <desc lang="en">When a Navy SEAL is found dead in a sorority house, the team must determine if his death was related to collegiate foul play or a classified mission; Pride's daughter visits the office.</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Zoe McLellan</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20241026080000 +0200" stop="20241026090000 +0200" channel="tnt.us">
     <title lang="en">NCIS: New Orleans</title>
@@ -23899,7 +24059,97 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20241026100000 +0200" stop="20241026123000 +0200" channel="tnt.us">
+  <programme start="20241026100000 +0200" stop="20241026110000 +0200" channel="tnt.us">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Course Correction</sub-title>
+    <desc lang="en">The NCIS and the FBI investigate a private plane crash in the bayou that killed three sailors; Sonja and Lasalle interview candidates for a job opening on the team.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Vanessa Ferlito</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241026110000 +0200" stop="20241026120000 +0200" channel="tnt.us">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">One Good Man</sub-title>
+    <desc lang="en">A Navy SEAL candidate is murdered weeks before his graduation; Wade seeks Pride's help when her adopted son announces his plan to join the Navy.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Vanessa Ferlito</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241026120000 +0200" stop="20241026130000 +0200" channel="tnt.us">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Breaking Brig</sub-title>
+    <desc lang="en">An armored transport bus crashes, resulting in the escape of four prisoners -- including a black market broker topping the list of national security threats; Pride needs Gibbs' help with a case file full of redactions.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241026130000 +0200" stop="20241026140000 +0200" channel="tnt.us">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">The Recruits</sub-title>
+    <desc lang="en">When a Navy SEAL is found dead in a sorority house, the team must determine if his death was related to collegiate foul play or a classified mission; Pride's daughter visits the office.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241026140000 +0200" stop="20241026150000 +0200" channel="tnt.us">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">It Happened Last Night</sub-title>
+    <desc lang="en">The investigation into a chief warrant officer's death reveals that his wife has been abducted -- leaving the team with a 22-hour deadline; senior FBI agent Fornell assists with the case.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241026150000 +0200" stop="20241026160000 +0200" channel="tnt.us">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Master of Horror</sub-title>
+    <desc lang="en">Amidst Halloween festivities in New Orleans, a Naval Staff Judge Advocate dressed in a costume is found dead in a cemetery; the team debates Halloween costumes and activities.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241026160000 +0200" stop="20241026183000 +0200" channel="tnt.us">
     <title lang="en">The Mummy Returns</title>
     <desc lang="en">Two evil forces believe the 9-year-old son of adventurer Rick O'Connell (Brendan Fraser) is the key to the reincarnation of Anck-su-namun.</desc>
     <credits>
@@ -23918,7 +24168,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241026123000 +0200" stop="20241026150000 +0200" channel="tnt.us">
+  <programme start="20241026183000 +0200" stop="20241026210000 +0200" channel="tnt.us">
     <title lang="en">The Mummy: Tomb of the Dragon Emperor</title>
     <desc lang="en">After his son is tricked into awakening a cursed Chinese emperor, Rick O'Connell (Brendan Fraser) and his family seek a way to send the megalomaniac and his 10,000 warriors back to their graves.</desc>
     <credits>
@@ -23937,7 +24187,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241026150000 +0200" stop="20241026173000 +0200" channel="tnt.us">
+  <programme start="20241026210000 +0200" stop="20241026233000 +0200" channel="tnt.us">
     <title lang="en">The Mummy</title>
     <desc lang="en">A young man opens a tomb unleashing a mummy seeking revenge for a curse laid upon him 3,000 years earlier.</desc>
     <credits>
@@ -23956,7 +24206,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241026173000 +0200" stop="20241026200000 +0200" channel="tnt.us">
+  <programme start="20241026233000 +0200" stop="20241027020000 +0200" channel="tnt.us">
     <title lang="en">The Mummy Returns</title>
     <desc lang="en">Two evil forces believe the 9-year-old son of adventurer Rick O'Connell (Brendan Fraser) is the key to the reincarnation of Anck-su-namun.</desc>
     <credits>
@@ -23975,7 +24225,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241026200000 +0200" stop="20241026220000 +0200" channel="tnt.us">
+  <programme start="20241027020000 +0200" stop="20241027030000 +0200" channel="tnt.us">
     <title lang="en">Live: All Elite Wrestling: Collision</title>
     <desc lang="en">Exciting new matches, more stories and more action, featuring the world-class All Elite Wrestling roster.</desc>
     <category lang="en">Sports</category>
@@ -23984,7 +24234,7 @@ H Γκέιλ είναι μια πυροτεχνουργός.
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20241026220000 +0200" stop="20241027000000 +0200" channel="tnt.us">
+  <programme start="20241027030000 +0200" stop="20241027050000 +0200" channel="tnt.us">
     <title lang="en">Talladega Nights: The Ballad of Ricky Bobby</title>
     <desc lang="en">NASCAR driver Ricky Bobby faces his greatest challenge ever when French Formula One driver Jean Girard roars onto the scene.</desc>
     <credits>
@@ -24002,59 +24252,6 @@ H Γκέιλ είναι μια πυροτεχνουργός.
     <star-rating system="MPAA">
       <value>4.0/10</value>
     </star-rating>
-  </programme>
-  <programme start="20241027000000 +0200" stop="20241027020000 +0200" channel="tnt.us">
-    <title lang="en">Hot Tub Time Machine</title>
-    <desc lang="en">Following a night of drinking in a ski-resort hot tub, four pals awake in 1986, getting a chance to rewrite the past.</desc>
-    <credits>
-      <actor>John Cusack</actor>
-      <actor>Rob Corddry</actor>
-      <actor>Craig Robinson</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20241027020000 +0200" stop="20241027040000 +0200" channel="tnt.us">
-    <title lang="en">Talladega Nights: The Ballad of Ricky Bobby</title>
-    <desc lang="en">NASCAR driver Ricky Bobby faces his greatest challenge ever when French Formula One driver Jean Girard roars onto the scene.</desc>
-    <credits>
-      <actor>Will Ferrell</actor>
-      <actor>John C. Reilly</actor>
-      <actor>Sacha Baron Cohen</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20241027040000 +0200" stop="20241027050000 +0200" channel="tnt.us">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">Outlaws</sub-title>
-    <desc lang="en">A sailor is murdered during a rowdy motorcycle rally in the city; Lasalle seeks personal advice from Gregorio.</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Vanessa Ferlito</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
   </programme>
   <programme start="20241025130000 +0000" stop="20241025150500 +0000" channel="sportklub1.rs">
     <title lang="sr">Košarka - Euroleague: Real Madrid - Crvena zvezda</title>
