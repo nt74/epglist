@@ -1088,9 +1088,6 @@
   <programme start="20241027234500 +0000" stop="20241027025000 +0000" channel="svt2.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20241027050000 +0000" stop="20241027064000 +0000" channel="svt2.se">
-    <title lang="sv">Inget program</title>
-  </programme>
   <programme start="20241027064000 +0000" stop="20241027071000 +0000" channel="svt2.se">
     <title lang="sv">Hundra procent bonde</title>
     <sub-title lang="sv">Körsbär och spån</sub-title>
@@ -12441,13 +12438,7 @@
   <programme start="20241028044100 +0000" stop="20241028050000 +0000" channel="tv4sportlive2.se">
     <title lang="sv">Inget program</title>
   </programme>
-  <programme start="20241028050000 +0000" stop="20241028060000 +0000" channel="tv4sportlive2.se">
-    <title lang="sv">Inget program</title>
-  </programme>
   <programme start="20241028060000 +0000" stop="20241028044100 +0000" channel="tv4sportlive2.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20241028044100 +0000" stop="20241028050000 +0000" channel="tv4sportlive2.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20241028050000 +0000" stop="20241028060000 +0000" channel="tv4sportlive2.se">
@@ -12463,9 +12454,6 @@
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20241027233300 +0000" stop="20241027032900 +0000" channel="tv4sportlive3.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20241027040000 +0000" stop="20241027070000 +0000" channel="tv4sportlive3.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20241027070000 +0000" stop="20241027100000 +0000" channel="tv4sportlive3.se">
@@ -12517,9 +12505,6 @@
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20241027231800 +0000" stop="20241027032900 +0000" channel="tv4sportlive4.se">
-    <title lang="sv">Inget program</title>
-  </programme>
-  <programme start="20241027050000 +0000" stop="20241027080000 +0000" channel="tv4sportlive4.se">
     <title lang="sv">Inget program</title>
   </programme>
   <programme start="20241027080000 +0000" stop="20241027110000 +0000" channel="tv4sportlive4.se">
@@ -17289,6 +17274,11 @@
     <desc lang="el">Στην Αθήνα του 1939 εξαφανίζεται μυστηριωδώς ένα σημαντικό πρόσωπο της αθηναϊκής κοινωνίας, ο γοητευτικός κοσμοπολίτης Τζων Αυλακιώτης. Η γυναίκα του Βαλεντίνη, ζητάει τη βοήθεια του Ανέστη, ενός 'αιώνια ερωτευμένου' μαζί της ασήμαντου δημοσιογράφου.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
     <episode-num system="onscreen">S2 E15</episode-num>
+  </programme>
+  <programme start="20241027030000 +0200" stop="20241027030000 +0200" channel="ert2.gr">
+    <title lang="el">Αναζητώντας την Βερενίκη</title>
+    <desc lang="el">Ο Γ. Γραμματικάκης συνομιλεί με τον καθηγητή Λ. Ρεσβάνη και άλλους επιστήμονες για το πείραμα που φιλοδοξεί να λύσει το αίνιγμα της 'σκοτεινής (αθέατης) ύλης' του Σύμπαντος και να προωθήσει την έρευνα της σύγχρονης Φυσικής για τη δημιουργία του κόσμου.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
   </programme>
   <programme start="20241027030000 +0200" stop="20241027030000 +0200" channel="ert2.gr">
     <title lang="el">Αναζητώντας την Βερενίκη</title>
@@ -28387,11 +28377,6 @@
     <desc lang="bs">5liga.</desc>
     <category lang="bs">5sport</category>
   </programme>
-  <programme start="20241028181500 +0100" stop="20241028200000 +0100" channel="arenasport5.rs">
-    <title lang="bs">Uživo: Vasas Plaket - Jadran HN MTEL</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
-    <category lang="bs">Vaterpolo</category>
-  </programme>
   <programme start="20241028180000 +0100" stop="20241028200000 +0100" channel="arenasport5.rs">
     <title lang="bs">Uživo: Široki - Podgorica</title>
     <desc lang="bs">ABA 2. LIGA.</desc>
@@ -28461,11 +28446,6 @@
     <title lang="bs">Portland, pregled</title>
     <desc lang="bs">INDYCAR.</desc>
     <category lang="bs">Automoto</category>
-  </programme>
-  <programme start="20241028173000 +0100" stop="20241028210000 +0100" channel="arenasport6.rs">
-    <title lang="bs">Uživo: SKA - Lokomotiv</title>
-    <desc lang="bs">KHL.</desc>
-    <category lang="bs">Hokej</category>
   </programme>
   <programme start="20241028060000 +0100" stop="20241028184500 +0100" channel="arenasport6.rs">
     <title lang="bs">6show</title>
@@ -28572,11 +28552,6 @@
   <programme start="20241028184500 +0200" stop="20241028204500 +0200" channel="arenasport7.rs">
     <title lang="bs">Uživo: Magdeburg - Zagreb</title>
     <desc lang="bs">LIGA ŠAMPIONA.</desc>
-    <category lang="bs">Rukomet</category>
-  </programme>
-  <programme start="20241028184500 +0200" stop="20241028204500 +0200" channel="arenasport7.rs">
-    <title lang="bs">Uživo: Sesvete - Karvina</title>
-    <desc lang="bs">LIGA EVROPE.</desc>
     <category lang="bs">Rukomet</category>
   </programme>
 </tv>
