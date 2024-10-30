@@ -1,5 +1,875 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="svt1.se">
+    <display-name lang="sv">SVT1 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="svt2.se">
+    <display-name lang="sv">SVT2 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv3.se">
+    <display-name lang="sv">TV3 HD (S)</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv4.se">
+    <display-name lang="sv">TV4 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="kanal5.se">
+    <display-name lang="sv">Kanal 5 HD (S)</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv6.se">
+    <display-name lang="sv">TV6 HD (S)</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="sjuan.se">
+    <display-name lang="sv">Sjuan HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv8.se">
+    <display-name lang="sv">TV8 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="kanal9.se">
+    <display-name lang="sv">Kanal 9 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv10.se">
+    <display-name lang="sv">TV10 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="kanal11.se">
+    <display-name lang="sv">Kanal 11 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv12.se">
+    <display-name lang="sv">TV12 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="kunskapskanalen.se">
+    <display-name lang="sv">Kunskapskanalen HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="svtb.se">
+    <display-name lang="sv">SVT Barn HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="svt24.se">
+    <display-name lang="sv">SVT24 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv4sportkanalen.se">
+    <display-name lang="sv">TV4 Sportkanalen HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv4hockey.se">
+    <display-name lang="sv">TV4 Hockey HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv4fotboll.se">
+    <display-name lang="sv">TV4 Fotboll HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv4sportlive.se">
+    <display-name lang="sv">TV4 Sport Live 1 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv4sportlive2.se">
+    <display-name lang="sv">TV4 Sport Live 2 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv4sportlive3.se">
+    <display-name lang="sv">TV4 Sport Live 3 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="tv4sportlive4.se">
+    <display-name lang="sv">TV4 Sport Live 4 HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="viasatfilmpremiere.se">
+    <display-name lang="sv">V film premiere HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="viasatfilmaction.se">
+    <display-name lang="sv">V film action HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="viasatfilmhits.se">
+    <display-name lang="sv">V film hits HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="viasatfilmfamily.se">
+    <display-name lang="sv">V film family</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="vsportextra.se">
+    <display-name lang="sv">V sport extra HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="viasatsportpremium.se">
+    <display-name lang="sv">V sport premium HD (S)</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="vfootball.se">
+    <display-name lang="sv">V sport football HD (S)</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="viasatsportvinter.se">
+    <display-name lang="sv">V sport vinter HD (S)</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="viasatmotor.se">
+    <display-name lang="sv">V sport motor HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="viasatsport.se">
+    <display-name lang="sv">V sport 1 HD (S)</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="mega.gr">
+    <display-name lang="el">Mega</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="ant1.gr">
+    <display-name lang="el">Ant 1 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/2.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="alpha.gr">
+    <display-name lang="el">A HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="star.gr">
+    <display-name lang="el">Star</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/4.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="skai.gr">
+    <display-name lang="el">ΣΚΑΙ</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/9.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="epsilontv.gr">
+    <display-name lang="el">Open Beyond</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="ert1.gr">
+    <display-name lang="el">ERT1</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/123.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="ert2.gr">
+    <display-name lang="el">ERT2</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="ert3.gr">
+    <display-name lang="el">ERT3</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="makedoniatv.gr">
+    <display-name lang="el">Μακεδονία TV</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/43.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="cosmotecinema1.gr">
+    <display-name lang="el">Cosmote Cinema 1 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/64.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="cosmotecinema2.gr">
+    <display-name lang="el">Cosmote Cindema 2 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/65.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="cosmotecinema3.gr">
+    <display-name lang="el">Cosmote Cinema 3</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/66.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="novacinema1.gr">
+    <display-name lang="el">Nova Cinema 1</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/31.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="novacinema2.gr">
+    <display-name lang="el">Nova Cinema 2</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/32.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="novacinema3.gr">
+    <display-name lang="el">Nova Cinema 3</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/33.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="novacinema4.gr">
+    <display-name lang="el">Nova Cinema 4</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/61.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="cosmotesport1.gr">
+    <display-name lang="el">Cosmote Sport 1 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="cosmotesport2.gr">
+    <display-name lang="el">Cosmote Sport 2 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/68.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="cosmotesport3.gr">
+    <display-name lang="el">Cosmote Sport 3 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="cosmotesport4.gr">
+    <display-name lang="el">Cosmote Sport 4 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="cosmotesport5.gr">
+    <display-name lang="el">Cosmote Sport 5 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="cosmotesport6.gr">
+    <display-name lang="el">Cosmote Sport 6 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="cosmotesport7.gr">
+    <display-name lang="el">Cosmote Sport 7</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="cosmotesport8.gr">
+    <display-name lang="el">Cosmote Sport 8</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/132.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="novasports1.gr">
+    <display-name lang="el">Nova Sports 1 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/34.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="novasports2.gr">
+    <display-name lang="el">Nova Sports 2 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/37.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="novasports3.gr">
+    <display-name lang="el">Nova Sports 3 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/38.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="novasports4.gr">
+    <display-name lang="el">Nova Sports 4 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/39.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="novasports5hd.gr">
+    <display-name lang="el">Nova Sports 5 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/148.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="novasports6.gr">
+    <display-name lang="el">Nova Sports 6 HD</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/41.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="novasportsprime.gr">
+    <display-name lang="el">Nova Sports Prime</display-name>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/158.png"/>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="abcwabc.us">
+    <display-name lang="en">ABC (WABC) New York, NY</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="ballysportswisconsin.us">
+    <display-name lang="en">Bally Sports Wisconsin</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16348_h15_ac.png"/>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="espn.us">
+    <display-name lang="en">ESPN</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png"/>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="espn2.us">
+    <display-name lang="en">ESPN2</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png"/>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Hallmark Channel (East)">
+    <display-name lang="en">Hallmark - Eastern Feed</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11221_h15_aa.png"/>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Hallmark Movies and Mysteries HD">
+    <display-name lang="en">Hallmark Mystery Eastern - HD</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s46710_h15_ab.png"/>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="nbatv.us">
+    <display-name lang="en">NBA TV USA</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png"/>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="tnt.us">
+    <display-name lang="en">TNT - Eastern Feed</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png"/>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="sportklub1.rs">
+    <display-name lang="sr">SK 1 HD (SR)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/26/sk1hd_logo_16_9_light_160x90_0e2f3e64_327f_4e23_bdc0_1109dec1113a.png"/>
+    <url>http://www.sportklub.rs</url>
+  </channel>
+  <channel id="sportklub2.rs">
+    <display-name lang="sr">SK 2 HD (SR)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/52/sk2hd_logo_16_9_light_160x90_b8e00d92_1743_4d96_b9e2_73e09c30fdd2.png"/>
+    <url>http://www.sportklub.rs</url>
+  </channel>
+  <channel id="sportklub3.rs">
+    <display-name lang="sr">SK 3 HD (SR)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/03/09/sk3hd_logo_16_9_light_160x90_3c16cfd0_678e_485b_99ac_db8f12716810.png"/>
+    <url>http://www.sportklub.rs</url>
+  </channel>
+  <channel id="sportklub4.rs">
+    <display-name lang="sr">SK 4 HD (SR)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/08/25/01/23/42/s_light_480x270.png"/>
+    <url>http://www.sportklub.rs</url>
+  </channel>
+  <channel id="sportklub5.rs">
+    <display-name lang="sr">SK 5 (SR)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/03/34/sk5_logo_16_9_light_160x90_4f6c82f4_bf2c_49dd_9d6f_6db3fc710abd.png"/>
+    <url>http://www.sportklub.rs</url>
+  </channel>
+  <channel id="sportklub6.rs">
+    <display-name lang="sr">SK 6 (SR)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/03/46/sk6_logo_16_9_light_160x90_fd7d822d_6e9a_48ff_998a_54885e3be98c.png"/>
+    <url>http://www.sportklub.rs</url>
+  </channel>
+  <channel id="arenasport1.rs">
+    <display-name lang="bs">Sport 1</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-01.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <channel id="arenasport2.rs">
+    <display-name lang="bs">Sport 2</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-02.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <channel id="arenasport3.rs">
+    <display-name lang="bs">Sport 3</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-03.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <channel id="arenasport4.rs">
+    <display-name lang="bs">Sport 4</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-04.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <channel id="arenasport5.rs">
+    <display-name lang="bs">Sport 5</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-05.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <channel id="arenasport6.rs">
+    <display-name lang="bs">Sport 6</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-06.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <channel id="arenasport7.rs">
+    <display-name lang="bs">Sport 7</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-07.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <programme start="20241030170000 +0000" stop="20241030171700 +0000" channel="svt1.se">
+    <title lang="sv">Rapport</title>
+    <sub-title lang="sv">Avsnitt 217</sub-title>
+    <desc lang="sv">Svensk nyhetsrapportering från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637684"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E217</episode-num>
+  </programme>
+  <programme start="20241030171700 +0000" stop="20241030172800 +0000" channel="svt1.se">
+    <title lang="sv">Kulturnyheterna</title>
+    <desc lang="sv">Svenskt kulturprogram från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Culture</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/638708"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E213</episode-num>
+  </programme>
+  <programme start="20241030172800 +0000" stop="20241030173300 +0000" channel="svt1.se">
+    <title lang="sv">Sportnytt</title>
+    <sub-title lang="sv">Avsnitt 308</sub-title>
+    <desc lang="sv">Svenska sportnyhetar från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Sport</category>
+    <category lang="sv">Sportsnews General</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637679"/>
+    <country lang="sv">SE</country>
+  </programme>
+  <programme start="20241030173300 +0000" stop="20241030174500 +0000" channel="svt1.se">
+    <title lang="sv">Lokala nyheter</title>
+    <desc lang="sv">Svenskt nyhetsprogram från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637948"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E213</episode-num>
+  </programme>
+  <programme start="20241030174500 +0000" stop="20241030183000 +0000" channel="svt1.se">
+    <title lang="sv">Go'kväll</title>
+    <sub-title lang="sv">En karriär som kroppsbyggare</sub-title>
+    <desc lang="sv">Svenskt magasin från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Leisure</category>
+    <category lang="sv">Lifestyle</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/638897"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E116</episode-num>
+  </programme>
+  <programme start="20241030183000 +0000" stop="20241030185500 +0000" channel="svt1.se">
+    <title lang="sv">Rapport</title>
+    <sub-title lang="sv">Avsnitt 261</sub-title>
+    <desc lang="sv">Svensk nyhetsrapportering från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637684"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E261</episode-num>
+  </programme>
+  <programme start="20241030185500 +0000" stop="20241030190000 +0000" channel="svt1.se">
+    <title lang="sv">Lokala nyheter</title>
+    <desc lang="sv">Svenskt nyhetsprogram från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637948"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E261</episode-num>
+  </programme>
+  <programme start="20241030190000 +0000" stop="20241030200000 +0000" channel="svt1.se">
+    <title lang="sv">Uppdrag granskning</title>
+    <sub-title lang="sv">Securitas och mörkläggningen</sub-title>
+    <desc lang="sv">Svensk dokumentär från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Social And Society</category>
+    <category lang="sv">Documentary</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664762"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S25</episode-num>
+  </programme>
+  <programme start="20241030200000 +0000" stop="20241030205000 +0000" channel="svt1.se">
+    <title lang="sv">Kulturfrågan Kontrapunkt</title>
+    <sub-title lang="sv">Avsnitt 4</sub-title>
+    <desc lang="sv">Svensk frågesport från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Culture</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/668164"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S7 E4</episode-num>
+  </programme>
+  <programme start="20241030205000 +0000" stop="20241030210000 +0000" channel="svt1.se">
+    <title lang="sv">Lokala nyheter</title>
+    <desc lang="sv">Svenskt nyhetsprogram från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637948"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E171</episode-num>
+  </programme>
+  <programme start="20241030210000 +0000" stop="20241030212500 +0000" channel="svt1.se">
+    <title lang="sv">Dates in Real Life</title>
+    <sub-title lang="sv">Krigarprinsessans död</sub-title>
+    <desc lang="sv">Norsk dramakomediserie från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Series</category>
+    <category lang="sv">Drama Comedy Series</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665658"/>
+    <country lang="sv">NO</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20241030212500 +0000" stop="20241030214000 +0000" channel="svt1.se">
+    <title lang="sv">Allt om knark</title>
+    <sub-title lang="sv">Ok eller inte ok?</sub-title>
+    <desc lang="sv">Svenskt samhällsprogram från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <category lang="sv">Documentary</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/667226"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20241030214000 +0000" stop="20241030215500 +0000" channel="svt1.se">
+    <title lang="sv">En annan sida av historien</title>
+    <sub-title lang="sv">Demokrati och välfärd</sub-title>
+    <desc lang="sv">(R) Svensk historieserie från 2021.</desc>
+    <date>2021</date>
+    <category lang="sv">Facts</category>
+    <category lang="sv">History</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/482567"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20241030215500 +0000" stop="20241030222500 +0000" channel="svt1.se">
+    <title lang="sv">Forskarna</title>
+    <sub-title lang="sv">Kan vi glömma dåligt minne?</sub-title>
+    <desc lang="sv">(R) Svensk vetenskapsserie från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Facts</category>
+    <category lang="sv">Science</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664454"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20241030222500 +0000" stop="20241030223000 +0000" channel="svt1.se">
+    <title lang="sv">Rapport</title>
+    <sub-title lang="sv">Avsnitt 304</sub-title>
+    <desc lang="sv">Svensk nyhetsrapportering från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637684"/>
+    <country lang="sv">SE</country>
+  </programme>
+  <programme start="20241030223000 +0000" stop="20241030233000 +0000" channel="svt1.se">
+    <title lang="sv">Tunna blå linjen</title>
+    <sub-title lang="sv">Avsnitt 5</sub-title>
+    <desc lang="sv">(R) Svensk dramaserie från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Series</category>
+    <category lang="sv">Drama Series</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/667893"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20241030233000 +0000" stop="20241031000000 +0000" channel="svt1.se">
+    <title lang="sv">Din guide till jordens undergång</title>
+    <sub-title lang="sv">Avsnitt 1</sub-title>
+    <desc lang="sv">(R) Svensk vetenskapsserie från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Facts</category>
+    <category lang="sv">Factual Magazine</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/670251"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20241031000000 +0000" stop="20241031004500 +0000" channel="svt1.se">
+    <title lang="sv">Bäst i test Nya Zeeland</title>
+    <sub-title lang="sv">Världens hemskaste lur</sub-title>
+    <desc lang="sv">(R) Nyzeeländsk underhållningsserie från 2021.</desc>
+    <date>2021</date>
+    <category lang="sv">Entertainment</category>
+    <category lang="sv">Humour</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664241"/>
+    <country lang="sv">NZ</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20241031004500 +0000" stop="20241031005500 +0000" channel="svt1.se">
+    <title lang="sv">Västra gymnasiet</title>
+    <sub-title lang="sv">City of angels</sub-title>
+    <desc lang="sv">Svensk dramaserie från 2023.</desc>
+    <date>2023</date>
+    <category lang="sv">Kids And Youth</category>
+    <category lang="sv">Youth</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/669656"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20241031005500 +0000" stop="20241031034500 +0000" channel="svt1.se">
+    <title lang="sv">Inget program</title>
+  </programme>
+  <programme start="20241031034500 +0000" stop="20241031041500 +0000" channel="svt1.se">
+    <title lang="sv">Sverige idag</title>
+    <sub-title lang="sv">Avsnitt 53</sub-title>
+    <desc lang="sv">(R) Svenskt magasin från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Social And Society</category>
+    <category lang="sv">Society Magazine</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/663873"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S24 E53</episode-num>
+  </programme>
+  <programme start="20241031041500 +0000" stop="20241031050000 +0000" channel="svt1.se">
+    <title lang="sv">Go'kväll</title>
+    <sub-title lang="sv">En karriär som kroppsbyggare</sub-title>
+    <desc lang="sv">(R) Svenskt magasin från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Leisure</category>
+    <category lang="sv">Lifestyle</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/638897"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E116</episode-num>
+  </programme>
+  <programme start="20241031050000 +0000" stop="20241031090000 +0000" channel="svt1.se">
+    <title lang="sv">Morgonstudion</title>
+    <desc lang="sv">Svenskt nyhetsprogram från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Social And Society</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637952"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E218</episode-num>
+  </programme>
+  <programme start="20241031090000 +0000" stop="20241031092000 +0000" channel="svt1.se">
+    <title lang="sv">Hemmagympa med Sofia</title>
+    <sub-title lang="sv">Core</sub-title>
+    <desc lang="sv">(R) Svenskt hälsoprogram från 2020.</desc>
+    <date>2020</date>
+    <category lang="sv">Leisure</category>
+    <category lang="sv">Lifestyle</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/462208"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20241031092000 +0000" stop="20241031124000 +0000" channel="svt1.se">
+    <title lang="sv">TV-pucken</title>
+    <sub-title lang="sv">Kvartsfinaler 1 och 2 - flickor</sub-title>
+    <desc lang="sv">Svensk ishockey från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Sport</category>
+    <category lang="sv">Icehockey</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/670063"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S66 E1</episode-num>
+  </programme>
+  <programme start="20241031124000 +0000" stop="20241031131000 +0000" channel="svt1.se">
+    <title lang="sv">Strömsö</title>
+    <sub-title lang="sv">Matcha syrlig mat med suröl</sub-title>
+    <desc lang="sv">(R) Finlandssvenskt livsstilsmagasin från 2023.</desc>
+    <date>2023</date>
+    <category lang="sv">Leisure</category>
+    <category lang="sv">Home And Garden</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/665981"/>
+    <country lang="sv">FI</country>
+    <episode-num system="onscreen">S35 E8</episode-num>
+  </programme>
+  <programme start="20241031131000 +0000" stop="20241031163000 +0000" channel="svt1.se">
+    <title lang="sv">TV-pucken</title>
+    <sub-title lang="sv">Kvartsfinaler 3 och 4 - flickor</sub-title>
+    <desc lang="sv">Svensk ishockey från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Sport</category>
+    <category lang="sv">Icehockey</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/670063"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S66 E2</episode-num>
+  </programme>
+  <programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="svt1.se">
+    <title lang="sv">Sverige idag</title>
+    <sub-title lang="sv">Avsnitt 54</sub-title>
+    <desc lang="sv">Svenskt magasin från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Social And Society</category>
+    <category lang="sv">Society Magazine</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/663873"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S24 E54</episode-num>
+  </programme>
+  <programme start="20241031170000 +0000" stop="20241031171700 +0000" channel="svt1.se">
+    <title lang="sv">Rapport</title>
+    <sub-title lang="sv">Avsnitt 218</sub-title>
+    <desc lang="sv">Svensk nyhetsrapportering från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637684"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E218</episode-num>
+  </programme>
+  <programme start="20241031171700 +0000" stop="20241031172800 +0000" channel="svt1.se">
+    <title lang="sv">Kulturnyheterna</title>
+    <desc lang="sv">Svenskt kulturprogram från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Culture</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/638708"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E214</episode-num>
+  </programme>
+  <programme start="20241031172800 +0000" stop="20241031173300 +0000" channel="svt1.se">
+    <title lang="sv">Sportnytt</title>
+    <sub-title lang="sv">Avsnitt 309</sub-title>
+    <desc lang="sv">Svenska sportnyhetar från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Sport</category>
+    <category lang="sv">Sportsnews General</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637679"/>
+    <country lang="sv">SE</country>
+  </programme>
+  <programme start="20241031173300 +0000" stop="20241031174500 +0000" channel="svt1.se">
+    <title lang="sv">Lokala nyheter</title>
+    <desc lang="sv">Svenskt nyhetsprogram från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637948"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E214</episode-num>
+  </programme>
+  <programme start="20241031174500 +0000" stop="20241031183000 +0000" channel="svt1.se">
+    <title lang="sv">Go'kväll</title>
+    <sub-title lang="sv">Gör om mig och Folke Rydén</sub-title>
+    <desc lang="sv">Svenskt magasin från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Leisure</category>
+    <category lang="sv">Lifestyle</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/638897"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E117</episode-num>
+  </programme>
+  <programme start="20241031183000 +0000" stop="20241031185500 +0000" channel="svt1.se">
+    <title lang="sv">Rapport</title>
+    <sub-title lang="sv">Avsnitt 262</sub-title>
+    <desc lang="sv">Svensk nyhetsrapportering från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637684"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E262</episode-num>
+  </programme>
+  <programme start="20241031185500 +0000" stop="20241031190000 +0000" channel="svt1.se">
+    <title lang="sv">Lokala nyheter</title>
+    <desc lang="sv">Svenskt nyhetsprogram från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637948"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E262</episode-num>
+  </programme>
+  <programme start="20241031190000 +0000" stop="20241031193000 +0000" channel="svt1.se">
+    <title lang="sv">Hjälp, vi har köpt ett franskt ruckel!</title>
+    <sub-title lang="sv">”Det här kommer absolut inte att gå - vi kommer dö!”</sub-title>
+    <desc lang="sv">Svensk livsstilsserie från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Leisure</category>
+    <category lang="sv">Home And Garden</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/668168"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20241031193000 +0000" stop="20241031200000 +0000" channel="svt1.se">
+    <title lang="sv">Norrlandsdrömmar</title>
+    <sub-title lang="sv">Avsnitt 4</sub-title>
+    <desc lang="sv">Svensk dokumentärserie från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Social And Society</category>
+    <category lang="sv">Documentary</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/668965"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20241031200000 +0000" stop="20241031205000 +0000" channel="svt1.se">
+    <title lang="sv">Gift vid första ögonkastet - i vinterskrud</title>
+    <sub-title lang="sv">Vardag och svåra samtal</sub-title>
+    <desc lang="sv">Svensk realityserie från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Entertainment</category>
+    <category lang="sv">Tv Games</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/668043"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S11 E5</episode-num>
+  </programme>
+  <programme start="20241031205000 +0000" stop="20241031210000 +0000" channel="svt1.se">
+    <title lang="sv">Lokala nyheter</title>
+    <desc lang="sv">Svenskt nyhetsprogram från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637948"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E172</episode-num>
+  </programme>
+  <programme start="20241031210000 +0000" stop="20241031213000 +0000" channel="svt1.se">
+    <title lang="sv">Hockeykväll</title>
+    <sub-title lang="sv">Avsnitt 6</sub-title>
+    <desc lang="sv">Svenskt hockeymagasin från 2024/25.</desc>
+    <date>2024</date>
+    <category lang="sv">Sport</category>
+    <category lang="sv">Sports Magazine</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/667271"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20241031213000 +0000" stop="20241031215000 +0000" channel="svt1.se">
+    <title lang="sv">Fejkfabriken</title>
+    <desc lang="sv">Svensk nyhetsdokumentär från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Social And Society</category>
+    <category lang="sv">Documentary</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/670526"/>
+    <country lang="sv">SE</country>
+  </programme>
+  <programme start="20241031215000 +0000" stop="20241031220500 +0000" channel="svt1.se">
+    <title lang="sv">Du behöver inte vara rädd</title>
+    <desc lang="sv">Svensk kortfilmsrysare från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Entertainment</category>
+    <category lang="sv">Short Film</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/670065"/>
+    <country lang="sv">SE</country>
+  </programme>
+  <programme start="20241031220500 +0000" stop="20241031221000 +0000" channel="svt1.se">
+    <title lang="sv">Rapport</title>
+    <sub-title lang="sv">Avsnitt 305</sub-title>
+    <desc lang="sv">Svensk nyhetsrapportering från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">News</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/637684"/>
+    <country lang="sv">SE</country>
+  </programme>
+  <programme start="20241031221000 +0000" stop="20241031230000 +0000" channel="svt1.se">
+    <title lang="sv">Frostbiten</title>
+    <sub-title lang="sv">Att fånga en kung</sub-title>
+    <desc lang="sv">Amerikansk dokumentärserie från 2017.</desc>
+    <date>2017</date>
+    <category lang="sv">Social And Society</category>
+    <category lang="sv">Documentary</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/667409"/>
+    <country lang="sv">US</country>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20241031230000 +0000" stop="20241031234500 +0000" channel="svt1.se">
+    <title lang="sv">Nightsleeper - kapningen</title>
+    <sub-title lang="sv">Avsnitt 3</sub-title>
+    <desc lang="sv">(R) Brittisk trillerserie från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Series</category>
+    <category lang="sv">Thriller Series</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/667050"/>
+    <country lang="sv">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20241031234500 +0000" stop="20241101004500 +0000" channel="svt1.se">
+    <title lang="sv">Uppdrag granskning</title>
+    <sub-title lang="sv">Securitas och mörkläggningen</sub-title>
+    <desc lang="sv">(R) Svensk dokumentär från 2024.</desc>
+    <date>2024</date>
+    <category lang="sv">Social And Society</category>
+    <category lang="sv">Documentary</category>
+    <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/664762"/>
+    <country lang="sv">SE</country>
+    <episode-num system="onscreen">S25</episode-num>
+  </programme>
   <programme start="20241030050000 +0000" stop="20241030080000 +0000" channel="svt2.se">
     <title lang="sv">Inget program</title>
   </programme>
@@ -11045,7 +11915,7 @@
     <country lang="sv">SE</country>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20241031175000 +0000" stop="20241031202000 +0000" channel="tv4sportlive.se">
+  <programme start="20241031175000 +0000" stop="20241031201000 +0000" channel="tv4sportlive.se">
     <title lang="sv">HV71 - Leksand SHL</title>
     <desc lang="sv">Ishockey från 2024/25.</desc>
     <date>2024</date>
@@ -11055,7 +11925,7 @@
     <country lang="sv">SE</country>
     <episode-num system="onscreen">E95</episode-num>
   </programme>
-  <programme start="20241031202000 +0000" stop="20241031210000 +0000" channel="tv4sportlive.se">
+  <programme start="20241031201000 +0000" stop="20241031210000 +0000" channel="tv4sportlive.se">
     <title lang="sv">Hockeytorsdag: studio</title>
     <sub-title lang="sv">Studio Hockeytorsdag</sub-title>
     <desc lang="sv">Studiosändning från 2024/25.</desc>
@@ -11155,7 +12025,7 @@
     <country lang="sv">SE</country>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20241031175000 +0000" stop="20241031202000 +0000" channel="tv4sportlive2.se">
+  <programme start="20241031175000 +0000" stop="20241031201000 +0000" channel="tv4sportlive2.se">
     <title lang="sv">Skellefteå - Örebro SHL</title>
     <desc lang="sv">Ishockey från 2024/25.</desc>
     <date>2024</date>
@@ -11164,7 +12034,7 @@
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/622923"/>
     <country lang="sv">SE</country>
   </programme>
-  <programme start="20241031202000 +0000" stop="20241031205900 +0000" channel="tv4sportlive2.se">
+  <programme start="20241031201000 +0000" stop="20241031210000 +0000" channel="tv4sportlive2.se">
     <title lang="sv">Hockeytorsdag: studio</title>
     <sub-title lang="sv">Studio Hockeytorsdag</sub-title>
     <desc lang="sv">Studiosändning från 2024/25.</desc>
@@ -11175,7 +12045,7 @@
     <country lang="sv">SE</country>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20241031205900 +0000" stop="20241031232900 +0000" channel="tv4sportlive2.se">
+  <programme start="20241031210000 +0000" stop="20241101040000 +0000" channel="tv4sportlive2.se">
     <title lang="sv">Skellefteå - Örebro SHL</title>
     <desc lang="sv">(R) Ishockey från 2024/25.</desc>
     <date>2024</date>
@@ -11183,9 +12053,6 @@
     <category lang="sv">Icehockey</category>
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/622923"/>
     <country lang="sv">SE</country>
-  </programme>
-  <programme start="20241031232900 +0000" stop="20241101022900 +0000" channel="tv4sportlive2.se">
-    <title lang="sv">Inget program</title>
   </programme>
   <programme start="20241030040000 +0000" stop="20241030070000 +0000" channel="tv4sportlive3.se">
     <title lang="sv">Inget program</title>
@@ -11263,7 +12130,7 @@
     <country lang="sv">SE</country>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20241031175000 +0000" stop="20241031202000 +0000" channel="tv4sportlive3.se">
+  <programme start="20241031175000 +0000" stop="20241031201000 +0000" channel="tv4sportlive3.se">
     <title lang="sv">Frölunda - Timrå SHL</title>
     <desc lang="sv">Ishockey från 2024/25.</desc>
     <date>2024</date>
@@ -11272,7 +12139,7 @@
     <icon src="https://allente-imgcache.akamaized.net/allente-prod/cover:inside/600x338/img/622923"/>
     <country lang="sv">SE</country>
   </programme>
-  <programme start="20241031202000 +0000" stop="20241031210000 +0000" channel="tv4sportlive3.se">
+  <programme start="20241031201000 +0000" stop="20241031210000 +0000" channel="tv4sportlive3.se">
     <title lang="sv">Hockeytorsdag: studio</title>
     <sub-title lang="sv">Studio Hockeytorsdag</sub-title>
     <desc lang="sv">Studiosändning från 2024/25.</desc>
@@ -11371,7 +12238,7 @@
     <country lang="sv">SE</country>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20241031175000 +0000" stop="20241031202000 +0000" channel="tv4sportlive4.se">
+  <programme start="20241031175000 +0000" stop="20241031201000 +0000" channel="tv4sportlive4.se">
     <title lang="sv">Rögle - Modo SHL</title>
     <desc lang="sv">Ishockey från 2024/25.</desc>
     <date>2024</date>
@@ -11381,7 +12248,7 @@
     <country lang="sv">SE</country>
     <episode-num system="onscreen">E114</episode-num>
   </programme>
-  <programme start="20241031202000 +0000" stop="20241031210000 +0000" channel="tv4sportlive4.se">
+  <programme start="20241031201000 +0000" stop="20241031210000 +0000" channel="tv4sportlive4.se">
     <title lang="sv">Hockeytorsdag: studio</title>
     <sub-title lang="sv">Studio Hockeytorsdag</sub-title>
     <desc lang="sv">Studiosändning från 2024/25.</desc>
@@ -13882,8 +14749,36 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
     <episode-num system="onscreen">S2 E19</episode-num>
   </programme>
-  <programme start="20241031003000 +0200" stop="20241031050000 +0200" channel="mega.gr">
+  <programme start="20241031003000 +0200" stop="20241031015000 +0200" channel="mega.gr">
     <title lang="el">Μεγάλη Εικόνα</title>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
+  </programme>
+  <programme start="20241031015000 +0200" stop="20241031042000 +0200" channel="mega.gr">
+    <title lang="el">Spotlight: Όλα στο φως</title>
+    <desc lang="el">H ταινία μας αφηγείται την πραγματική ιστορία της βραβευμένης με Pulitzer μάχιμης δημοσιογραφικής ομάδας με το όνομα Spotlight,της εφημερίδας Boston Globe. Το 2002 σόκαρε την κοινή γνώμη της Βοστώνης στις Η.Π.Α. αποκαλύπτοντας ένα σκάνδαλο παιδεραστίας στους κόλπους της καθολικής εκκλησίας στο οποίο εμπλέκονταν πάνω από 70 ιερείς. Δεκάδες παιδιά φέρεται να είχαν κακοποιηθεί σεξουαλικά για περισσότερες από τρεις δεκαετίες μέσω ενός αρρωστημένου κυκλώματος. Οι Walter "Robby" Robinson (Michael Keaton), Sacha Pfeiffer (Rachel McAdams), Michael Rezendes (Mark Ruffalo) και Matt Carroll (Brian d'Arcy James), μέλη του Spotlight, είχαν το θάρρος να ξεσκεπάσουν το σκάνδαλο και να έρθουν αντιμέτωποι με το νοσηρό κομμάτι της παντοδύναμης καθολικής εκκλησίας.</desc>
+    <credits>
+      <director>Τόμας ΜακΚάρθι</director>
+      <actor role="Mike Rezendes">Μάρκ Ράφαλο</actor>
+      <actor role="Walter 'Robby' Robinson">Μάικλ Κίτον</actor>
+      <actor role="Sacha Pfeiffer">Ρέιτσελ Μακ Άνταμς</actor>
+      <actor role="Marty Baron">Λιβ Σράιμπερ</actor>
+      <actor role="Ben Bradlee Jr.">Τζον Σλάτερι</actor>
+      <actor role="Matt Carroll">Μπράιαν d'Arcy James</actor>
+      <actor role="Mitchell Garabedian">Stanley Tucci</actor>
+      <actor role="Barbara">Elena Wohl</actor>
+      <actor role="Steve Kurkjian">Gene Amoroso</actor>
+      <actor role="Peter Canellos">Doug Μιούρεϊ</actor>
+      <writer>Τζος Σίνγκερ</writer>
+      <producer>Μάικλ Bederman</producer>
+      <composer>Χάουαρντ Σορ</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr/files/images/2016/2/24/4b0b68a0-4e0a-43b1-9cb6-ac78d1d4a532.jpg"/>
+  </programme>
+  <programme start="20241031042000 +0200" stop="20241031050000 +0200" channel="mega.gr">
+    <title lang="el">Σ' αγαπώ - Μ' αγαπάς</title>
+    <desc lang="el">Η Δήμητρα και ο Θοδωρής... Δίνουν αίμα... Με την πρώην φίλη του Θοδωρή και... Με τη μητέρα της Δήμητρας στον κινηματογράφο, στο θέατρο, σε εκδηλώσεις.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
   </programme>
   <programme start="20241031050000 +0200" stop="20241031054000 +0200" channel="mega.gr">
@@ -14421,7 +15316,7 @@
     <icon src="https://www.ishow.gr/files/images/2019/6/27/4e9329e9-b790-44e4-bf46-9f8e9c9f95bf_pposter.jpg"/>
     <episode-num system="onscreen">S2 E24</episode-num>
   </programme>
-  <programme start="20241030003000 +0200" stop="20241030023000 +0200" channel="alpha.gr">
+  <programme start="20241030005500 +0200" stop="20241030024500 +0200" channel="alpha.gr">
     <title lang="el">Θάνατος στο χιόνι</title>
     <desc lang="el">Η κυνηγετική εξόρμηση ενός συνταξιούχου σε απομονωμένη περιοχή εξελίσσεται διαφορετικά από το αναμενόμενο, όταν ανακαλύπτει ένα πτώμα και έναν σάκο γεμάτο χρήματα. Σύντομα, θα βρεθεί παγιδευμένος σε έναν ιστό απάτης και θανάτου...</desc>
     <credits>
@@ -14443,7 +15338,7 @@
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/files/images/2020/11/10057013-46ba-4a55-8c6b-85dcc97140b6.jpg"/>
   </programme>
-  <programme start="20241030023000 +0200" stop="20241030043000 +0200" channel="alpha.gr">
+  <programme start="20241030024500 +0200" stop="20241030042000 +0200" channel="alpha.gr">
     <title lang="el">All I Wish</title>
     <desc lang="el">Μια επίδοξη σχεδιάστρια μόδας προσπαθεί απεγνωσμένα να βρει το άλλο της μισό, αλλά η ανώριμη και επιπόλαιη συμπεριφορά της την οδηγεί σε περιστασιακές σχέσεις. Όλα αλλάζουν, όμως, με μια τυχαία γνωριμία στα 46α γενέθλιά της.</desc>
     <credits>
@@ -14465,9 +15360,9 @@
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/files/images/2021/9/fa1664bb-774d-467a-afc5-a7458bbb9885.jpg"/>
   </programme>
-  <programme start="20241030043000 +0200" stop="20241030051500 +0200" channel="alpha.gr">
+  <programme start="20241030042000 +0200" stop="20241030051500 +0200" channel="alpha.gr">
     <title lang="el">Grey's anatomy - 18ος Κύκλος</title>
-    <desc lang="el">Η Bailey αγχώνεται όταν μια επιτροπή διαπίστευσης έρχεται στο Grey Sloan για να ελέγξει το πρόγραμμα ειδικότητας, ενώ ο Richard έχει μια δική του αξιολόγηση την ίδια μέρα.</desc>
+    <desc lang="el">Η Bailey αντιμετωπίζει μια δυσαρεστημένη Catherine, η οποία ασχολείται με ελέγχους σε πολλά από τα επιδοτούμενα νοσοκομεία της. Η Addison επιστρέφει στο Grey Sloan, η ένταση κλιμακώνεται ανάμεσα στη Meredith και τον Richard και ο Owen επιστρέφει στη δουλειά.</desc>
     <icon src="https://www.ishow.gr/files/images/2015/9/24/2ebdff1c-79e4-429c-b244-7564232ee6de.jpg"/>
   </programme>
   <programme start="20241030051500 +0200" stop="20241030061000 +0200" channel="alpha.gr">
@@ -14614,16 +15509,11 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
     <episode-num system="onscreen">S2 E21</episode-num>
   </programme>
-  <programme start="20241030223000 +0200" stop="20241030234500 +0200" channel="alpha.gr">
+  <programme start="20241030223000 +0200" stop="20241031010000 +0200" channel="alpha.gr">
     <title lang="el">Άγιος Έρωτας</title>
     <desc lang="el">Η ερωτική εξομολόγηση του πατέρα Νικόλαου προς τη Χλόη, που οδήγησε στο πρώτο τους φιλί, δημιουργεί ενοχές στον Νικόλαο και αυξάνει την εσωτερική πάλη του ιερέα ανάμεσα στο καθήκον και το συναίσθημα. Η Χριστίνα αποφασίζει να πει στον Χάρη ότι ο Κλεάνθης έχει αποφασίσει να μένει στο ξενοδοχείο.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
     <episode-num system="onscreen">S2 E22</episode-num>
-  </programme>
-  <programme start="20241030234500 +0200" stop="20241031010000 +0200" channel="alpha.gr">
-    <title lang="el">Αυτοψία</title>
-    <desc lang="el">Ο Αντώνης Σρόιτερ και η ομάδα του κάνουν αποκαλυπτική έρευνα στις υποθέσεις που προκάλεσαν αίσθηση. Γεγονότα που απασχόλησαν την κοινωνία και άλλαξαν τη ζωή μας, αλλά και θέματα εναλλακτικά, μπαίνουν στον φακό της εκπομπής.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
   </programme>
   <programme start="20241031010000 +0200" stop="20241031030000 +0200" channel="alpha.gr">
     <title lang="el">Ο Ράφτης</title>
@@ -16219,17 +17109,28 @@
     <desc lang="el">Απολαύστε έναν από τους πιο αγαπημένους τηλεοπτικούς σεφ της Βρετανίας, σε ένα συναρπαστικό οδικό ταξίδι που τροφοδοτείται από το πάθος για τα τοπικά προϊόντα και τις τροφές που θρέφουν την ψυχή. (2022).</desc>
     <icon src="https://www.ishow.gr/files/images/2023/5/a68cb821-e5e5-42f2-acbb-a463fc176077.jpg"/>
   </programme>
-  <programme start="20241031140000 +0200" stop="20241031150000 +0200" channel="ert2.gr">
-    <title lang="el">Σοφία</title>
-    <desc lang="el">Η σειρά ξετυλίγει την θυελλώδη ιστορία της Σοφίας Παλαιολογίνας, η οποία ίδρυσε τη Μόσχα. Η νεαρή απόγονος του Κωνσταντίνου Παλαιολόγου, έχοντας μόνο τον τίτλο και την ομορφιά της ζει ως προστατευόμενη του Πάπα, ο οποίος την προσφέρει ως νύφη στον πρίγκιπα Ιβάν του Δουκάτου της Μοσχοβίας.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
-    <episode-num system="onscreen">S2 E2</episode-num>
-  </programme>
-  <programme start="20241031150000 +0200" stop="20241031160000 +0200" channel="ert2.gr">
-    <title lang="el">Σοφία</title>
-    <desc lang="el">Η πριγκίπισσα Ζωή βαπτίζεται ορθόδοξη με το όνομα Σοφία και ο γάμος της με τον πρίγκιπα πραγματοποιείται. Οι εχθροί του βασιλείου, όμως οι Τάταροι κάνουν επιδρομή στην Αλεξίνη και ο αδελφός του Ιβάν, Γιούρι φεύγει για τη μάχη και επιστρέφει τραυματίας.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
-    <episode-num system="onscreen">S2 E3</episode-num>
+  <programme start="20241031140000 +0200" stop="20241031160000 +0200" channel="ert2.gr">
+    <title lang="el">Η ζωή της πριγκίπισσας Σίσσυ</title>
+    <desc lang="el">Η Σίσσυ είναι μια νεαρή, όμορφη και ξέγνοιαστη κοπέλα που συναντά τον έρωτα της ζωής της στο πρόσωπο ενός γοητευτικού αξιωματικού. Χωρίς να το γνωρίζει ο αξιωματικός είναι στην πραγματικότητα ο αυτοκράτορας Φραντς Γιόζεφ της Αυστρίας και πρόκειται να νυμφευθεί σύντομα την αδελφή της Σίσσυ, Νενέ. Η Σίσσυ δε θέλει με τίποτα να μπει εμπόδιο στην ευτυχία της αδελφής της αλλά ο έρωτας έρχεται να ανατρέψει τα πάντα.</desc>
+    <credits>
+      <director>Ερνστ Μαρίσκα</director>
+      <actor role="Princess Elisabeth in Bavaria">Ρόμι Σνάιντερ</actor>
+      <actor role="Kaiser Franz Joseph">Καρλχαϊντς Μπεμ</actor>
+      <actor role="Duchess Ludovika in Bayern">Μάγδα Σνάιντερ</actor>
+      <actor role="Princess Helene in Bayern / Nene">Ούτα Φράντς</actor>
+      <actor role="Duke Max in Bavaria">Γκουστάβ Κνουθ</actor>
+      <actor role="Archduchess Sophie, Franz Josef's mother">Vilma Degischer</actor>
+      <actor role="Gendarmerie-Major Böckl">Τζόζεφ Meinrad</actor>
+      <actor role="Archduke Franz Karl">Έριχ Nikowitz</actor>
+      <actor role="Graf Grünne">Καρλ Fochler</actor>
+      <actor role="Johann Petzmacher">Franz Böheim</actor>
+      <writer>Ερνστ Μαρίσκα</writer>
+      <producer>Καρλ Ehrlich</producer>
+      <composer>Αντόν Profes</composer>
+    </credits>
+    <date>1955</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr/files/images/2011/10/7/8fb8ac46-934b-413e-9833-33b9a272523c.jpg"/>
   </programme>
   <programme start="20241031160000 +0200" stop="20241031170000 +0200" channel="ert2.gr">
     <title lang="el">Εκκαθάριση γκαρνταρόμπας - Vintage</title>
@@ -16606,9 +17507,9 @@
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
   <programme start="20241031190000 +0200" stop="20241031191500 +0200" channel="ert3.gr">
-    <title lang="el">Πολιτισμός</title>
-    <desc lang="el">Εβδομαδιαία ενημέρωση για τις πολιτιστικές δράσεις σε Θεσσαλονίκη και την ελληνική περιφέρεια. Δρώμενα, εκδηλώσεις και καλλιτεχνικές πρωτοβουλίες βρίσκονται στο επίκεντρο της καλλιτεχνικής ατζέντας.</desc>
-    <icon src="https://www.ishow.gr/files/images/2023/5/d895efec-5df3-4b3c-bba6-faabcb70da4b.jpg"/>
+    <title lang="el">65ο Φεστιβάλ Κινηματογράφου Θεσσαλονίκης</title>
+    <desc lang="el">Η ΕΡΤ παρακολουθεί τα δρώμενα στη μεγαλύτερη γιορτή του σινεμά (31 Οκτωβρίου -10 Νοεμβρίου ) που φέρνει στη Θεσσαλονίκη τις καλύτερες ταινίες απ' όλον τον κόσμο, εκπλήξεις, προσκεκλημένους, αφιερώματα και παράλληλες εκδηλώσεις.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
   </programme>
   <programme start="20241031191500 +0200" stop="20241031200000 +0200" channel="ert3.gr">
     <title lang="el">Ειδήσεις από την Περιφέρεια</title>
@@ -18987,7 +19888,7 @@
     </credits>
     <icon src="https://www.ishow.grimages/2023/2/89493f58-cde5-4b9f-9c51-9126e1654087.jpg"/>
   </programme>
-  <programme start="20241030211500 +0200" stop="20241031005000 +0200" channel="novacinema1.gr">
+  <programme start="20241030211500 +0200" stop="20241030230000 +0200" channel="novacinema1.gr">
     <title lang="el">Και στις καλύτερες οικογένειες</title>
     <desc lang="el">Δύο αδελφές εργάζονται ως οικιακές βοηθοί σε σπίτια δύο αριστοκρατικών οικογενειών.</desc>
     <credits>
@@ -19006,6 +19907,28 @@
       <composer>Selma Mutal</composer>
     </credits>
     <icon src="https://www.ishow.grimages/2024/3/cebce9e7-cc6c-4dfd-ade8-0e7d54509df8.jpg"/>
+  </programme>
+  <programme start="20241030230000 +0200" stop="20241031005000 +0200" channel="novacinema1.gr">
+    <title lang="el">Ανθρώπινος παράγοντας</title>
+    <desc lang="el">Παρίσι, 13ο διαμέρισμα. Η Εμιλί γνωρίζει τον Καμίλ. Στον Καμίλ αρέσει η Νορά, η οποία συναντά την Αμπέρ. Τρία κορίτσια και ένα αγόρι. Είναι φίλοι, κάποιες φορές εραστές, συχνά και τα δύο.</desc>
+    <credits>
+      <director>Ronny Trocker</director>
+      <actor role="Jan">Μαρκ Waschke</actor>
+      <actor role="Amélie">Marthe Schneider</actor>
+      <actor role="Laura">Karen Margrethe Gotfredsen</actor>
+      <actor role="Maya">Katia Fellin</actor>
+      <actor role="Nina">Σαμπίν Τιμοτέο</actor>
+      <actor role="Lucas">Spencer Bogaert</actor>
+      <actor role="Police Offer #1">Simon Van Buyten</actor>
+      <actor role="Karsten">Isaak Dentler</actor>
+      <actor role="Police Offer #2">Τομ Van Landuyt</actor>
+      <actor role="Hendrik">Hassan Akkouch</actor>
+      <writer>Ronny Trocker</writer>
+      <composer>Anders Dixen</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.grimages/2024/4/665c346e-4dc1-4827-b572-bf3e61683b0a.jpg"/>
   </programme>
   <programme start="20241031005000 +0200" stop="20241031023500 +0200" channel="novacinema1.gr">
     <title lang="el">57 Δευτερόλεπτα</title>
@@ -19473,7 +20396,7 @@
     </credits>
     <icon src="https://www.ishow.grimages/2023/12/75f839cf-be00-43c8-b2fb-11eca690319d.jpg"/>
   </programme>
-  <programme start="20241030230000 +0200" stop="20241031030500 +0200" channel="novacinema2.gr">
+  <programme start="20241030230000 +0200" stop="20241031010500 +0200" channel="novacinema2.gr">
     <title lang="el">Το τελεσίγραφο του Μπορν</title>
     <desc lang="el">O ειδικός πράκτορας Τζέισον Μπορν το μόνο που επιθυμεί πλέον είναι να εξαφανιστεί… Και το μόνο που τελικά καταφέρνει είναι το ακριβώς αντίθετο: να καταδιώκεται από εκείνους που τον δημιούργησαν και όχι μόνο... Έχοντας χάσει τη μνήμη του, αλλά και το μόνο άνθρωπο που αγάπησε ποτέ του, τη Μαρί, προσπαθεί να ξεφύγει από έναν ορυμαγδό σφαιρών, αλλά και από άριστα εκπαιδευμένους δολοφόνους νέας γενιάς, αστυνομικούς, ομοσπονδιακούς πράκτορες και την Ιντερπόλ. Ο Μπορν έχει μονάχα μια επιλογή: να ταξιδέψει ανά τον κόσμο προσπαθώντας να εξακριβώσει ποιος είναι καθώς έτσι, ίσως κατορθώσει να μείνει ζωντανός.</desc>
     <credits>
@@ -19495,6 +20418,25 @@
     <date>2007</date>
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.grimages/2013/10/1/9db70a2e-5a31-481f-b5c1-c7a2d9336153.jpg"/>
+  </programme>
+  <programme start="20241031010500 +0200" stop="20241031030500 +0200" channel="novacinema2.gr">
+    <title lang="el">White boy Rick</title>
+    <desc lang="el">Ντιτρόιτ, δεκαετία του '80. Το FBI στρατολογεί έναν έφηβο ως πληροφοριοδότη στον πόλεμο κατά των ναρκωτικών. Η συνεργασία, όμως, λήγει άδοξα κι ο άνεργος νεαρός πρέπει να σταθεί στα πόδια του...</desc>
+    <credits>
+      <actor role="Richard Wershe Sr.">Μάθιου ΜακΚόναχι</actor>
+      <actor role="Rick Wershe Jr.">Richie Merritt</actor>
+      <actor role="Dawn Wershe">Bel Powley</actor>
+      <actor role="FBI Agent Snyder">Τζένιφερ Τζέισον Λι</actor>
+      <actor role="Detective Jackson">Brian Tyree Henry</actor>
+      <actor role="FBI Agent Byrd">Ρόρι Κοχρέιν</actor>
+      <actor role="Rudell 'Boo' Curry">RJ Cyler</actor>
+      <actor role="Johnny 'Lil Man' Curry">Jonathan Majors</actor>
+      <actor role="Art Derrick">Έντι Μάρσαν</actor>
+      <actor role="Cathy Volsan-Curry">Taylour Paige</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.grimages/2019/6/24/94197727-f559-443e-be5a-e6f0068b8f40_poster.jpg"/>
   </programme>
   <programme start="20241031030500 +0200" stop="20241031051000 +0200" channel="novacinema2.gr">
     <title lang="el">Το τελευταίο φρούριο</title>
@@ -19670,6 +20612,26 @@
     </credits>
     <icon src="https://www.ishow.grimages/2023/12/21f0ac56-3c1a-453b-ab95-a80e1bc6a71b.jpg"/>
   </programme>
+  <programme start="20241031210500 +0200" stop="20241031230000 +0200" channel="novacinema2.gr">
+    <title lang="el">Leave No Trace</title>
+    <desc lang="el">Ενας άνδρας και η έφηβη κόρη του ζουν απομονωμένοι σε ένα δάσος του Ορεγκον, μέχρι τη στιγμή που γίνονται αντιληπτοί από τις αρχές και αναγκάζονται να προσαρμοστούν στον πολιτισμό...</desc>
+    <credits>
+      <director>Ντέμπρα Γκράνικ</director>
+      <actor role="Tom">Thomasin McKenzie</actor>
+      <actor role="Will">Μπεν Φόστερ</actor>
+      <actor role="Vet at VA">Jeffery Rifflard</actor>
+      <actor role="Larry">Derek John Drescher</actor>
+      <actor role="Runner">Michael Draper</actor>
+      <actor role="Police Officer">Peter Simpson</actor>
+      <actor role="K-9 Officer">Erik McGlothlin</actor>
+      <actor role="Jean">Dana Millican</actor>
+      <actor role="Valerie">Alyssa McKay</actor>
+      <actor role="Tiffany">Ryan Joiner</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.grimages/2019/3/19/875b30c2-61dd-4e9f-9147-b88f0b94960b_poster.jpg"/>
+  </programme>
   <programme start="20241030000000 +0200" stop="20241030014500 +0200" channel="novacinema3.gr">
     <title lang="el">Το πείραμα</title>
     <desc lang="el">Στη δεκαετία του '60, η CIA επιστρατεύει τον ψυχίατρο Φορντ Στράους για ένα πρόγραμμα σχετικά με το φάρμακο MK Ultra.</desc>
@@ -19819,7 +20781,11 @@
     <title lang="el">Red Eye - 1ος κύκλος</title>
     <icon src="https://www.ishow.gr/files/images/2024/6/eb13a4d7-1338-4b53-a8a9-ebdea54a824a.jpg"/>
   </programme>
-  <programme start="20241030220000 +0200" stop="20241031000000 +0200" channel="novacinema4.gr">
+  <programme start="20241030220000 +0200" stop="20241030230000 +0200" channel="novacinema4.gr">
+    <title lang="el">Alert: Missing Persons Unit - 2ος κύκλος</title>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/61.png"/>
+  </programme>
+  <programme start="20241030230000 +0200" stop="20241031000000 +0200" channel="novacinema4.gr">
     <title lang="el">Alert: Missing Persons Unit - 2ος κύκλος</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/61.png"/>
   </programme>
@@ -19828,8 +20794,12 @@
     <desc lang="el">Όταν ένας επενδυτής δολοφονείται στο σπίτι του, ο Σόου κι ο Ράιλι ερευνούν την επαγγελματική και την προσωπική του ζωή για να εντοπίσουν τον δολοφόνο.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/61.png"/>
   </programme>
-  <programme start="20241031010000 +0200" stop="20241031025500 +0200" channel="novacinema4.gr">
+  <programme start="20241031010000 +0200" stop="20241031020000 +0200" channel="novacinema4.gr">
     <title lang="el">The Winter King - 1ος κύκλος</title>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/61.png"/>
+  </programme>
+  <programme start="20241031020000 +0200" stop="20241031025500 +0200" channel="novacinema4.gr">
+    <title lang="el">Alert: Missing Persons Unit - 2ος κύκλος</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/61.png"/>
   </programme>
   <programme start="20241031025500 +0200" stop="20241031035500 +0200" channel="novacinema4.gr">
@@ -19847,6 +20817,10 @@
   <programme start="20241031210000 +0200" stop="20241031220000 +0200" channel="novacinema4.gr">
     <title lang="el">Red Eye - 1ος κύκλος</title>
     <icon src="https://www.ishow.gr/files/images/2024/6/eb13a4d7-1338-4b53-a8a9-ebdea54a824a.jpg"/>
+  </programme>
+  <programme start="20241031220000 +0200" stop="20241031230000 +0200" channel="novacinema4.gr">
+    <title lang="el">Alex Rider - 3ος κύκλος</title>
+    <icon src="https://www.ishow.gr/files/images/2020/7/cfebb47a-bc8e-45d7-938c-8e01b125634f_pposter.jpg"/>
   </programme>
   <programme start="20241030000000 +0200" stop="20241030020000 +0200" channel="cosmotesport1.gr">
     <title lang="el">Ποδόσφαιρο: Κηφισιά - Παναχαϊκή</title>
@@ -20166,9 +21140,14 @@
     <desc lang="el">8η Αγωνιστική.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20241030060000 +0200" stop="20241030093000 +0200" channel="cosmotesport3.gr">
+  <programme start="20241030060000 +0200" stop="20241030090000 +0200" channel="cosmotesport3.gr">
     <title lang="el">Αμερικάνικο Ποδόσφαιρο: Πίτσμπουργκ Στίλερς - Νιου Γιορκ Τζάιαντς</title>
     <desc lang="el">NFL 2024 - 25. Κανονική διάρκεια. 8η Αγωνιστική. 32 ομάδες συμμετέχουν στο κορυφαίο πρωτάθλημα American Football στον κόσμο. Στόχος, μια θέση στο Super Bowl, ο τελικός του οποίου αναδεικνύει τον πρωταθλητή και διεξάγεται στη Νέα Ορλεάνη.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
+  </programme>
+  <programme start="20241030090000 +0200" stop="20241030093000 +0200" channel="cosmotesport3.gr">
+    <title lang="el">Copa Libertadores 2024 - Στιγμιότυπα</title>
+    <desc lang="el">Hμιτελική Φάση, 1η Αγωνιστική. Παρακολουθήστε τις καλύτερες στιγμές από την κορυφαία ποδοσφαιρική διοργάνωση της Νοτίου Αμερικής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
   <programme start="20241030093000 +0200" stop="20241030113000 +0200" channel="cosmotesport3.gr">
@@ -20322,18 +21301,12 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20241030060000 +0200" stop="20241030073000 +0200" channel="cosmotesport4.gr">
+  <programme start="20241030060000 +0200" stop="20241030074500 +0200" channel="cosmotesport4.gr">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20241030073000 +0200" stop="20241030075000 +0200" channel="cosmotesport4.gr">
-    <title lang="el">NBA Specials</title>
-    <desc lang="el">75 Stories: Michael Jordan, Kevin Durant &amp; Jerry West. Στιγμιότυπα από το NBA.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
-    <episode-num system="onscreen">S2 E2</episode-num>
-  </programme>
-  <programme start="20241030075000 +0200" stop="20241030094500 +0200" channel="cosmotesport4.gr">
+  <programme start="20241030074500 +0200" stop="20241030094500 +0200" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Ρεάλ Μαδρίτης - Μανρέσα</title>
     <desc lang="el">5η αγωνιστική. Παρακολουθήστε τους αγώνες της ισπανικής λίγκας, στην οποία συμμετέχουν 18 ομάδες. Μεταξύ αυτών, οι νεοφώτιστες Κορούνια και Γιέιδα, αλλά και τα μεγαθήρια Ρεάλ Μαδρίτης και Μπαρσελόνα. Περιγραφή: Γιάννης Φιλέρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
@@ -20354,12 +21327,12 @@
     <desc lang="el">Στιγμιότυπα από το NBA.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20241030151500 +0200" stop="20241030164500 +0200" channel="cosmotesport4.gr">
+  <programme start="20241030151500 +0200" stop="20241030165500 +0200" channel="cosmotesport4.gr">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20241030164500 +0200" stop="20241030190000 +0200" channel="cosmotesport4.gr">
+  <programme start="20241030165500 +0200" stop="20241030190000 +0200" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Ρίγα - ΑΕΚ</title>
     <desc lang="el">FIBA Basketball Champions League 2024-25. 5η Αγωνιστική. Παρακολουθήστε τους αγώνες της 9ης σεζόν του FIBA Basketball Champions League. 32 ομάδες μπαίνουν στην αφετηρία από τη φάση των ομίλων, μέχρι το Φάιναλ Φορ που θα αναδείξει τον πρωταθλητή. Περιγραφή: Γιάννης Φιλέρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
@@ -20658,12 +21631,12 @@
     <desc lang="el">Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο, αποτελείται από 16 αγώνες σε 8 αγωνιστικά διήμερα. Η διοργάνωση έχει ως βάση της τη Γερμανία, με γύρους να διεξάγονται και σε άλλα μέρη της Ευρώπης. Περιγραφή: Χρήστος Κυριαζής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20241031182000 +0200" stop="20241031193500 +0200" channel="cosmotesport5.gr">
+  <programme start="20241031182000 +0200" stop="20241031194000 +0200" channel="cosmotesport5.gr">
     <title lang="el">Motorsports: Moto3 2024</title>
     <desc lang="el">Το Παγκόσμιο Πρωτάθλημα FIM Moto3 2024 περιλαμβάνει 15 ομάδες από 5 κατασκευαστές και συνολικά 28 αναβάτες. Ο νικητής κρίνεται από 21 Γκραν Πρι που διεξάγονται μεταξύ 10ης Μαρτίου και 17ης Νοεμβρίου. Περιγραφή: Θανάσης Κελάφης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20241031193500 +0200" stop="20241031210000 +0200" channel="cosmotesport5.gr">
+  <programme start="20241031194000 +0200" stop="20241031210000 +0200" channel="cosmotesport5.gr">
     <title lang="el">Motorsports: Moto2 2024</title>
     <desc lang="el">Το Παγκόσμιο Πρωτάθλημα FIM Moto2 2024 περιλαμβάνει 15 ομάδες από 3 κατασκευαστές και συνολικά 30 αναβάτες. Ο τελικός νικητής θα κριθεί μέσα από 21 συναρπαστικά Γκραν Πρι. Περιγραφή: Θανάσης Κελάφης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
@@ -20678,44 +21651,49 @@
     <desc lang="el">Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA γίνεται 72 ετών το 2024 με ένα πρόγραμμα γύρων που διεξάγεται σε άσφαλτο και χαλίκι. Πρόκειται για το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20241030003000 +0200" stop="20241030040000 +0200" channel="cosmotesport6.gr">
+  <programme start="20241030003000 +0200" stop="20241030030000 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Στέφανος Τσιτσιπάς - Αλεχάντρο Ταμπίλο</title>
+    <desc lang="el">ATP Masters 1000 2024. Παρίσι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Παύλος Παλαιστής.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20241030030000 +0200" stop="20241030063000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ITF World Tour Nana Beach Hotel 2024</title>
     <desc lang="el">Τελικός Μονού Γυναικών. Παρακολουθήστε τους τελικούς του ITF World Tour Nana Beach Hotel. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20241030040000 +0200" stop="20241030060000 +0200" channel="cosmotesport6.gr">
+  <programme start="20241030063000 +0200" stop="20241030083000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ATP Masters 1000 2024</title>
     <desc lang="el">Παρίσι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20241030060000 +0200" stop="20241030080000 +0200" channel="cosmotesport6.gr">
-    <title lang="el">Τένις: ATP Masters 1000 2024</title>
-    <desc lang="el">Παρίσι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
+  <programme start="20241030083000 +0200" stop="20241030110000 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Στέφανος Τσιτσιπάς - Αλεχάντρο Ταμπίλο</title>
+    <desc lang="el">ATP Masters 1000 2024. Παρίσι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20241030080000 +0200" stop="20241030120000 +0200" channel="cosmotesport6.gr">
-    <title lang="el">Τένις: ATP Masters 1000 2024</title>
-    <desc lang="el">Παρίσι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  <programme start="20241030110000 +0200" stop="20241030120000 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Topspin</title>
+    <desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
+    <icon src="https://www.ishow.gr/files/images/2022/9/4e1ad8fe-a255-4028-8166-5b00db51046f.jpg"/>
   </programme>
   <programme start="20241030120000 +0200" stop="20241030160000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ATP Masters 1000 2024</title>
     <desc lang="el">Παρίσι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20241030160000 +0200" stop="20241030200000 +0200" channel="cosmotesport6.gr">
+  <programme start="20241030160000 +0200" stop="20241030180000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ATP Masters 1000 2024</title>
-    <desc lang="el">Παρίσι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
+    <desc lang="el">Παρίσι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20241030200000 +0200" stop="20241030220000 +0200" channel="cosmotesport6.gr">
+  <programme start="20241030180000 +0200" stop="20241030203000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ATP Masters 1000 2024</title>
-    <desc lang="el">Παρίσι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
+    <desc lang="el">Παρίσι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20241030220000 +0200" stop="20241031003000 +0200" channel="cosmotesport6.gr">
+  <programme start="20241030203000 +0200" stop="20241031003000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ATP Masters 1000 2024</title>
-    <desc lang="el">Παρίσι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
+    <desc lang="el">Παρίσι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Νίκος Κουλούρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
   <programme start="20241031003000 +0200" stop="20241031013000 +0200" channel="cosmotesport6.gr">
@@ -20766,9 +21744,9 @@
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
   <programme start="20241031190000 +0200" stop="20241031200000 +0200" channel="cosmotesport6.gr">
-    <title lang="el">ATP 500 2024 - Στιγμιότυπα</title>
-    <desc lang="el">Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 500, που ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+    <title lang="el">Topspin</title>
+    <desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
+    <icon src="https://www.ishow.gr/files/images/2022/9/4e1ad8fe-a255-4028-8166-5b00db51046f.jpg"/>
   </programme>
   <programme start="20241031200000 +0200" stop="20241031220000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ATP Masters 1000 2024</title>
@@ -20961,7 +21939,7 @@
     <icon src="https://www.ishow.gr/files/images/2023/10/bd8fe21d-7ccf-4141-9bd5-98f4f6ba3258.jpg"/>
   </programme>
   <programme start="20241030200000 +0200" stop="20241030220000 +0200" channel="novasports2.gr">
-    <title lang="el">Φέγενορντ - Άγιαξ (Ζ) : Ολλανδικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <title lang="el">Φέγενορντ - Άγιαξ : Ολλανδικό Πρωτάθλημα Ποδοσφαίρου</title>
     <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου.</desc>
     <icon src="https://www.ishow.gr/files/images/2024/10/2bcccebc-7457-4d33-b4f7-708a6f5ff999.jpg"/>
   </programme>
@@ -21111,7 +22089,7 @@
     <icon src="https://www.ishow.gr/files/images/2023/4/e14c65db-c06b-4d04-a214-d2b187917be6.jpg"/>
   </programme>
   <programme start="20241030213000 +0200" stop="20241030233000 +0200" channel="novasports4.gr">
-    <title lang="el">Μπουργκ - Άρης (Ζ) : EuroCup 2024/25</title>
+    <title lang="el">Μπουργκ - Άρης : EuroCup 2024/25</title>
     <desc lang="el">EuroCup 2024/25. Η Μπουργκ (4-1) αντιμετωπίζει τον Άρη Midea (1-4) για την 6η αγωνιστική του 2ου ομίλου, με τις δύο ομάδες να προέρχονται από ήττες κόντρα στη Λιετκαμπέλις εκτός και την Τσεντεβίτα.</desc>
     <icon src="https://www.ishow.gr/files/images/2024/10/01aa6498-60f9-46db-bb60-2579e72c528c.jpg"/>
   </programme>
@@ -21181,7 +22159,7 @@
     <icon src="https://www.ishow.gr/files/images/2024/3/c9a0b674-603e-4181-aa87-84bf5c81495d.jpg"/>
   </programme>
   <programme start="20241030200000 +0200" stop="20241030220000 +0200" channel="novasports5hd.gr">
-    <title lang="el">Κλουζ - Βενέτσια (Ζ) : EuroCup 2024/25</title>
+    <title lang="el">Κλουζ - Βενέτσια : EuroCup 2024/25</title>
     <desc lang="el">EuroCup 2024/25. Η Κλουζ (2-3) και η Βενέτσια (2-3) συναντιούνται στην 6η αγωνιστική του 2ου ομίλου.</desc>
     <icon src="https://www.ishow.gr/files/images/2024/10/5ec95b25-731d-48f2-b7fe-56ed7df39260.jpg"/>
   </programme>
@@ -21191,7 +22169,7 @@
     <icon src="https://www.ishow.gr/files/images/2023/7/6e23459b-3e68-4630-9d04-8b6b52ea7556.jpg"/>
   </programme>
   <programme start="20241030224500 +0200" stop="20241031124500 +0200" channel="novasports5hd.gr">
-    <title lang="el">Παρτίζαν - Μονακό (Ζ) : EuroLeague 2024/25</title>
+    <title lang="el">Παρτίζαν - Μονακό : EuroLeague 2024/25</title>
     <desc lang="el">EuroLeague 2024/25. Η Παρτίζαν (2-3) και η Μονακό (3-2) έρχονται αντιμέτωπες για την 6η αγωνιστική, με τις δύο ομάδες να προέρχονται από ήττες στα εντός έδρας παιχνίδια με τη Βίρτους Μπολόνια και.</desc>
     <icon src="https://www.ishow.gr/files/images/2024/10/3b63573e-9c5c-4f51-a312-a346fc384463.jpg"/>
   </programme>
@@ -21390,399 +22368,6 @@
     <desc lang="el">Αθλητική Εκπομπή. Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports και τον Βασίλη Φραγκιά στον σχολιασμό!</desc>
     <icon src="https://www.ishow.gr/files/images/2024/3/f58d5321-ad36-4035-957e-d33c7da0d3b2.jpg"/>
   </programme>
-  <channel id="svt1.se">
-    <display-name lang="sv">SVT1 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="svt2.se">
-    <display-name lang="sv">SVT2 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv3.se">
-    <display-name lang="sv">TV3 HD (S)</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv4.se">
-    <display-name lang="sv">TV4 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="kanal5.se">
-    <display-name lang="sv">Kanal 5 HD (S)</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv6.se">
-    <display-name lang="sv">TV6 HD (S)</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="sjuan.se">
-    <display-name lang="sv">Sjuan HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv8.se">
-    <display-name lang="sv">TV8 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="kanal9.se">
-    <display-name lang="sv">Kanal 9 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv10.se">
-    <display-name lang="sv">TV10 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="kanal11.se">
-    <display-name lang="sv">Kanal 11 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv12.se">
-    <display-name lang="sv">TV12 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="kunskapskanalen.se">
-    <display-name lang="sv">Kunskapskanalen HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="svtb.se">
-    <display-name lang="sv">SVT Barn HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="svt24.se">
-    <display-name lang="sv">SVT24 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv4sportkanalen.se">
-    <display-name lang="sv">TV4 Sportkanalen HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv4hockey.se">
-    <display-name lang="sv">TV4 Hockey HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv4fotboll.se">
-    <display-name lang="sv">TV4 Fotboll HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv4sportlive.se">
-    <display-name lang="sv">TV4 Sport Live 1 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv4sportlive2.se">
-    <display-name lang="sv">TV4 Sport Live 2 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv4sportlive3.se">
-    <display-name lang="sv">TV4 Sport Live 3 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="tv4sportlive4.se">
-    <display-name lang="sv">TV4 Sport Live 4 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="viasatfilmpremiere.se">
-    <display-name lang="sv">V film premiere HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="viasatfilmaction.se">
-    <display-name lang="sv">V film action HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="viasatfilmhits.se">
-    <display-name lang="sv">V film hits HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="viasatfilmfamily.se">
-    <display-name lang="sv">V film family</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="vsportextra.se">
-    <display-name lang="sv">V sport extra HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="viasatsportpremium.se">
-    <display-name lang="sv">V sport premium HD (S)</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="vfootball.se">
-    <display-name lang="sv">V sport football HD (S)</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="viasatsportvinter.se">
-    <display-name lang="sv">V sport vinter HD (S)</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="viasatmotor.se">
-    <display-name lang="sv">V sport motor HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="viasatsport.se">
-    <display-name lang="sv">V sport 1 HD (S)</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="mega.gr">
-    <display-name lang="el">Mega</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="ant1.gr">
-    <display-name lang="el">Ant 1 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/2.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="alpha.gr">
-    <display-name lang="el">A HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="star.gr">
-    <display-name lang="el">Star</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/4.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="skai.gr">
-    <display-name lang="el">ΣΚΑΙ</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/9.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="epsilontv.gr">
-    <display-name lang="el">Open Beyond</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="ert1.gr">
-    <display-name lang="el">ERT1</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/123.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="ert2.gr">
-    <display-name lang="el">ERT2</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="ert3.gr">
-    <display-name lang="el">ERT3</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="makedoniatv.gr">
-    <display-name lang="el">Μακεδονία TV</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/43.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="cosmotecinema1.gr">
-    <display-name lang="el">Cosmote Cinema 1 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/64.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="cosmotecinema2.gr">
-    <display-name lang="el">Cosmote Cindema 2 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/65.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="cosmotecinema3.gr">
-    <display-name lang="el">Cosmote Cinema 3</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/66.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="novacinema1.gr">
-    <display-name lang="el">Nova Cinema 1</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/31.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="novacinema2.gr">
-    <display-name lang="el">Nova Cinema 2</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/32.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="novacinema3.gr">
-    <display-name lang="el">Nova Cinema 3</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/33.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="novacinema4.gr">
-    <display-name lang="el">Nova Cinema 4</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/61.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="cosmotesport1.gr">
-    <display-name lang="el">Cosmote Sport 1 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="cosmotesport2.gr">
-    <display-name lang="el">Cosmote Sport 2 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/68.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="cosmotesport3.gr">
-    <display-name lang="el">Cosmote Sport 3 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="cosmotesport4.gr">
-    <display-name lang="el">Cosmote Sport 4 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="cosmotesport5.gr">
-    <display-name lang="el">Cosmote Sport 5 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="cosmotesport6.gr">
-    <display-name lang="el">Cosmote Sport 6 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="cosmotesport7.gr">
-    <display-name lang="el">Cosmote Sport 7</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="cosmotesport8.gr">
-    <display-name lang="el">Cosmote Sport 8</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/132.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="novasports1.gr">
-    <display-name lang="el">Nova Sports 1 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/34.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="novasports2.gr">
-    <display-name lang="el">Nova Sports 2 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/37.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="novasports3.gr">
-    <display-name lang="el">Nova Sports 3 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/38.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="novasports4.gr">
-    <display-name lang="el">Nova Sports 4 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/39.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="novasports5hd.gr">
-    <display-name lang="el">Nova Sports 5 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/148.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="novasports6.gr">
-    <display-name lang="el">Nova Sports 6 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/41.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="novasportsprime.gr">
-    <display-name lang="el">Nova Sports Prime</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/158.png"/>
-    <url>http://www.ishow.gr</url>
-  </channel>
-  <channel id="abcwabc.us">
-    <display-name lang="en">ABC (WABC) New York, NY</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/>
-    <url>http://www.tvpassport.com</url>
-  </channel>
-  <channel id="ballysportswisconsin.us">
-    <display-name lang="en">Bally Sports Wisconsin</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16348_h15_ac.png"/>
-    <url>http://www.tvpassport.com</url>
-  </channel>
-  <channel id="espn.us">
-    <display-name lang="en">ESPN</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png"/>
-    <url>http://www.tvpassport.com</url>
-  </channel>
-  <channel id="espn2.us">
-    <display-name lang="en">ESPN2</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png"/>
-    <url>http://www.tvpassport.com</url>
-  </channel>
-  <channel id="Hallmark Channel (East)">
-    <display-name lang="en">Hallmark - Eastern Feed</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11221_h15_aa.png"/>
-    <url>http://www.tvpassport.com</url>
-  </channel>
-  <channel id="Hallmark Movies and Mysteries HD">
-    <display-name lang="en">Hallmark Mystery Eastern - HD</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s46710_h15_ab.png"/>
-    <url>http://www.tvpassport.com</url>
-  </channel>
-  <channel id="nbatv.us">
-    <display-name lang="en">NBA TV USA</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png"/>
-    <url>http://www.tvpassport.com</url>
-  </channel>
-  <channel id="tnt.us">
-    <display-name lang="en">TNT - Eastern Feed</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png"/>
-    <url>http://www.tvpassport.com</url>
-  </channel>
-  <channel id="sportklub1.rs">
-    <display-name lang="sr">SK 1 HD (SR)</display-name>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/26/sk1hd_logo_16_9_light_160x90_0e2f3e64_327f_4e23_bdc0_1109dec1113a.png"/>
-    <url>http://www.sportklub.rs</url>
-  </channel>
-  <channel id="sportklub2.rs">
-    <display-name lang="sr">SK 2 HD (SR)</display-name>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/52/sk2hd_logo_16_9_light_160x90_b8e00d92_1743_4d96_b9e2_73e09c30fdd2.png"/>
-    <url>http://www.sportklub.rs</url>
-  </channel>
-  <channel id="sportklub3.rs">
-    <display-name lang="sr">SK 3 HD (SR)</display-name>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/03/09/sk3hd_logo_16_9_light_160x90_3c16cfd0_678e_485b_99ac_db8f12716810.png"/>
-    <url>http://www.sportklub.rs</url>
-  </channel>
-  <channel id="sportklub4.rs">
-    <display-name lang="sr">SK 4 HD (SR)</display-name>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/08/25/01/23/42/s_light_480x270.png"/>
-    <url>http://www.sportklub.rs</url>
-  </channel>
-  <channel id="sportklub5.rs">
-    <display-name lang="sr">SK 5 (SR)</display-name>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/03/34/sk5_logo_16_9_light_160x90_4f6c82f4_bf2c_49dd_9d6f_6db3fc710abd.png"/>
-    <url>http://www.sportklub.rs</url>
-  </channel>
-  <channel id="sportklub6.rs">
-    <display-name lang="sr">SK 6 (SR)</display-name>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/03/46/sk6_logo_16_9_light_160x90_fd7d822d_6e9a_48ff_998a_54885e3be98c.png"/>
-    <url>http://www.sportklub.rs</url>
-  </channel>
-  <channel id="arenasport1.rs">
-    <display-name lang="bs">Sport 1</display-name>
-    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-01.png"/>
-    <url>http://www.tvarenasport.com</url>
-  </channel>
-  <channel id="arenasport2.rs">
-    <display-name lang="bs">Sport 2</display-name>
-    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-02.png"/>
-    <url>http://www.tvarenasport.com</url>
-  </channel>
-  <channel id="arenasport3.rs">
-    <display-name lang="bs">Sport 3</display-name>
-    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-03.png"/>
-    <url>http://www.tvarenasport.com</url>
-  </channel>
-  <channel id="arenasport4.rs">
-    <display-name lang="bs">Sport 4</display-name>
-    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-04.png"/>
-    <url>http://www.tvarenasport.com</url>
-  </channel>
-  <channel id="arenasport5.rs">
-    <display-name lang="bs">Sport 5</display-name>
-    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-05.png"/>
-    <url>http://www.tvarenasport.com</url>
-  </channel>
-  <channel id="arenasport6.rs">
-    <display-name lang="bs">Sport 6</display-name>
-    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-06.png"/>
-    <url>http://www.tvarenasport.com</url>
-  </channel>
-  <channel id="arenasport7.rs">
-    <display-name lang="bs">Sport 7</display-name>
-    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-07.png"/>
-    <url>http://www.tvarenasport.com</url>
-  </channel>
   <programme start="20241030000000 +0100" stop="20241030003000 +0100" channel="abcwabc.us">
     <title lang="en">Jeopardy!</title>
     <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
@@ -25391,46 +25976,67 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/08/10/00/27/13/stb_xl_ae0b80e943fc43450fcea1d3774035c01402b3a1_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20241030203000 +0000" stop="20241030230000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters Paris &amp; WTA 250 Merida (UKLJUČENJE)</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/08/19/16/34/32/stb_xl_9a21f46a55b5d0fd2430091fdcf902c0b95e5634_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20241030230000 +0000" stop="20241031040000 +0000" channel="sportklub2.rs">
-    <title lang="sr">WTA 250 Merida</title>
+  <programme start="20241030220000 +0000" stop="20241030233000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Merida: Kempen/Saiden - Rodriguez/Sanchez (dublovi)</title>
     <desc lang="sr">Od 2023. godine Merida u Meksiku je domaćin WTA 250 turnira pod nazivom Merida Open Akron. Profesionalne teniserke boriće se za titulu na tvrdoj podlozi. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20241031040000 +0000" stop="20241031050000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis WTA: WTA 250 Jiujiang &amp; WTA 250 Merida</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA konkurenciji. Uživajte uz mečeve ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20241030233000 +0000" stop="20241031010000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Merida: Kononova/Kozyreva - Blinkova/Korneeva (dublovi)</title>
+    <desc lang="sr">Od 2023. godine Merida u Meksiku je domaćin WTA 250 turnira pod nazivom Merida Open Akron. Profesionalne teniserke boriće se za titulu na tvrdoj podlozi. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20241031050000 +0000" stop="20241031060000 +0000" channel="sportklub2.rs">
-    <title lang="sr">WTA 250 Jiujiang</title>
+  <programme start="20241031010000 +0000" stop="20241031024500 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Merida: Jacquemot - Sonmaz</title>
+    <desc lang="sr">Od 2023. godine Merida u Meksiku je domaćin WTA 250 turnira pod nazivom Merida Open Akron. Profesionalne teniserke boriće se za titulu na tvrdoj podlozi. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20241031024500 +0000" stop="20241031040000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Merida: Garcia/Rosca - Tikhonova/Zarazua (dublovi)</title>
+    <desc lang="sr">Od 2023. godine Merida u Meksiku je domaćin WTA 250 turnira pod nazivom Merida Open Akron. Profesionalne teniserke boriće se za titulu na tvrdoj podlozi. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20241031040000 +0000" stop="20241031054500 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Jiujiang: Bouzas-Maneiro - Golubic</title>
     <desc lang="sr">Teniski turnir za žene koji pripada seriji 250 igra se u Nančangu, u Kini, na tvrdoj podlozi. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20241031060000 +0000" stop="20241031100000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis WTA: WTA 250 Hong Kong &amp; WTA 250 Jiujiang</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA konkurenciji. Uživajte uz mečeve ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20241031054500 +0000" stop="20241031074500 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Jiujiang: L. Fruhvirtova - Rus</title>
+    <desc lang="sr">Teniski turnir za žene koji pripada seriji 250 igra se u Nančangu, u Kini, na tvrdoj podlozi. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20241031074500 +0000" stop="20241031093000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Jiujiang: Wei - Sramkova</title>
+    <desc lang="sr">Teniski turnir za žene koji pripada seriji 250 igra se u Nančangu, u Kini, na tvrdoj podlozi. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20241031093000 +0000" stop="20241031100000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Jiujiang: Bondar - Trevisan</title>
+    <desc lang="sr">Teniski turnir za žene koji pripada seriji 250 igra se u Nančangu, u Kini, na tvrdoj podlozi. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
     <premiere/>
   </programme>
   <programme start="20241031100000 +0000" stop="20241031190500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters Paris &amp; WTA 250 Hong Kong &amp; WTA 250 Jiujiang</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+    <title lang="sr">ATP Masters Paris</title>
+    <desc lang="sr">Ne propustite da gledate pariski ATP turnir. To je poslednji veliki turnir u sezoni, koji je deo ATP masters serije od 1990. godine i samim tim je jedan od devet najvažnijih turnira. Igra se na... (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/08/19/16/34/32/stb_xl_9a21f46a55b5d0fd2430091fdcf902c0b95e5634_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
   </programme>
   <programme start="20241031190500 +0000" stop="20241031210000 +0000" channel="sportklub2.rs">
@@ -25594,7 +26200,7 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2024/10/09/15/30/56/stb_xl_37bc7f79751729348d442f05dd51ee0e093781a1_340fc454bc73019d052cf936ebee5da3.jpg"/>
   </programme>
   <programme start="20241031185500 +0000" stop="20241031193000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Al Qassim Reli: (Saudi Arabia)</title>
+    <title lang="sr">Pregled Rally Qassim (Saudi Arabia)</title>
     <desc lang="sr">Pratite reli takmičenje koje je deo šampionata Saudijske Tojote, a koje se održava u Al Kasimu u Saudijskoj Arabiji.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/12/04/15/32/30/stb_xl_a21545fb285d6fc1d6635f60617bf3a16951321e_340fc454bc73019d052cf936ebee5da3.jpg"/>
@@ -25909,42 +26515,39 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
   </programme>
   <programme start="20241031040000 +0000" stop="20241031050000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Tenis WTA: WTA 250 Jiujiang &amp; WTA 250 Merida</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA konkurenciji. Uživajte uz mečeve ženskog profesionalnog tenisa! (LIVE).</desc>
+    <title lang="sr">WTA 250 Merida: Garcia/Rosca - Tikhonova/Zarazua (UKLJUČENJE) (dublovi)</title>
+    <desc lang="sr">Od 2023. godine Merida u Meksiku je domaćin WTA 250 turnira pod nazivom Merida Open Akron. Profesionalne teniserke boriće se za titulu na tvrdoj podlozi. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20241031050000 +0000" stop="20241031083000 +0000" channel="sportklub5.rs">
-    <title lang="sr">WTA 250 Jiujiang: (dublovi) 1/4 Finale</title>
+  <programme start="20241031050000 +0000" stop="20241031064500 +0000" channel="sportklub5.rs">
+    <title lang="sr">WTA 250 Jiujiang: (dublovi) 1/4 Finale: Piter/Stollar - Lansere/Rakhimova</title>
     <desc lang="sr">Teniski turnir za žene koji pripada seriji 250 igra se u Nančangu, u Kini, na tvrdoj podlozi. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20241031083000 +0000" stop="20241031090000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 2</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+  <programme start="20241031064500 +0000" stop="20241031081500 +0000" channel="sportklub5.rs">
+    <title lang="sr">WTA 250 Jiujiang: (dublovi) 1/4 Finale: Bouzkova/Zhang - Pridankina/Yashina</title>
+    <desc lang="sr">Teniski turnir za žene koji pripada seriji 250 igra se u Nančangu, u Kini, na tvrdoj podlozi. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
+    <premiere/>
   </programme>
-  <programme start="20241031090000 +0000" stop="20241031100000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 3</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+  <programme start="20241031081500 +0000" stop="20241031100000 +0000" channel="sportklub5.rs">
+    <title lang="sr">WTA 250 Jiujiang: (parovi) 1/4 Finale: Guo/Uchijima - Hartono/Thombare</title>
+    <desc lang="sr">Pratite Jiangxi Open, međunarodni teniski turnir za žene koji se igra na tvrdoj podlozi na vanjskim terenima u Nanchangu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
+    <premiere/>
   </programme>
-  <programme start="20241031100000 +0000" stop="20241031110000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+  <programme start="20241031100000 +0000" stop="20241031120000 +0000" channel="sportklub5.rs">
+    <title lang="sr">WTA 250 Jiujiang: Bondar - Trevisan (UKLJUČENJE)</title>
+    <desc lang="sr">Teniski turnir za žene koji pripada seriji 250 igra se u Nančangu, u Kini, na tvrdoj podlozi. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
-  </programme>
-  <programme start="20241031110000 +0000" stop="20241031120000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 1</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
+    <premiere/>
   </programme>
   <programme start="20241031120000 +0000" stop="20241031130000 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 5 Promo 2</title>
@@ -25983,8 +26586,8 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
   </programme>
   <programme start="20241031174500 +0000" stop="20241031194500 +0000" channel="sportklub5.rs">
-    <title lang="sr">Nogomet - Nizozemski kup: Hercules - Sparta</title>
-    <desc lang="sr">Za razliku od drugih zemalja, Nizozemska nema toliko profesionalnih klubova i obično su kandidati za titulu i kup isti. Tako je barem u teoriji, no hoće li tako biti i u praksi? (LIVE).</desc>
+    <title lang="sr">Fudbal - Holandski kup: Hercules - Sparta</title>
+    <desc lang="sr">Za razliku od drugih zemalja, Holandija nema toliko profesionalnih klubova i obično su kandidati za titulu i kup isti. Tako bar kaže teorija, a da li će tako biti i u praksi? (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/02/07/13/43/31/stb_xl_2129ae139195d40255f78257881134eb618d7133_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
@@ -26143,17 +26746,12 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_1d007d72285dbf365b4b4c2de1ad3efebb20f442.jpg"/>
   </programme>
-  <programme start="20241031100000 +0000" stop="20241031110000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+  <programme start="20241031100000 +0000" stop="20241031120000 +0000" channel="sportklub6.rs">
+    <title lang="sr">WTA 250 Hong Kong: (dublovi) 1/4 Finale: Bucsa/Kato - Detiuc/Santamaria (UKLJUČENJE)</title>
+    <desc lang="sr">Pratite WTA 250 Hong Kong, teniski turnir koji se održava svake godine u oktobru u Hong Kongu. Organizator turnira je Teniski savez Hong Konga. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/46/stb_xl_69218669d330066f5ddd0848183b868fcf8f163c.jpg"/>
-  </programme>
-  <programme start="20241031110000 +0000" stop="20241031120000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 1</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/48/stb_xl_0bb27540b210ed55abf0edda825a14aa6077dd08.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/09/19/18/56/29/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_b79c1d63e83fb5d6650a37b8103c46d4.jpg"/>
+    <premiere/>
   </programme>
   <programme start="20241031120000 +0000" stop="20241031130000 +0000" channel="sportklub6.rs">
     <title lang="sr">Sport Klub 6 Promo 2</title>
@@ -26247,38 +26845,33 @@
     <desc lang="bs">ENGLESKI LIGA KUP.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241030100000 +0100" stop="20241030101500 +0100" channel="arenasport1.rs">
-    <title lang="bs">Pregled kola</title>
-    <desc lang="bs">ŠKOTSKA LIGA.</desc>
+  <programme start="20241030100000 +0100" stop="20241030103000 +0100" channel="arenasport1.rs">
+    <title lang="bs">Netbusters</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241030101500 +0100" stop="20241030110000 +0100" channel="arenasport1.rs">
-    <title lang="bs">Pregled kola</title>
-    <desc lang="bs">BELGIJSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20241030110000 +0100" stop="20241030130000 +0100" channel="arenasport1.rs">
+  <programme start="20241030103000 +0100" stop="20241030123000 +0100" channel="arenasport1.rs">
     <title lang="bs">Brighton - Wolverhampton</title>
     <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241030130000 +0100" stop="20241030150000 +0100" channel="arenasport1.rs">
+  <programme start="20241030123000 +0100" stop="20241030143000 +0100" channel="arenasport1.rs">
     <title lang="bs">Chelsea - Newcastle</title>
     <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241030150000 +0100" stop="20241030151500 +0100" channel="arenasport1.rs">
-    <title lang="bs">PL Moments</title>
-    <desc lang="bs">ENGLESKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20241030151500 +0100" stop="20241030160000 +0100" channel="arenasport1.rs">
-    <title lang="bs">Inside City</title>
-  </programme>
-  <programme start="20241030160000 +0100" stop="20241030180000 +0100" channel="arenasport1.rs">
+  <programme start="20241030143000 +0100" stop="20241030163000 +0100" channel="arenasport1.rs">
     <title lang="bs">Uživo: Egaleo - PAOK</title>
     <desc lang="bs">GRČKI KUP.</desc>
     <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20241030163000 +0100" stop="20241030171500 +0100" channel="arenasport1.rs">
+    <title lang="bs">Pregled kola</title>
+    <desc lang="bs">BELGIJSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20241030171500 +0100" stop="20241030180000 +0100" channel="arenasport1.rs">
+    <title lang="bs">Inside City</title>
   </programme>
   <programme start="20241030180000 +0100" stop="20241030183000 +0100" channel="arenasport1.rs">
     <title lang="bs">Pregled kola</title>
@@ -26461,8 +27054,8 @@
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241031080000 +0100" stop="20241031100000 +0100" channel="arenasport2.rs">
-    <title lang="bs">Parla Escuela - Valencia</title>
-    <desc lang="bs">ŠPANSKI KUP.</desc>
+    <title lang="bs">Cadiz - Oviedo</title>
+    <desc lang="bs">ŠPANSKA 2. LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241031100000 +0100" stop="20241031120000 +0100" channel="arenasport2.rs">
@@ -26486,9 +27079,9 @@
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241031180000 +0100" stop="20241031200000 +0100" channel="arenasport2.rs">
-    <title lang="bs">Uživo: Borac Banja Luka - Šibenka</title>
-    <desc lang="bs">ABA 2. LIGA.</desc>
-    <category lang="bs">Košarka</category>
+    <title lang="bs">Parla Escuela - Valencia</title>
+    <desc lang="bs">ŠPANSKI KUP.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241031200000 +0100" stop="20241031204500 +0100" channel="arenasport2.rs">
     <title lang="bs">SPORT BROTHERS LEAGUE - ep. 7</title>
@@ -26547,15 +27140,13 @@
     <desc lang="bs">RUSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241030160000 +0100" stop="20241030161500 +0100" channel="arenasport3.rs">
-    <title lang="bs">Sportske igre mladih, ep. 13</title>
-  </programme>
-  <programme start="20241030161500 +0100" stop="20241030170000 +0100" channel="arenasport3.rs">
-    <title lang="bs">Košarkaška pravila - Žarko Paspalj</title>
-  </programme>
-  <programme start="20241030170000 +0100" stop="20241030190000 +0100" channel="arenasport3.rs">
+  <programme start="20241030160000 +0100" stop="20241030180000 +0100" channel="arenasport3.rs">
     <title lang="bs">Uživo: Avtodor - Astana</title>
     <desc lang="bs">VTB LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20241030180000 +0100" stop="20241030190000 +0100" channel="arenasport3.rs">
+    <title lang="bs">U obruču</title>
     <category lang="bs">Košarka</category>
   </programme>
   <programme start="20241030190000 +0100" stop="20241030210000 +0100" channel="arenasport3.rs">
@@ -26693,17 +27284,10 @@
     <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
-  <programme start="20241030203000 +0100" stop="20241030203500 +0100" channel="arenasport4.rs">
-    <title lang="bs">Kolossos - Karsiyaka</title>
-    <category lang="bs">Košarka</category>
-  </programme>
-  <programme start="20241030203500 +0100" stop="20241030204000 +0100" channel="arenasport4.rs">
-    <title lang="bs">Kolossos - Karsiyaka</title>
-    <category lang="bs">Košarka</category>
-  </programme>
-  <programme start="20241030204000 +0100" stop="20241030204500 +0100" channel="arenasport4.rs">
-    <title lang="bs">Kolossos - Karsiyaka</title>
-    <category lang="bs">Košarka</category>
+  <programme start="20241030203000 +0100" stop="20241030204500 +0100" channel="arenasport4.rs">
+    <title lang="bs">Pregled</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241030204500 +0100" stop="20241030224500 +0100" channel="arenasport4.rs">
     <title lang="bs">Uživo: Hoffenheim - Nurnberg</title>
@@ -26761,12 +27345,12 @@
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241031180000 +0100" stop="20241031200000 +0100" channel="arenasport4.rs">
-    <title lang="bs">Girona - Slovan</title>
+    <title lang="bs">Real Madrid - Borussia</title>
     <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241031200000 +0100" stop="20241031220000 +0100" channel="arenasport4.rs">
-    <title lang="bs">Real Madrid - Borussia</title>
+    <title lang="bs">Girona - Slovan</title>
     <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
@@ -27053,7 +27637,7 @@
     <category lang="bs">Košarka</category>
   </programme>
   <programme start="20241030133000 +0100" stop="20241030153000 +0100" channel="arenasport7.rs">
-    <title lang="bs">Slask Wroclaw - Reggiana</title>
+    <title lang="bs">Slask - Reggiana</title>
     <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
@@ -27121,13 +27705,13 @@
     <category lang="bs">Rukomet</category>
   </programme>
   <programme start="20241031093000 +0100" stop="20241031113000 +0100" channel="arenasport7.rs">
-    <title lang="bs">Kolossos - Karsiyaka</title>
+    <title lang="bs">Manresa - Chemnitz</title>
     <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
   <programme start="20241031113000 +0100" stop="20241031133000 +0100" channel="arenasport7.rs">
-    <title lang="bs">Manresa - Chemnitz</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <title lang="bs">Cremona - Virtus</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
   <programme start="20241031133000 +0100" stop="20241031143000 +0100" channel="arenasport7.rs">
@@ -27159,8 +27743,8 @@
     <category lang="bs">Odbojka</category>
   </programme>
   <programme start="20241031223000 +0100" stop="20241101003000 +0100" channel="arenasport7.rs">
-    <title lang="bs">Cremona - Virtus</title>
-    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <title lang="bs">Kolossos - Karsiyaka</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
 </tv>
