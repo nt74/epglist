@@ -56,10 +56,6 @@
     <display-name lang="sv">SVT Barn HD</display-name>
     <url>http://www.allente.se</url>
   </channel>
-  <channel id="svt24.se">
-    <display-name lang="sv">SVT24 HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
   <channel id="tv4sportkanalen.se">
     <display-name lang="sv">TV4 Sportkanalen HD</display-name>
     <url>http://www.allente.se</url>
@@ -88,22 +84,6 @@
     <display-name lang="sv">TV4 Sport Live 4 HD</display-name>
     <url>http://www.allente.se</url>
   </channel>
-  <channel id="viasatfilmpremiere.se">
-    <display-name lang="sv">V film premiere HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="viasatfilmaction.se">
-    <display-name lang="sv">V film action HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="viasatfilmhits.se">
-    <display-name lang="sv">V film hits HD</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
-  <channel id="viasatfilmfamily.se">
-    <display-name lang="sv">V film family</display-name>
-    <url>http://www.allente.se</url>
-  </channel>
   <channel id="vsportextra.se">
     <display-name lang="sv">V sport extra HD</display-name>
     <url>http://www.allente.se</url>
@@ -120,12 +100,20 @@
     <display-name lang="sv">V sport vinter HD (S)</display-name>
     <url>http://www.allente.se</url>
   </channel>
-  <channel id="viasatmotor.se">
-    <display-name lang="sv">V sport motor HD</display-name>
+  <channel id="viasatfilmpremiere.se">
+    <display-name lang="sv">V film premiere HD</display-name>
     <url>http://www.allente.se</url>
   </channel>
-  <channel id="viasatsport.se">
-    <display-name lang="sv">V sport 1 HD (S)</display-name>
+  <channel id="viasatfilmaction.se">
+    <display-name lang="sv">V film action HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="viasatfilmhits.se">
+    <display-name lang="sv">V film hits HD</display-name>
+    <url>http://www.allente.se</url>
+  </channel>
+  <channel id="viasatfilmfamily.se">
+    <display-name lang="sv">V film family</display-name>
     <url>http://www.allente.se</url>
   </channel>
   <channel id="mega.gr">
@@ -293,19 +281,19 @@
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/>
     <url>http://www.tvpassport.com</url>
   </channel>
-  <channel id="ballysportswisconsin.us">
-    <display-name lang="en">Bally Sports Wisconsin</display-name>
+  <channel id="foxsportswisconsin.us">
+    <display-name lang="en">FanDuel Sports Network Wisconsin</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16348_h15_ac.png"/>
     <url>http://www.tvpassport.com</url>
   </channel>
-  <channel id="espn.us">
+  <channel id="ESPN">
     <display-name lang="en">ESPN</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png"/>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s15976_h15_aa.png"/>
     <url>http://www.tvpassport.com</url>
   </channel>
-  <channel id="espn2.us">
+  <channel id="ESPN2">
     <display-name lang="en">ESPN2</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png"/>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s15976_h15_aa.png"/>
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Hallmark Channel (East)">
@@ -318,7 +306,12 @@
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s46710_h15_ab.png"/>
     <url>http://www.tvpassport.com</url>
   </channel>
-  <channel id="nbatv.us">
+  <channel id="syfy.us">
+    <display-name lang="en">Syfy - Eastern Feed</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png"/>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="nba.us">
     <display-name lang="en">NBA TV USA</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png"/>
     <url>http://www.tvpassport.com</url>
@@ -7752,8 +7745,8 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <desc lang="el">Socca World Cup Oman 2024. Φάση Ομίλων. Παρακολουθήστε τους αγώνες του Socca World Cup 2024.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/132.png"/>
   </programme>
-  <programme start="20241201160000 +0200" stop="20241201190000 +0200" channel="cosmotesport8.gr">
-    <title lang="el">Ποδόσφαιρο: Γαλλία - Πολωνία</title>
+  <programme start="20241201160000 +0200" stop="20241201171500 +0200" channel="cosmotesport8.gr">
+    <title lang="el">Ποδόσφαιρο: Κύπρος - Βέλγιο</title>
     <desc lang="el">Socca World Cup Oman 2024. Φάση Ομίλων. Παρακολουθήστε τους αγώνες του Socca World Cup 2024.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/132.png"/>
   </programme>
@@ -8845,21 +8838,404 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201000000 +0100" stop="20241201003000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">All Blacks in Their Own Words</title>
-    <desc lang="en">A story of resilience, with a country united behind them, the series gives exclusive insight into the team, the players, the coaches, and their journey.</desc>
+  <programme start="20241201060000 +0100" stop="20241201063000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Badger Sports Report</title>
+    <desc lang="en">An inside look at Wisconsin Badger sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201063000 +0100" stop="20241201070000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Bucks Live Pregame</title>
+    <desc lang="en">Preview of the Milwaukee Bucks game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201003000 +0100" stop="20241201010000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">All Blacks in Their Own Words</title>
-    <desc lang="en">A story of resilience, with a country united behind them, the series gives exclusive insight into the team, the players, the coaches, and their journey.</desc>
+  <programme start="20241201070000 +0100" stop="20241201090000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Washington Wizards at Milwaukee Bucks</sub-title>
+    <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201010000 +0100" stop="20241201013000 +0100" channel="ballysportswisconsin.us">
+  <programme start="20241201090000 +0100" stop="20241201093000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Bucks Live Postgame</title>
+    <desc lang="en">Review of the Milwaukee Bucks game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201093000 +0100" stop="20241201100000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Pro Football Weekly</title>
+    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201100000 +0100" stop="20241201120000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">NHL Hockey</title>
+    <sub-title lang="en">Nashville Predators at Minnesota Wild</sub-title>
+    <desc lang="en">From the Xcel Energy Center in St. Paul, Minn.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201120000 +0100" stop="20241201123000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Wild Live Postgame</title>
+    <desc lang="en">Postgame coverage of Wild hockey.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201123000 +0100" stop="20241201130000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Wild on 7th</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201130000 +0100" stop="20241201133000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Road Trip Angler</title>
+    <sub-title lang="en">Florida Everglades</sub-title>
+    <desc lang="en">Jameson Redding hits the road to find the best fishing spots in America.</desc>
+    <category lang="en">Regular</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201133000 +0100" stop="20241201140000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Snow Motion</title>
+    <desc lang="en">Coverage of skiing and winter sports, plus interviews with world-class athletes and winter sports enthusiasts, ski and fitness tips and the latest action from the slopes.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Skiing</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241201140000 +0100" stop="20241201143000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">MidWest Outdoors</title>
+    <sub-title lang="en">Grouse Hunting in Northern MN; Northwoods Largemouth; Cooking Wild Goose</sub-title>
+    <desc lang="en">Hunting, boating, canoeing, camping, hiking, snowmobiling.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201143000 +0100" stop="20241201150000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">A Fishing Story With Ronnie Green</title>
+    <desc lang="en">Anglers from all walks of life share their fishing stories.</desc>
+    <category lang="en">Reality TV</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201150000 +0100" stop="20241201153000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Due North Outdoors</title>
+    <sub-title lang="en">Ice Racing</sub-title>
+    <desc lang="en">Ron Schara shares his stories of outdoor sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201153000 +0100" stop="20241201160000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Jon Thelen's Destination Fish</title>
+    <sub-title lang="en">Clear Water Walleyes and Lake of the Woods Tips and Tricks</sub-title>
+    <desc lang="en">Professional angler Jon Thelen takes you on fishing adventures revealing simple techniques to catch more fish across the Midwest and Canada.</desc>
+    <category lang="en">Regular</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201160000 +0100" stop="20241201163000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Jason Mitchell Outdoors</title>
+    <sub-title lang="en">Slab Crappie Remote Ice Fishing Adventure</sub-title>
+    <desc lang="en">Information-packed episodes highlighting open water and ice fishing tactics from across the Midwest. Explore some of the most effective tactics, presentations and locations you can incorporate into your own fishing experiences.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201163000 +0100" stop="20241201170000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Sportsman's Adventures</title>
+    <sub-title lang="en">Port Mansfield Family Affair</sub-title>
+    <desc lang="en">Capts. Rick and Ridge Murphy fish the Port Mansfield Fishing Tournament with Capt. Chad Kinney and his daughter; marlin, wahoo, tuna and mahi make this an adventure to remember.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201170000 +0100" stop="20241201173000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">P1 Racing</title>
+    <sub-title lang="en">Cocoa Beach: Class 1 Offshore</sub-title>
+    <desc lang="en">Highlights from the Powerboat P1 racing series.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boating</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201173000 +0100" stop="20241201180000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Pro Football Weekly</title>
+    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201180000 +0100" stop="20241201183000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Offroad Odyssey</title>
+    <sub-title lang="en">Muddin'</sub-title>
+    <desc lang="en">Alexa goes deep into the Mississippi mud with social media star FarmerGrace; building a mud machine in the Resurrection Industries shop; getting dirty in the swamps of Central Florida.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201183000 +0100" stop="20241201190000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">FIBA World Basketball</title>
+    <desc lang="en">Weekly wrap-up of basketball action from around the world including features on the world's top players, leagues and tournaments.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201190000 +0100" stop="20241201213000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Washington Wizards at Milwaukee Bucks</sub-title>
+    <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201213000 +0100" stop="20241201220000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Bucks Live Postgame</title>
+    <desc lang="en">Review of the Milwaukee Bucks game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201220000 +0100" stop="20241202003000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">NHL Hockey</title>
+    <sub-title lang="en">Nashville Predators at Minnesota Wild</sub-title>
+    <desc lang="en">From the Xcel Energy Center in St. Paul, Minn.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202003000 +0100" stop="20241202010000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Wild Live Postgame</title>
+    <desc lang="en">Postgame coverage of Wild hockey.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202010000 +0100" stop="20241202013000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Wild on 7th</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202013000 +0100" stop="20241202020000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Beyond Our Ice</title>
+    <sub-title lang="en">The Chain</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202020000 +0100" stop="20241202023000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Jon Thelen's Destination Fish</title>
+    <sub-title lang="en">Clear Water Walleyes and Lake of the Woods Tips and Tricks</sub-title>
+    <desc lang="en">Professional angler Jon Thelen takes you on fishing adventures revealing simple techniques to catch more fish across the Midwest and Canada.</desc>
+    <category lang="en">Regular</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202023000 +0100" stop="20241202030000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">MidWest Outdoors</title>
+    <sub-title lang="en">Grouse Hunting in Northern MN; Northwoods Largemouth; Cooking Wild Goose</sub-title>
+    <desc lang="en">Hunting, boating, canoeing, camping, hiking, snowmobiling.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202030000 +0100" stop="20241202033000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Larry Smith Outdoors</title>
+    <desc lang="en">All things outdoors with Larry Smith.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202033000 +0100" stop="20241202040000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">A Fishing Story With Ronnie Green</title>
+    <desc lang="en">Anglers from all walks of life share their fishing stories.</desc>
+    <category lang="en">Reality TV</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202040000 +0100" stop="20241202043000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Nick's Wild Ride With Nick Hoffman</title>
+    <sub-title lang="en">Bush Planes and Brown Bears</sub-title>
+    <desc lang="en">Join country music artist Nick Hoffman as he travels the world to explore the sights, sounds, food, culture and music of the places where he hunts and fishes. It's hard to tell what will happen when Nick gets his hands dirty.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241202043000 +0100" stop="20241202050000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Made for the Outdoors</title>
+    <sub-title lang="en">Upfit UTV</sub-title>
+    <desc lang="en">Take a look into the factory and see how various brands of outdoor gear are made.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202050000 +0100" stop="20241202053000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Offroad Odyssey</title>
+    <sub-title lang="en">Muddin'</sub-title>
+    <desc lang="en">Alexa goes deep into the Mississippi mud with social media star FarmerGrace; building a mud machine in the Resurrection Industries shop; getting dirty in the swamps of Central Florida.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202053000 +0100" stop="20241202060000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Due North Outdoors</title>
+    <sub-title lang="en">Ice Racing</sub-title>
+    <desc lang="en">Ron Schara shares his stories of outdoor sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202060000 +0100" stop="20241202063000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">John Gillespie's Water &amp; Woods</title>
+    <desc lang="en">A tour of Wisconsin's best fishing spots.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202063000 +0100" stop="20241202070000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Rooster Tales</title>
+    <sub-title lang="en">Outdoor Mentors</sub-title>
+    <desc lang="en">A look at wild bird habitat. Showcasing the people that help create habitats.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202070000 +0100" stop="20241202073000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Jason Mitchell Outdoors</title>
+    <sub-title lang="en">Slab Crappie Remote Ice Fishing Adventure</sub-title>
+    <desc lang="en">Information-packed episodes highlighting open water and ice fishing tactics from across the Midwest. Explore some of the most effective tactics, presentations and locations you can incorporate into your own fishing experiences.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202073000 +0100" stop="20241202080000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Discover Wisconsin</title>
+    <sub-title lang="en">Exploring 4 Seasons in the La Crosse Region</sub-title>
+    <desc lang="en">Exploring the La Crosse region's recreation, dining and culture.</desc>
+    <category lang="en">Travel</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202080000 +0100" stop="20241202090000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">United Fight Alliance</title>
+    <sub-title lang="en">UFA 399: Bare Knuckle Boxing 37, Part 1</sub-title>
+    <desc lang="en">United Fight Alliance features top-ranked fighters, up and coming fighters, intense action and footage from some of the biggest names in combat sports and exclusive content spanning MMA, boxing, kickboxing, bare knuckle boxing, muay thai and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202090000 +0100" stop="20241202100000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">United Fight Alliance</title>
+    <sub-title lang="en">UFA 400: Bare Knuckle Boxing 37, Part 2</sub-title>
+    <desc lang="en">United Fight Alliance features top-ranked fighters, up and coming fighters, intense action and footage from some of the biggest names in combat sports and exclusive content spanning MMA, boxing, kickboxing, bare knuckle boxing, muay thai and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202100000 +0100" stop="20241202110000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">PTO T100 Highlights Show '24</title>
+    <sub-title lang="en">Dubai T100</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Triathlon</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202110000 +0100" stop="20241202130000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Athletes Unlimited Pro Volleyball</title>
+    <sub-title lang="en">Team Hentz vs. Team Abercrombie</sub-title>
+    <desc lang="en">From Arizona Athletic Grounds in Mesa, Ariz.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Volleyball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202130000 +0100" stop="20241202150000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Athletes Unlimited Pro Volleyball</title>
+    <sub-title lang="en">Team De La Cruz Mejia vs. Team Abercrombie</sub-title>
+    <desc lang="en">From Arizona Athletic Grounds in Mesa, Ariz.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Volleyball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202150000 +0100" stop="20241202153000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Snow Motion</title>
+    <desc lang="en">Coverage of skiing and winter sports, plus interviews with world-class athletes and winter sports enthusiasts, ski and fitness tips and the latest action from the slopes.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Skiing</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202153000 +0100" stop="20241202160000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Offroad Odyssey</title>
+    <sub-title lang="en">Muddin'</sub-title>
+    <desc lang="en">Alexa goes deep into the Mississippi mud with social media star FarmerGrace; building a mud machine in the Resurrection Industries shop; getting dirty in the swamps of Central Florida.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202160000 +0100" stop="20241202170000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">NASCAR Race Rewind</title>
+    <sub-title lang="en">2023 HighPoint.com 400</sub-title>
+    <desc lang="en">From July 23, 2023. From Pocono Raceway.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202170000 +0100" stop="20241202180000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">PTO T100 Highlights Show '24</title>
+    <sub-title lang="en">Dubai T100</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Triathlon</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202180000 +0100" stop="20241202183000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">FIBA World Basketball</title>
+    <desc lang="en">Weekly wrap-up of basketball action from around the world including features on the world's top players, leagues and tournaments.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202183000 +0100" stop="20241202190000 +0100" channel="foxsportswisconsin.us">
     <title lang="en">The Card Life</title>
     <sub-title lang="en">Postseason</sub-title>
     <desc lang="en">A show dedicated to the hobby and business of sports card collecting.</desc>
@@ -8867,1176 +9243,1087 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <category lang="en">Miscellaneous</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201013000 +0100" stop="20241201020000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Live: Bucks Live Pregame</title>
-    <desc lang="en">Preview of the Milwaukee Bucks game.</desc>
+  <programme start="20241202190000 +0100" stop="20241202210000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Live: Foul Territory</title>
+    <desc lang="en">Baseball the way it should be covered and exclusive interviews with MLB stars. AJ Pierzynski, Erik Kratz, Todd Frazier, Cameron Maybin, Jason Kipnis, Trevor May, Jonathan Papelbon, Scott Braun and Insider Ken Rosenthal. The world is our clubhouse.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
+    <category lang="en">Baseball</category>
   </programme>
-  <programme start="20241201020000 +0100" stop="20241201043000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Live: NBA Basketball</title>
-    <sub-title lang="en">Washington Wizards at Milwaukee Bucks</sub-title>
-    <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20241201043000 +0100" stop="20241201050000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Live: Bucks Live Postgame</title>
-    <desc lang="en">Review of the Milwaukee Bucks game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20241201050000 +0100" stop="20241201053000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Pro Football Weekly</title>
-    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241201053000 +0100" stop="20241201060000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Inside Marquette Basketball</title>
-    <desc lang="en">An inside look into the men's basketball program. The bi-weekly show includes behind-the-scenes features and access, including exclusive comments throughout the show with head coach Shaka Smart and host Sophia Minnaert.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201060000 +0100" stop="20241201063000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Badger Sports Report</title>
-    <desc lang="en">An inside look at Wisconsin Badger sports.</desc>
+  <programme start="20241202210000 +0100" stop="20241202213000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">In the Spotlight</title>
+    <sub-title lang="en">Barry Switzer</sub-title>
+    <desc lang="en">Featuring legends of the sports world in their own words, hosted by former Major League Baseball player and longtime broadcaster Fran Healy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
-  <programme start="20241201063000 +0100" stop="20241201070000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Bucks Live Pregame</title>
-    <desc lang="en">Preview of the Milwaukee Bucks game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201070000 +0100" stop="20241201090000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Washington Wizards at Milwaukee Bucks</sub-title>
-    <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201090000 +0100" stop="20241201093000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Bucks Live Postgame</title>
-    <desc lang="en">Review of the Milwaukee Bucks game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201093000 +0100" stop="20241201100000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Pro Football Weekly</title>
-    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241201100000 +0100" stop="20241201120000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">NHL Hockey</title>
-    <sub-title lang="en">Nashville Predators at Minnesota Wild</sub-title>
-    <desc lang="en">From the Xcel Energy Center in St. Paul, Minn.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201120000 +0100" stop="20241201123000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Wild Live Postgame</title>
-    <desc lang="en">Postgame coverage of Wild hockey.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201123000 +0100" stop="20241201130000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Wild on 7th</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201130000 +0100" stop="20241201133000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Road Trip Angler</title>
-    <sub-title lang="en">Florida Everglades</sub-title>
-    <desc lang="en">Jameson Redding hits the road to find the best fishing spots in America.</desc>
-    <category lang="en">Regular</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201133000 +0100" stop="20241201140000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Snow Motion</title>
-    <desc lang="en">Coverage of skiing and winter sports, plus interviews with world-class athletes and winter sports enthusiasts, ski and fitness tips and the latest action from the slopes.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Skiing</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241201140000 +0100" stop="20241201143000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">MidWest Outdoors</title>
-    <sub-title lang="en">Grouse Hunting in Northern MN; Northwoods Largemouth; Cooking Wild Goose</sub-title>
-    <desc lang="en">Hunting, boating, canoeing, camping, hiking, snowmobiling.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241201143000 +0100" stop="20241201150000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">A Fishing Story With Ronnie Green</title>
-    <desc lang="en">Anglers from all walks of life share their fishing stories.</desc>
-    <category lang="en">Reality TV</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241201150000 +0100" stop="20241201153000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Due North Outdoors</title>
-    <sub-title lang="en">Ice Racing</sub-title>
-    <desc lang="en">Ron Schara shares his stories of outdoor sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241201153000 +0100" stop="20241201160000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Jon Thelen's Destination Fish</title>
-    <sub-title lang="en">Clear Water Walleyes and Lake of the Woods Tips and Tricks</sub-title>
-    <desc lang="en">Professional angler Jon Thelen takes you on fishing adventures revealing simple techniques to catch more fish across the Midwest and Canada.</desc>
-    <category lang="en">Regular</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201160000 +0100" stop="20241201163000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Jason Mitchell Outdoors</title>
-    <sub-title lang="en">Slab Crappie Remote Ice Fishing Adventure</sub-title>
-    <desc lang="en">Information-packed episodes highlighting open water and ice fishing tactics from across the Midwest. Explore some of the most effective tactics, presentations and locations you can incorporate into your own fishing experiences.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201163000 +0100" stop="20241201170000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Sportsman's Adventures</title>
-    <sub-title lang="en">Port Mansfield Family Affair</sub-title>
-    <desc lang="en">Capts. Rick and Ridge Murphy fish the Port Mansfield Fishing Tournament with Capt. Chad Kinney and his daughter; marlin, wahoo, tuna and mahi make this an adventure to remember.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241201170000 +0100" stop="20241201173000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">P1 Racing</title>
-    <sub-title lang="en">Cocoa Beach: Class 1 Offshore</sub-title>
-    <desc lang="en">Highlights from the Powerboat P1 racing series.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boating</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201173000 +0100" stop="20241201180000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Pro Football Weekly</title>
-    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241201180000 +0100" stop="20241201183000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Offroad Odyssey</title>
-    <sub-title lang="en">Southern Charm</sub-title>
-    <desc lang="en">Alexa enjoys by riding with country music star Brantley Gilbert in his home state of Georgia; The Razor Nation crew shows her about hospitality on a Virginia ride with views, wild elks and moonshine.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201183000 +0100" stop="20241201190000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">FIBA World Basketball</title>
-    <desc lang="en">Weekly wrap-up of basketball action from around the world including features on the world's top players, leagues and tournaments.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201190000 +0100" stop="20241201213000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Washington Wizards at Milwaukee Bucks</sub-title>
-    <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201213000 +0100" stop="20241201220000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Bucks Live Postgame</title>
-    <desc lang="en">Review of the Milwaukee Bucks game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201220000 +0100" stop="20241202003000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">NHL Hockey</title>
-    <sub-title lang="en">Nashville Predators at Minnesota Wild</sub-title>
-    <desc lang="en">From the Xcel Energy Center in St. Paul, Minn.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202003000 +0100" stop="20241202010000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Wild Live Postgame</title>
-    <desc lang="en">Postgame coverage of Wild hockey.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202010000 +0100" stop="20241202013000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Wild on 7th</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202013000 +0100" stop="20241202020000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Beyond Our Ice</title>
-    <sub-title lang="en">The Chain</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202020000 +0100" stop="20241202023000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Jon Thelen's Destination Fish</title>
-    <sub-title lang="en">Clear Water Walleyes and Lake of the Woods Tips and Tricks</sub-title>
-    <desc lang="en">Professional angler Jon Thelen takes you on fishing adventures revealing simple techniques to catch more fish across the Midwest and Canada.</desc>
-    <category lang="en">Regular</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202023000 +0100" stop="20241202030000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">MidWest Outdoors</title>
-    <sub-title lang="en">Grouse Hunting in Northern MN; Northwoods Largemouth; Cooking Wild Goose</sub-title>
-    <desc lang="en">Hunting, boating, canoeing, camping, hiking, snowmobiling.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241202030000 +0100" stop="20241202033000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Larry Smith Outdoors</title>
-    <desc lang="en">All things outdoors with Larry Smith.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202033000 +0100" stop="20241202040000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">A Fishing Story With Ronnie Green</title>
-    <desc lang="en">Anglers from all walks of life share their fishing stories.</desc>
-    <category lang="en">Reality TV</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241202040000 +0100" stop="20241202043000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Nick's Wild Ride With Nick Hoffman</title>
-    <sub-title lang="en">Bush Planes and Brown Bears</sub-title>
-    <desc lang="en">Join country music artist Nick Hoffman as he travels the world to explore the sights, sounds, food, culture and music of the places where he hunts and fishes. It's hard to tell what will happen when Nick gets his hands dirty.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241202043000 +0100" stop="20241202050000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Made for the Outdoors</title>
-    <sub-title lang="en">Upfit UTV</sub-title>
-    <desc lang="en">Take a look into the factory and see how various brands of outdoor gear are made.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202050000 +0100" stop="20241202053000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Offroad Odyssey</title>
-    <sub-title lang="en">Muddin'</sub-title>
-    <desc lang="en">Alexa goes deep into the Mississippi mud with social media star FarmerGrace; building a mud machine in the Resurrection Industries shop; getting dirty in the swamps of Central Florida.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202053000 +0100" stop="20241202060000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Due North Outdoors</title>
-    <sub-title lang="en">Ice Racing</sub-title>
-    <desc lang="en">Ron Schara shares his stories of outdoor sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241202060000 +0100" stop="20241202063000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Badger Sports Report</title>
-    <desc lang="en">An inside look at Wisconsin Badger sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241202063000 +0100" stop="20241202070000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Bucks Live Pregame</title>
-    <desc lang="en">Preview of the Milwaukee Bucks game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202070000 +0100" stop="20241202090000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Washington Wizards at Milwaukee Bucks</sub-title>
-    <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202090000 +0100" stop="20241202093000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Bucks Live Postgame</title>
-    <desc lang="en">Review of the Milwaukee Bucks game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202093000 +0100" stop="20241202100000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Pro Football Weekly</title>
-    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241202100000 +0100" stop="20241202120000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">NHL Hockey</title>
-    <sub-title lang="en">Nashville Predators at Minnesota Wild</sub-title>
-    <desc lang="en">From the Xcel Energy Center in St. Paul, Minn.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202120000 +0100" stop="20241202123000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Wild Live Postgame</title>
-    <desc lang="en">Postgame coverage of Wild hockey.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202123000 +0100" stop="20241202130000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Wild on 7th</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202130000 +0100" stop="20241202133000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Road Trip Angler</title>
-    <sub-title lang="en">Florida Everglades</sub-title>
-    <desc lang="en">Jameson Redding hits the road to find the best fishing spots in America.</desc>
-    <category lang="en">Regular</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202133000 +0100" stop="20241202140000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Snow Motion</title>
-    <desc lang="en">Coverage of skiing and winter sports, plus interviews with world-class athletes and winter sports enthusiasts, ski and fitness tips and the latest action from the slopes.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Skiing</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241202140000 +0100" stop="20241202143000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">MidWest Outdoors</title>
-    <sub-title lang="en">Grouse Hunting in Northern MN; Northwoods Largemouth; Cooking Wild Goose</sub-title>
-    <desc lang="en">Hunting, boating, canoeing, camping, hiking, snowmobiling.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241202143000 +0100" stop="20241202150000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">A Fishing Story With Ronnie Green</title>
-    <desc lang="en">Anglers from all walks of life share their fishing stories.</desc>
-    <category lang="en">Reality TV</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241202150000 +0100" stop="20241202153000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Due North Outdoors</title>
-    <sub-title lang="en">Ice Racing</sub-title>
-    <desc lang="en">Ron Schara shares his stories of outdoor sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241202153000 +0100" stop="20241202160000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Jon Thelen's Destination Fish</title>
-    <sub-title lang="en">Clear Water Walleyes and Lake of the Woods Tips and Tricks</sub-title>
-    <desc lang="en">Professional angler Jon Thelen takes you on fishing adventures revealing simple techniques to catch more fish across the Midwest and Canada.</desc>
-    <category lang="en">Regular</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202160000 +0100" stop="20241202163000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Jason Mitchell Outdoors</title>
-    <sub-title lang="en">Slab Crappie Remote Ice Fishing Adventure</sub-title>
-    <desc lang="en">Information-packed episodes highlighting open water and ice fishing tactics from across the Midwest. Explore some of the most effective tactics, presentations and locations you can incorporate into your own fishing experiences.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202163000 +0100" stop="20241202170000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Sportsman's Adventures</title>
-    <sub-title lang="en">Port Mansfield Family Affair</sub-title>
-    <desc lang="en">Capts. Rick and Ridge Murphy fish the Port Mansfield Fishing Tournament with Capt. Chad Kinney and his daughter; marlin, wahoo, tuna and mahi make this an adventure to remember.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241202170000 +0100" stop="20241202173000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">P1 Racing</title>
-    <sub-title lang="en">Cocoa Beach: Class 1 Offshore</sub-title>
-    <desc lang="en">Highlights from the Powerboat P1 racing series.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boating</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202173000 +0100" stop="20241202180000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Pro Football Weekly</title>
-    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241202180000 +0100" stop="20241202183000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Offroad Odyssey</title>
-    <sub-title lang="en">Muddin'</sub-title>
-    <desc lang="en">Alexa goes deep into the Mississippi mud with social media star FarmerGrace; building a mud machine in the Resurrection Industries shop; getting dirty in the swamps of Central Florida.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202183000 +0100" stop="20241202190000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">FIBA World Basketball</title>
-    <desc lang="en">Weekly wrap-up of basketball action from around the world including features on the world's top players, leagues and tournaments.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202190000 +0100" stop="20241202213000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Washington Wizards at Milwaukee Bucks</sub-title>
-    <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202213000 +0100" stop="20241202220000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Bucks Live Postgame</title>
-    <desc lang="en">Review of the Milwaukee Bucks game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202220000 +0100" stop="20241203003000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">NHL Hockey</title>
-    <sub-title lang="en">Nashville Predators at Minnesota Wild</sub-title>
-    <desc lang="en">From the Xcel Energy Center in St. Paul, Minn.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241203003000 +0100" stop="20241203010000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Wild Live Postgame</title>
-    <desc lang="en">Postgame coverage of Wild hockey.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241203010000 +0100" stop="20241203013000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Wild on 7th</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241203013000 +0100" stop="20241203020000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Beyond Our Ice</title>
-    <sub-title lang="en">The Chain</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241203020000 +0100" stop="20241203023000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Jon Thelen's Destination Fish</title>
-    <sub-title lang="en">Clear Water Walleyes and Lake of the Woods Tips and Tricks</sub-title>
-    <desc lang="en">Professional angler Jon Thelen takes you on fishing adventures revealing simple techniques to catch more fish across the Midwest and Canada.</desc>
-    <category lang="en">Regular</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241203023000 +0100" stop="20241203030000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">MidWest Outdoors</title>
-    <sub-title lang="en">Grouse Hunting in Northern MN; Northwoods Largemouth; Cooking Wild Goose</sub-title>
-    <desc lang="en">Hunting, boating, canoeing, camping, hiking, snowmobiling.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241203030000 +0100" stop="20241203033000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Larry Smith Outdoors</title>
-    <desc lang="en">All things outdoors with Larry Smith.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241203033000 +0100" stop="20241203040000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">A Fishing Story With Ronnie Green</title>
-    <desc lang="en">Anglers from all walks of life share their fishing stories.</desc>
-    <category lang="en">Reality TV</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241203040000 +0100" stop="20241203043000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Nick's Wild Ride With Nick Hoffman</title>
-    <sub-title lang="en">Bush Planes and Brown Bears</sub-title>
-    <desc lang="en">Join country music artist Nick Hoffman as he travels the world to explore the sights, sounds, food, culture and music of the places where he hunts and fishes. It's hard to tell what will happen when Nick gets his hands dirty.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241203043000 +0100" stop="20241203050000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Made for the Outdoors</title>
-    <sub-title lang="en">Upfit UTV</sub-title>
-    <desc lang="en">Take a look into the factory and see how various brands of outdoor gear are made.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241203050000 +0100" stop="20241203053000 +0100" channel="ballysportswisconsin.us">
-    <title lang="en">Offroad Odyssey</title>
-    <sub-title lang="en">Muddin'</sub-title>
-    <desc lang="en">Alexa goes deep into the Mississippi mud with social media star FarmerGrace; building a mud machine in the Resurrection Industries shop; getting dirty in the swamps of Central Florida.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201003000 +0100" stop="20241201010000 +0100" channel="espn.us">
-    <title lang="en">Live: College Football Scoreboard</title>
-    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201010000 +0100" stop="20241201040000 +0100" channel="espn.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">Oklahoma at LSU</sub-title>
-    <desc lang="en">The Sooners (6-5, 2-5) wrap up their first SEC schedule with a trip to the Bayou to take on the Tigers (7-4, 4-3). LSU claimed the last meeting, 63-28 in the 2019 Peach Bowl. Oklahoma comes off a stunning 24-3 victory over then-No. 7 Alabama.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201040000 +0100" stop="20241201041500 +0100" channel="espn.us">
-    <title lang="en">Live: College Football Scoreboard</title>
-    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201041500 +0100" stop="20241201041500 +0100" channel="espn.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">Houston at BYU</sub-title>
-    <desc lang="en">No. 19 BYU and Houston contest a clash of Cougars in the Beehive State for the first time since 2014. BYU's 43-26 road win in 2020 was its third decision in a row over Houston. BYU has dropped two straight to cast its Big 12 title hopes into doubt.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201041500 +0100" stop="20241201071500 +0100" channel="espn.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">Houston at BYU</sub-title>
-    <desc lang="en">No. 19 BYU and Houston contest a clash of Cougars in the Beehive State for the first time since 2014. BYU's 43-26 road win in 2020 was its third decision in a row over Houston. BYU has dropped two straight to cast its Big 12 title hopes into doubt.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201071500 +0100" stop="20241201081500 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241201081500 +0100" stop="20241201090000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241201090000 +0100" stop="20241201100000 +0100" channel="espn.us">
-    <title lang="en">College Football Final</title>
-    <desc lang="en">After the final whistle, College Football Final breaks down each Saturday's college football action with postgame highlights and analysis. Matt Barrie hosts alongside Joey Galloway and Dan Mullen.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201100000 +0100" stop="20241201113000 +0100" channel="espn.us">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">South Carolina at Clemson</sub-title>
-    <desc lang="en">The No. 15 Gamecocks face the No. 12 Tigers in the Palmetto Bowl. Both schools remain on the CFP bubble. South Carolina has won five in a row, while Clemson's streak stands at three. Clemson has won eight of the past nine versus South Carolina.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201113000 +0100" stop="20241201130000 +0100" channel="espn.us">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">Houston at BYU</sub-title>
-    <desc lang="en">No. 19 BYU and Houston contest a clash of Cougars in the Beehive State for the first time since 2014. BYU's 43-26 road win in 2020 was its third decision in a row over Houston. BYU has dropped two straight to cast its Big 12 title hopes into doubt.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201130000 +0100" stop="20241201140000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241201140000 +0100" stop="20241201150000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241201150000 +0100" stop="20241201160000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241201160000 +0100" stop="20241201190000 +0100" channel="espn.us">
-    <title lang="en">Live: Sunday NFL Countdown</title>
-    <desc lang="en">Mike Greenberg, with a team of analysts, introduces the features and directs the storylines associated with the day's games.Guests: Chris Mortensen, Adam Schefter..</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201190000 +0100" stop="20241201200000 +0100" channel="espn.us">
-    <title lang="en">College Football Final</title>
-    <desc lang="en">After the final whistle, College Football Final breaks down each Saturday's college football action with postgame highlights and analysis. Matt Barrie hosts alongside Joey Galloway and Dan Mullen.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201200000 +0100" stop="20241201210000 +0100" channel="espn.us">
-    <title lang="en">SEC Storied</title>
-    <sub-title lang="en">The Play That Changed College Football</sub-title>
-    <desc lang="en">A look back at the 1992 SEC Championship Game between Florida and Alabama.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241201210000 +0100" stop="20241201220000 +0100" channel="espn.us">
-    <title lang="en">ESPN Films</title>
-    <sub-title lang="en">Roll Tide/War Eagle</sub-title>
-    <desc lang="en">This is the story of the history between Alabama and Auburn, the bad blood between its fans and how this intense rivalry came to a pinnacle, just when they ended up needing each other most.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201220000 +0100" stop="20241202000000 +0100" channel="espn.us">
-    <title lang="en">2024 AKC Diving Dogs Premier Cup</title>
-    <desc lang="en">The best diving dogs compete for the Premier Cup.</desc>
+  <programme start="20241202213000 +0100" stop="20241202220000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Focused</title>
+    <sub-title lang="en">Gleason's Gym</sub-title>
+    <desc lang="en">A glimpse into compelling sports stars and iconic athletic institutions. Visual storytelling propels a deep dive into each story, as the true essence of each subject is revealed.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Miscellaneous</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202000000 +0100" stop="20241202010000 +0100" channel="espn.us">
-    <title lang="en">NCAA Women's Volleyball Selection Show</title>
+  <programme start="20241202220000 +0100" stop="20241203000000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Foul Territory</title>
+    <desc lang="en">Baseball the way it should be covered and exclusive interviews with MLB stars. AJ Pierzynski, Erik Kratz, Todd Frazier, Cameron Maybin, Jason Kipnis, Trevor May, Jonathan Papelbon, Scott Braun and Insider Ken Rosenthal. The world is our clubhouse.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241203000000 +0100" stop="20241203010000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">United Fight Alliance</title>
+    <sub-title lang="en">UFA 400: Bare Knuckle Boxing 37, Part 2</sub-title>
+    <desc lang="en">United Fight Alliance features top-ranked fighters, up and coming fighters, intense action and footage from some of the biggest names in combat sports and exclusive content spanning MMA, boxing, kickboxing, bare knuckle boxing, muay thai and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241203010000 +0100" stop="20241203013000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Nick's Wild Ride With Nick Hoffman</title>
+    <sub-title lang="en">Bush Planes and Brown Bears</sub-title>
+    <desc lang="en">Join country music artist Nick Hoffman as he travels the world to explore the sights, sounds, food, culture and music of the places where he hunts and fishes. It's hard to tell what will happen when Nick gets his hands dirty.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241203013000 +0100" stop="20241203020000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Made for the Outdoors</title>
+    <sub-title lang="en">Upfit UTV</sub-title>
+    <desc lang="en">Take a look into the factory and see how various brands of outdoor gear are made.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241203020000 +0100" stop="20241203040000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Athletes Unlimited Pro Volleyball</title>
+    <sub-title lang="en">Team De La Cruz Mejia vs. Team Abercrombie</sub-title>
+    <desc lang="en">From Arizona Athletic Grounds in Mesa, Ariz.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Volleyball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202010000 +0100" stop="20241202020000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241202020000 +0100" stop="20241202023000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241202023000 +0100" stop="20241202040000 +0100" channel="espn.us">
-    <title lang="en">30 for 30</title>
-    <sub-title lang="en">Chasing Tyson</sub-title>
-    <desc lang="en">Boxer Evander Holyfield patiently awaited his chance to take on Mike Tyson, who ruled the heavyweight division with an outsized personality and ferocious punches, even while behind bars.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202040000 +0100" stop="20241202050000 +0100" channel="espn.us">
-    <title lang="en">30 for 30</title>
-    <sub-title lang="en">42 to 1</sub-title>
-    <desc lang="en">The incredible, impossible story of when James "Buster" Douglas defeated Mike Tyson for the heavyweight championship of the world on Feb. 11, 1990, in Tokyo.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202050000 +0100" stop="20241202053000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241202053000 +0100" stop="20241202053000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his "One Big Thing" commentary.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241202053000 +0100" stop="20241202070000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter With Scott Van Pelt</title>
-    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his "One Big Thing" commentary.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241202070000 +0100" stop="20241202080000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241202080000 +0100" stop="20241202090000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241202090000 +0100" stop="20241202103000 +0100" channel="espn.us">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">Miami at Syracuse</sub-title>
-    <desc lang="en">The No. 6 Hurricanes (10-1, 6-1 ACC) visit the Orange (8-3, 4-3) for the first time since 2002. Miami needs a win to keep its ACC title-game hopes alive. Kyle McCord has thrown for 793 yards and three scores during Syracuse's two-game winning streak.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202103000 +0100" stop="20241202120000 +0100" channel="espn.us">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">Oklahoma at LSU</sub-title>
-    <desc lang="en">The Sooners (6-5, 2-5) wrap up their first SEC schedule with a trip to the Bayou to take on the Tigers (7-4, 4-3). LSU claimed the last meeting, 63-28 in the 2019 Peach Bowl. Oklahoma comes off a stunning 24-3 victory over then-No. 7 Alabama.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202120000 +0100" stop="20241202130000 +0100" channel="espn.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202130000 +0100" stop="20241202140000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241202140000 +0100" stop="20241202160000 +0100" channel="espn.us">
-    <title lang="en">Live: Get Up</title>
-    <desc lang="en">Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20241202160000 +0100" stop="20241202180000 +0100" channel="espn.us">
-    <title lang="en">Live: First Take</title>
-    <desc lang="en">Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241202180000 +0100" stop="20241202200000 +0100" channel="espn.us">
-    <title lang="en">Live: The Pat McAfee Show</title>
-    <desc lang="en">Former NFL punter Pat McAfee brings his humor and candor to the microphone to highlight the day's top stories.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20241202200000 +0100" stop="20241202210000 +0100" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241202210000 +0100" stop="20241202230000 +0100" channel="espn.us">
-    <title lang="en">Live: NFL Live</title>
-    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241202230000 +0100" stop="20241202233000 +0100" channel="espn.us">
-    <title lang="en">Around the Horn</title>
-    <desc lang="en">Sportswriters around the country discuss sports issues.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241202233000 +0100" stop="20241203000000 +0100" channel="espn.us">
-    <title lang="en">Live: Pardon the Interruption</title>
-    <desc lang="en">Opinions regarding the day's top sports stories.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20241203000000 +0100" stop="20241203020000 +0100" channel="espn.us">
-    <title lang="en">Live: Monday Night Countdown</title>
-    <desc lang="en">Host Scott Van Pelt is joined by Ryan Clark, Jason Kelce, Marcus Spears, Adam Schefter and Michelle Beisner-Buck as they preview the upcoming Monday Night Football matchup and discuss the latest news from Sunday's NFL action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241203020000 +0100" stop="20241203051500 +0100" channel="espn.us">
-    <title lang="en">Live: NFL Football</title>
-    <sub-title lang="en">Cleveland Browns at Denver Broncos</sub-title>
-    <desc lang="en">The Broncos (7-5) are running wild as they battle the Browns (3-8). Denver has surged into playoff position with Offensive Rookie of the Year candidate Bo Nix leading the way. Cleveland comes off a 24-19 triumph over Pittsburgh in the snow.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241203051500 +0100" stop="20241203053000 +0100" channel="espn.us">
-    <title lang="en">Live: Monday Night Postgame</title>
-    <desc lang="en">A recap of the Monday Night Football matchup with highlights, interviews and more.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201003000 +0100" stop="20241201010000 +0100" channel="espn2.us">
-    <title lang="en">Live: College Football Scoreboard</title>
-    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201010000 +0100" stop="20241201040000 +0100" channel="espn2.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">Florida at Florida State</sub-title>
-    <desc lang="en">The Sunshine Showdown completes the regular season for the Gators (6-5) and Seminoles (2-9). Florida has reeled off back-to-back stunners, taking down then-No. 22 LSU and then-No. 9 Ole Miss. Florida State tries to avoid its worst season since 1974.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201040000 +0100" stop="20241201041500 +0100" channel="espn2.us">
-    <title lang="en">Live: College Football Scoreboard</title>
-    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201041500 +0100" stop="20241201041500 +0100" channel="espn2.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">FCS Division I Championship: Tennessee State at Montana</sub-title>
-    <desc lang="en">The first round of the FCS postseason wraps up with this matchup between the No. 14 Grizzlies (8-4) and Tigers (9-3). Tennessee State won seven of its last eight to charge into the playoffs. The winner will face No. 3 South Dakota State.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201041500 +0100" stop="20241201071500 +0100" channel="espn2.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">FCS Division I Championship: Tennessee State at Montana</sub-title>
-    <desc lang="en">The first round of the FCS postseason wraps up with this matchup between the No. 14 Grizzlies (8-4) and Tigers (9-3). Tennessee State won seven of its last eight to charge into the playoffs. The winner will face No. 3 South Dakota State.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201071500 +0100" stop="20241201083000 +0100" channel="espn2.us">
-    <title lang="en">Live: College Football Final</title>
-    <desc lang="en">After the final whistle, College Football Final breaks down each Saturday's college football action with postgame highlights and analysis. Matt Barrie hosts alongside Joey Galloway and Dan Mullen.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241201083000 +0100" stop="20241201090000 +0100" channel="espn2.us">
-    <title lang="en">The Final Word: Legendary Rematches of Mexican Boxing</title>
-    <desc lang="en">A look at some of the historic rematches in Mexico's stellar boxing history.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201090000 +0100" stop="20241201100000 +0100" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201100000 +0100" stop="20241201103000 +0100" channel="espn2.us">
-    <title lang="en">NFL Matchup</title>
-    <desc lang="en">Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the Xs and Os analysis of weekend's NFL matchups.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201103000 +0100" stop="20241201113000 +0100" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201113000 +0100" stop="20241201120000 +0100" channel="espn2.us">
-    <title lang="en">NFL Matchup</title>
-    <desc lang="en">Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the Xs and Os analysis of weekend's NFL matchups.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201120000 +0100" stop="20241201130000 +0100" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201130000 +0100" stop="20241201140000 +0100" channel="espn2.us">
-    <title lang="en">College Football Final</title>
-    <desc lang="en">After the final whistle, College Football Final breaks down each Saturday's college football action with postgame highlights and analysis. Matt Barrie hosts alongside Joey Galloway and Dan Mullen.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201140000 +0100" stop="20241201143000 +0100" channel="espn2.us">
-    <title lang="en">The Path: LSU Football</title>
-    <desc lang="en">An in-depth, behind-the-scenes look at the LSU football team's season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201143000 +0100" stop="20241201153000 +0100" channel="espn2.us">
-    <title lang="en">Live: ESPN BET Live</title>
-    <desc lang="en">ESPN Sports Betting Analysts Erin Dolan and Joe Fortenbaugh, along with host Tyler Fulghum, break down the biggest storylines through the lens of sports betting, with breakdowns, discussions and picks.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241201153000 +0100" stop="20241201165500 +0100" channel="espn2.us">
-    <title lang="en">Live: Formula 1: Grand Prix Sunday</title>
-    <desc lang="en">Teams make final preparations for the day's race. Plus, interviews, features, and Martin Brundle's popular "grid walk.".</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20241201165500 +0100" stop="20241201190000 +0100" channel="espn2.us">
-    <title lang="en">Live: Formula 1 Racing</title>
-    <sub-title lang="en">Qatar Grand Prix</sub-title>
-    <desc lang="en">The 2024 Formula One campaign nears an end with the Qatar Grand Prix. Last week in Las Vegas, Max Verstappen drew even with Alain Prost and Sebastian Vettel by capturing his fourth World Drivers' Championship. Verstappen won in Qatar in 2023.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20241201190000 +0100" stop="20241201200000 +0100" channel="espn2.us">
-    <title lang="en">Don't Ever Give Up</title>
-    <desc lang="en">Jim Valvano spoke iconic and inspirational words at the 1993 ESPYs, shortly before he passed from cancer; this special features Valvano's full speech, as well as other inspirational ESPY speeches since that time.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201200000 +0100" stop="20241201220000 +0100" channel="espn2.us">
-    <title lang="en">Live: Women's College Basketball</title>
-    <sub-title lang="en">Creighton at Tulsa</sub-title>
-    <desc lang="en">The Bluejays (4-2) begin a four-game road swing when they visit the Golden Hurricane (2-4). Creighton claimed the crown at the Emerald Coast Classic in Florida with two wins. Morgan Maly scored 28 points in the title-game victory over Syracuse.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20241201220000 +0100" stop="20241202000000 +0100" channel="espn2.us">
-    <title lang="en">Live: College Basketball</title>
-    <sub-title lang="en">Middle Tennessee State at Alabama-Birmingham</sub-title>
-    <desc lang="en">The Blue Raiders (5-2) challenge the Blazers (4-4). Middle Tennessee is coming off a run to the final of the Myrtle Beach Invitational, but has dropped nine of the last 10 meetings with UAB dating back to the 2019 Conference USA Tournament.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20241202000000 +0100" stop="20241202023000 +0100" channel="espn2.us">
-    <title lang="en">Live: NLL Lacrosse</title>
-    <sub-title lang="en">Philadelphia Wings at San Diego Seals</sub-title>
-    <desc lang="en">From Pechanga Arena in San Diego.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Lacrosse</category>
-  </programme>
-  <programme start="20241202023000 +0100" stop="20241202050000 +0100" channel="espn2.us">
-    <title lang="en">Formula 1 Racing</title>
-    <sub-title lang="en">Qatar Grand Prix</sub-title>
-    <desc lang="en">The 2024 Formula One campaign nears an end with the Qatar Grand Prix. Last week in Las Vegas, Max Verstappen drew even with Alain Prost and Sebastian Vettel by capturing his fourth World Drivers' Championship. Verstappen won in Qatar in 2023.</desc>
+  <programme start="20241203040000 +0100" stop="20241203050000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">NASCAR Race Rewind</title>
+    <sub-title lang="en">2023 HighPoint.com 400</sub-title>
+    <desc lang="en">From July 23, 2023. From Pocono Raceway.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Auto Racing</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202050000 +0100" stop="20241202060000 +0100" channel="espn2.us">
-    <title lang="en">X Games Aspen 2024</title>
-    <sub-title lang="en">Trending Moments</sub-title>
-    <desc lang="en">Winter action sports athletes compete for X Games gold. From Buttermilk Ski Resort in Pitkin County, Colo.</desc>
+  <programme start="20241203050000 +0100" stop="20241203053000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Made for the Outdoors</title>
+    <sub-title lang="en">Upfit UTV</sub-title>
+    <desc lang="en">Take a look into the factory and see how various brands of outdoor gear are made.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Extreme</category>
+    <category lang="en">Outdoors</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202060000 +0100" stop="20241202070000 +0100" channel="espn2.us">
-    <title lang="en">Don't Ever Give Up</title>
-    <desc lang="en">Jim Valvano spoke iconic and inspirational words at the 1993 ESPYs, shortly before he passed from cancer; this special features Valvano's full speech, as well as other inspirational ESPY speeches since that time.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
+  <programme start="20241201060000 +0100" stop="20241201070200 +0100" channel="ESPN">
+    <title lang="en">Private Eyes</title>
+    <sub-title lang="en">Mise En Place</sub-title>
+    <desc lang="en">Shade and Angie investigate high-profile murder in a popular Toronto restaurant.</desc>
+    <credits>
+      <actor>Jason Priestley</actor>
+      <actor>Cindy Sampson</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241201070200 +0100" stop="20241201073500 +0100" channel="ESPN">
+    <title lang="en">Global News at 11</title>
+    <desc lang="en">Calgary's local news.</desc>
+    <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202070000 +0100" stop="20241202080000 +0100" channel="espn2.us">
-    <title lang="en">World of X Games</title>
-    <sub-title lang="en">X Games Real Moto: Best Of</sub-title>
-    <desc lang="en">Previews, highlights and stories involving events and athletes from the X Games.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Extreme</category>
+  <programme start="20241201073500 +0100" stop="20241201080500 +0100" channel="ESPN">
+    <title lang="en">Global National</title>
+    <desc lang="en">The top stories from around the world.</desc>
+    <category lang="en">News</category>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20241202080000 +0100" stop="20241202090000 +0100" channel="espn2.us">
-    <title lang="en">UFC Countdown</title>
-    <sub-title lang="en">UFC 310: Pantoja vs. Asakura</sub-title>
-    <desc lang="en">Go inside the lives and training camps of UFC athletes preparing for the next UFC pay-per-view event.</desc>
+  <programme start="20241201080500 +0100" stop="20241201093700 +0100" channel="ESPN">
+    <title lang="en">Saturday Night Live</title>
+    <sub-title lang="en">Nate Bargatze; Coldplay</sub-title>
+    <desc lang="en">Nate Bargatze is here to host and joined by musical guest Coldplay.</desc>
+    <credits>
+      <actor>Michael Che</actor>
+      <actor>Mikey Day</actor>
+      <actor>Chloe Fineman</actor>
+    </credits>
     <category lang="en">Sports</category>
-    <category lang="en">Martial Arts</category>
+    <category lang="en">Comedy</category>
     <previously-shown/>
     <rating system="MPAA">
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20241202090000 +0100" stop="20241202100000 +0100" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
+  <programme start="20241201093700 +0100" stop="20241201103700 +0100" channel="ESPN">
+    <title lang="en">Masters of Flip</title>
+    <sub-title lang="en">Think Pink</sub-title>
+    <desc lang="en">With the color pink as her inspiration, Kortney tries to balance masculine and feminine.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241201103700 +0100" stop="20241201113700 +0100" channel="ESPN">
+    <title lang="en">Rock Solid Builds</title>
+    <sub-title lang="en">Kitchen Party</sub-title>
+    <desc lang="en">In St. John's most famous neighborhood, the team is determined to complete a dazzling kitchen renovation with some amazing custom features; Randy's mom's new place starts looking like a home.</desc>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241201113700 +0100" stop="20241201120700 +0100" channel="ESPN">
+    <title lang="en">Cornerstone</title>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201120700 +0100" stop="20241201123700 +0100" channel="ESPN">
+    <title lang="en">Cornerstone</title>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201123700 +0100" stop="20241201130000 +0100" channel="ESPN">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Sign off.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Variety</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201130000 +0100" stop="20241201133000 +0100" channel="ESPN">
+    <title lang="en">Cornerstone</title>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201133000 +0100" stop="20241201143000 +0100" channel="ESPN">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">"ET" vault unlocked: George Clooney and Dwayne "The Rock" Johnson.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201143000 +0100" stop="20241201150000 +0100" channel="ESPN">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201150000 +0100" stop="20241201180000 +0100" channel="ESPN">
+    <title lang="en">Weekend Morning News</title>
+    <desc lang="en">Watch Calgary's local news on Global News Morning Weekend.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202100000 +0100" stop="20241202110000 +0100" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
+  <programme start="20241201180000 +0100" stop="20241201183000 +0100" channel="ESPN">
+    <title lang="en">The West Block</title>
+    <desc lang="en">Concerns of Canadians are brought to the politicians.</desc>
+    <category lang="en">Political</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201183000 +0100" stop="20241201190000 +0100" channel="ESPN">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201190000 +0100" stop="20241201193000 +0100" channel="ESPN">
+    <title lang="en">Joel Osteen</title>
+    <sub-title lang="en">Divine Detours</sub-title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241201193000 +0100" stop="20241201200000 +0100" channel="ESPN">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201200000 +0100" stop="20241201203000 +0100" channel="ESPN">
+    <title lang="en">Employment Law Show</title>
+    <desc lang="en">Host Lior Samfiru answers questions about employment rights and tackles the most important facets of employment law that are often overlooked by both employer and employee.</desc>
+    <category lang="en">Legal</category>
+    <category lang="en">Local</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201203000 +0100" stop="20241201213000 +0100" channel="ESPN">
+    <title lang="en">Property Brothers: Forever Home</title>
+    <sub-title lang="en">Amy &amp; Dominic</sub-title>
+    <desc lang="en">A couple calls on Drew and Jonathan to overhaul their home's cramped kitchen and awkward layout to make their home better suited for their busy lifestyle.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201213000 +0100" stop="20241201233000 +0100" channel="ESPN">
+    <title lang="en">A Fabled Holiday</title>
+    <desc lang="en">Talia and her childhood best friend unexpectedly reunite in a curiously familiar-looking town that's full of Christmas spirit.</desc>
+    <credits>
+      <actor>Brooke D'Orsay</actor>
+      <actor>Ryan Paevey</actor>
+      <actor>Daphne Hoskins</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201233000 +0100" stop="20241202003000 +0100" channel="ESPN">
+    <title lang="en">Wall of Chefs</title>
+    <sub-title lang="en">The Secret's in the Sauce</sub-title>
+    <desc lang="en">The cooks try to think outside the box to create a dish from Rob Feenie's fridge; making sauce the star in a restaurant-worthy dish for the $10,000 win.</desc>
+    <category lang="en">Food</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202003000 +0100" stop="20241202013000 +0100" channel="ESPN">
+    <title lang="en">Trading Up With Mandy Rennehan</title>
+    <sub-title lang="en">Being the Boss</sub-title>
+    <desc lang="en">Mandy Rennehan's three apprentices try to manage their own separate renovations in Rennesouth apartments: Dan bites off more than he can chew, Melissa experiences communication issues with her trades people, and Jaymin struggles with bathroom design.</desc>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202013000 +0100" stop="20241202015900 +0100" channel="ESPN">
+    <title lang="en">Global National</title>
+    <desc lang="en">The top stories from around the world.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202015900 +0100" stop="20241202030000 +0100" channel="ESPN">
+    <title lang="en">Global News Hour at 6</title>
+    <desc lang="en">Calgary's local news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202030000 +0100" stop="20241202043000 +0100" channel="ESPN">
+    <title lang="en">60 Minutes</title>
+    <sub-title lang="en">Notre Dame; Smith Island; Kate Winslet; Welcome to the Wedding</sub-title>
+    <desc lang="en">Rebuilding Notre-Dame de Paris; Smith Island in Maryland's Chesapeake Bay; actress Kate Winslet; how Afghans were evacuated from Afghanistan under the guise of a wedding party.Guests: Kate Winslet..</desc>
+    <category lang="en">News Magazine</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202043000 +0100" stop="20241202053000 +0100" channel="ESPN">
+    <title lang="en">The Floor</title>
+    <sub-title lang="en">A Whale of a Time</sub-title>
+    <desc lang="en">Contestants test their knowledge of Halloween movies, extreme sports, autumn and nursery rhymes.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202053000 +0100" stop="20241202060000 +0100" channel="ESPN">
+    <title lang="en">The Equalizer</title>
+    <sub-title lang="en">The Fight for Life</sub-title>
+    <desc lang="en">McCall and Mel go under cover in a prison to find a woman who went missing on the day she was scheduled to be released.</desc>
+    <credits>
+      <actor>Queen Latifah</actor>
+      <actor>Tory Kittles</actor>
+      <actor>Adam Goldberg</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241202060000 +0100" stop="20241202070200 +0100" channel="ESPN">
+    <title lang="en">Private Eyes</title>
+    <sub-title lang="en">Mise En Place</sub-title>
+    <desc lang="en">Shade and Angie investigate high-profile murder in a popular Toronto restaurant.</desc>
+    <credits>
+      <actor>Jason Priestley</actor>
+      <actor>Cindy Sampson</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202070200 +0100" stop="20241202073500 +0100" channel="ESPN">
+    <title lang="en">Global News at 11</title>
+    <desc lang="en">Calgary's local news.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202110000 +0100" stop="20241202120000 +0100" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+  <programme start="20241202073500 +0100" stop="20241202080500 +0100" channel="ESPN">
+    <title lang="en">Global National</title>
+    <desc lang="en">The top stories from around the world.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202080500 +0100" stop="20241202093700 +0100" channel="ESPN">
+    <title lang="en">Saturday Night Live</title>
+    <sub-title lang="en">Nate Bargatze; Coldplay</sub-title>
+    <desc lang="en">Nate Bargatze is here to host and joined by musical guest Coldplay.</desc>
+    <credits>
+      <actor>Michael Che</actor>
+      <actor>Mikey Day</actor>
+      <actor>Chloe Fineman</actor>
+    </credits>
     <category lang="en">Sports</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241202093700 +0100" stop="20241202103700 +0100" channel="ESPN">
+    <title lang="en">Masters of Flip</title>
+    <sub-title lang="en">Think Pink</sub-title>
+    <desc lang="en">With the color pink as her inspiration, Kortney tries to balance masculine and feminine.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202103700 +0100" stop="20241202113700 +0100" channel="ESPN">
+    <title lang="en">Rock Solid Builds</title>
+    <sub-title lang="en">Kitchen Party</sub-title>
+    <desc lang="en">In St. John's most famous neighborhood, the team is determined to complete a dazzling kitchen renovation with some amazing custom features; Randy's mom's new place starts looking like a home.</desc>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202113700 +0100" stop="20241202120700 +0100" channel="ESPN">
+    <title lang="en">Cornerstone</title>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202120700 +0100" stop="20241202123700 +0100" channel="ESPN">
+    <title lang="en">Cornerstone</title>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202123700 +0100" stop="20241202130000 +0100" channel="ESPN">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Sign off.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Variety</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202130000 +0100" stop="20241202133000 +0100" channel="ESPN">
+    <title lang="en">Cornerstone</title>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202133000 +0100" stop="20241202143000 +0100" channel="ESPN">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">"ET" vault unlocked: George Clooney and Dwayne "The Rock" Johnson.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202143000 +0100" stop="20241202150000 +0100" channel="ESPN">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202150000 +0100" stop="20241202180000 +0100" channel="ESPN">
+    <title lang="en">Weekend Morning News</title>
+    <desc lang="en">Watch Calgary's local news on Global News Morning Weekend.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202120000 +0100" stop="20241202140000 +0100" channel="espn2.us">
-    <title lang="en">Live: Unsportsmanlike with Evan, Canty and Michelle</title>
-    <desc lang="en">Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it's all about.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
+  <programme start="20241202180000 +0100" stop="20241202183000 +0100" channel="ESPN">
+    <title lang="en">The West Block</title>
+    <desc lang="en">Concerns of Canadians are brought to the politicians.</desc>
+    <category lang="en">Political</category>
+    <previously-shown/>
   </programme>
-  <programme start="20241202140000 +0100" stop="20241202150000 +0100" channel="espn2.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
+  <programme start="20241202183000 +0100" stop="20241202190000 +0100" channel="ESPN">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202190000 +0100" stop="20241202193000 +0100" channel="ESPN">
+    <title lang="en">Joel Osteen</title>
+    <sub-title lang="en">Divine Detours</sub-title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202193000 +0100" stop="20241202200000 +0100" channel="ESPN">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202200000 +0100" stop="20241202203000 +0100" channel="ESPN">
+    <title lang="en">Employment Law Show</title>
+    <desc lang="en">Host Lior Samfiru answers questions about employment rights and tackles the most important facets of employment law that are often overlooked by both employer and employee.</desc>
+    <category lang="en">Legal</category>
+    <category lang="en">Local</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202203000 +0100" stop="20241202213000 +0100" channel="ESPN">
+    <title lang="en">Property Brothers: Forever Home</title>
+    <sub-title lang="en">Amy &amp; Dominic</sub-title>
+    <desc lang="en">A couple calls on Drew and Jonathan to overhaul their home's cramped kitchen and awkward layout to make their home better suited for their busy lifestyle.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202213000 +0100" stop="20241202233000 +0100" channel="ESPN">
+    <title lang="en">A Fabled Holiday</title>
+    <desc lang="en">Talia and her childhood best friend unexpectedly reunite in a curiously familiar-looking town that's full of Christmas spirit.</desc>
+    <credits>
+      <actor>Brooke D'Orsay</actor>
+      <actor>Ryan Paevey</actor>
+      <actor>Daphne Hoskins</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202233000 +0100" stop="20241203003000 +0100" channel="ESPN">
+    <title lang="en">Wall of Chefs</title>
+    <sub-title lang="en">The Secret's in the Sauce</sub-title>
+    <desc lang="en">The cooks try to think outside the box to create a dish from Rob Feenie's fridge; making sauce the star in a restaurant-worthy dish for the $10,000 win.</desc>
+    <category lang="en">Food</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241203003000 +0100" stop="20241203013000 +0100" channel="ESPN">
+    <title lang="en">Trading Up With Mandy Rennehan</title>
+    <sub-title lang="en">Being the Boss</sub-title>
+    <desc lang="en">Mandy Rennehan's three apprentices try to manage their own separate renovations in Rennesouth apartments: Dan bites off more than he can chew, Melissa experiences communication issues with her trades people, and Jaymin struggles with bathroom design.</desc>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241203013000 +0100" stop="20241203015900 +0100" channel="ESPN">
+    <title lang="en">Global National</title>
+    <desc lang="en">The top stories from around the world.</desc>
     <category lang="en">News</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20241202150000 +0100" stop="20241202160000 +0100" channel="espn2.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
+  <programme start="20241203015900 +0100" stop="20241203030000 +0100" channel="ESPN">
+    <title lang="en">Global News Hour at 6</title>
+    <desc lang="en">Calgary's local news.</desc>
     <category lang="en">News</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
   </programme>
-  <programme start="20241202160000 +0100" stop="20241202180000 +0100" channel="espn2.us">
-    <title lang="en">Get Up</title>
-    <desc lang="en">Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
+  <programme start="20241203030000 +0100" stop="20241203043000 +0100" channel="ESPN">
+    <title lang="en">60 Minutes</title>
+    <sub-title lang="en">Notre Dame; Smith Island; Kate Winslet; Welcome to the Wedding</sub-title>
+    <desc lang="en">Rebuilding Notre-Dame de Paris; Smith Island in Maryland's Chesapeake Bay; actress Kate Winslet; how Afghans were evacuated from Afghanistan under the guise of a wedding party.Guests: Kate Winslet..</desc>
+    <category lang="en">News Magazine</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202180000 +0100" stop="20241202200000 +0100" channel="espn2.us">
-    <title lang="en">Live: First Take</title>
-    <desc lang="en">Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241202200000 +0100" stop="20241202203000 +0100" channel="espn2.us">
-    <title lang="en">SVPod</title>
-    <desc lang="en">Scott Van Pelt hosts a weekly show that will include long-form interviews, commentary, and expanded takes on his "One Big Thing" segment on SportsCenter.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
+  <programme start="20241203043000 +0100" stop="20241203053000 +0100" channel="ESPN">
+    <title lang="en">The Floor</title>
+    <sub-title lang="en">A Whale of a Time</sub-title>
+    <desc lang="en">Contestants test their knowledge of Halloween movies, extreme sports, autumn and nursery rhymes.</desc>
+    <category lang="en">Game Shows</category>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
   </programme>
-  <programme start="20241202203000 +0100" stop="20241202210000 +0100" channel="espn2.us">
-    <title lang="en">SVPod</title>
-    <desc lang="en">Scott Van Pelt hosts a weekly show that will include long-form interviews, commentary, and expanded takes on his "One Big Thing" segment on SportsCenter.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
+  <programme start="20241201060000 +0100" stop="20241201070200 +0100" channel="ESPN2">
+    <title lang="en">Private Eyes</title>
+    <sub-title lang="en">Mise En Place</sub-title>
+    <desc lang="en">Shade and Angie investigate high-profile murder in a popular Toronto restaurant.</desc>
+    <credits>
+      <actor>Jason Priestley</actor>
+      <actor>Cindy Sampson</actor>
+    </credits>
+    <category lang="en">Drama</category>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
   </programme>
-  <programme start="20241202210000 +0100" stop="20241202220000 +0100" channel="espn2.us">
-    <title lang="en">Live: NBA Today</title>
-    <desc lang="en">In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20241202220000 +0100" stop="20241202230000 +0100" channel="espn2.us">
-    <title lang="en">Live: ESPN BET Live</title>
-    <desc lang="en">ESPN Sports Betting Analysts Erin Dolan and Joe Fortenbaugh, along with host Tyler Fulghum, break down the biggest storylines through the lens of sports betting, with breakdowns, discussions and picks.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20241202230000 +0100" stop="20241203000000 +0100" channel="espn2.us">
-    <title lang="en">NFL Live</title>
-    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241203000000 +0100" stop="20241203010000 +0100" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
+  <programme start="20241201070200 +0100" stop="20241201073500 +0100" channel="ESPN2">
+    <title lang="en">Global News at 11</title>
+    <desc lang="en">Calgary's local news.</desc>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20241203010000 +0100" stop="20241203020000 +0100" channel="espn2.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
+  <programme start="20241201073500 +0100" stop="20241201080500 +0100" channel="ESPN2">
+    <title lang="en">Global National</title>
+    <desc lang="en">The top stories from around the world.</desc>
     <category lang="en">News</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20241203020000 +0100" stop="20241203030000 +0100" channel="espn2.us">
-    <title lang="en">SC Featured</title>
-    <sub-title lang="en">The Speech</sub-title>
-    <desc lang="en">Compelling stories centered around sports and athletes, ranging from dramatic to comedic.</desc>
+  <programme start="20241201080500 +0100" stop="20241201093700 +0100" channel="ESPN2">
+    <title lang="en">Saturday Night Live</title>
+    <sub-title lang="en">Nate Bargatze; Coldplay</sub-title>
+    <desc lang="en">Nate Bargatze is here to host and joined by musical guest Coldplay.</desc>
+    <credits>
+      <actor>Michael Che</actor>
+      <actor>Mikey Day</actor>
+      <actor>Chloe Fineman</actor>
+    </credits>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241201093700 +0100" stop="20241201103700 +0100" channel="ESPN2">
+    <title lang="en">Masters of Flip</title>
+    <sub-title lang="en">Think Pink</sub-title>
+    <desc lang="en">With the color pink as her inspiration, Kortney tries to balance masculine and feminine.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241201103700 +0100" stop="20241201113700 +0100" channel="ESPN2">
+    <title lang="en">Rock Solid Builds</title>
+    <sub-title lang="en">Kitchen Party</sub-title>
+    <desc lang="en">In St. John's most famous neighborhood, the team is determined to complete a dazzling kitchen renovation with some amazing custom features; Randy's mom's new place starts looking like a home.</desc>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241201113700 +0100" stop="20241201120700 +0100" channel="ESPN2">
+    <title lang="en">Cornerstone</title>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
     <previously-shown/>
   </programme>
-  <programme start="20241203030000 +0100" stop="20241203050000 +0100" channel="espn2.us">
-    <title lang="en">30 for 30</title>
-    <sub-title lang="en">Survive and Advance</sub-title>
-    <desc lang="en">North Carolina State, coached by Jim Valvano, was a huge underdog in the 1983 NCAA Final vs. top-ranked Houston - resulting in one of the greatest college basketball upsets ever.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
+  <programme start="20241201120700 +0100" stop="20241201123700 +0100" channel="ESPN2">
+    <title lang="en">Cornerstone</title>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
     <previously-shown/>
+  </programme>
+  <programme start="20241201123700 +0100" stop="20241201130000 +0100" channel="ESPN2">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Sign off.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Variety</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201130000 +0100" stop="20241201133000 +0100" channel="ESPN2">
+    <title lang="en">Cornerstone</title>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201133000 +0100" stop="20241201143000 +0100" channel="ESPN2">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">"ET" vault unlocked: George Clooney and Dwayne "The Rock" Johnson.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201143000 +0100" stop="20241201150000 +0100" channel="ESPN2">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201150000 +0100" stop="20241201180000 +0100" channel="ESPN2">
+    <title lang="en">Weekend Morning News</title>
+    <desc lang="en">Watch Calgary's local news on Global News Morning Weekend.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201180000 +0100" stop="20241201183000 +0100" channel="ESPN2">
+    <title lang="en">The West Block</title>
+    <desc lang="en">Concerns of Canadians are brought to the politicians.</desc>
+    <category lang="en">Political</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201183000 +0100" stop="20241201190000 +0100" channel="ESPN2">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201190000 +0100" stop="20241201193000 +0100" channel="ESPN2">
+    <title lang="en">Joel Osteen</title>
+    <sub-title lang="en">Divine Detours</sub-title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241201193000 +0100" stop="20241201200000 +0100" channel="ESPN2">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201200000 +0100" stop="20241201203000 +0100" channel="ESPN2">
+    <title lang="en">Employment Law Show</title>
+    <desc lang="en">Host Lior Samfiru answers questions about employment rights and tackles the most important facets of employment law that are often overlooked by both employer and employee.</desc>
+    <category lang="en">Legal</category>
+    <category lang="en">Local</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241201203000 +0100" stop="20241201213000 +0100" channel="ESPN2">
+    <title lang="en">Property Brothers: Forever Home</title>
+    <sub-title lang="en">Amy &amp; Dominic</sub-title>
+    <desc lang="en">A couple calls on Drew and Jonathan to overhaul their home's cramped kitchen and awkward layout to make their home better suited for their busy lifestyle.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201213000 +0100" stop="20241201233000 +0100" channel="ESPN2">
+    <title lang="en">A Fabled Holiday</title>
+    <desc lang="en">Talia and her childhood best friend unexpectedly reunite in a curiously familiar-looking town that's full of Christmas spirit.</desc>
+    <credits>
+      <actor>Brooke D'Orsay</actor>
+      <actor>Ryan Paevey</actor>
+      <actor>Daphne Hoskins</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241201233000 +0100" stop="20241202003000 +0100" channel="ESPN2">
+    <title lang="en">Wall of Chefs</title>
+    <sub-title lang="en">The Secret's in the Sauce</sub-title>
+    <desc lang="en">The cooks try to think outside the box to create a dish from Rob Feenie's fridge; making sauce the star in a restaurant-worthy dish for the $10,000 win.</desc>
+    <category lang="en">Food</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202003000 +0100" stop="20241202013000 +0100" channel="ESPN2">
+    <title lang="en">Trading Up With Mandy Rennehan</title>
+    <sub-title lang="en">Being the Boss</sub-title>
+    <desc lang="en">Mandy Rennehan's three apprentices try to manage their own separate renovations in Rennesouth apartments: Dan bites off more than he can chew, Melissa experiences communication issues with her trades people, and Jaymin struggles with bathroom design.</desc>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202013000 +0100" stop="20241202015900 +0100" channel="ESPN2">
+    <title lang="en">Global National</title>
+    <desc lang="en">The top stories from around the world.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202015900 +0100" stop="20241202030000 +0100" channel="ESPN2">
+    <title lang="en">Global News Hour at 6</title>
+    <desc lang="en">Calgary's local news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202030000 +0100" stop="20241202043000 +0100" channel="ESPN2">
+    <title lang="en">60 Minutes</title>
+    <sub-title lang="en">Notre Dame; Smith Island; Kate Winslet; Welcome to the Wedding</sub-title>
+    <desc lang="en">Rebuilding Notre-Dame de Paris; Smith Island in Maryland's Chesapeake Bay; actress Kate Winslet; how Afghans were evacuated from Afghanistan under the guise of a wedding party.Guests: Kate Winslet..</desc>
+    <category lang="en">News Magazine</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202043000 +0100" stop="20241202053000 +0100" channel="ESPN2">
+    <title lang="en">The Floor</title>
+    <sub-title lang="en">A Whale of a Time</sub-title>
+    <desc lang="en">Contestants test their knowledge of Halloween movies, extreme sports, autumn and nursery rhymes.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202053000 +0100" stop="20241202060000 +0100" channel="ESPN2">
+    <title lang="en">The Equalizer</title>
+    <sub-title lang="en">The Fight for Life</sub-title>
+    <desc lang="en">McCall and Mel go under cover in a prison to find a woman who went missing on the day she was scheduled to be released.</desc>
+    <credits>
+      <actor>Queen Latifah</actor>
+      <actor>Tory Kittles</actor>
+      <actor>Adam Goldberg</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241202060000 +0100" stop="20241202070200 +0100" channel="ESPN2">
+    <title lang="en">Private Eyes</title>
+    <sub-title lang="en">Mise En Place</sub-title>
+    <desc lang="en">Shade and Angie investigate high-profile murder in a popular Toronto restaurant.</desc>
+    <credits>
+      <actor>Jason Priestley</actor>
+      <actor>Cindy Sampson</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202070200 +0100" stop="20241202073500 +0100" channel="ESPN2">
+    <title lang="en">Global News at 11</title>
+    <desc lang="en">Calgary's local news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202073500 +0100" stop="20241202080500 +0100" channel="ESPN2">
+    <title lang="en">Global National</title>
+    <desc lang="en">The top stories from around the world.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202080500 +0100" stop="20241202093700 +0100" channel="ESPN2">
+    <title lang="en">Saturday Night Live</title>
+    <sub-title lang="en">Nate Bargatze; Coldplay</sub-title>
+    <desc lang="en">Nate Bargatze is here to host and joined by musical guest Coldplay.</desc>
+    <credits>
+      <actor>Michael Che</actor>
+      <actor>Mikey Day</actor>
+      <actor>Chloe Fineman</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241202093700 +0100" stop="20241202103700 +0100" channel="ESPN2">
+    <title lang="en">Masters of Flip</title>
+    <sub-title lang="en">Think Pink</sub-title>
+    <desc lang="en">With the color pink as her inspiration, Kortney tries to balance masculine and feminine.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202103700 +0100" stop="20241202113700 +0100" channel="ESPN2">
+    <title lang="en">Rock Solid Builds</title>
+    <sub-title lang="en">Kitchen Party</sub-title>
+    <desc lang="en">In St. John's most famous neighborhood, the team is determined to complete a dazzling kitchen renovation with some amazing custom features; Randy's mom's new place starts looking like a home.</desc>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202113700 +0100" stop="20241202120700 +0100" channel="ESPN2">
+    <title lang="en">Cornerstone</title>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202120700 +0100" stop="20241202123700 +0100" channel="ESPN2">
+    <title lang="en">Cornerstone</title>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202123700 +0100" stop="20241202130000 +0100" channel="ESPN2">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Sign off.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Variety</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202130000 +0100" stop="20241202133000 +0100" channel="ESPN2">
+    <title lang="en">Cornerstone</title>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202133000 +0100" stop="20241202143000 +0100" channel="ESPN2">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">"ET" vault unlocked: George Clooney and Dwayne "The Rock" Johnson.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202143000 +0100" stop="20241202150000 +0100" channel="ESPN2">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202150000 +0100" stop="20241202180000 +0100" channel="ESPN2">
+    <title lang="en">Weekend Morning News</title>
+    <desc lang="en">Watch Calgary's local news on Global News Morning Weekend.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202180000 +0100" stop="20241202183000 +0100" channel="ESPN2">
+    <title lang="en">The West Block</title>
+    <desc lang="en">Concerns of Canadians are brought to the politicians.</desc>
+    <category lang="en">Political</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202183000 +0100" stop="20241202190000 +0100" channel="ESPN2">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202190000 +0100" stop="20241202193000 +0100" channel="ESPN2">
+    <title lang="en">Joel Osteen</title>
+    <sub-title lang="en">Divine Detours</sub-title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241202193000 +0100" stop="20241202200000 +0100" channel="ESPN2">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202200000 +0100" stop="20241202203000 +0100" channel="ESPN2">
+    <title lang="en">Employment Law Show</title>
+    <desc lang="en">Host Lior Samfiru answers questions about employment rights and tackles the most important facets of employment law that are often overlooked by both employer and employee.</desc>
+    <category lang="en">Legal</category>
+    <category lang="en">Local</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241202203000 +0100" stop="20241202213000 +0100" channel="ESPN2">
+    <title lang="en">Property Brothers: Forever Home</title>
+    <sub-title lang="en">Amy &amp; Dominic</sub-title>
+    <desc lang="en">A couple calls on Drew and Jonathan to overhaul their home's cramped kitchen and awkward layout to make their home better suited for their busy lifestyle.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202213000 +0100" stop="20241202233000 +0100" channel="ESPN2">
+    <title lang="en">A Fabled Holiday</title>
+    <desc lang="en">Talia and her childhood best friend unexpectedly reunite in a curiously familiar-looking town that's full of Christmas spirit.</desc>
+    <credits>
+      <actor>Brooke D'Orsay</actor>
+      <actor>Ryan Paevey</actor>
+      <actor>Daphne Hoskins</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241202233000 +0100" stop="20241203003000 +0100" channel="ESPN2">
+    <title lang="en">Wall of Chefs</title>
+    <sub-title lang="en">The Secret's in the Sauce</sub-title>
+    <desc lang="en">The cooks try to think outside the box to create a dish from Rob Feenie's fridge; making sauce the star in a restaurant-worthy dish for the $10,000 win.</desc>
+    <category lang="en">Food</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241203003000 +0100" stop="20241203013000 +0100" channel="ESPN2">
+    <title lang="en">Trading Up With Mandy Rennehan</title>
+    <sub-title lang="en">Being the Boss</sub-title>
+    <desc lang="en">Mandy Rennehan's three apprentices try to manage their own separate renovations in Rennesouth apartments: Dan bites off more than he can chew, Melissa experiences communication issues with her trades people, and Jaymin struggles with bathroom design.</desc>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241203013000 +0100" stop="20241203015900 +0100" channel="ESPN2">
+    <title lang="en">Global National</title>
+    <desc lang="en">The top stories from around the world.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241203015900 +0100" stop="20241203030000 +0100" channel="ESPN2">
+    <title lang="en">Global News Hour at 6</title>
+    <desc lang="en">Calgary's local news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241203030000 +0100" stop="20241203043000 +0100" channel="ESPN2">
+    <title lang="en">60 Minutes</title>
+    <sub-title lang="en">Notre Dame; Smith Island; Kate Winslet; Welcome to the Wedding</sub-title>
+    <desc lang="en">Rebuilding Notre-Dame de Paris; Smith Island in Maryland's Chesapeake Bay; actress Kate Winslet; how Afghans were evacuated from Afghanistan under the guise of a wedding party.Guests: Kate Winslet..</desc>
+    <category lang="en">News Magazine</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20241203043000 +0100" stop="20241203053000 +0100" channel="ESPN2">
+    <title lang="en">The Floor</title>
+    <sub-title lang="en">A Whale of a Time</sub-title>
+    <desc lang="en">Contestants test their knowledge of Halloween movies, extreme sports, autumn and nursery rhymes.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
   </programme>
   <programme start="20241201000000 +0100" stop="20241201020000 +0100" channel="Hallmark Channel (East)">
     <title lang="en">Believe in Christmas</title>
@@ -10944,84 +11231,369 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <category lang="en">Drama</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201000000 +0100" stop="20241201020000 +0100" channel="nbatv.us">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
+  <programme start="20241201040000 +0100" stop="20241201073000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Goblet of Fire</title>
+    <desc lang="en">Signs of Voldemort's return emerge as Harry's (Daniel Radcliffe) friends (Rupert Grint, Emma Watson) help him prepare for a tournament with Europe's best student wizards.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20241201020000 +0100" stop="20241201023000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
+  <programme start="20241201073000 +0100" stop="20241201103000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Order of the Phoenix</title>
+    <desc lang="en">When a new professor's bureaucratic methods leave Hogwarts unprepared to fight the rising tide of evil, Harry (Daniel Radcliffe) teaches a dedicated group of students how to defend against the dark arts.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20241201023000 +0100" stop="20241201030000 +0100" channel="nbatv.us">
-    <title lang="en">NBA TV Pregame Show</title>
-    <desc lang="en">Preview of tonight's game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
+  <programme start="20241201103000 +0100" stop="20241201120000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Sorcerer's Stone</title>
+    <desc lang="en">An orphan (Daniel Radcliffe) attends a school of witchcraft and wizardry and pieces together the mystery of his parents' deaths.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20241201030000 +0100" stop="20241201053000 +0100" channel="nbatv.us">
-    <title lang="en">Live: NBA Basketball</title>
-    <sub-title lang="en">Golden State Warriors at Phoenix Suns</sub-title>
-    <desc lang="en">The Warriors visit an old friend as they head to the desert to take on Kevin Durant's Suns. Phoenix is 6-2 against Golden State over the last two campaigns, including a 4-0 home mark. Devin Booker (PHX) scored 30.6 points per game in those matchups.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
+  <programme start="20241201120000 +0100" stop="20241201140000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Sorcerer's Stone</title>
+    <desc lang="en">An orphan (Daniel Radcliffe) attends a school of witchcraft and wizardry and pieces together the mystery of his parents' deaths.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20241201053000 +0100" stop="20241201053000 +0100" channel="nbatv.us">
+  <programme start="20241201140000 +0100" stop="20241201173100 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Chamber of Secrets</title>
+    <desc lang="en">The young wizard (Daniel Radcliffe) and his best friends (Rupert Grint, Emma Watson) investigate a dark force that is terrorizing their school, Hogwarts.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241201173100 +0100" stop="20241201203200 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Prisoner of Azkaban</title>
+    <desc lang="en">The young wizard (Daniel Radcliffe) and his friends (Rupert Grint, Emma Watson) confront Sirius Black, a fugitive with ties to Harry's past.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241201203200 +0100" stop="20241201235500 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Goblet of Fire</title>
+    <desc lang="en">Signs of Voldemort's return emerge as Harry's (Daniel Radcliffe) friends (Rupert Grint, Emma Watson) help him prepare for a tournament with Europe's best student wizards.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241201235500 +0100" stop="20241202025500 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Order of the Phoenix</title>
+    <desc lang="en">When a new professor's bureaucratic methods leave Hogwarts unprepared to fight the rising tide of evil, Harry (Daniel Radcliffe) teaches a dedicated group of students how to defend against the dark arts.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241202025500 +0100" stop="20241202025500 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Half-Blood Prince</title>
+    <desc lang="en">Dumbledore tries to prepare Harry (Daniel Radcliffe) for the final battle with Voldemort, while Death Eaters wreak havoc in both Muggle and Wizard worlds, and tragedy looms on the horizon.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241202025500 +0100" stop="20241202061100 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Half-Blood Prince</title>
+    <desc lang="en">Dumbledore tries to prepare Harry (Daniel Radcliffe) for the final battle with Voldemort, while Death Eaters wreak havoc in both Muggle and Wizard worlds, and tragedy looms on the horizon.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241202061100 +0100" stop="20241202091500 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Deathly Hallows: Part 1</title>
+    <desc lang="en">Harry (Daniel Radcliffe), Ron (Rupert Grint) and Hermione (Emma Watson) leave Hogwarts behind on a mission to destroy the Horcruxes, the secrets to Voldemort's power and immortality.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241202091500 +0100" stop="20241202120000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Deathly Hallows: Part 2</title>
+    <desc lang="en">As his showdown with Lord Voldemort (Ralph Fiennes) nears, Harry (Daniel Radcliffe) may have to make the ultimate sacrifice.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241202120000 +0100" stop="20241202145500 +0100" channel="syfy.us">
+    <title lang="en">Fantastic Beasts: The Crimes of Grindelwald</title>
+    <desc lang="en">Magizoologist Newt Scamander joins forces with young Albus Dumbledore to prevent the devious Gellert Grindelwald from raising pure-blood wizards to rule over all non-magical beings.</desc>
+    <credits>
+      <actor>Eddie Redmayne</actor>
+      <actor>Katherine Waterston</actor>
+      <actor>Dan Fogler</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241202145500 +0100" stop="20241202175900 +0100" channel="syfy.us">
+    <title lang="en">Fantastic Beasts: The Secrets of Dumbledore</title>
+    <desc lang="en">Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches.</desc>
+    <credits>
+      <actor>Eddie Redmayne</actor>
+      <actor>Jude Law</actor>
+      <actor>Mads Mikkelsen</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241202175900 +0100" stop="20241202212700 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Half-Blood Prince</title>
+    <desc lang="en">Dumbledore tries to prepare Harry (Daniel Radcliffe) for the final battle with Voldemort, while Death Eaters wreak havoc in both Muggle and Wizard worlds, and tragedy looms on the horizon.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241202212700 +0100" stop="20241203003000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Deathly Hallows: Part 1</title>
+    <desc lang="en">Harry (Daniel Radcliffe), Ron (Rupert Grint) and Hermione (Emma Watson) leave Hogwarts behind on a mission to destroy the Horcruxes, the secrets to Voldemort's power and immortality.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241203003000 +0100" stop="20241203031500 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Deathly Hallows: Part 2</title>
+    <desc lang="en">As his showdown with Lord Voldemort (Ralph Fiennes) nears, Harry (Daniel Radcliffe) may have to make the ultimate sacrifice.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241201053000 +0100" stop="20241201063000 +0100" channel="nba.us">
     <title lang="en">NBA TV Postgame Show</title>
     <desc lang="en">Review of the game; highlights; interviews with players and coaches.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201053000 +0100" stop="20241201063000 +0100" channel="nbatv.us">
-    <title lang="en">NBA TV Postgame Show</title>
-    <desc lang="en">Review of the game; highlights; interviews with players and coaches.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20241201063000 +0100" stop="20241201070000 +0100" channel="nbatv.us">
+  <programme start="20241201063000 +0100" stop="20241201070000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201070000 +0100" stop="20241201073000 +0100" channel="nbatv.us">
+  <programme start="20241201070000 +0100" stop="20241201073000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201073000 +0100" stop="20241201080000 +0100" channel="nbatv.us">
+  <programme start="20241201073000 +0100" stop="20241201080000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201080000 +0100" stop="20241201083000 +0100" channel="nbatv.us">
+  <programme start="20241201080000 +0100" stop="20241201083000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201083000 +0100" stop="20241201090000 +0100" channel="nbatv.us">
+  <programme start="20241201083000 +0100" stop="20241201090000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201090000 +0100" stop="20241201113000 +0100" channel="nbatv.us">
+  <programme start="20241201090000 +0100" stop="20241201113000 +0100" channel="nba.us">
     <title lang="en">NBA Basketball</title>
     <sub-title lang="en">Golden State Warriors at Phoenix Suns</sub-title>
     <desc lang="en">The Warriors visit an old friend as they head to the desert to take on Kevin Durant's Suns. Phoenix is 6-2 against Golden State over the last two campaigns, including a 4-0 home mark. Devin Booker (PHX) scored 30.6 points per game in those matchups.</desc>
@@ -11029,105 +11601,105 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201113000 +0100" stop="20241201120000 +0100" channel="nbatv.us">
+  <programme start="20241201113000 +0100" stop="20241201120000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201120000 +0100" stop="20241201123000 +0100" channel="nbatv.us">
+  <programme start="20241201120000 +0100" stop="20241201123000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201123000 +0100" stop="20241201130000 +0100" channel="nbatv.us">
+  <programme start="20241201123000 +0100" stop="20241201130000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201130000 +0100" stop="20241201133000 +0100" channel="nbatv.us">
+  <programme start="20241201130000 +0100" stop="20241201133000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201133000 +0100" stop="20241201140000 +0100" channel="nbatv.us">
+  <programme start="20241201133000 +0100" stop="20241201140000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201140000 +0100" stop="20241201143000 +0100" channel="nbatv.us">
+  <programme start="20241201140000 +0100" stop="20241201143000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201143000 +0100" stop="20241201150000 +0100" channel="nbatv.us">
+  <programme start="20241201143000 +0100" stop="20241201150000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201150000 +0100" stop="20241201153000 +0100" channel="nbatv.us">
+  <programme start="20241201150000 +0100" stop="20241201153000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201153000 +0100" stop="20241201160000 +0100" channel="nbatv.us">
+  <programme start="20241201153000 +0100" stop="20241201160000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201160000 +0100" stop="20241201163000 +0100" channel="nbatv.us">
+  <programme start="20241201160000 +0100" stop="20241201163000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201163000 +0100" stop="20241201170000 +0100" channel="nbatv.us">
+  <programme start="20241201163000 +0100" stop="20241201170000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201170000 +0100" stop="20241201190000 +0100" channel="nbatv.us">
+  <programme start="20241201170000 +0100" stop="20241201190000 +0100" channel="nba.us">
     <title lang="en">NBA TV Marquee Matchup</title>
     <desc lang="en">The best match-up of the week from around the Association.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201190000 +0100" stop="20241201210000 +0100" channel="nbatv.us">
+  <programme start="20241201190000 +0100" stop="20241201210000 +0100" channel="nba.us">
     <title lang="en">Live: NBA G League Basketball</title>
     <sub-title lang="en">Sioux Falls Skyforce at Motor City Cruise</sub-title>
     <desc lang="en">From Wayne State Fieldhouse in Detroit, Mich.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241201210000 +0100" stop="20241201230000 +0100" channel="nbatv.us">
+  <programme start="20241201210000 +0100" stop="20241201230000 +0100" channel="nba.us">
     <title lang="en">NBA TV Marquee Matchup</title>
     <desc lang="en">The best match-up of the week from around the Association.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241201230000 +0100" stop="20241201233000 +0100" channel="nbatv.us">
+  <programme start="20241201230000 +0100" stop="20241201233000 +0100" channel="nba.us">
     <title lang="en">NBA Action</title>
     <desc lang="en">A weekly look back at the top news and highlights in the NBA.</desc>
     <category lang="en">Sports</category>
@@ -11137,35 +11709,35 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20241201233000 +0100" stop="20241202000000 +0100" channel="nbatv.us">
+  <programme start="20241201233000 +0100" stop="20241202000000 +0100" channel="nba.us">
     <title lang="en">NBA TV Pregame Show</title>
     <desc lang="en">Preview of tonight's game.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202000000 +0100" stop="20241202023000 +0100" channel="nbatv.us">
+  <programme start="20241202000000 +0100" stop="20241202023000 +0100" channel="nba.us">
     <title lang="en">Live: NBA Basketball</title>
     <sub-title lang="en">Boston Celtics at Cleveland Cavaliers</sub-title>
     <desc lang="en">The Cavaliers seek revenge against the Celtics in a clash of the NBA's top teams. Boston handed Cleveland its first loss of the season, 120-117 on Nov. 19 behind 33 points, 12 rebounds and seven assists by Jayson Tatum. The Cavs are 10-1 at home.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241202023000 +0100" stop="20241202033000 +0100" channel="nbatv.us">
+  <programme start="20241202023000 +0100" stop="20241202033000 +0100" channel="nba.us">
     <title lang="en">NBA TV Postgame Show</title>
     <desc lang="en">Review of the game; highlights; interviews with players and coaches.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202033000 +0100" stop="20241202040000 +0100" channel="nbatv.us">
+  <programme start="20241202033000 +0100" stop="20241202040000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime Live</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202040000 +0100" stop="20241202060000 +0100" channel="nbatv.us">
+  <programme start="20241202040000 +0100" stop="20241202060000 +0100" channel="nba.us">
     <title lang="en">Magic &amp; Bird: A Courtship of Rivals</title>
     <desc lang="en">A history traces the competition between basketball players Larry Bird and Earvin "Magic" Johnson.</desc>
     <credits>
@@ -11180,42 +11752,42 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20241202060000 +0100" stop="20241202070000 +0100" channel="nbatv.us">
+  <programme start="20241202060000 +0100" stop="20241202070000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime Live</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202070000 +0100" stop="20241202073000 +0100" channel="nbatv.us">
+  <programme start="20241202070000 +0100" stop="20241202073000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202073000 +0100" stop="20241202080000 +0100" channel="nbatv.us">
+  <programme start="20241202073000 +0100" stop="20241202080000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202080000 +0100" stop="20241202083000 +0100" channel="nbatv.us">
+  <programme start="20241202080000 +0100" stop="20241202083000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202083000 +0100" stop="20241202090000 +0100" channel="nbatv.us">
+  <programme start="20241202083000 +0100" stop="20241202090000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202090000 +0100" stop="20241202113000 +0100" channel="nbatv.us">
+  <programme start="20241202090000 +0100" stop="20241202113000 +0100" channel="nba.us">
     <title lang="en">NBA Basketball</title>
     <sub-title lang="en">Boston Celtics at Cleveland Cavaliers</sub-title>
     <desc lang="en">The Cavaliers seek revenge against the Celtics in a clash of the NBA's top teams. Boston handed Cleveland its first loss of the season, 120-117 on Nov. 19 behind 33 points, 12 rebounds and seven assists by Jayson Tatum. The Cavs are 10-1 at home.</desc>
@@ -11223,139 +11795,139 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202113000 +0100" stop="20241202120000 +0100" channel="nbatv.us">
+  <programme start="20241202113000 +0100" stop="20241202120000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202120000 +0100" stop="20241202123000 +0100" channel="nbatv.us">
+  <programme start="20241202120000 +0100" stop="20241202123000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202123000 +0100" stop="20241202130000 +0100" channel="nbatv.us">
+  <programme start="20241202123000 +0100" stop="20241202130000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202130000 +0100" stop="20241202133000 +0100" channel="nbatv.us">
+  <programme start="20241202130000 +0100" stop="20241202133000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202133000 +0100" stop="20241202140000 +0100" channel="nbatv.us">
+  <programme start="20241202133000 +0100" stop="20241202140000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202140000 +0100" stop="20241202143000 +0100" channel="nbatv.us">
+  <programme start="20241202140000 +0100" stop="20241202143000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202143000 +0100" stop="20241202150000 +0100" channel="nbatv.us">
+  <programme start="20241202143000 +0100" stop="20241202150000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202150000 +0100" stop="20241202153000 +0100" channel="nbatv.us">
+  <programme start="20241202150000 +0100" stop="20241202153000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202153000 +0100" stop="20241202160000 +0100" channel="nbatv.us">
+  <programme start="20241202153000 +0100" stop="20241202160000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202160000 +0100" stop="20241202163000 +0100" channel="nbatv.us">
+  <programme start="20241202160000 +0100" stop="20241202163000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202163000 +0100" stop="20241202170000 +0100" channel="nbatv.us">
+  <programme start="20241202163000 +0100" stop="20241202170000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202170000 +0100" stop="20241202173000 +0100" channel="nbatv.us">
+  <programme start="20241202170000 +0100" stop="20241202173000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202173000 +0100" stop="20241202180000 +0100" channel="nbatv.us">
+  <programme start="20241202173000 +0100" stop="20241202180000 +0100" channel="nba.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202180000 +0100" stop="20241202200000 +0100" channel="nbatv.us">
+  <programme start="20241202180000 +0100" stop="20241202200000 +0100" channel="nba.us">
     <title lang="en">NBA TV Marquee Matchup</title>
     <desc lang="en">The best match-up of the week from around the Association.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202200000 +0100" stop="20241202220000 +0100" channel="nbatv.us">
+  <programme start="20241202200000 +0100" stop="20241202220000 +0100" channel="nba.us">
     <title lang="en">NBA TV Marquee Matchup</title>
     <desc lang="en">The best match-up of the week from around the Association.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202220000 +0100" stop="20241202230000 +0100" channel="nbatv.us">
+  <programme start="20241202220000 +0100" stop="20241202230000 +0100" channel="nba.us">
     <title lang="en">Run It Back</title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241202230000 +0100" stop="20241203010000 +0100" channel="nbatv.us">
+  <programme start="20241202230000 +0100" stop="20241203010000 +0100" channel="nba.us">
     <title lang="en">NBA TV Marquee Matchup</title>
     <desc lang="en">The best match-up of the week from around the Association.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20241203010000 +0100" stop="20241203020000 +0100" channel="nbatv.us">
+  <programme start="20241203010000 +0100" stop="20241203020000 +0100" channel="nba.us">
     <title lang="en">NBA TV Pregame Show</title>
     <desc lang="en">Preview of tonight's game.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <previously-shown/>
   </programme>
-  <programme start="20241203020000 +0100" stop="20241203043000 +0100" channel="nbatv.us">
+  <programme start="20241203020000 +0100" stop="20241203043000 +0100" channel="nba.us">
     <title lang="en">Live: NBA Basketball</title>
     <sub-title lang="en">Los Angeles Lakers at Minnesota Timberwolves</sub-title>
     <desc lang="en">The Timberwolves love L.A. as they host the Lakers, sandwiched by games against the Clippers. Los Angeles prevailed in the season opener for both teams 110-103 as LeBron James and Bronny James became the first father-son duo to play in the same game.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20241203043000 +0100" stop="20241203053000 +0100" channel="nbatv.us">
+  <programme start="20241203043000 +0100" stop="20241203053000 +0100" channel="nba.us">
     <title lang="en">NBA TV Postgame Show</title>
     <desc lang="en">Review of the game; highlights; interviews with players and coaches.</desc>
     <category lang="en">Sports</category>
