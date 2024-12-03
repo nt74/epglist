@@ -470,21 +470,21 @@
     <icon src="https://cdn.images.simply.tv/3983435361805384891?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S33 E16</episode-num>
   </programme>
-  <programme start="20241203050000 +0000" stop="20241203061500 +0000" channel="svt1.se">
+  <programme start="20241203050000 +0000" stop="20241203061504 +0000" channel="svt1.se">
     <title lang="sv">Morgonstudion</title>
     <desc lang="sv">Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur.</desc>
     <category lang="sv">News</category>
     <icon src="https://cdn.images.simply.tv/16206149985309462761?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E241</episode-num>
   </programme>
-  <programme start="20241203061500 +0000" stop="20241203062900 +0000" channel="svt1.se">
+  <programme start="20241203061504 +0000" stop="20241203062838 +0000" channel="svt1.se">
     <title lang="sv">Julkalendern: Snödrömmar</title>
     <desc lang="sv">Värdshuset får plötsligt två gäster som ger Maggan en idé om hur hon ska rädda sin skidort.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/683405243048412493?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20241203062900 +0000" stop="20241203090000 +0000" channel="svt1.se">
+  <programme start="20241203062838 +0000" stop="20241203090000 +0000" channel="svt1.se">
     <title lang="sv">Morgonstudion</title>
     <desc lang="sv">Morgonstudions sändning fortsätter.</desc>
     <category lang="sv">News</category>
@@ -983,12 +983,12 @@
     <desc lang="sv">Sändningsuppehåll.</desc>
     <category lang="sv">Sport</category>
   </programme>
-  <programme start="20241203050000 +0000" stop="20241203080000 +0000" channel="svt2.se">
+  <programme start="20241203050000 +0000" stop="20241203075900 +0000" channel="svt2.se">
     <title lang="sv">Sändningsuppehåll</title>
     <desc lang="sv">Sändningsuppehåll.</desc>
     <category lang="sv">Other</category>
   </programme>
-  <programme start="20241203080000 +0000" stop="20241203110000 +0000" channel="svt2.se">
+  <programme start="20241203075900 +0000" stop="20241203110000 +0000" channel="svt2.se">
     <title lang="sv">Forum</title>
     <desc lang="sv">Politiska seminarier, debatter och föreläsningar.</desc>
     <category lang="sv">Other</category>
@@ -2095,42 +2095,42 @@
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/11067905293599501878?aspect_ratio=16:9"/>
   </programme>
-  <programme start="20241203040000 +0000" stop="20241203050000 +0000" channel="kanal5.se">
+  <programme start="20241203040000 +0000" stop="20241203050027 +0000" channel="kanal5.se">
     <title lang="sv">Alla mot alla med Filip och Fredrik</title>
     <desc lang="sv">Eva Hamilton och Jan Gradvall möter Emma Knyckare och Ola Söderholm.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/11926478028448086985?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S9 E27</episode-num>
   </programme>
-  <programme start="20241203050000 +0000" stop="20241203051000 +0000" channel="kanal5.se">
+  <programme start="20241203050027 +0000" stop="20241203051013 +0000" channel="kanal5.se">
     <title lang="sv">Gärdsgårdsserien</title>
     <desc lang="sv">Morgan Bohman har filmat och kommenterat 771 matcher, för att inte bli bortglömd.</desc>
     <category lang="sv">Sport</category>
     <icon src="https://cdn.images.simply.tv/10046459187381792046?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20241203051000 +0000" stop="20241203053000 +0000" channel="kanal5.se">
+  <programme start="20241203051013 +0000" stop="20241203053239 +0000" channel="kanal5.se">
     <title lang="sv">House Hunters International</title>
     <desc lang="sv">Från Danmark till Dominikanska republiken.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/8681957658605033831?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20241203053000 +0000" stop="20241203055500 +0000" channel="kanal5.se">
+  <programme start="20241203053239 +0000" stop="20241203055459 +0000" channel="kanal5.se">
     <title lang="sv">House Hunters International</title>
     <desc lang="sv">Från Danmark till Dominikanska republiken.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/11119212320714076604?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
-  <programme start="20241203055500 +0000" stop="20241203072000 +0000" channel="kanal5.se">
+  <programme start="20241203055459 +0000" stop="20241203071959 +0000" channel="kanal5.se">
     <title lang="sv">A Holiday in Harlem</title>
     <desc lang="sv">Affärskvinnan Jazmin vägrar fira jul i Harlem. När släkten behöver henne måste hon tänka om.</desc>
     <category lang="sv">Program</category>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/14713759969205969807?aspect_ratio=16:9"/>
   </programme>
-  <programme start="20241203072000 +0000" stop="20241203090000 +0000" channel="kanal5.se">
+  <programme start="20241203071959 +0000" stop="20241203090000 +0000" channel="kanal5.se">
     <title lang="sv">Christmas at Castle Hart</title>
     <desc lang="sv">Brooke misstas för någon annan och anlitas för att ordna slottets julfest.</desc>
     <category lang="sv">Program</category>
@@ -3424,49 +3424,49 @@
     <icon src="https://cdn.images.simply.tv/10819374689926523185?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S7 E17</episode-num>
   </programme>
-  <programme start="20241203043500 +0000" stop="20241203050000 +0000" channel="kanal9.se">
+  <programme start="20241203043500 +0000" stop="20241203050034 +0000" channel="kanal9.se">
     <title lang="sv">How Do They Do It?</title>
     <desc lang="sv">Hur tillverkas världens finaste målardukar? Hur tillagar man illaluktande fermenterad tofu?</desc>
     <category lang="sv">Documentary</category>
     <icon src="https://cdn.images.simply.tv/14157508812147694591?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S11 E9</episode-num>
   </programme>
-  <programme start="20241203050000 +0000" stop="20241203051500 +0000" channel="kanal9.se">
+  <programme start="20241203050034 +0000" stop="20241203051632 +0000" channel="kanal9.se">
     <title lang="sv">Gärdsgårdsserien</title>
     <desc lang="sv">Ett år har gått sedan vi senast hörde från Forshaga Ultras. Då bråkade bästa vännerna Emil och Christian om ordförandeskapet.</desc>
     <category lang="sv">Sport</category>
     <icon src="https://cdn.images.simply.tv/10046459187381792046?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20241203051500 +0000" stop="20241203054000 +0000" channel="kanal9.se">
+  <programme start="20241203051632 +0000" stop="20241203053939 +0000" channel="kanal9.se">
     <title lang="sv">Diners, Drive-ins and Dives</title>
     <desc lang="sv">Programledaren Guy Fieri ger sig ut på vägarna för att besöka USA:s favoritmatställen.</desc>
     <category lang="sv">Other</category>
-    <icon src="https://cdn.images.simply.tv/6402662135791113015?aspect_ratio=16:9"/>
+    <icon src="https://cdn.images.simply.tv/14576599998870318288?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S21 E5</episode-num>
   </programme>
-  <programme start="20241203054000 +0000" stop="20241203062500 +0000" channel="kanal9.se">
+  <programme start="20241203053939 +0000" stop="20241203062737 +0000" channel="kanal9.se">
     <title lang="sv">Wheeler Dealers</title>
     <desc lang="sv">Mike letar efter terrängbilen för militärt bruk, Humvee.</desc>
     <category lang="sv">Other</category>
-    <icon src="https://cdn.images.simply.tv/9856914047248185831?aspect_ratio=16:9"/>
+    <icon src="https://cdn.images.simply.tv/2289367991162570476?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S13 E6</episode-num>
   </programme>
-  <programme start="20241203062500 +0000" stop="20241203071500 +0000" channel="kanal9.se">
+  <programme start="20241203062737 +0000" stop="20241203071515 +0000" channel="kanal9.se">
     <title lang="sv">Fast N' Loud</title>
     <desc lang="sv">Richard och Aaron slår på stort när de ger en röd Cadillac från 1967 en riktig lyxbehandling i ett försök att locka till sig kunder av hög kaliber.</desc>
     <category lang="sv">Other</category>
     <icon src="https://cdn.images.simply.tv/10066783540251594637?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S3 E17</episode-num>
   </programme>
-  <programme start="20241203071500 +0000" stop="20241203080000 +0000" channel="kanal9.se">
+  <programme start="20241203071515 +0000" stop="20241203080307 +0000" channel="kanal9.se">
     <title lang="sv">Gold Rush</title>
     <desc lang="sv">En kris i Klondike tvingar Parker, Rick och Tony att satsa allt för att hitta guldet på nya inmutningar.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/2169781692463538842?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E18</episode-num>
   </programme>
-  <programme start="20241203080000 +0000" stop="20241203090500 +0000" channel="kanal9.se">
+  <programme start="20241203080307 +0000" stop="20241203090500 +0000" channel="kanal9.se">
     <title lang="sv">Deadliest Catch</title>
     <desc lang="sv">Alaskas krabbfiskare har ett av världens farligaste yrken. De tar sig fram på Berings havs lömska vatten i sökandet efter värdefulla kungskrabbor.</desc>
     <category lang="sv">Entertainment</category>
@@ -4236,63 +4236,63 @@
     <icon src="https://cdn.images.simply.tv/15755679832251534908?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20241203043000 +0000" stop="20241203050000 +0000" channel="kanal11.se">
+  <programme start="20241203043000 +0000" stop="20241203050023 +0000" channel="kanal11.se">
     <title lang="sv">Beach Hunters</title>
     <desc lang="sv">Köpare som vill hitta det perfekta strandnära läget får hjälp av mäklare att hitta sitt drömhus vid havet.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/15755679832251534908?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20241203050000 +0000" stop="20241203051000 +0000" channel="kanal11.se">
+  <programme start="20241203050023 +0000" stop="20241203051046 +0000" channel="kanal11.se">
     <title lang="sv">Parterapi</title>
     <desc lang="sv">Gör dig redo för lika delar skratt och igenkänning. I detta avsnitt: är ni verkligen jämställda?</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/1726211865?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20241203051000 +0000" stop="20241203053000 +0000" channel="kanal11.se">
+  <programme start="20241203051046 +0000" stop="20241203053018 +0000" channel="kanal11.se">
     <title lang="sv">First Time Flippers</title>
     <desc lang="sv">Nybörjare på husmarknaden tar sig an sitt första husprojekt. De ska renovera ett fallfärdigt hus och sedan sälja det med god vinst.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/4331152406331463478?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S3 E1</episode-num>
   </programme>
-  <programme start="20241203053000 +0000" stop="20241203055000 +0000" channel="kanal11.se">
+  <programme start="20241203053018 +0000" stop="20241203055009 +0000" channel="kanal11.se">
     <title lang="sv">First Time Flippers</title>
     <desc lang="sv">Nybörjare på husmarknaden tar sig an sitt första husprojekt. De ska renovera ett fallfärdigt hus och sedan sälja det med god vinst.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/4331152406331463478?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S3 E2</episode-num>
   </programme>
-  <programme start="20241203055000 +0000" stop="20241203063500 +0000" channel="kanal11.se">
+  <programme start="20241203055009 +0000" stop="20241203063656 +0000" channel="kanal11.se">
     <title lang="sv">90 Day Fiancé</title>
     <desc lang="sv">Kvinnor kommer till USA på så kallade K1-visum för att för första gången leva med sina tilltänkta män.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/16589207719397424676?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S5</episode-num>
   </programme>
-  <programme start="20241203063500 +0000" stop="20241203072500 +0000" channel="kanal11.se">
+  <programme start="20241203063656 +0000" stop="20241203072419 +0000" channel="kanal11.se">
     <title lang="sv">90 Day Fiancé</title>
     <desc lang="sv">Kvinnor kommer till USA på så kallade K1-visum för att för första gången leva med sina tilltänkta män.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/16589207719397424676?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S5 E21</episode-num>
   </programme>
-  <programme start="20241203072500 +0000" stop="20241203074500 +0000" channel="kanal11.se">
+  <programme start="20241203072419 +0000" stop="20241203074700 +0000" channel="kanal11.se">
     <title lang="sv">Caribbean Life</title>
     <desc lang="sv">Vi följer familjer som lämnar fastlandet bakom sig och åker till Karibien i sökandet efter en prisvärd bit av himlen.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/11786224323200249548?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20241203074500 +0000" stop="20241203081000 +0000" channel="kanal11.se">
+  <programme start="20241203074700 +0000" stop="20241203080945 +0000" channel="kanal11.se">
     <title lang="sv">Caribbean Life</title>
     <desc lang="sv">Vi följer familjer som lämnar fastlandet bakom sig och åker till Karibien i sökandet efter en prisvärd bit av himlen.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/11786224323200249548?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20241203081000 +0000" stop="20241203091000 +0000" channel="kanal11.se">
+  <programme start="20241203080945 +0000" stop="20241203091000 +0000" channel="kanal11.se">
     <title lang="sv">100 Day Dream Home</title>
     <desc lang="sv">Efter tio år av orkanevakueringar är familjen trötta på att behöva lämna sin hyrda bostad varje gång orkansäsongen är här.</desc>
     <category lang="sv">Entertainment</category>
@@ -4669,35 +4669,35 @@
     <icon src="https://cdn.images.simply.tv/15146694078560680900?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S9 E15</episode-num>
   </programme>
-  <programme start="20241203040000 +0000" stop="20241203050000 +0000" channel="tv12.se">
+  <programme start="20241203040000 +0000" stop="20241203050005 +0000" channel="tv12.se">
     <title lang="sv">Stjärnkusken</title>
     <desc lang="sv">Fem deltagare återstår i tävlingen.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/16043250522030189766?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20241203050000 +0000" stop="20241203060000 +0000" channel="tv12.se">
+  <programme start="20241203050005 +0000" stop="20241203060052 +0000" channel="tv12.se">
     <title lang="sv">112 - på liv och död</title>
     <desc lang="sv">Johan rycker ut för att ta hand om en våldsam man.</desc>
     <category lang="sv">Other</category>
     <icon src="https://cdn.images.simply.tv/15146694078560680900?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S7</episode-num>
   </programme>
-  <programme start="20241203060000 +0000" stop="20241203070000 +0000" channel="tv12.se">
+  <programme start="20241203060052 +0000" stop="20241203070005 +0000" channel="tv12.se">
     <title lang="sv">Pawn Stars</title>
     <desc lang="sv">Corey kikar på en första utgåva av "Hotel California".</desc>
     <category lang="sv">Entertainment</category>
-    <icon src="https://cdn.images.simply.tv/17342583031334044859?aspect_ratio=16:9"/>
+    <icon src="https://cdn.images.simply.tv/16488485741771143732?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S22 E26</episode-num>
   </programme>
-  <programme start="20241203070000 +0000" stop="20241203080000 +0000" channel="tv12.se">
+  <programme start="20241203070005 +0000" stop="20241203080013 +0000" channel="tv12.se">
     <title lang="sv">Stjärnkusken</title>
     <desc lang="sv">Deltagarnas kunskaper om hästarna sätts på prov.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/16043250522030189766?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20241203080000 +0000" stop="20241203090000 +0000" channel="tv12.se">
+  <programme start="20241203080013 +0000" stop="20241203090000 +0000" channel="tv12.se">
     <title lang="sv">112 - på liv och död</title>
     <desc lang="sv">En man har drabbats av hjärtstopp på ett tåg.</desc>
     <category lang="sv">Other</category>
@@ -5211,131 +5211,131 @@
     <desc lang="sv">Sändningsuppehåll.</desc>
     <category lang="sv">Sport</category>
   </programme>
-  <programme start="20241203050000 +0000" stop="20241203060000 +0000" channel="svtb.se">
+  <programme start="20241203050000 +0000" stop="20241203055952 +0000" channel="svtb.se">
     <title lang="sv">Sändningsuppehåll</title>
     <desc lang="sv">Sändningsuppehåll.</desc>
     <category lang="sv">Other</category>
   </programme>
-  <programme start="20241203060000 +0000" stop="20241203060500 +0000" channel="svtb.se">
+  <programme start="20241203055952 +0000" stop="20241203060429 +0000" channel="svtb.se">
     <title lang="sv">Doktor Samuel</title>
     <desc lang="sv">När Lee är ute och går med sin hund märker hon att hon ser suddigt på långt håll.</desc>
     <category lang="sv">Other</category>
     <icon src="https://cdn.images.simply.tv/7319975377565563686?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20241203060500 +0000" stop="20241203061000 +0000" channel="svtb.se">
+  <programme start="20241203060429 +0000" stop="20241203061140 +0000" channel="svtb.se">
     <title lang="sv">Peek Zoo</title>
     <desc lang="sv">Idag ska lemurerna flytta till sin nya inhägnad, men herr Peek vet inte hur han ska få dem att hjälpa till att packa.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/11656274043880571316?aspect_ratio=16:9"/>
-    <episode-num system="onscreen">E4</episode-num>
+    <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20241203061000 +0000" stop="20241203061500 +0000" channel="svtb.se">
+  <programme start="20241203061140 +0000" stop="20241203061506 +0000" channel="svtb.se">
     <title lang="sv">Visste du?</title>
     <desc lang="sv">Vad kommer efter sommaren? Jo, hösten förstås! Och trädens alla gröna blad blir röda, gula och orange! Men vet du varför löven ändrar färg på hösten?</desc>
     <category lang="sv">Children</category>
     <icon src="https://cdn.images.simply.tv/2552162813559150278?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20241203061500 +0000" stop="20241203062500 +0000" channel="svtb.se">
+  <programme start="20241203061506 +0000" stop="20241203062800 +0000" channel="svtb.se">
     <title lang="sv">Julkalendern: Snödrömmar</title>
     <desc lang="sv">Värdshuset får plötsligt två gäster som ger Maggan en idé om hur hon ska rädda sin skidort.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/683405243048412493?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20241203062500 +0000" stop="20241203063000 +0000" channel="svtb.se">
+  <programme start="20241203062800 +0000" stop="20241203063140 +0000" channel="svtb.se">
     <title lang="sv">Julkalendern 2024: Lucköppning</title>
     <desc lang="sv">Barnens julvärd Malin Olsson öppnar dagens lucka till årets julkalender.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/5596087339905554015?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20241203063000 +0000" stop="20241203064000 +0000" channel="svtb.se">
+  <programme start="20241203063140 +0000" stop="20241203063845 +0000" channel="svtb.se">
     <title lang="sv">Fåret Shaun</title>
     <desc lang="sv">Leranimerad humorserie. Spela golf. När bonden inte ser på blir djuren sina riktiga jag.     Detta avsnitt: Spela golf.</desc>
     <category lang="sv">Series</category>
-    <icon src="https://cdn.images.simply.tv/2473443288075383401?aspect_ratio=16:9"/>
+    <icon src="https://cdn.images.simply.tv/3000306688868043231?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20241203064000 +0000" stop="20241203065000 +0000" channel="svtb.se">
+  <programme start="20241203063845 +0000" stop="20241203065051 +0000" channel="svtb.se">
     <title lang="sv">Pyjamashjältarna</title>
     <desc lang="sv">På natten förvandlas Oscar, Amanda och Jens till de tre pyjamashjältarna Kattpojken, Ugglis och Gecko. Tillsammans skyddar de staden mot alla skurkar.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/8274088963956580263?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S4 E24</episode-num>
   </programme>
-  <programme start="20241203065000 +0000" stop="20241203065500 +0000" channel="svtb.se">
+  <programme start="20241203065051 +0000" stop="20241203065816 +0000" channel="svtb.se">
     <title lang="sv">Heja! Heja! Billy Bilsson</title>
     <desc lang="sv">Häng med Billy och lillasyster Chrissy på äventyr i Stötfångarstad.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/1897782029389310756?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20241203065500 +0000" stop="20241203070500 +0000" channel="svtb.se">
+  <programme start="20241203065816 +0000" stop="20241203070526 +0000" channel="svtb.se">
     <title lang="sv">Mumfie</title>
     <desc lang="sv">Elefanten Mumfie bor på en liten ö där det alltid är nära till vänner och äventyr.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/3051622149967769520?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E31</episode-num>
   </programme>
-  <programme start="20241203070500 +0000" stop="20241203071500 +0000" channel="svtb.se">
+  <programme start="20241203070526 +0000" stop="20241203071635 +0000" channel="svtb.se">
     <title lang="sv">Tilde</title>
     <desc lang="sv">Ett ridderligt äventyr. Tilde är tjejen som tillsammans med sin hund och sina vänner utforskar världen med hjälp av sina teknikprylar.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/12026500744808648878?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20241203071500 +0000" stop="20241203073000 +0000" channel="svtb.se">
+  <programme start="20241203071635 +0000" stop="20241203072844 +0000" channel="svtb.se">
     <title lang="sv">Octonauterna</title>
     <desc lang="sv">Animerat undervattensäventyr.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/7614518742105733436?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20241203073000 +0000" stop="20241203074000 +0000" channel="svtb.se">
+  <programme start="20241203072844 +0000" stop="20241203074021 +0000" channel="svtb.se">
     <title lang="sv">Smurfarna</title>
     <desc lang="sv">De små, blå smurfarna drar ut på äventyr och tillsammans försöker de lura den elake Gargamel.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/4128565859334675608?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E26</episode-num>
   </programme>
-  <programme start="20241203074000 +0000" stop="20241203075000 +0000" channel="svtb.se">
+  <programme start="20241203074021 +0000" stop="20241203075135 +0000" channel="svtb.se">
     <title lang="sv">Karl, den pyttelilla riddaren</title>
     <desc lang="sv">Även den som är väldigt liten kan utföra stordåd!</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/1744577066540631462?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20241203075000 +0000" stop="20241203080000 +0000" channel="svtb.se">
+  <programme start="20241203075135 +0000" stop="20241203080239 +0000" channel="svtb.se">
     <title lang="sv">Lilla prinsessan</title>
     <desc lang="sv">Tecknad brittisk serie om en nyfiken och vetgirig prinsessa. Om den lilla prinsessan inte får som hon vill blir hon arg.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/2571917065939692487?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20241203080000 +0000" stop="20241203081500 +0000" channel="svtb.se">
+  <programme start="20241203080239 +0000" stop="20241203081351 +0000" channel="svtb.se">
     <title lang="sv">Våfflan</title>
     <desc lang="sv">Våfflans bollhav. En magisk talande hund? Är det sant? Jajamän!</desc>
     <category lang="sv">Series</category>
-    <icon src="https://cdn.images.simply.tv/14714188826091670732?aspect_ratio=16:9"/>
+    <icon src="https://cdn.images.simply.tv/8189577557399341552?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E16</episode-num>
   </programme>
-  <programme start="20241203081500 +0000" stop="20241203082500 +0000" channel="svtb.se">
+  <programme start="20241203081351 +0000" stop="20241203082509 +0000" channel="svtb.se">
     <title lang="sv">Fix och trix</title>
     <desc lang="sv">Bihn och Boo gillar att vara i sin trädkoja och skapa olika världar till sina leksaker. Med lite "fix och trix" kan man bygga allt möjligt.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/10188965110473146471?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20241203082500 +0000" stop="20241203083000 +0000" channel="svtb.se">
+  <programme start="20241203082509 +0000" stop="20241203082920 +0000" channel="svtb.se">
     <title lang="sv">Heja! Heja! Billy Bilsson</title>
     <desc lang="sv">Billy Bilssons lilla syster Chrissy ger sig iväg på egna äventyr.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/1897782029389310756?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E15</episode-num>
   </programme>
-  <programme start="20241203083000 +0000" stop="20241203084000 +0000" channel="svtb.se">
+  <programme start="20241203082920 +0000" stop="20241203084000 +0000" channel="svtb.se">
     <title lang="sv">Pettson och Findus på nya äventyr</title>
     <desc lang="sv">Det går inte en dag utan att katten Findus och gubben Pettson hittar på nya upptåg eller uppfinningar!</desc>
     <category lang="sv">Series</category>
@@ -6830,145 +6830,145 @@
     <desc lang="sv">Sändningsuppehåll.</desc>
     <category lang="sv">Sport</category>
   </programme>
-  <programme start="20241203050000 +0000" stop="20241203060000 +0000" channel="svt24.se">
+  <programme start="20241203050000 +0000" stop="20241203055952 +0000" channel="svt24.se">
     <title lang="sv">Sändningsuppehåll</title>
     <desc lang="sv">Sändningsuppehåll.</desc>
     <category lang="sv">Other</category>
   </programme>
-  <programme start="20241203060000 +0000" stop="20241203060500 +0000" channel="svt24.se">
+  <programme start="20241203055952 +0000" stop="20241203060429 +0000" channel="svt24.se">
     <title lang="sv">Doktor Samuel</title>
     <desc lang="sv">När Lee är ute och går med sin hund märker hon att hon ser suddigt på långt håll.</desc>
     <category lang="sv">Other</category>
     <icon src="https://cdn.images.simply.tv/7319975377565563686?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20241203060500 +0000" stop="20241203061000 +0000" channel="svt24.se">
+  <programme start="20241203060429 +0000" stop="20241203061140 +0000" channel="svt24.se">
     <title lang="sv">Peek Zoo</title>
     <desc lang="sv">Idag ska lemurerna flytta till sin nya inhägnad, men herr Peek vet inte hur han ska få dem att hjälpa till att packa.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/11656274043880571316?aspect_ratio=16:9"/>
-    <episode-num system="onscreen">E4</episode-num>
+    <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20241203061000 +0000" stop="20241203061500 +0000" channel="svt24.se">
+  <programme start="20241203061140 +0000" stop="20241203061506 +0000" channel="svt24.se">
     <title lang="sv">Visste du?</title>
     <desc lang="sv">Vad kommer efter sommaren? Jo, hösten förstås! Och trädens alla gröna blad blir röda, gula och orange! Men vet du varför löven ändrar färg på hösten?</desc>
     <category lang="sv">Children</category>
     <icon src="https://cdn.images.simply.tv/2552162813559150278?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20241203061500 +0000" stop="20241203062500 +0000" channel="svt24.se">
+  <programme start="20241203061506 +0000" stop="20241203062800 +0000" channel="svt24.se">
     <title lang="sv">Julkalendern: Snödrömmar</title>
     <desc lang="sv">Värdshuset får plötsligt två gäster som ger Maggan en idé om hur hon ska rädda sin skidort.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/683405243048412493?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20241203062500 +0000" stop="20241203063000 +0000" channel="svt24.se">
+  <programme start="20241203062800 +0000" stop="20241203063140 +0000" channel="svt24.se">
     <title lang="sv">Julkalendern 2024: Lucköppning</title>
     <desc lang="sv">Barnens julvärd Malin Olsson öppnar dagens lucka till årets julkalender.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/5596087339905554015?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20241203063000 +0000" stop="20241203064000 +0000" channel="svt24.se">
+  <programme start="20241203063140 +0000" stop="20241203063845 +0000" channel="svt24.se">
     <title lang="sv">Fåret Shaun</title>
     <desc lang="sv">Leranimerad humorserie. Spela golf. När bonden inte ser på blir djuren sina riktiga jag.     Detta avsnitt: Spela golf.</desc>
     <category lang="sv">Series</category>
-    <icon src="https://cdn.images.simply.tv/2473443288075383401?aspect_ratio=16:9"/>
+    <icon src="https://cdn.images.simply.tv/3000306688868043231?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20241203064000 +0000" stop="20241203065000 +0000" channel="svt24.se">
+  <programme start="20241203063845 +0000" stop="20241203065051 +0000" channel="svt24.se">
     <title lang="sv">Pyjamashjältarna</title>
     <desc lang="sv">På natten förvandlas Oscar, Amanda och Jens till de tre pyjamashjältarna Kattpojken, Ugglis och Gecko. Tillsammans skyddar de staden mot alla skurkar.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/8274088963956580263?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S4 E24</episode-num>
   </programme>
-  <programme start="20241203065000 +0000" stop="20241203065500 +0000" channel="svt24.se">
+  <programme start="20241203065051 +0000" stop="20241203065816 +0000" channel="svt24.se">
     <title lang="sv">Heja! Heja! Billy Bilsson</title>
     <desc lang="sv">Häng med Billy och lillasyster Chrissy på äventyr i Stötfångarstad.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/1897782029389310756?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20241203065500 +0000" stop="20241203070500 +0000" channel="svt24.se">
+  <programme start="20241203065816 +0000" stop="20241203070526 +0000" channel="svt24.se">
     <title lang="sv">Mumfie</title>
     <desc lang="sv">Elefanten Mumfie bor på en liten ö där det alltid är nära till vänner och äventyr.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/3051622149967769520?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E31</episode-num>
   </programme>
-  <programme start="20241203070500 +0000" stop="20241203071500 +0000" channel="svt24.se">
+  <programme start="20241203070526 +0000" stop="20241203071635 +0000" channel="svt24.se">
     <title lang="sv">Tilde</title>
     <desc lang="sv">Ett ridderligt äventyr. Tilde är tjejen som tillsammans med sin hund och sina vänner utforskar världen med hjälp av sina teknikprylar.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/12026500744808648878?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20241203071500 +0000" stop="20241203073000 +0000" channel="svt24.se">
+  <programme start="20241203071635 +0000" stop="20241203072844 +0000" channel="svt24.se">
     <title lang="sv">Octonauterna</title>
     <desc lang="sv">Animerat undervattensäventyr.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/7614518742105733436?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20241203073000 +0000" stop="20241203074000 +0000" channel="svt24.se">
+  <programme start="20241203072844 +0000" stop="20241203074021 +0000" channel="svt24.se">
     <title lang="sv">Smurfarna</title>
     <desc lang="sv">De små, blå smurfarna drar ut på äventyr och tillsammans försöker de lura den elake Gargamel.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/4128565859334675608?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E26</episode-num>
   </programme>
-  <programme start="20241203074000 +0000" stop="20241203075000 +0000" channel="svt24.se">
+  <programme start="20241203074021 +0000" stop="20241203075135 +0000" channel="svt24.se">
     <title lang="sv">Karl, den pyttelilla riddaren</title>
     <desc lang="sv">Även den som är väldigt liten kan utföra stordåd!</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/1744577066540631462?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20241203075000 +0000" stop="20241203080000 +0000" channel="svt24.se">
+  <programme start="20241203075135 +0000" stop="20241203080239 +0000" channel="svt24.se">
     <title lang="sv">Lilla prinsessan</title>
     <desc lang="sv">Tecknad brittisk serie om en nyfiken och vetgirig prinsessa. Om den lilla prinsessan inte får som hon vill blir hon arg.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/2571917065939692487?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20241203080000 +0000" stop="20241203081500 +0000" channel="svt24.se">
+  <programme start="20241203080239 +0000" stop="20241203081351 +0000" channel="svt24.se">
     <title lang="sv">Våfflan</title>
     <desc lang="sv">Våfflans bollhav. En magisk talande hund? Är det sant? Jajamän!</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/14714188826091670732?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E16</episode-num>
   </programme>
-  <programme start="20241203081500 +0000" stop="20241203082500 +0000" channel="svt24.se">
+  <programme start="20241203081351 +0000" stop="20241203082509 +0000" channel="svt24.se">
     <title lang="sv">Fix och trix</title>
     <desc lang="sv">Bihn och Boo gillar att vara i sin trädkoja och skapa olika världar till sina leksaker. Med lite "fix och trix" kan man bygga allt möjligt.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/10188965110473146471?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20241203082500 +0000" stop="20241203083000 +0000" channel="svt24.se">
+  <programme start="20241203082509 +0000" stop="20241203082920 +0000" channel="svt24.se">
     <title lang="sv">Heja! Heja! Billy Bilsson</title>
     <desc lang="sv">Billy Bilssons lilla syster Chrissy ger sig iväg på egna äventyr.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/1897782029389310756?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E15</episode-num>
   </programme>
-  <programme start="20241203083000 +0000" stop="20241203084000 +0000" channel="svt24.se">
+  <programme start="20241203082920 +0000" stop="20241203084128 +0000" channel="svt24.se">
     <title lang="sv">Pettson och Findus på nya äventyr</title>
     <desc lang="sv">Det går inte en dag utan att katten Findus och gubben Pettson hittar på nya upptåg eller uppfinningar!</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/9107564428928384683?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20241203084000 +0000" stop="20241203085000 +0000" channel="svt24.se">
+  <programme start="20241203084128 +0000" stop="20241203084907 +0000" channel="svt24.se">
     <title lang="sv">Lu och Småkrypsgänget</title>
     <desc lang="sv">Följ med nyckelpigan Lu och hennes småkrypsvänner till Skalskolan. Här händer det många roliga saker varje dag.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/9416293704787280748?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E19</episode-num>
   </programme>
-  <programme start="20241203085000 +0000" stop="20241203085500 +0000" channel="svt24.se">
+  <programme start="20241203084907 +0000" stop="20241203085500 +0000" channel="svt24.se">
     <title lang="sv">Karlas kalasklass</title>
     <desc lang="sv">Om Karla får bestämma...</desc>
     <category lang="sv">Series</category>
@@ -8263,14 +8263,14 @@
     <category lang="sv">Sport</category>
     <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2016/10/13/57ff9f5728ec3.jpg"/>
   </programme>
-  <programme start="20241203120000 +0000" stop="20241203140000 +0000" channel="viasatsportvinter.se">
+  <programme start="20241203120000 +0000" stop="20241203134500 +0000" channel="viasatsportvinter.se">
     <title lang="sv">NHL: Toronto Maple Leafs-Chicago Blackhawks</title>
     <desc lang="sv">Från Scotiabank Arena, Toronto. (2/12-24).</desc>
     <category lang="sv">Sport</category>
     <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/10/18/67121c488d68b.jpg"/>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20241203140000 +0000" stop="20241203150000 +0000" channel="viasatsportvinter.se">
+  <programme start="20241203134500 +0000" stop="20241203150000 +0000" channel="viasatsportvinter.se">
     <title lang="sv">Längdåkning: Sprint, klassisk stil, prolog (D/H)</title>
     <desc lang="sv">Från Ruka, Finland. Kommentatorer: Per Forsberg &amp; Anna-Karin Strömstedt. (30/11-24).</desc>
     <category lang="sv">Sport</category>
@@ -9664,9 +9664,32 @@
     <desc lang="el">'Το ίδιο μας το αίμα.' Στον Πειραιά, ο Καστελάνης κάνει έναν νέο φίλο και σύντομα τους εντυπωσιάζει όλους με τη δεξιοτεχνία του ως τσαγκάρης και το ταλέντο του ως λυράρης. Η γυναίκα του θείου του, όμως, δεν τον έχει πάρει με καλό μάτι. Παραγωγή: COSMOTE TV. (44') Παραγωγή: Ελλάδα (2024).</desc>
     <icon src="https://www.ishow.gr/files/images/2024/1/3ab692fc-f0d1-4f93-b8a5-9fced2b60197.jpg"/>
   </programme>
-  <programme start="20241204003000 +0200" stop="20241204041000 +0200" channel="mega.gr">
+  <programme start="20241204003000 +0200" stop="20241204015000 +0200" channel="mega.gr">
     <title lang="el">Mega Stories</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
+  </programme>
+  <programme start="20241204015000 +0200" stop="20241204041000 +0200" channel="mega.gr">
+    <title lang="el">Ξυπνήματα στη Γαλάζια Λίμνη</title>
+    <desc lang="el">Δύο συμμαθητές στο γυμνάσιο, η Έμα και ο Ντιν, ναυαγούν σε ένα τροπικό νησί και αναγκάζονται να βασιστούν ο ένας στον άλλο, για να επιβιώσουν. Εκεί ανακαλύπτουν περισσότερα τόσο για τον εαυτό τους, όσο και ο ένας για τον άλλο, καταλήγοντας να ερωτευτούν.</desc>
+    <credits>
+      <director>Έρικ Bross</director>
+      <actor role="Emmaline 'Emma' Robinson">Indiana Έβανς</actor>
+      <actor role="Dean McMullen">Brenton Thwaites</actor>
+      <actor role="Barbara Robinson">Ντενίζ Ρίτσαρντς</actor>
+      <actor role="Jack McMullen">Πάτρικ St. Esprit</actor>
+      <actor role="Phil Robinson">Φρανκ Χιουζ</actor>
+      <actor role="Lizzie">Alix Gitter</actor>
+      <actor role="Stacey Robinson">Carrie Wampler</actor>
+      <actor role="Helen">Hayley Kiyoko</actor>
+      <actor role="Jude">Aimee Carrero</actor>
+      <actor role="Ms. Collier">Άνι Tedesco</actor>
+      <writer>Χένρι De Vere Stacpoole</writer>
+      <producer>Julie Antonelli</producer>
+      <composer>Tree Άνταμς</composer>
+    </credits>
+    <date>2012</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr/files/images/2014/8/12/98089213-02fb-4d31-b933-8a58380107d0.jpg"/>
   </programme>
   <programme start="20241204041000 +0200" stop="20241204050000 +0200" channel="mega.gr">
     <title lang="el">Το Αύριο μας Ανήκει</title>
@@ -10206,7 +10229,7 @@
     <icon src="https://www.ishow.gr/files/images/2019/6/27/4e9329e9-b790-44e4-bf46-9f8e9c9f95bf_pposter.jpg"/>
     <episode-num system="onscreen">S2 E41</episode-num>
   </programme>
-  <programme start="20241203003000 +0200" stop="20241203023000 +0200" channel="alpha.gr">
+  <programme start="20241203010000 +0200" stop="20241203031000 +0200" channel="alpha.gr">
     <title lang="el">Ο κρυμμένος στρατιώτης</title>
     <desc lang="el">Καθώς οι αμερικανικές δυνάμεις βομβαρδίζουν το Τόκιο ως αντίποινα για την ιαπωνική επίθεση στο Περλ Χάρμπορ, ένας τραυματισμένος Αμερικανός πιλότος θα βρεθεί σε κινεζικό έδαφος και θα επιβιώσει χάρη στη βοήθεια μιας ντόπιας χήρας.</desc>
     <credits>
@@ -10228,7 +10251,7 @@
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/files/images/2021/8/5858b9e0-5f31-49a2-9b63-88c18904246d.jpg"/>
   </programme>
-  <programme start="20241203023000 +0200" stop="20241203041500 +0200" channel="alpha.gr">
+  <programme start="20241203031000 +0200" stop="20241203044500 +0200" channel="alpha.gr">
     <title lang="el">Παλικάρι στα θρανία</title>
     <desc lang="el">Έπειτα από πολλά χρόνια ανεργίας, ένας ιδεαλιστής φιλόλογος προσλαμβάνεται σε ένα ιδιωτικό λύκειο της Αθήνας. Πάνω που θεωρεί πως τα προβλήματά του είναι παρελθόν, οι κακομαθημένοι μαθητές του αρχίζουν να του κάνουν τη ζωή κόλαση.</desc>
     <credits>
@@ -10248,7 +10271,7 @@
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/files/images/2013/9/24/f3af731d-627a-4549-823e-6d0a8ca00571.jpg"/>
   </programme>
-  <programme start="20241203041500 +0200" stop="20241203051500 +0200" channel="alpha.gr">
+  <programme start="20241203044500 +0200" stop="20241203051500 +0200" channel="alpha.gr">
     <title lang="el">Αμφιβολίες</title>
     <desc lang="el">ΠΡΕΜΙΕΡΑ. Ιστορίες γεμάτες ένταση και συνεχείς ανατροπές, υποθέσεις αστυνομικού χαρακτήρα που σπείρουν αμφιβολίες στον πρωταγωνιστή που έρχεται αντιμέτωπος με την υποψία ότι κάποιος δικός του αγαπημένος άνθρωπος έχει διαπράξει κάποιο έγκλημα.</desc>
     <category lang="el">Σειρά</category>
@@ -10926,6 +10949,14 @@
     <category lang="el">Ειδήσεις</category>
     <icon src="https://www.ishow.gr/files/images/2021/3/8fe0366b-ab15-4b7e-bf77-4a3a2b68e6c5.jpg"/>
   </programme>
+  <programme start="20241204210000 +0200" stop="20241204234000 +0200" channel="star.gr">
+    <title lang="el">Φάρμα</title>
+    <desc lang="el">Στην καρδιά της ελληνικής φύσης, πολλά χιλιόμετρα μακριά από την άνεση του καναπέ, του ψυγείου και του ντελίβερι, οι παίκτες της Φάρμας καλούνται να αντιμετωπίσουν όλες τις προκλήσεις που κάνουν την αγροτική ζωή τόσο δύσκολη, αλλά ταυτόχρονα τόσο μαγευτική.</desc>
+    <credits>
+      <actor role="Παρουσίαση">Λεωνίδας Κουτσόπουλος</actor>
+    </credits>
+    <icon src="https://www.ishow.gr/files/images/2023/9/b6ac6562-52e7-4a41-8470-8afe13ff68c0.jpg"/>
+  </programme>
   <programme start="20241203010000 +0200" stop="20241203030000 +0200" channel="skai.gr">
     <title lang="el">Η Δίκη στον ΣΚΑΪ</title>
     <desc lang="el">Τα άδυτα... της διαιτησίας και του αθλητισμού αποκαλύπτονται από τη μακροβιότερη εκπομπή διαλόγου της ελληνικής τηλεόρασης με καλεσμένους από το χώρο του αθλητισμού, της δημοσιογραφίας και της πολιτικής.</desc>
@@ -11264,10 +11295,30 @@
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/files/images/2010/6/16/8a902cd2-57b9-43cb-b2e7-93ca8dee0912.jpg"/>
   </programme>
-  <programme start="20241203231500 +0200" stop="20241204021500 +0200" channel="epsilontv.gr">
+  <programme start="20241203231500 +0200" stop="20241204001500 +0200" channel="epsilontv.gr">
     <title lang="el">Real Detective</title>
     <desc lang="el">Ανάμεσα στις υποθέσεις που αναλαμβάνει κάθε ντετέκτιβ, υπάρχει πάντα μία που μπορεί να φτάνει την αντοχή του στα άκρα. Είναι η υπόθεση που μπορεί να καταλήξει ένα προσωπικό στοίχημα που στοιχειώνει το μυαλό του ίσως και για πάντα! Παραγωγή: Καναδάς (2016).</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
+  </programme>
+  <programme start="20241204001500 +0200" stop="20241204021500 +0200" channel="epsilontv.gr">
+    <title lang="el">Προς την άκρη του κόσμου</title>
+    <desc lang="el">Οι περιπέτειες του θαλασσοπόρου Τζέιμς Μπρουκ, που ξεκινώντας τη δική του σταυροφορία για τον τερματισμό της πειρατείας και της σκλαβιάς, ήρθε αντιμέτωπος με τη βρετανική αυτοκρατορία.</desc>
+    <credits>
+      <director>Μάικλ Haussman</director>
+      <actor role="Sir James Brooke">Τζόναθαν Ρις Μάγιερς</actor>
+      <actor role="Madame Lim">Josie Χο</actor>
+      <actor role="Arthur Crookshank">Ντόμινικ Μόναχαν</actor>
+      <actor role="Sir Edward Beech">Ραλφ Ίνεσον</actor>
+      <actor role="Elizabeth Crookshank">Hannah New</actor>
+      <actor role="Charley">Otto Farrant</actor>
+      <actor role="Pengiran Indera Mahkota">Bront Palarae</actor>
+      <actor role="Princess Fatima">Atiqah Hasiholan</actor>
+      <actor role="Sultan of Brunei">Wan Hanafi Su</actor>
+      <actor role="Subu">Shaheizy Sam</actor>
+      <writer>Rob Allyn</writer>
+      <composer>Will Bates</composer>
+    </credits>
+    <icon src="https://www.ishow.gr/files/images/2024/12/f57a94f4-60de-469a-a05c-62445bed1730.jpg"/>
   </programme>
   <programme start="20241204021500 +0200" stop="20241204030000 +0200" channel="epsilontv.gr">
     <title lang="el">Real Detective</title>
@@ -11342,10 +11393,33 @@
     <category lang="el">Ειδήσεις</category>
     <icon src="https://www.ishow.gr/files/images/2022/7/0247936c-436f-448f-a1d1-79a3a4da6925.jpg"/>
   </programme>
-  <programme start="20241204200000 +0200" stop="20241204233000 +0200" channel="epsilontv.gr">
+  <programme start="20241204200000 +0200" stop="20241204210000 +0200" channel="epsilontv.gr">
     <title lang="el">Μπέρδεμα από Κούνια</title>
     <desc lang="el">Η Μπέι Κένις μεγάλωσε σε μια πλούσια οικογένεια με τους γονείς και τον αδελφό της, ενώ η Ντάφνι Βάσκεζ σε μια μονογονεϊκή οικογένεια σε εργατική συνοικία του Μιζούρι. Μια μέρα ξαφνικά ανακαλύπτουν ότι τις μπερδεύτηκαν στο μαιευτήριο! Παραγωγή: ΗΠΑ.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
+  </programme>
+  <programme start="20241204210000 +0200" stop="20241204233000 +0200" channel="epsilontv.gr">
+    <title lang="el">Καν'το όπως ο Μπέκαμ</title>
+    <desc lang="el">Η Τζες είναι η μικρότερη κόρη μιας τυπικής άγγλο-ινδικής οικογένειας για την οποία η γονείς της τρέφουν όνειρα για σπουδές, γάμο με ένα καλό παλικάρι και δείπνα με παραδοσιακά καυτερά πιάτα ινδικής κουζίνας. Εκείνη πάλι, ονειρεύεται να μεγαλουργήσει στην ομάδα ποδοσφαίρου του σχολείου της και έχει ως απόλυτο Ίνδαλμά της τον Ντέιβιντ Μπέκαμ. Το πάθος της κόρης τους, προκαλεί όπως είναι φυσικό ρίγη στους γονείς της που δεν συμφωνούν με το εξαιρετικά ριζοσπαστικό για τα δεδομένα τους χόμπι της, και οι προσπάθειες τους να την αποτρέψουν, οδηγούν σε μια σειρά από ξεκαρδιστικές παρεξηγήσεις, μπλεξίματα και τριπλές μέχρι το αναπόφευκτο κωμικό γκολ του φινάλε.</desc>
+    <credits>
+      <director>Γκουριντέρ Ταάντχα</director>
+      <actor role="Jesminder 'Jess' Kaur Bhamra">Parminder Nagra</actor>
+      <actor role="Juliette 'Jules' Paxton">Κίρα Νάιτλι</actor>
+      <actor role="Joe">Τζόναθαν Ρις Μάγιερς</actor>
+      <actor role="Mr. Bhamra">Anupam Kher</actor>
+      <actor role="Pinky Bhamra">Άρτσι Παντζάμπι</actor>
+      <actor role="Mel">Shaznay Λιούις</actor>
+      <actor role="Alan Paxton">Φρανκ Χάρπερ</actor>
+      <actor role="Paula Paxton">Τζουλιέτ Στίβενσον</actor>
+      <actor role="Mrs. Bhamra">Shaheen Καν</actor>
+      <actor role="Tony">Ameet Chana</actor>
+      <writer>Γκουριντέρ Ταάντχα</writer>
+      <producer>Πολ Μαγιέντα Μπέργκες</producer>
+      <composer>Κραίγκ Pruess</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr/files/images/2013/12/30/45e4d354-1ffb-43df-b820-7f267ee841fd.jpg"/>
   </programme>
   <programme start="20241203000000 +0200" stop="20241203014000 +0200" channel="ert1.gr">
     <title lang="el">Ο μαφιόζος της διπλανής πόρτας</title>
@@ -11465,11 +11539,33 @@
     <icon src="https://www.ishow.gr/files/images/2023/9/cc607c9a-c9e2-4332-8116-7c01f062e964.jpg"/>
     <episode-num system="onscreen">S3 E53</episode-num>
   </programme>
-  <programme start="20241203230000 +0200" stop="20241204022000 +0200" channel="ert1.gr">
+  <programme start="20241203230000 +0200" stop="20241204000000 +0200" channel="ert1.gr">
     <title lang="el">Αρχελάου 5</title>
     <desc lang="el">Ο Ματθαίος μαθαίνει ότι η αστυνομία θα βάλει ξανά κάποιον να του τη στήσει κι αρχίζει να υποψιάζεται τους πάντες, πληγώνοντας την Πόπη με τη στάση του. Η Μαρούκα ψάχνει τρόπο να σώσει την Έρρικα πριν να είναι αργά. Παραγωγή: Ελλάδα (2024).</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/123.png"/>
     <episode-num system="onscreen">S2 E58</episode-num>
+  </programme>
+  <programme start="20241204000000 +0200" stop="20241204022000 +0200" channel="ert1.gr">
+    <title lang="el">Ανακαλύπτοντας τον Φόρεστερ</title>
+    <desc lang="el">Άριστος μαθητής, άριστος μπασκετμπολίστας, ο νεαρός μαύρος Τζαμάλ μοιάζει να μην ταιριάζει στη φτωχογειτονιά που μεγάλωσε, ούτε όμως και στο αριστοκρατικό σχολείο στο οποίο σπουδάζει με υποτροφία. Δεν έχει κανέναν με τον οποίο να μπορεί να μοιραστεί το κρυφό του όνειρο: να γίνει συγγραφέας. Ώσπου τυχαία ένα βράδυ γνωρίζει έναν εκκεντρικό ηλικιωμένο άνδρα. Ανάμεσα στους δύο αυτούς μοναχικούς ανθρώπους αναπτύσσεται μια φιλία που θα αποδειχθεί καταλυτική και για τους δύο. Όταν όμως ο Τζαμάλ θα κληθεί να πάρει κάποιες σημαντικές αποφάσεις που αφορούν στο μέλλον του, θα ανακαλύψει ότι είναι και πάλι μόνος. Ή μήπως όχι;.</desc>
+    <credits>
+      <director>Γκας Βαν Σαντ</director>
+      <actor role="William Forrester">Σον Κόνερι</actor>
+      <actor role="Jamal Wallace">Ρομπ Μπράουν (ηθοποιός)</actor>
+      <actor role="Prof. Robert Crawford">Μάρεϊ Άμπραχαμ</actor>
+      <actor role="Claire Spence">Άννα Πάκουιν</actor>
+      <actor role="Old Money Man">Τομ Μουλίκα</actor>
+      <actor role="Terrell Wallace">Busta Rhymes</actor>
+      <actor role="Ms. Joyce">Έιπριλ Γκρέις</actor>
+      <actor role="John Coleridge">Μάικλ Pitt</actor>
+      <actor role="Dr. Spence">Μάικλ Νούρι</actor>
+      <actor role="Prof. Matthews">Ρίτσαρντ Easton</actor>
+      <writer>Μάικ Ριτς</writer>
+      <producer>Σον Κόνερι</producer>
+    </credits>
+    <date>2000</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr/files/images/2013/9/25/815f6c24-ba5e-439d-a0e3-6977b290703f.jpg"/>
   </programme>
   <programme start="20241204022000 +0200" stop="20241204044500 +0200" channel="ert1.gr">
     <title lang="el">Στούντιο 4</title>
@@ -12038,10 +12134,33 @@
     <desc lang="el">Το σημερινό επεισόδιο της εκπομπής είναι αφιερωμένο στον Γιώργο Μητσάκη. Είναι δημιουργός εκατοντάδων ρεμπέτικων και λαϊκών τραγουδιών και έμεινε γνωστός με το προσωνύμιο 'Ο δάσκαλος'.</desc>
     <icon src="https://www.ishow.gr/files/images/2017/3/10/f2cef883-4fe9-4515-b9b4-2c2d9f9cced2.jpg"/>
   </programme>
-  <programme start="20241204200000 +0200" stop="20241204230000 +0200" channel="ert2.gr">
+  <programme start="20241204200000 +0200" stop="20241204210000 +0200" channel="ert2.gr">
     <title lang="el">Volume</title>
     <desc lang="el">Οι Baildsa είναι ένα γκρουπ με βάση τη Θεσσαλονίκη, που συνδυάζει βαλκανικούς ήχους και τσιγγάνικες μελωδίες με post punk αισθητική. Απ' το 2007 σταδιακά το ύφος τους μπολιάστηκε με νέα στοιχεία ska, reggae και rap, καταλήγοντας στη σημερινή τους μορφή και σύνθεση.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
+  </programme>
+  <programme start="20241204210000 +0200" stop="20241204230000 +0200" channel="ert2.gr">
+    <title lang="el">Το ζευγάρι της χρονιάς</title>
+    <desc lang="el">Αναμφισβήτητα είναι το ζευγάρι της χρονιάς! Εκείνη διάσημη ντίβα της showbiz. Εκείνος καταξιωμένος αστέρας του Χόλιγουντ, σύντροφος και συμπρωταγωνιστής της. Η Γκουέν και ο ’Εντι μετρούν εννέα μεγάλες κινηματογραφικές επιτυχίες και περίπου... 18 μήνες χωρισμού. ’Ενας βετεράνος ατζέντης αναλαμβάνει να οργανώσει την πολυαναμενόμενη εμφάνιση του ζεύγους στην πρεμιέρα της καινούριας τους ταινίας, «γυαλίζοντας» λιγάκι τη δημόσια εικόνα τους, ύστερα από τις διόλου κολακευτικές φήμες για τον Ισπανό εραστή της σούπερ σταρ. Στο πλευρό του έχει την Κίκι, την αδελφή -και προσωπική βοηθό- της αυτάρεσκης ηθοποιού. Ωστόσο, τα σχέδια του βετεράνου ατζέντη δεν εξελίσσονται έτσι όπως τα περίμενε....</desc>
+    <credits>
+      <director>Joe Ροθ</director>
+      <actor role="Kathleen">Τζούλια Ρόμπερτς</actor>
+      <actor role="Lee Phillips">Μπίλι Κρίσταλ</actor>
+      <actor role="Gwen Harrison">Κάθριν Ζέτα-Τζόουνς</actor>
+      <actor role="Eddie Thomas">Τζον Κιούζακ</actor>
+      <actor role="Hector Gorgonzolas">Χανκ Αζάρια</actor>
+      <actor role="Dave Kingman">Stanley Tucci</actor>
+      <actor role="Hal Weidmann">Κρίστοφερ Γουόκεν</actor>
+      <actor role="Wellness Guide">Άλαν Άρκιν</actor>
+      <actor role="Danny Wax">Σιθ Γκριν</actor>
+      <actor role="Davis">Scot Zeller</actor>
+      <writer>Μπίλι Κρίσταλ</writer>
+      <producer>Σούζαν Άρνολντ</producer>
+      <composer>Τζέιμς Χάουαρντ</composer>
+    </credits>
+    <date>2001</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr/files/images/2013/7/28/ec49c812-48da-40c3-93cc-5ea725a138fd.jpg"/>
   </programme>
   <programme start="20241204230000 +0200" stop="20241204233000 +0200" channel="ert2.gr">
     <title lang="el">Atypical</title>
@@ -12265,9 +12384,14 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
     <episode-num system="onscreen">S3 E10</episode-num>
   </programme>
-  <programme start="20241204070000 +0200" stop="20241204090000 +0200" channel="ert3.gr">
+  <programme start="20241204070000 +0200" stop="20241204080000 +0200" channel="ert3.gr">
     <title lang="el">Θρυλικές Διαδρομές</title>
     <desc lang="el">Φαντάσματα, στοιχειωμένα κάστρα, το τέρας του Λοχ Νες, η Σκωτία είναι μια μυστηριώδης χώρα λουσμένη σε μια φανταστική ατμόσφαιρα. Ανακαλύψτε τη χώρα που ορισμένοι θεωρούν την πιο στοιχειωμένη στον κόσμο. Παραγωγή: Γαλλία (2020).</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="ert3.gr">
+    <title lang="el">Ελάφι, ο Βασιλιάς του Δάσους</title>
+    <desc lang="el">(2020). Το ελάφι είναι ο βασιλιάς των δασών μας. Στη διάρκεια της ζωής του, αυτό το διακριτικό ζώο στην καρδιά ενός πολύπλοκου οικοσυστήματος δέχεται προκλήσεις από τους ομοειδείς του: να τραφεί, να κυριαρχήσει στους αντιπάλους, να αναπαραχθεί.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
   </programme>
   <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="ert3.gr">
@@ -12327,13 +12451,18 @@
     <desc lang="el">Η Κάτι αγαπά τις κότες της, αλλά πρέπει και να ζήσει από αυτές. Γι' αυτό και η επίσκεψη από τον χασάπη είναι δύσκολη για εκείνη. Η Κάτι πρέπει να δώσει για σφάξιμο 160 ζώα που θα γίνουν κοτόπουλα για σούπα. (2022).</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
   </programme>
-  <programme start="20241204160000 +0200" stop="20241204180000 +0200" channel="ert3.gr">
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="ert3.gr">
     <title lang="el">Ο Κόσμος των Σπορ</title>
     <desc lang="el">H εκπομπή μας μεταφέρει τον παλμό της αθλητικής επικαιρότητας με τις πιο φρέσκες ειδήσεις, σχολιασμό της ειδησεογραφίας, αναλύσεις, καλεσμένους στο στούντιο και απευθείας συνδέσεις.</desc>
     <credits>
       <actor>Πάνος Μπλέτσος</actor>
     </credits>
     <icon src="https://www.ishow.gr/files/images/2022/11/d5a53c7d-ddab-43d2-8b9c-4ebd33c10d9e.jpg"/>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="ert3.gr">
+    <title lang="el">Ελάφι, ο Βασιλιάς του Δάσους</title>
+    <desc lang="el">(2020). Το ελάφι είναι ο βασιλιάς των δασών μας. Στη διάρκεια της ζωής του, αυτό το διακριτικό ζώο στην καρδιά ενός πολύπλοκου οικοσυστήματος δέχεται προκλήσεις από τους ομοειδείς του: να τραφεί, να κυριαρχήσει στους αντιπάλους, να αναπαραχθεί.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
   </programme>
   <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="ert3.gr">
     <title lang="el">Balkan Express</title>
@@ -12791,25 +12920,8 @@
     <icon src="https://www.ishow.gr/files/images/2010/9/2/0031fbf6-0cf7-4af6-8ade-0a00e0fbb172.jpg"/>
   </programme>
   <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="makedoniatv.gr">
-    <title lang="el">Εγκλήματα</title>
-    <desc lang="el">Τα θεότρελα καθημερινά "Εγκλήματα" των ηρώων της επιτυχημένης σειράς του ΑΝΤ1 πρόσφεραν στους τηλεθεατές δύο σεζόν απολαυστικών τηλεοπτικών στιγμών. Ο Αχιλλέας ανακαλύπτει τη χαμένη του αδελφή, Κορίνα, μέσα από μια εκπομπή αναζήτησης χαμένων προσώπων. Ο φιλάσθενος πατέρας τους, Αριστείδης, αισθάνεται ευτυχισμένος που βρήκε την κόρη του και πιστεύει ότι η ζωή θα είναι πια καλύτερη γι αυτόν. Όμως στη ζωή της Κορίνας υπάρχει ένα μεγάλο μυστικό, το οποίο ελάχιστοι γνωρίζουν... Η γυναίκα του Αχιλλέα, η Φλώρα, είναι απογοητευμένη από τον γάμο της και θυμάται με νοσταλγία το εφηβικό της φλερτ με τον Αλέκο. Και ο Αλέκος την σκέπτεται κάπου-κάπου, όμως είναι παντρεμένος με την αδίστακτη Σωσώ και αναγκάζεται να πνίγει τον καημό του στο χασάπικό του και να αμπελοφιλοσοφεί με τον βοηθό του, Μιχάλη. Η Φλώρα και ο Αλέκος θα συναντηθούν και το παλιό αίσθημα θα ξαναφουντώσει.</desc>
-    <credits>
-      <director>Αντώνης Τέμπος</director>
-      <actor>Χρήστος Χατζηπαναγιώτης</actor>
-      <actor>Υρώ Μανέ</actor>
-      <actor>Μαρία Καβογιάννη</actor>
-      <actor>Κώστας Κόκλας</actor>
-      <actor>Καίτη Κωνσταντίνου</actor>
-      <actor>Αθηνόδωρος Προύσαλης</actor>
-      <actor>Σούλα Αθανασιάδου</actor>
-      <actor>Σταύρος Νικολαΐδης</actor>
-      <actor>Βασίλης Χαραλαμπόπουλος</actor>
-      <actor>Βασίλης Ευταξόπουλος</actor>
-      <writer>Λευτέρης Παπαπέτρου</writer>
-    </credits>
-    <date>1999</date>
-    <category lang="el">Σειρά</category>
-    <icon src="https://www.ishow.gr/files/images/2013/8/16/6ee915e7-3c2b-466f-9dad-db7a2d6193e3.jpg"/>
+    <title lang="el">Δικαστικές Υποθέσεις</title>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/43.png"/>
   </programme>
   <programme start="20241204090000 +0200" stop="20241204130000 +0200" channel="makedoniatv.gr">
     <title lang="el">Η Αγορά Σήμερα</title>
@@ -13338,7 +13450,7 @@
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/files/images/2018/12/28/c99b33b0-6d3c-4b3f-a177-ad5ddc101c40.jpg"/>
   </programme>
-  <programme start="20241204074500 +0200" stop="20241204110500 +0200" channel="cosmotecinema1.gr">
+  <programme start="20241204074500 +0200" stop="20241204092500 +0200" channel="cosmotecinema1.gr">
     <title lang="el">The wannabes</title>
     <desc lang="el">Ο Ντάνι δεν είχε ποτέ ταλέντο. Έτσι αποφάσισε να διδάσκει τραγούδι, χορό και υποκριτική. 
 Όταν ένα γκρουπ επίδοξων περφόρμερς εμφανίζεται μπροστά του και ζητά τη βοήθειά του, με σκοπό να εμφανιστούν στο μεγάλο πάρτι που διοργανώνει η πάμπλουτη κυρία Βαν Ντουκ για τον εγγονό της, ο Ντάνι δέχεται με ενθουσιασμό. Στην πραγματικότητα όμως, ο σκοπός τους είναι να κλέψουν το διάσημο διαμαντένιο της κολιέ. Η ληστεία στέφεται με... αποτυχία όμως το γκρουπ λατρεύεται από το νεαρό κοινό. Η επιτυχία δεν αργεί να τους χτυπήσει την πόρτα - δίσκοι, τηλεοπτικές εμφανίσεις, γυναίκες, εξώφυλλα περιοδικών - όμως το παρελθόν καταφθάνει κι αυτό επίσης για να τους... κυνηγήσει!</desc>
@@ -13361,6 +13473,29 @@
     <date>2003</date>
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/64.png"/>
+  </programme>
+  <programme start="20241204092500 +0200" stop="20241204110500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Επιτέλους, λίγη σοβαρότητα κύριε Σέρλοκ Χολμς</title>
+    <desc lang="el">Σε μια διαφορετική εκδοχή του μύθου του πιο διάσημου ντετέκτιβ όλων των εποχών, ο δαιμόνιος, πολυπράγμων και ιδιοφυής δρ. Γουάτσον και ο μέθυσος, γυναικάς κι αφελής Σέρλοκ Χολμς καλούνται να εξιχνιάσουν ένα ακόμα μυστηριώδες έγκλημα!</desc>
+    <credits>
+      <director>Τομ Εμπερχαρντ</director>
+      <actor role="Sherlock Holmes">Μάικλ Κέιν</actor>
+      <actor role="Dr. John Watson">Σερ Μπεν Κίνγκσλεϊ</actor>
+      <actor role="Inspector Lestrade">Τζέφρι Τζόουνς</actor>
+      <actor role="Impostor Leslie Giles">Λιζέτ Άντονι</actor>
+      <actor role="Professor James Moriarty">Πολ Φρίμαν (ηθοποιός)</actor>
+      <actor role="Lord Smithwick">Νάιτζελ Ντάβενπορτ</actor>
+      <actor role="Mrs. Hudson">Πατ Keen</actor>
+      <actor role="Norman Greenhough">Πήτερ Κουκ</actor>
+      <actor role="Sebastian">Τιμ Killick</actor>
+      <actor role="Wiggins">Μάθιου Savage</actor>
+      <writer>Γκάρι Μέρφι</writer>
+      <producer>Diana Buckhantz</producer>
+      <composer>Χένρι Μαντσίνι</composer>
+    </credits>
+    <date>1988</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr/files/images/2015/11/6/42daf963-9db8-40af-8f8f-8684e956fd3b.jpg"/>
   </programme>
   <programme start="20241204110500 +0200" stop="20241204130000 +0200" channel="cosmotecinema1.gr">
     <title lang="el">Βατέλ</title>
@@ -13458,7 +13593,7 @@
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/files/images/2014/7/23/5e4181a6-c212-4881-afd2-6eac191f5a1c.jpg"/>
   </programme>
-  <programme start="20241204191500 +0200" stop="20241204225000 +0200" channel="cosmotecinema1.gr">
+  <programme start="20241204191500 +0200" stop="20241204210000 +0200" channel="cosmotecinema1.gr">
     <title lang="el">Φίλοι ή κάτι παραπάνω</title>
     <desc lang="el">Η υπόθεση έχει φόντο το κοσμοπολίτικο Τορόντο του Καναδά. Ο Γουάλας (Ντάνιελ Ράντκλιφ), έχοντας “καεί” από τις ερωτικές του περιπέτειες προσπαθεί να βάλει τέρμα στην άτακτη συναισθηματική του ζωή και να νοικοκυρευτεί, βλέποντας ότι οι φίλοι του έχουν βρει το κατάλληλο ταίρι τους.
 
@@ -13484,6 +13619,26 @@
     <date>2014</date>
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/64.png"/>
+  </programme>
+  <programme start="20241204210000 +0200" stop="20241204225000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">The War Below</title>
+    <desc lang="el">Στη διάρκεια του Α' Παγκοσμίου Πολέμου, μία ομάδα Βρετανών εργατών ορυχείων καλείται να τοποθετήσει βόμβες κάτω από τα γερμανικά χαρακώματα, στη μάχη της Μεσσίν.</desc>
+    <credits>
+      <director>J.P. Watts</director>
+      <actor role="William Hackett">Σαμ Hazeldine</actor>
+      <actor role="Hellfire Jack">Τομ Goodman-Hill</actor>
+      <actor role="Harold Stockford">Κρις Hitchens</actor>
+      <actor role="Colonel Fielding">Άντριου Scarborough</actor>
+      <actor role="George Macdonald">Έλιοτ James Langridge</actor>
+      <actor role="Henry">Sonny Ashbourne Serkis</actor>
+      <actor role="Shorty">Joseph Steyne</actor>
+      <actor role="Charlie Macdonald">Sam Clemmett</actor>
+      <actor role="Jane Hawkin">Άννα Maguire</actor>
+      <actor role="Field Marshall Lord Haig">Douglas Reith</actor>
+      <writer>J.P. Watts</writer>
+      <composer>Αν Kulonen</composer>
+    </credits>
+    <icon src="https://www.ishow.gr/files/images/2023/9/db035cc4-4afc-47db-8972-441e4175f034.jpg"/>
   </programme>
   <programme start="20241203013000 +0200" stop="20241203030500 +0200" channel="cosmotecinema2.gr">
     <title lang="el">Our Almost Completely True Story</title>
@@ -13978,6 +14133,11 @@
     <date>2018</date>
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/files/images/2018/2/3/11bab53e-c833-4fe1-902b-f54d48534e19.jpg"/>
+  </programme>
+  <programme start="20241204212000 +0200" stop="20241204220000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">World of Movies</title>
+    <desc lang="el">Είστε λάτρεις της έβδομης τέχνης; Ενημερωθείτε για τις τελευταίες κυκλοφορίες, γνωρίστε αγαπημένους συντελεστές, 'παραβρεθείτε' στα γυρίσματα των πιο επιτυχημένων ταινιών και απολαύστε τις πιο λαμπερές κινηματογραφικές πρεμιέρες!</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/65.png"/>
   </programme>
   <programme start="20241203011000 +0200" stop="20241203030000 +0200" channel="cosmotecinema3.gr">
     <title lang="el">Ο βάλτος</title>
@@ -15017,6 +15177,26 @@
     <category lang="el">Ενημ. εκπομπή</category>
     <icon src="https://www.ishow.grimages/2010/2/1/9026aba7-c0bf-4d7b-9add-d5042ed994b4.jpg"/>
   </programme>
+  <programme start="20241204202000 +0200" stop="20241204230000 +0200" channel="novacinema1.gr">
+    <title lang="el">The Hunger Games: Η μπαλάντα των αηδονιών και των φιδιών</title>
+    <desc lang="el">Η Λούσι Γκρέι Μπερντ είναι ο επιλεγμένος φόρος της Περιοχής 12 που θα παλέψει για την επιβίωσή της στην αρένα, στους 10ους Αγώνες Πείνας. Όμως, ο Κοριολάνους Σνόυ, ως μέντορας της, βρίσκεται διχασμένος ανάμεσα στα καθήκοντά του στην Κάπιτολ και τα συναισθήματα που αναπτύσσει σταδιακά για εκείνη.</desc>
+    <credits>
+      <director>Φράνσις Λόρενς</director>
+      <actor role="Young Coriolanus">Dexter Sol Ansell</actor>
+      <actor role="Young Tigris">Rosa Gotzler</actor>
+      <actor role="Respectable Man">Clemens Schick</actor>
+      <actor role="Grandma'am">Φιονούλα Φλάναγκαν</actor>
+      <actor role="Coriolanus Snow">Tom Blyth</actor>
+      <actor role="Tigris">Hunter Schafer</actor>
+      <actor role="Clemensia Dovecote">Ashley Liao</actor>
+      <actor role="Persephone Price">Athena Strates</actor>
+      <actor role="Gaius Breen">Joshua Kantara</actor>
+      <actor role="Vipsania Sickle">Amélie Hoeferle</actor>
+      <writer>Michael Lesslie</writer>
+      <composer>Τζέιμς Χάουαρντ</composer>
+    </credits>
+    <icon src="https://www.ishow.grimages/2023/11/0f5eb5e6-1c6d-49cf-8c15-d34e18269b4a.jpg"/>
+  </programme>
   <programme start="20241203005000 +0200" stop="20241203030000 +0200" channel="novacinema2.gr">
     <title lang="el">Έγκλημα στο Γέλοουστοουν</title>
     <desc lang="el">Αναζητώντας το μέρος που θα γίνει το νέο του σπίτι, ένας πρώην σκλάβος φτάνει σε μια απομονωμένη πόλη που παρακμάζει. Μα οι ελπίδες του για μια ήρεμη ζωή διαψεύδονται, όταν βρίσκεται κατηγορούμενος για τον φόνο ενός χρυσοθήρα.</desc>
@@ -15422,7 +15602,7 @@
     <desc lang="el">Απολαύστε τις καλύτερες στιγμές του Hollywood της χρονιάς, στιγμές γεμάτες από λαμπερούς πρωταγωνιστές που ξεχώρισαν, βραβεία, αγαπημένες ταινίες που έσπασαν ταμεία και stars σε μοναδικές συνεντεύξεις στις μεγάλες πρεμιέρες τους.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/daily/32.png"/>
   </programme>
-  <programme start="20241204165500 +0200" stop="20241204212500 +0200" channel="novacinema2.gr">
+  <programme start="20241204165500 +0200" stop="20241204192500 +0200" channel="novacinema2.gr">
     <title lang="el">Fast X</title>
     <desc lang="el">Οι Μαχητές των Δρόμων αποκτούν τη δέκατη ταινία τους, το Fast X, που σηματοδοτεί τα τελευταία κεφάλια μίας από τις πιο δημοφιλείς σειρές παγκοσμίως, η οποία διανύει την τρίτη δεκαετία της και συνεχίζει δυναμικά με τους ίδιους βασικούς πρωταγωνιστές, όπως όταν ξεκίνησε. Μετά από πολλές αποστολές και ενάντια σε απίθανα εμπόδια, ο Ντομ Τορέτο (Βιν Ντίζελ) και η οικογένεια του έχουν ξεγελάσει και ξεπεράσει κάθε αντίπαλο στο διάβα τους. Τώρα, βρίσκονται αντιμέτωποι με τον πιο φονικό εχθρό: μία τρομαχτική απειλή ξεπροβάλλει από τα σκοτάδια του παρελθόντος, διψάει για εκδίκηση και σκοπεύει να διαλύσει αυτή την οικογένεια και να καταστρέψει μια για πάντα όλους όσους και όλα όσα αγαπάει ο Ντομ.Στους Μαχητές των Δρόμων: Ληστεία στο Ρίο, το 2011, ο Ντομ και η παρέα του εξολόθρευσαν τον μοχθηρό βαρόνο των ναρκωτικών Eρνάν Ρέγιες, αφήνοντας ακέφαλη την αυτοκρατορία του σε μία γέφυρα του Ρίο Ντε Τζανέιρο. Δεν γνώριζαν όμως ότι ο γιος του Ρέγιες, ο Ντάντε (Τζέισον Μομόα, Aquaman) ήταν αυτόπτης μάρτυρας και έχει περάσει τα τελευταία 12 χρόνια καταστρώνοντας την εκδίκηση που θα αναγκάσει τον Ντομ να πληρώσει το απόλυτο τίμημα.Το σχέδιο του Ντάντε θα σκορπίσει την οικογένεια του Ντομ από το Λος Άντζελες μέχρι τις κατακόμβες της Ρώμης, από τη Βραζιλία μέχρι την Πορτογαλία και την Ανταρκτική. Νέες συμμαχίες θα σφυρηλατηθούν και παλιές έχθρες θα αναδυθούν. Αλλά όλα αλλάζουν όταν ο Ντομ ανακαλύπτει ότι ο 8χρονος γιος του (Λίο Αμπέλο Πέρι, Black-ish) είναι ο τελικός στόχος του εκδικητικού σχεδίου του Ντάντε.</desc>
     <credits>
@@ -15440,6 +15620,29 @@
       <writer>Τζάστιν Λιν</writer>
     </credits>
     <icon src="https://www.ishow.grimages/2023/2/30786e62-2e3a-482f-91e7-0fbab8de2727.jpg"/>
+  </programme>
+  <programme start="20241204192500 +0200" stop="20241204212500 +0200" channel="novacinema2.gr">
+    <title lang="el">Γκοστμπάστερς 2</title>
+    <desc lang="el">Οι Γκοστμπάστερς επιστρέφουν με σκοπό να σώσουν τον κόσμο γι" άλλη μια φορά! Τέσσερα χρόνια μετά την τελευταία τους αποστολή, η ομάδα ξανασυσπειρώνεται για να αντιμετωπίσει την επιστροφή των υπερφυσικών φαινομένων που πλήττουν την πόλη της Νέας Υόρκης.</desc>
+    <credits>
+      <director>Ιβάν Ράιτμαν</director>
+      <actor role="Dr. Peter Venkman">Μπιλ Μάρεϊ</actor>
+      <actor role="Dr. Raymond Stantz">Νταν Ακρόιντ</actor>
+      <actor role="Dana Barrett">Σιγκούρνι Γουίβερ</actor>
+      <actor role="Dr. Egon Spengler">Χάρολντ Ρέιμις</actor>
+      <actor role="Louis Tully">Ρικ Μορέινις</actor>
+      <actor role="Winston Zeddemore">Έρνι Χάντσον</actor>
+      <actor role="Janine Melnitz">Άνι Ποτς</actor>
+      <actor role="Dr. Janosz Poha">Πίτερ MacNicol</actor>
+      <actor role="Judge Stephen 'The Hammer' Wexler">Χάρις Γιούλιν</actor>
+      <actor role="Mayor Lenny">Ντέιβιντ Margulies</actor>
+      <writer>Νταν Ακρόιντ</writer>
+      <producer>Μπέρνι Brillstein</producer>
+      <composer>Ράντι Edelman</composer>
+    </credits>
+    <date>1989</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.grimages/2013/9/24/3ac6a5d4-1ccb-4280-8bc3-4f0c171149ed.jpg"/>
   </programme>
   <programme start="20241204212500 +0200" stop="20241204230000 +0200" channel="novacinema2.gr">
     <title lang="el">Normale</title>
@@ -15676,6 +15879,11 @@
     <title lang="el">Ο καλός γιατρός - 7ος κύκλος</title>
     <desc lang="el">Ο ασθενής του Σον και της Τζόρνταν χρειάζεται επειγόντως μεταμόσχευση νεφρού.</desc>
     <icon src="https://www.ishow.gr/files/images/2018/6/1/4549ad18-d342-4828-b598-7ad252d6fcf9_pposter.jpg"/>
+  </programme>
+  <programme start="20241204220000 +0200" stop="20241204230000 +0200" channel="novacinema4.gr">
+    <title lang="el">The Brigade - 1ος κύκλος</title>
+    <desc lang="el">Ο Σαϊντ δυσκολεύεται να αναλάβει την Ταξιαρχία Έρευνας και Επέμβασης. Η ομάδα αποτρέπει μια ληστεία.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/61.png"/>
   </programme>
   <programme start="20241203010000 +0200" stop="20241203030000 +0200" channel="cosmotesport1.gr">
     <title lang="el">Ποδόσφαιρο: Ίντερ - Λειψία</title>
@@ -15965,13 +16173,13 @@
     <desc lang="el">Κύπελλο Ελλάδας Betsson 2024-25. 5η Φάση, 2η Αγωνιστική. Η 83η διοργάνωση του Κυπέλλου Ελλάδας βρήκε 80 ομάδες στην γραμμή εκκίνησης, μέχρι τον τελικό στις 27 Μαΐου 2025. Ο νικητής θα συμμετάσχει στον 3ο προκριματικό γύρο του UEFA Europa League 2025-26. Περιγραφή: Τόλης Χριστοφοράκης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/68.png"/>
   </programme>
-  <programme start="20241204173500 +0200" stop="20241204175500 +0200" channel="cosmotesport2.gr">
+  <programme start="20241204173500 +0200" stop="20241204175000 +0200" channel="cosmotesport2.gr">
     <title lang="el">Sports Classics: Worldies</title>
     <desc lang="el">Από τη F1 έως την υψηλή κατάδυση και ένα σωρό άλλα extreme sports, κάθε εκπομπή παρουσιάζει και αναδεικνύει μέσα από 5 βίντεο μερικές από τις πιο απίστευτες στιγμές, διοργανώσεις και αθλητές σε όλα τα σπορ δράσης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/68.png"/>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20241204175500 +0200" stop="20241204182500 +0200" channel="cosmotesport2.gr">
+  <programme start="20241204175000 +0200" stop="20241204182500 +0200" channel="cosmotesport2.gr">
     <title lang="el">Sports Classics: Football's Greatest IV</title>
     <desc lang="el">Παρακολουθήστε ένα επεισόδιο της σειράς ντοκιμαντέρ που είναι αφιερωμένη στους καλύτερους ποδοσφαιριστές όλων των εποχών.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/68.png"/>
@@ -16040,10 +16248,21 @@
     <desc lang="el">Liga Portugal Betclic 2024-25. 12η αγωνιστική. Η 91η σεζόν της πορτογαλικής λίγκας ολοκληρώνεται στις 18 Μαΐου 2025. Μέχρι τότε, 18 ομάδες θα παλέψουν για τον τίτλο, τον οποίο πέρσι κατέκτησε η Σπόρτινγκ.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20241203080000 +0200" stop="20241203113000 +0200" channel="cosmotesport3.gr">
+  <programme start="20241203080000 +0200" stop="20241203105000 +0200" channel="cosmotesport3.gr">
     <title lang="el">Αμερικάνικο Ποδόσφαιρο: Μπάφαλο Μπιλς - Σαν Φρανσίσκο 49ερς</title>
-    <desc lang="el">NFL 2024 - 25. Κανονική διάρκεια. 13η Αγωνιστική. 32 ομάδες συμμετέχουν στο κορυφαίο πρωτάθλημα American Football στον κόσμο. Στόχος, μια θέση στο Super Bowl, ο τελικός του οποίου αναδεικνύει τον πρωταθλητή και διεξάγεται στη Νέα Ορλεάνη.</desc>
+    <desc lang="el">NFL 2024 - 25 - Κανονική διάρκεια. Κανονική διάρκεια. 13η Αγωνιστική. 32 ομάδες συμμετέχουν στο κορυφαίο πρωτάθλημα American Football στον κόσμο. Στόχος, μια θέση στο Super Bowl, ο τελικός του οποίου αναδεικνύει τον πρωταθλητή και διεξάγεται στη Νέα Ορλεάνη.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
+  </programme>
+  <programme start="20241203105000 +0200" stop="20241203111000 +0200" channel="cosmotesport3.gr">
+    <title lang="el">William Hill Scottish Premiership - Στιγμιότυπα</title>
+    <desc lang="el">14η αγωνιστική.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
+  </programme>
+  <programme start="20241203111000 +0200" stop="20241203113000 +0200" channel="cosmotesport3.gr">
+    <title lang="el">Sports Classics: Worldies</title>
+    <desc lang="el">Στιγμιότυπα. Από τη F1 έως την υψηλή κατάδυση και ένα σωρό άλλα extreme sports, κάθε εκπομπή παρουσιάζει και αναδεικνύει μέσα από 5 βίντεο μερικές από τις πιο απίστευτες στιγμές, διοργανώσεις και αθλητές σε όλα τα σπορ δράσης.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
+    <episode-num system="onscreen">Επ. 22</episode-num>
   </programme>
   <programme start="20241203113000 +0200" stop="20241203133000 +0200" channel="cosmotesport3.gr">
     <title lang="el">Ποδόσφαιρο: Αρούκα - Μπενφίκα</title>
@@ -16071,8 +16290,8 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
   <programme start="20241203200000 +0200" stop="20241203203000 +0200" channel="cosmotesport3.gr">
-    <title lang="el">Copa Libertadores 2024 - Στιγμιότυπα</title>
-    <desc lang="el">Παρακολουθήστε τις καλύτερες στιγμές από την κορυφαία ποδοσφαιρική διοργάνωση της Νοτίου Αμερικής, που φιλοξενεί συνολικά 47 ομάδες από 10 χώρες.</desc>
+    <title lang="el">Copa Sudamericana 2024 - Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες στιγμές από τη δεύτερη τη τάξει ποδοσφαιρική διασυλλογική διοργάνωση στη Νότιο Αμερική.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
   <programme start="20241203203000 +0200" stop="20241203210000 +0200" channel="cosmotesport3.gr">
@@ -16191,10 +16410,16 @@
     <desc lang="el">Lega Basket Serie A 2024-25. 9η Αγωνιστική. Το ιταλικό πρωτάθλημα μπάσκετ ετοιμάζεται να μας δώσει μια συναρπαστική νέα σεζόν. Η πρωταθλήτρια Αρμάνι Μιλάνο και η Βίρτους Μπολόνια θα εξακολουθήσουν να παλεύουν για τον τίτλο ή θα πρέπει να περιμένουμε εκπλήξεις.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20241203120000 +0200" stop="20241203143000 +0200" channel="cosmotesport4.gr">
+  <programme start="20241203120000 +0200" stop="20241203141000 +0200" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Μινεσότα Τίμπεργουλβς - Λος Άντζελες Λέικερς</title>
-    <desc lang="el">NBA 2024-25. Η 79η σεζόν του κορυφαίου πρωταθλήματος μπάσκετ του πλανήτη ξεκινά με τους Μπόστον Σέλτικς πρωταθλητές και τους Μιλγουόκι Μπακς του Γιάννη Αντετοκούνμπο να διεκδικούν τον τίτλο.</desc>
+    <desc lang="el">NBA 2024-25 - Κανονική Διάρκεια. Η 79η σεζόν του κορυφαίου πρωταθλήματος μπάσκετ του πλανήτη ξεκινά με τους Μπόστον Σέλτικς πρωταθλητές και τους Μιλγουόκι Μπακς του Γιάννη Αντετοκούνμπο να διεκδικούν τον τίτλο. Περιγραφή: Βασίλης Σκουντής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
+  </programme>
+  <programme start="20241203141000 +0200" stop="20241203143000 +0200" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">75 Stories: Thomas, Paul, Archibald &amp; Westbrook. Στιγμιότυπα από το NBA.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
+    <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
   <programme start="20241203143000 +0200" stop="20241203163000 +0200" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Μπανταλόνα - Ρεάλ Μαδρίτης</title>
@@ -16735,11 +16960,6 @@
     <desc lang="el">Απολαύστε ακόμη περισσότερη δράση από τον 'μαγικό' κόσμο του ΝΒΑ και παρακολουθήστε καθημερινά σε ζωντανή αναμετάδοση το NBA TV, το επίσημο κανάλι της κορυφαίας διοργάνωσης μπάσκετ του πλανήτη.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
   </programme>
-  <programme start="20241203030000 +0200" stop="20241203053000 +0200" channel="cosmotesport7.gr">
-    <title lang="el">Μπάσκετ: Οκλαχόμα Σίτι Θάντερ - Γιούτα Τζαζ</title>
-    <desc lang="el">NBA 2024-25 - Κανονική Διάρκεια. Η 79η σεζόν του κορυφαίου πρωταθλήματος μπάσκετ του πλανήτη ξεκινά με τους Μπόστον Σέλτικς πρωταθλητές και τους Μιλγουόκι Μπακς του Γιάννη Αντετοκούνμπο να διεκδικούν τον τίτλο.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
-  </programme>
   <programme start="20241203023000 +0200" stop="20241203050000 +0200" channel="cosmotesport7.gr">
     <title lang="el">Μπάσκετ: Ατλάντα Χοκς - Νιου Ορλίνς Πέλικανς</title>
     <desc lang="el">NBA 2024-25 - Κανονική Διάρκεια. Η 79η σεζόν του κορυφαίου πρωταθλήματος μπάσκετ του πλανήτη ξεκινά με τους Μπόστον Σέλτικς πρωταθλητές και τους Μιλγουόκι Μπακς του Γιάννη Αντετοκούνμπο να διεκδικούν τον τίτλο.</desc>
@@ -17171,7 +17391,7 @@
     <icon src="https://www.ishow.gr/files/images/2024/11/e476f3ef-3a6d-44e5-bbf3-2cf7c1644696.jpg"/>
   </programme>
   <programme start="20241204210000 +0200" stop="20241204230000 +0200" channel="novasports5hd.gr">
-    <title lang="el">Άρης - Βενέτσια (Ζ) : EuroCup 2024/25</title>
+    <title lang="el">Άρης - Βενέτσια : EuroCup 2024/25</title>
     <desc lang="el">EuroCup 2024/25. Ο Άρης Midea (2-7) έχει μόλις μία νίκη στα πέντε τελευταία παιχνίδια του στο EuroCup και υποδέχεται για τη 10η αγωνιστική του 2ου ομίλου τη Βενέτσια (4-5), που προέρχεται από δύο.</desc>
     <icon src="https://www.ishow.gr/files/images/2024/12/739c80e9-a332-4864-b5ab-08b47a5e3c89.jpg"/>
   </programme>
@@ -23302,9 +23522,13 @@
     <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241203033000 +0100" stop="20241203060000 +0100" channel="arenasport1.rs">
+  <programme start="20241203033000 +0100" stop="20241203053000 +0100" channel="arenasport1.rs">
     <title lang="bs">Brentford - Leicester</title>
     <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20241203053000 +0100" stop="20241203060000 +0100" channel="arenasport1.rs">
+    <title lang="bs">(NE)SPORNO</title>
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241203060000 +0100" stop="20241203080000 +0100" channel="arenasport1.rs">
@@ -23317,9 +23541,15 @@
     <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241203100000 +0100" stop="20241203120000 +0100" channel="arenasport1.rs">
-    <title lang="bs">Brighton - Southampton</title>
-    <desc lang="bs">ENGLESKA LIGA.</desc>
+  <programme start="20241203100000 +0100" stop="20241203103000 +0100" channel="arenasport1.rs">
+    <title lang="bs">Buduće zvezde Arene</title>
+  </programme>
+  <programme start="20241203103000 +0100" stop="20241203113000 +0100" channel="arenasport1.rs">
+    <title lang="bs">ENGLESKA LIGA</title>
+  </programme>
+  <programme start="20241203113000 +0100" stop="20241203120000 +0100" channel="arenasport1.rs">
+    <title lang="bs">Everton - Bournemouth, 2016/17</title>
+    <desc lang="bs">KLASICI PREMIJER LIGE.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241203120000 +0100" stop="20241203140000 +0100" channel="arenasport1.rs">
@@ -23332,9 +23562,14 @@
     <desc lang="bs">ŠKOTSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241203160000 +0100" stop="20241203183000 +0100" channel="arenasport1.rs">
+  <programme start="20241203160000 +0100" stop="20241203180000 +0100" channel="arenasport1.rs">
     <title lang="bs">Uživo: Panachaiki - Kifisia</title>
     <desc lang="bs">GRČKI KUP.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20241203180000 +0100" stop="20241203183000 +0100" channel="arenasport1.rs">
+    <title lang="bs">Netbusters</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241203183000 +0100" stop="20241203204500 +0100" channel="arenasport1.rs">
@@ -23367,8 +23602,13 @@
     <desc lang="bs">ŠKOTSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241204034500 +0100" stop="20241204060000 +0100" channel="arenasport1.rs">
+  <programme start="20241204034500 +0100" stop="20241204054500 +0100" channel="arenasport1.rs">
     <title lang="bs">Tottenham - Fulham</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20241204054500 +0100" stop="20241204060000 +0100" channel="arenasport1.rs">
+    <title lang="bs">PL Moments</title>
     <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
@@ -23387,10 +23627,13 @@
     <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241204120000 +0100" stop="20241204143000 +0100" channel="arenasport1.rs">
+  <programme start="20241204120000 +0100" stop="20241204140000 +0100" channel="arenasport1.rs">
     <title lang="bs">Chelsea - Aston Villa</title>
     <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20241204140000 +0100" stop="20241204143000 +0100" channel="arenasport1.rs">
+    <title lang="bs">PLAN IGRE</title>
   </programme>
   <programme start="20241204143000 +0100" stop="20241204163000 +0100" channel="arenasport1.rs">
     <title lang="bs">Uživo: PAOK - Egaleo</title>
@@ -23421,6 +23664,9 @@
     <title lang="bs">Uživo: Racing - Estudiantes</title>
     <desc lang="bs">ARGENTINSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20241203010000 +0100" stop="20241203020000 +0100" channel="arenasport2.rs">
+    <title lang="bs">Neuspjeh prvaka sa Mirzom Džombom - Dario Šimić</title>
   </programme>
   <programme start="20241203020000 +0100" stop="20241203040000 +0100" channel="arenasport2.rs">
     <title lang="bs">Real Sociedad - Betis</title>
@@ -23457,9 +23703,14 @@
     <desc lang="bs">ŠPANSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241203160000 +0100" stop="20241203183000 +0100" channel="arenasport2.rs">
+  <programme start="20241203160000 +0100" stop="20241203180000 +0100" channel="arenasport2.rs">
     <title lang="bs">Torino - Napoli</title>
     <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20241203180000 +0100" stop="20241203183000 +0100" channel="arenasport2.rs">
+    <title lang="bs">Najava kola</title>
+    <desc lang="bs">ITALIJANSKI KUP.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241203183000 +0100" stop="20241203204500 +0100" channel="arenasport2.rs">
@@ -23472,14 +23723,23 @@
     <desc lang="bs">NEMAČKI KUP.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241203224500 +0100" stop="20241204014500 +0100" channel="arenasport2.rs">
+  <programme start="20241203224500 +0100" stop="20241204004500 +0100" channel="arenasport2.rs">
     <title lang="bs">Bologna - Monza</title>
     <desc lang="bs">ITALIJANSKI KUP.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241204014500 +0100" stop="20241204041500 +0100" channel="arenasport2.rs">
+  <programme start="20241204004500 +0100" stop="20241204014500 +0100" channel="arenasport2.rs">
+    <title lang="bs">Pregled kola</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20241204014500 +0100" stop="20241204034500 +0100" channel="arenasport2.rs">
     <title lang="bs">Espanyol - Celta</title>
     <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20241204034500 +0100" stop="20241204041500 +0100" channel="arenasport2.rs">
+    <title lang="bs">(NE)SPORNO</title>
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20241204041500 +0100" stop="20241204060000 +0100" channel="arenasport2.rs">
@@ -23502,27 +23762,38 @@
     <desc lang="bs">ŠPANSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241204120000 +0100" stop="20241204160000 +0100" channel="arenasport2.rs">
+  <programme start="20241204120000 +0100" stop="20241204140000 +0100" channel="arenasport2.rs">
     <title lang="bs">Roma - Atalanta</title>
     <desc lang="bs">ITALIJANSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241204160000 +0100" stop="20241204183000 +0100" channel="arenasport2.rs">
+  <programme start="20241204140000 +0100" stop="20241204160000 +0100" channel="arenasport2.rs">
+    <title lang="bs">Mallorca - Valencia</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20241204160000 +0100" stop="20241204180000 +0100" channel="arenasport2.rs">
     <title lang="bs">Uživo: Halkbank - Perugia</title>
     <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Odbojka</category>
   </programme>
-  <programme start="20241204183000 +0100" stop="20241204210000 +0100" channel="arenasport2.rs">
-    <title lang="bs">Uživo: Mladost - IMT</title>
-    <desc lang="bs">KUP SRBIJE.</desc>
-    <category lang="bs">Fudbal</category>
+  <programme start="20241204180000 +0100" stop="20241204200000 +0100" channel="arenasport2.rs">
+    <title lang="bs">Uživo: Volley Ljubljana - Maaseik</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Odbojka</category>
   </programme>
-  <programme start="20241204210000 +0100" stop="20241204233000 +0100" channel="arenasport2.rs">
+  <programme start="20241204200000 +0100" stop="20241204203000 +0100" channel="arenasport2.rs">
+    <title lang="bs">Buduće zvezde Arene</title>
+  </programme>
+  <programme start="20241204203000 +0100" stop="20241204210000 +0100" channel="arenasport2.rs">
+    <title lang="bs">Oni žive za fudbal ep. 152 ŽELEZNIČAR - Lajkovac</title>
+  </programme>
+  <programme start="20241204210000 +0100" stop="20241204230000 +0100" channel="arenasport2.rs">
     <title lang="bs">Uživo: Athletic - Real Madrid</title>
     <desc lang="bs">ŠPANSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241204233000 +0100" stop="20241205020000 +0100" channel="arenasport2.rs">
+  <programme start="20241204230000 +0100" stop="20241205010000 +0100" channel="arenasport2.rs">
     <title lang="bs">Fiorentina - Empoli</title>
     <desc lang="bs">ITALIJANSKI KUP.</desc>
     <category lang="bs">Fudbal</category>
@@ -24162,7 +24433,7 @@
     <category lang="bs">Rukomet</category>
   </programme>
   <programme start="20241204093000 +0100" stop="20241204113000 +0100" channel="arenasport7.rs">
-    <title lang="bs">Onvo - Galatasaray</title>
+    <title lang="bs">Manisa - Tofas</title>
     <desc lang="bs">TURSKA LIGA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
@@ -24187,8 +24458,8 @@
     <category lang="bs">Rukomet</category>
   </programme>
   <programme start="20241204180000 +0100" stop="20241204200000 +0100" channel="arenasport7.rs">
-    <title lang="bs">Uživo: Manisa - Murcia</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <title lang="bs">Onvo - Galatasaray</title>
+    <desc lang="bs">TURSKA LIGA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
   <programme start="20241204200000 +0100" stop="20241204204500 +0100" channel="arenasport7.rs">
