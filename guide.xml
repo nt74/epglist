@@ -897,13 +897,14 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2025 E4/261</episode-num>
   </programme>
-  <programme start="20250119201500 +0000" stop="20250119210000 +0000" channel="svt2.se">
+  <programme start="20250119201500 +0000" stop="20250119210500 +0000" channel="svt2.se">
     <title lang="sv">Agenda</title>
+    <desc lang="sv">Vapenvila väntar i Gaza. Vilken roll spelar Donald Trump för att vapenvilan hålls? Och hur ska Europa hantera Trumps hot och utspel?. Amerikanska techbolag och medier anpassar sig till Trump. Vad får det för konsekvenser de närmsta fyra åren? Trump har hotat med att höja tullarna mot Europa. Vad får det för konsekvenser för Sverige?</desc>
     <date>2025</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S26 E2/22</episode-num>
   </programme>
-  <programme start="20250119210000 +0000" stop="20250119215500 +0000" channel="svt2.se">
+  <programme start="20250119210500 +0000" stop="20250119215500 +0000" channel="svt2.se">
     <title lang="sv">Dokument utifrån: Ditt DNA – deras business</title>
     <desc lang="sv">Vad händer med ditt DNA när du skickar in det till en tjänst för släktforskning? Är resultaten om ditt ursprung att lita på?. De privatägda bolagen redovisar inte sina metoder eller hur informationen lagras. Och vad som kan hända i framtiden med ditt DNA är det ingen som vet.</desc>
     <date>2025</date>
@@ -4772,14 +4773,14 @@
     <country lang="sv">DNK</country>
     <episode-num system="onscreen">S5 E3/10</episode-num>
   </programme>
-  <programme start="20250119063300 +0000" stop="20250119070700 +0000" channel="tv12.se">
+  <programme start="20250119063300 +0000" stop="20250119070500 +0000" channel="tv12.se">
     <title lang="sv">Klovn</title>
     <desc lang="sv">Frank och Casper arbetar på ett manus som Bille August är intresserad av. De vill åka till Malaga och skriva, som på den gamla goda tiden.. Mia går en krokikurs men tycker inte att Frank stöttar hennes kreativa ambitioner.</desc>
     <date>2008</date>
     <country lang="sv">DNK</country>
     <episode-num system="onscreen">S5 E4/10</episode-num>
   </programme>
-  <programme start="20250119070700 +0000" stop="20250119080500 +0000" channel="tv12.se">
+  <programme start="20250119070500 +0000" stop="20250119080500 +0000" channel="tv12.se">
     <title lang="sv">Mountain men</title>
     <desc lang="sv">Jason skyndar att färdigställa sin nya ladugård innan den nya gethjorden anländer. Kidd och Harry letar rätt på björnen som attackerade deras boskap.. Josh skapar en dryckeslösning för sin nya bisonflock.</desc>
     <date>2020</date>
@@ -4820,11 +4821,24 @@
     <date>2025</date>
     <country lang="sv">SWE</country>
   </programme>
-  <programme start="20250119133000 +0000" stop="20250119163000 +0000" channel="tv12.se">
+  <programme start="20250119133000 +0000" stop="20250119150000 +0000" channel="tv12.se">
     <title lang="sv">Grand Slam 75</title>
     <desc lang="sv">Direktsänd Grand Slam 75-omgång från Bodentravet.</desc>
     <date>2025</date>
     <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20250119150000 +0000" stop="20250119160000 +0000" channel="tv12.se">
+    <title lang="sv">En småländsk Elitloppssaga</title>
+    <desc lang="sv">En pensionerad fritidspedagog, en rivningsarbetare och en travhäst som mot alla odds ska tävla i världens största travlopp; Elitloppet.. Följ med på ett osannolikt äventyr, från Vassmolösa till Elitloppet 2024.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20250119160000 +0000" stop="20250119163000 +0000" channel="tv12.se">
+    <title lang="sv">Brynolf &amp; Ljung - Street magic</title>
+    <desc lang="sv">Brynolf och Ljung försöker sig bland annat på ett av trollerivärldens farligaste trick, att fånga en gevärskula i luften.. Medverkande är bland andra Robin Stiernberg, Rickard Söderberg, Marie Serneholt, Renée Nyberg och Tommy Körberg.</desc>
+    <date>2014</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">S1 E4/6</episode-num>
   </programme>
   <programme start="20250119163000 +0000" stop="20250119183000 +0000" channel="tv12.se">
     <title lang="sv">TV4:s nyårskarameller</title>
@@ -4904,14 +4918,14 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S10 E34/51</episode-num>
   </programme>
-  <programme start="20250120033000 +0000" stop="20250120035900 +0000" channel="tv12.se">
+  <programme start="20250120033000 +0000" stop="20250120040200 +0000" channel="tv12.se">
     <title lang="sv">Robinson</title>
     <desc lang="sv">En viktig immunitet står på spel i dagens Robinsontävling, men tankarna om att inte visa sig för svag eller stark börjar också gro.. Oron är stor över att den ena pakten totalt har fallit och att den andra pakten nu står i enorm majoritet.</desc>
     <date>2022</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S10 E35/51</episode-num>
   </programme>
-  <programme start="20250120035900 +0000" stop="20250120050500 +0000" channel="tv12.se">
+  <programme start="20250120040200 +0000" stop="20250120050500 +0000" channel="tv12.se">
     <title lang="sv">To Be Announced</title>
   </programme>
   <programme start="20250120050500 +0000" stop="20250120060000 +0000" channel="tv12.se">
@@ -5131,19 +5145,22 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E5/6</episode-num>
   </programme>
-  <programme start="20250119204500 +0000" stop="20250119224500 +0000" channel="svt24.se">
-    <title lang="sv">Elefantmannen</title>
-    <desc lang="sv">I en föreläsningssal på London Pathological Society förevisar en lysande ung kirurg en fruktansvärd syn.. Det är en man så ohyggligt deformerad att han är dömd att visas upp som missfoster på en mindre cirkus.. Han heter John Merick men för cirkuspubliken i det viktorianska England är han känd som Elefantmannen. Med hjälp av den vänlige doktor Frederick Treves försöker Merrick att återfå den värdighet han förlorat.</desc>
-    <credits>
-      <director>David Lynch</director>
-      <actor>Anthony Hopkins</actor>
-      <actor>Anne Bancroft</actor>
-      <actor>John Gielgud</actor>
-      <actor>Lesley Dunlop</actor>
-      <actor>John Hurt</actor>
-    </credits>
-    <date>1980</date>
-    <country lang="sv">USA</country>
+  <programme start="20250119204500 +0000" stop="20250119211500 +0000" channel="svt24.se">
+    <title lang="sv">Sverige!</title>
+    <desc lang="sv">Alexandra Pascalidou är journalist med ett stort samhällsengagemang. Hennes bok "Mammorna" lyfte fram mammor som förlorat sina barn till våldet.. Nu blir hennes bok "Var är papporna?" pjäs på Dramaten. Kan man bekämpa krig med kultur? Iman från krigets Syrien ritade karikatyrer för att få världen att ingripa.. Och vi ska följa med på en resa i bakhoorens värld där Fethya gör rökelse i sitt kök i Malmö.</desc>
+    <date>2025</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">S34 E2/22</episode-num>
+  </programme>
+  <programme start="20250119211500 +0000" stop="20250119221500 +0000" channel="svt24.se">
+    <title lang="sv">To Be Announced</title>
+  </programme>
+  <programme start="20250119221500 +0000" stop="20250119224500 +0000" channel="svt24.se">
+    <title lang="sv">Hundra procent bonde</title>
+    <desc lang="sv">Frank har ett par gamla verktyg som behöver repareras innan de kan användas för att repa mönster i ett nytt köksskåp.. Frank börjar också arbetet med att stycka en slaktad ko som ska förse Kastanjegården med nötkött under de närmaste åren.</desc>
+    <date>2024</date>
+    <country lang="sv">DNK</country>
+    <episode-num system="onscreen">S32 E2/10</episode-num>
   </programme>
   <programme start="20250119224500 +0000" stop="20250119234500 +0000" channel="svt24.se">
     <title lang="sv">Stjärnorna på slottet</title>
@@ -12777,6 +12794,235 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
+  <programme start="20250120050000 +0100" stop="20250120060000 +0100" channel="abcwabc.us">
+    <title lang="en">Eyewitness News at 11</title>
+    <desc lang="en">Breaking news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120060000 +0100" stop="20250120070000 +0100" channel="abcwabc.us">
+    <title lang="en">The Rookie</title>
+    <sub-title lang="en">Pilot</sub-title>
+    <desc lang="en">After a life-altering incident, John Nolan decides to pursue his dream of becoming a police officer; as the force's oldest rookie, John is met with skepticism from some higher-ups.</desc>
+    <credits>
+      <actor>Nathan Fillion</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Richard T. Jones</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250120070000 +0100" stop="20250120080000 +0100" channel="abcwabc.us">
+    <title lang="en">The Rookie</title>
+    <sub-title lang="en">Crash Course</sub-title>
+    <desc lang="en">Talia forces Nolan to confront his personal moral instincts after he encounters a kidnapping victim; Lucy is temporarily placed with a new training officer who tests her patience; Jackson must confront his failures.</desc>
+    <credits>
+      <actor>Nathan Fillion</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Richard T. Jones</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250120080000 +0100" stop="20250120090000 +0100" channel="abcwabc.us">
+    <title lang="en">Murdoch Mysteries</title>
+    <sub-title lang="en">The Long Goodbye - Part Two</sub-title>
+    <desc lang="en">Disgusted by the new inspector's tactics, Murdoch resigns and is privately enlisted to find a missing heiress.</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Helene Joy</actor>
+      <actor>Jonny Harris</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120090000 +0100" stop="20250120100000 +0100" channel="abcwabc.us">
+    <title lang="en">This Week With George Stephanopoulos</title>
+    <desc lang="en">Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120100000 +0100" stop="20250120103000 +0100" channel="abcwabc.us">
+    <title lang="en">Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120103000 +0100" stop="20250120120000 +0100" channel="abcwabc.us">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120120000 +0100" stop="20250120130000 +0100" channel="abcwabc.us">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120130000 +0100" stop="20250120150000 +0100" channel="abcwabc.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120150000 +0100" stop="20250120160000 +0100" channel="abcwabc.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Carrie Coon; Daniel Dae Kim; Tamron Hall and Lish Steiling cook with Kelly and Mark.Guests: Carrie Coon, Daniel Dae Kim, Tamron Hall, Lish Steiling..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120160000 +0100" stop="20250120170000 +0100" channel="abcwabc.us">
+    <title lang="en">Eyewitness News Mornings at 10</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120170000 +0100" stop="20250120180000 +0100" channel="abcwabc.us">
+    <title lang="en">The View</title>
+    <desc lang="en">Celebrity and political guests join the panel of hosts for up-to-the-minute hot topics and invaluable conversations.</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250120180000 +0100" stop="20250120190000 +0100" channel="abcwabc.us">
+    <title lang="en">Eyewitness News at Noon</title>
+    <desc lang="en">Midday news update.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120190000 +0100" stop="20250120200000 +0100" channel="abcwabc.us">
+    <title lang="en">GMA3: What You Need to Know</title>
+    <desc lang="en">News, lifestyle and entertainment program hosted by Eva Pilgrim and DeMarco Morgan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120200000 +0100" stop="20250120210000 +0100" channel="abcwabc.us">
+    <title lang="en">Tamron Hall</title>
+    <sub-title lang="en">Unforgettable Legacy</sub-title>
+    <desc lang="en">Jaleel White ("Family Matters," memoir "Growing Up Urkel"); Rain and Richard Pryor Jr. talk about their new project in honor of their late father.Guests: Jaleel White, Rain Pryor, Richard Pryor Jr...</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120210000 +0100" stop="20250120220000 +0100" channel="abcwabc.us">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">The ongoing lives of the diverse and evolving citizens of the fictional town of Port Charles in upstate New York.</desc>
+    <credits>
+      <actor>Maurice Benard</actor>
+      <actor>Steve Burton</actor>
+      <actor>Michael Easton</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250120220000 +0100" stop="20250120230000 +0100" channel="abcwabc.us">
+    <title lang="en">Eyewitness News First at 4</title>
+    <desc lang="en">Local and regional news coverage.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120230000 +0100" stop="20250121000000 +0100" channel="abcwabc.us">
+    <title lang="en">Eyewitness News at 5</title>
+    <desc lang="en">Local and regional news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250121000000 +0100" stop="20250121003000 +0100" channel="abcwabc.us">
+    <title lang="en">Eyewitness News at 6</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250121003000 +0100" stop="20250121010000 +0100" channel="abcwabc.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250121010000 +0100" stop="20250121013000 +0100" channel="abcwabc.us">
+    <title lang="en">Jeopardy!</title>
+    <sub-title lang="en">S40 Champions Wildcard</sub-title>
+    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250121013000 +0100" stop="20250121020000 +0100" channel="abcwabc.us">
+    <title lang="en">Wheel of Fortune</title>
+    <sub-title lang="en">Winter Wonderland</sub-title>
+    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250121020000 +0100" stop="20250121030000 +0100" channel="abcwabc.us">
+    <title lang="en">Will Trent</title>
+    <sub-title lang="en">I'm a Guest Here</sub-title>
+    <desc lang="en">When two off-duty cops are wounded, the GBI must track down Special Agent Will Trent, who recently fled town to help solve the case; as the investigation unfolds, Will is drawn into his past to clear a friend's name amid rivalries and corruption.</desc>
+    <credits>
+      <actor>Ramón Rodríguez</actor>
+      <actor>Erika Christensen</actor>
+      <actor>Iantha Richardson</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250121030000 +0100" stop="20250121040000 +0100" channel="abcwabc.us">
+    <title lang="en">Will Trent</title>
+    <sub-title lang="en">Sunny-Side Up</sub-title>
+    <desc lang="en">Under mounting political pressure, the GBI and ADA Marion Alba race against time to rescue a kidnapped child, all while uncovering dark secrets that could shatter their preconceived notions of the law enforcement community.</desc>
+    <credits>
+      <actor>Ramón Rodríguez</actor>
+      <actor>Erika Christensen</actor>
+      <actor>Iantha Richardson</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250121040000 +0100" stop="20250121050000 +0100" channel="abcwabc.us">
+    <title lang="en">The Second Inauguration of Donald J. Trump -- An ABC News Special</title>
+    <desc lang="en">Reporting and analysis on the significant moments from the day and the events leading up to Trump's historic second presidency.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250121050000 +0100" stop="20250121053500 +0100" channel="abcwabc.us">
+    <title lang="en">Eyewitness News at 11</title>
+    <desc lang="en">Breaking news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
   <programme start="20250119003000 +0100" stop="20250119010000 +0100" channel="foxsportswisconsin.us">
     <title lang="en">Bucks Live Postgame</title>
     <desc lang="en">Review of the Milwaukee Bucks game.</desc>
@@ -13080,6 +13326,193 @@
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
+  <programme start="20250120053000 +0100" stop="20250120060000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Due North Outdoors</title>
+    <sub-title lang="en">Katydid Winter Camp</sub-title>
+    <desc lang="en">Ron Schara shares his stories of outdoor sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120060000 +0100" stop="20250120083000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Philadelphia 76ers at Milwaukee Bucks</sub-title>
+    <desc lang="en">Professional basketball action from the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120083000 +0100" stop="20250120090000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Bucks Live Postgame</title>
+    <desc lang="en">Review of the Milwaukee Bucks game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120090000 +0100" stop="20250120110000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Athletes Unlimited Pro Volleyball</title>
+    <sub-title lang="en">Team Kingdon Rishel vs. Team De La Cruz Mejia</sub-title>
+    <desc lang="en">From Arizona Athletic Grounds in Mesa, Ariz.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Volleyball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120110000 +0100" stop="20250120120000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">P1 Racing</title>
+    <sub-title lang="en">Season Review: P1 Offshore</sub-title>
+    <desc lang="en">Highlights from the Powerboat P1 racing series.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boating</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120120000 +0100" stop="20250120130000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">P1 Racing</title>
+    <sub-title lang="en">Season Review: P1 AquaX</sub-title>
+    <desc lang="en">Highlights from the Powerboat P1 racing series.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boating</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120130000 +0100" stop="20250120153000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Philadelphia 76ers at Milwaukee Bucks</sub-title>
+    <desc lang="en">Professional basketball action from the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120153000 +0100" stop="20250120160000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Bucks Live Postgame</title>
+    <desc lang="en">Review of the Milwaukee Bucks game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120160000 +0100" stop="20250120170000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Live: Run it Back</title>
+    <desc lang="en">Michelle Beadle, Chandler Parsons and Lou Williams discuss the biggest NBA games, matchups and storylines from around the league.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250120170000 +0100" stop="20250120180000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Live: Up &amp; Adams</title>
+    <desc lang="en">Kay Adams and a rotating roster of current and former players discuss the biggest storylines in the NFL.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20250120180000 +0100" stop="20250120183000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">FIBA World Basketball</title>
+    <desc lang="en">Weekly wrap-up of basketball action from around the world including features on the world's top players, leagues and tournaments.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120183000 +0100" stop="20250120190000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">The Card Life</title>
+    <sub-title lang="en">Pennslyvania</sub-title>
+    <desc lang="en">A show dedicated to the hobby and business of sports card collecting.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120190000 +0100" stop="20250120200000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Up &amp; Adams</title>
+    <desc lang="en">Kay Adams and a rotating roster of current and former players discuss the biggest storylines in the NFL.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120200000 +0100" stop="20250120203000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Becoming Wild</title>
+    <sub-title lang="en">Marat Khusnutdinov</sub-title>
+    <desc lang="en">See what a day in the life on the Minnesota Wild roster looks like.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120203000 +0100" stop="20250120210000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Live: Wild Live Pregame</title>
+    <desc lang="en">Pregame coverage of Wild hockey.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20250120210000 +0100" stop="20250120233000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Live: NHL Hockey</title>
+    <sub-title lang="en">Minnesota Wild at Colorado Avalanche</sub-title>
+    <desc lang="en">The latest hockey action from across the NHL.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20250120233000 +0100" stop="20250121000000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Live: Wild Live Postgame</title>
+    <desc lang="en">Postgame coverage of Wild hockey.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20250121000000 +0100" stop="20250121003000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Becoming Wild</title>
+    <sub-title lang="en">Marat Khusnutdinov</sub-title>
+    <desc lang="en">See what a day in the life on the Minnesota Wild roster looks like.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250121003000 +0100" stop="20250121010000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Becoming Wild</title>
+    <sub-title lang="en">Liam Ohgren</sub-title>
+    <desc lang="en">See what a day in the life on the Minnesota Wild roster looks like.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250121010000 +0100" stop="20250121013000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Becoming Wild</title>
+    <sub-title lang="en">Marcus Foligno</sub-title>
+    <desc lang="en">With Wild left wing, Marcus Foligno.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250121013000 +0100" stop="20250121020000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Dialed-In Angling</title>
+    <category lang="en">Regular</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250121020000 +0100" stop="20250121040000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Athletes Unlimited Pro Volleyball</title>
+    <sub-title lang="en">Team Drews vs. Team Kingdon Rishel</sub-title>
+    <desc lang="en">From Arizona Athletic Grounds in Mesa, Ariz.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Volleyball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250121040000 +0100" stop="20250121043000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Sports Stars of Tomorrow</title>
+    <desc lang="en">Profiles of the top rookie, college and high-school talent in sports; current athletes share their experiences, advice and personal impressions of the road to stardom.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250121043000 +0100" stop="20250121050000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">A Fishing Story With Ronnie Green</title>
+    <desc lang="en">Anglers from all walks of life share their fishing stories.</desc>
+    <category lang="en">Reality TV</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250121050000 +0100" stop="20250121053000 +0100" channel="foxsportswisconsin.us">
+    <title lang="en">Dialed-In Angling</title>
+    <category lang="en">Regular</category>
+    <previously-shown/>
+  </programme>
   <programme start="20250119013000 +0100" stop="20250119020000 +0100" channel="espn.us">
     <title lang="en">Live: NFL on ESPN Postgame</title>
     <desc lang="en">NFL postgame.</desc>
@@ -13212,6 +13645,111 @@
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
+  <programme start="20250120050000 +0100" stop="20250120060000 +0100" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250120060000 +0100" stop="20250120070000 +0100" channel="espn.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120070000 +0100" stop="20250120080000 +0100" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250120080000 +0100" stop="20250120090000 +0100" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250120090000 +0100" stop="20250120130000 +0100" channel="espn.us">
+    <title lang="en">Live: 2025 Australian Open Tennis</title>
+    <sub-title lang="en">Round of 16</sub-title>
+    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250120130000 +0100" stop="20250120140000 +0100" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250120140000 +0100" stop="20250120160000 +0100" channel="espn.us">
+    <title lang="en">Live: Get Up</title>
+    <desc lang="en">Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20250120160000 +0100" stop="20250120180000 +0100" channel="espn.us">
+    <title lang="en">Live: First Take</title>
+    <desc lang="en">Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250120180000 +0100" stop="20250120200000 +0100" channel="espn.us">
+    <title lang="en">Live: The Pat McAfee Show</title>
+    <desc lang="en">Former NFL punter Pat McAfee brings his humor and candor to the microphone to highlight the day's top stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20250120200000 +0100" stop="20250120210000 +0100" channel="espn.us">
+    <title lang="en">Live: College Football Live</title>
+    <desc lang="en">ESPN's daily college football show sharing reactions to the day's biggest stories and previews of each week's most important matchups. Kelsey Riggs and Jen Lada host alongside contributors Desmond Howard, Sam Acho, Greg McElroy and Pete Thamel.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250120210000 +0100" stop="20250120223000 +0100" channel="espn.us">
+    <title lang="en">Live: Championship Drive</title>
+    <desc lang="en">Led by host Kevin Connors, college football analysts and reporters meet to discuss and debate who the top teams are in the country.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250120223000 +0100" stop="20250120230000 +0100" channel="espn.us">
+    <title lang="en">Live: Pardon the Interruption</title>
+    <desc lang="en">Opinions regarding the day's top sports stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20250120230000 +0100" stop="20250121010000 +0100" channel="espn.us">
+    <title lang="en">Live: College GameDay</title>
+    <desc lang="en">Originating from the site of Saturday's biggest games, host Rece Davis and analysts Lee Corso, Kirk Herbstreit, Desmond Howard, Pat McAfee, and Nick Saban cover college football with pregame breakdowns, exclusive interviews, features and predictions.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250121010000 +0100" stop="20250121013000 +0100" channel="espn.us">
+    <title lang="en">Live: Ram Trucks Pregame</title>
+    <desc lang="en">Pregame coverage.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250121013000 +0100" stop="20250121014500 +0100" channel="espn.us">
+    <title lang="en">Live: AT&amp;T Pregame Showcase</title>
+    <desc lang="en">A preview of the football matchup.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250121014500 +0100" stop="20250121051500 +0100" channel="espn.us">
+    <title lang="en">Live: CFP National Championship</title>
+    <sub-title lang="en">Ohio State vs. Notre Dame</sub-title>
+    <desc lang="en">The No. 7 Fighting Irish (14-1) battle the No. 8 Buckeyes (13-2) in the College Football Playoff final from Atlanta. Notre Dame seeks a 12th championship but the first for the storied school since 1988, while Ohio State aims for its ninth title.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250121051500 +0100" stop="20250121053000 +0100" channel="espn.us">
+    <title lang="en">Live: Ram Trucks Postgame</title>
+    <desc lang="en">Football postgame analysis and highlights.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
   <programme start="20250119000000 +0100" stop="20250119020000 +0100" channel="espn2.us">
     <title lang="en">Live: College Basketball</title>
     <sub-title lang="en">Ole Miss at Mississippi State</sub-title>
@@ -13319,6 +13857,150 @@
     <desc lang="en">ESPN High School Basketball Showcase at the Hoophall Classic. From Springfield, Mass.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250120023000 +0100" stop="20250120023000 +0100" channel="espn2.us">
+    <title lang="en">Live: 2025 Australian Open Tennis</title>
+    <sub-title lang="en">Round of 16</sub-title>
+    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250120023000 +0100" stop="20250120080000 +0100" channel="espn2.us">
+    <title lang="en">Live: 2025 Australian Open Tennis</title>
+    <sub-title lang="en">Round of 16</sub-title>
+    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250120080000 +0100" stop="20250120083000 +0100" channel="espn2.us">
+    <title lang="en">Path to the College Football Playoff</title>
+    <desc lang="en">An in-depth look at Ohio State's journey from the start of the season all the way to the 2025 College Football Playoff National Championship game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120083000 +0100" stop="20250120090000 +0100" channel="espn2.us">
+    <title lang="en">Path to the College Football Playoff</title>
+    <desc lang="en">An in-depth look at Notre Dame's journey from the start of the season all the way to the 2025 College Football Playoff National Championship game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120090000 +0100" stop="20250120100000 +0100" channel="espn2.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120100000 +0100" stop="20250120110000 +0100" channel="espn2.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120110000 +0100" stop="20250120120000 +0100" channel="espn2.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120120000 +0100" stop="20250120130000 +0100" channel="espn2.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120130000 +0100" stop="20250120140000 +0100" channel="espn2.us">
+    <title lang="en">Live: Unsportsmanlike with Evan, Canty and Michelle</title>
+    <desc lang="en">Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it's all about.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20250120140000 +0100" stop="20250120150000 +0100" channel="espn2.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250120150000 +0100" stop="20250120160000 +0100" channel="espn2.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250120160000 +0100" stop="20250120170000 +0100" channel="espn2.us">
+    <title lang="en">Get Up</title>
+    <desc lang="en">Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120170000 +0100" stop="20250120200000 +0100" channel="espn2.us">
+    <title lang="en">2025 Australian Open Tennis</title>
+    <sub-title lang="en">Round of 16</sub-title>
+    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120200000 +0100" stop="20250120210000 +0100" channel="espn2.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250120210000 +0100" stop="20250120230000 +0100" channel="espn2.us">
+    <title lang="en">Live: NFL Live</title>
+    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250120230000 +0100" stop="20250120233000 +0100" channel="espn2.us">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Sportswriters around the country discuss sports issues.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120233000 +0100" stop="20250121000000 +0100" channel="espn2.us">
+    <title lang="en">Live: ESPN BET Live</title>
+    <desc lang="en">ESPN Sports Betting Analysts Erin Dolan and Joe Fortenbaugh, along with host Tyler Fulghum, break down the biggest storylines through the lens of sports betting, with breakdowns, discussions and picks.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250121000000 +0100" stop="20250121010000 +0100" channel="espn2.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250121010000 +0100" stop="20250121013000 +0100" channel="espn2.us">
+    <title lang="en">Live: Ram Trucks Pregame</title>
+    <desc lang="en">Pregame coverage.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250121013000 +0100" stop="20250121014500 +0100" channel="espn2.us">
+    <title lang="en">Live: AT&amp;T Pregame Showcase</title>
+    <desc lang="en">A preview of the football matchup.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250121014500 +0100" stop="20250121051500 +0100" channel="espn2.us">
+    <title lang="en">Live: CFP National Championship</title>
+    <sub-title lang="en">Field Pass with The Pat McAfee Show: Ohio State vs. Notre Dame</sub-title>
+    <desc lang="en">From Mercedes-Benz Stadium in Atlanta.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250121051500 +0100" stop="20250121053000 +0100" channel="espn2.us">
+    <title lang="en">Live: Ram Trucks Postgame</title>
+    <desc lang="en">Football postgame analysis and highlights.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
   </programme>
   <programme start="20250119000000 +0100" stop="20250119020000 +0100" channel="Hallmark Channel (East)">
     <title lang="en">Raise a Glass to Love</title>
@@ -13749,6 +14431,199 @@
       <value>TVPG</value>
     </rating>
   </programme>
+  <programme start="20250120040000 +0100" stop="20250120060000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">Winter Castle</title>
+    <desc lang="en">Jenny feels an instant attraction to the handsome best man, Craig, at her sister's wedding. But her hopes of romance are quickly dashed when she is introduced to Craig's plus one, Lana.</desc>
+    <credits>
+      <actor>Emilie Ullerup</actor>
+      <actor>Kevin McGarry</actor>
+      <actor>Meghan Heffern</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120060000 +0100" stop="20250120080000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">Winter in Vail</title>
+    <desc lang="en">A Los Angeles event coordinator learns that her estranged uncle has recently passed away and left her a chalet in Vail, Colo.</desc>
+    <credits>
+      <actor>Lacey Chabert</actor>
+      <actor>Tyler Hynes</actor>
+      <actor>Marla Renae</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120080000 +0100" stop="20250120100000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">A Winter Getaway</title>
+    <desc lang="en">A man finds romance with a concierge after he's mistaken for a millionaire during a once-in-a-lifetime trip.</desc>
+    <credits>
+      <actor>Nazneen Contractor</actor>
+      <actor>Brooks Darnell</actor>
+      <actor>Erik Athavale</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120100000 +0100" stop="20250120120000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">Love on Iceland</title>
+    <desc lang="en">Seeking inspiration for work, Chloe gathers her college travel group back together for a trip to Iceland. When her ex shows up uninvited, sparks fly.</desc>
+    <credits>
+      <actor>Kaitlin Doubleday</actor>
+      <actor>Colin Donnell</actor>
+      <actor>Preston Sadleir</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120120000 +0100" stop="20250120140000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">Love in Paradise</title>
+    <desc lang="en">When an actor (Luke Perry) who makes Westerns visits a Montana dude ranch, a woman (Emmanuelle Vaugier) realizes that he's actually a city slicker who knows nothing about being a cowboy.</desc>
+    <credits>
+      <actor>Luke Perry</actor>
+      <actor>Emmanuelle Vaugier</actor>
+      <actor>Tom Butler</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120140000 +0100" stop="20250120160000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">Love in Winterland</title>
+    <desc lang="en">Ally, a final contestant on a dating show, must face her high school sweetheart when she is chosen for the Hometown Date.</desc>
+    <credits>
+      <actor>Italia Ricci</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Jack Turner</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120160000 +0100" stop="20250120180000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">Snowcoming</title>
+    <desc lang="en">A famous NFL quarterback returns to his hometown to celebrate his high school football coach's retirement. While in town, he rekindles a romance with his former sweetheart.</desc>
+    <credits>
+      <actor>Trevor Donovan</actor>
+      <actor>Lindy Booth</actor>
+      <actor>Joe Theismann</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120180000 +0100" stop="20250120200000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">A Winter Princess</title>
+    <desc lang="en">Princess Carly, working incognito at a ski resort, must team up with the owner's brother, Brent, to plan the resort's 50th-anniversary celebration.</desc>
+    <credits>
+      <actor>Natalie Hall</actor>
+      <actor>Chris McNally</actor>
+      <actor>Lara Gilchrist</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120200000 +0100" stop="20250120220000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">One Winter Proposal</title>
+    <desc lang="en">Old flames reignite and current flames burn brighter when a foursome returns to the ski lodge where they first found romance.</desc>
+    <credits>
+      <actor>Taylor Cole</actor>
+      <actor>Jack Turner</actor>
+      <actor>Rukiya Bernard</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120220000 +0100" stop="20250121000000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">Winter Love Story</title>
+    <desc lang="en">When author Cassie's first novel isn't selling, she is paired on a book tour with author Elliot to boost her sales - but along the way, a romance starts to blossom.</desc>
+    <credits>
+      <actor>Jen Lilley</actor>
+      <actor>Kevin McGarry</actor>
+      <actor>Mary-Margaret Humes</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250121000000 +0100" stop="20250121020000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">Love on the Slopes</title>
+    <desc lang="en">Alex, a copy editor from New York, is sent to an extreme sports outpost to write a story for a travel writing competition. Cole, a sports enthusiast, reluctantly agrees to be Alex's guide as she faces her fears.</desc>
+    <credits>
+      <actor>Katrina Bowden</actor>
+      <actor>Thomas Beaudoin</actor>
+      <actor>Elysia Rotaru</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250121020000 +0100" stop="20250121040000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">Snowkissed</title>
+    <desc lang="en">A travel-averse journalist chases her dream assignment, and she unwillingly finds herself mentoring a handsome B&amp;B owner who wants to be a tour guide.</desc>
+    <credits>
+      <actor>Jen Lilley</actor>
+      <actor>Chris McNally</actor>
+      <actor>Amy Groening</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
   <programme start="20250119000000 +0100" stop="20250119020000 +0100" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Curious Caterer Mysteries</title>
     <sub-title lang="en">Curious Caterer: Forbidden Fruit</sub-title>
@@ -14046,6 +14921,301 @@
       <value>TVG</value>
     </rating>
   </programme>
+  <programme start="20250120050000 +0100" stop="20250120060000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">O'Malley's Luck</sub-title>
+    <desc lang="en">Jessica's old friend, NYPD Detective Lt. O'Malley (Pat Hingle), investigates the suspicious suicide of a wealthy New York developer's wife.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120060000 +0100" stop="20250120070000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">Always a Thief</sub-title>
+    <desc lang="en">Jessica's old friend, former jewel thief turned insurance agent Dennis Stanton (Keith Michell), becomes involved in a high-society murder.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120070000 +0100" stop="20250120080000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">Shear Madness</sub-title>
+    <desc lang="en">While Jessica is in Texas to attend her cousin Ann's wedding, the bridegroom is murdered, as was Ann's first fiance 15 years earlier.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120080000 +0100" stop="20250120090000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">The Szechuan Dragon</sub-title>
+    <desc lang="en">Jessica's nephew and his wife enjoy housesitting in Cabot Cove until they discover the body of a peg-legged murder victim on the living room floor.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120090000 +0100" stop="20250120100000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">O'Malley's Luck</sub-title>
+    <desc lang="en">Jessica's old friend, NYPD Detective Lt. O'Malley (Pat Hingle), investigates the suspicious suicide of a wealthy New York developer's wife.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120100000 +0100" stop="20250120110000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">Always a Thief</sub-title>
+    <desc lang="en">Jessica's old friend, former jewel thief turned insurance agent Dennis Stanton (Keith Michell), becomes involved in a high-society murder.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120110000 +0100" stop="20250120120000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">Shear Madness</sub-title>
+    <desc lang="en">While Jessica is in Texas to attend her cousin Ann's wedding, the bridegroom is murdered, as was Ann's first fiance 15 years earlier.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120120000 +0100" stop="20250120140000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Columbo</title>
+    <sub-title lang="en">Murder Can Be Hazardous to Your Health</sub-title>
+    <desc lang="en">Columbo investigates the murder of a crime show host's rival with incriminating evidence.</desc>
+    <credits>
+      <actor>Peter Falk</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120140000 +0100" stop="20250120150000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Diagnosis Murder</title>
+    <sub-title lang="en">Flashdance With Death</sub-title>
+    <desc lang="en">Dr. Sloan searches for the killer of a dance studio owner to clear the name of his friend, a dancer who is the prime suspect.</desc>
+    <credits>
+      <actor>Dick Van Dyke</actor>
+      <actor>Scott Baio</actor>
+      <actor>Victoria Rowell</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120150000 +0100" stop="20250120160000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Diagnosis Murder</title>
+    <sub-title lang="en">Reunion With Murder</sub-title>
+    <desc lang="en">Dr. Sloan attempts to locate the person responsible for murdering a woman who was attempting to blackmail her former college roommates.</desc>
+    <credits>
+      <actor>Dick Van Dyke</actor>
+      <actor>Scott Baio</actor>
+      <actor>Victoria Rowell</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120160000 +0100" stop="20250120170000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Diagnosis Murder</title>
+    <sub-title lang="en">Lily</sub-title>
+    <desc lang="en">Dr. Sloan is caught in a police vice raid when he investigates the murder of a prostitute whom he once treated for mysterious bruises.</desc>
+    <credits>
+      <actor>Dick Van Dyke</actor>
+      <actor>Scott Baio</actor>
+      <actor>Victoria Rowell</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120170000 +0100" stop="20250120180000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Diagnosis Murder</title>
+    <sub-title lang="en">Guardian Angel</sub-title>
+    <desc lang="en">When a gunman confesses to assassinating the city's mayor during a re-election campaign, Dr. Sloan becomes convinced the man is innocent.</desc>
+    <credits>
+      <actor>Dick Van Dyke</actor>
+      <actor>Scott Baio</actor>
+      <actor>Victoria Rowell</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120180000 +0100" stop="20250120190000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Matlock</title>
+    <sub-title lang="en">The Picture</sub-title>
+    <desc lang="en">Ben finds a photo that may solve a murder while looking for his cousin's (Christina Pickles) philandering husband.</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Clarence Gilyard</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120190000 +0100" stop="20250120200000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Matlock</title>
+    <sub-title lang="en">The Picture</sub-title>
+    <desc lang="en">Ben uses evidence in an altered photo to uncover a murder plot designed to conceal a counterfeiting operation.</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Clarence Gilyard</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120200000 +0100" stop="20250120210000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Matlock</title>
+    <sub-title lang="en">The Outcast</sub-title>
+    <desc lang="en">"Retired" Ben returns from fishing to find a young immigrant farmhand dead and a town unfriendly to questions.</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Nancy Stafford</actor>
+      <actor>Julie Sommars</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120210000 +0100" stop="20250120220000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Matlock</title>
+    <sub-title lang="en">The Outcast</sub-title>
+    <desc lang="en">"Retired" Ben returns from fishing to find a young immigrant farmhand dead and a town unfriendly to questions.</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Nancy Stafford</actor>
+      <actor>Julie Sommars</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120220000 +0100" stop="20250120230000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Matlock</title>
+    <sub-title lang="en">The Abduction</sub-title>
+    <desc lang="en">Michelle is kidnapped by mobsters who offer her release in exchange for evidence Ben was given prior to a mob lawyer's murder.</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Nancy Stafford</actor>
+      <actor>Clarence Gilyard</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120230000 +0100" stop="20250121000000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Matlock</title>
+    <sub-title lang="en">Mr. Awesome</sub-title>
+    <desc lang="en">A woman is accused of murdering her estranged boyfriend; her imaginative son creates a comic book with parallels to the crime.</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Clarence Gilyard</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250121000000 +0100" stop="20250121020000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Gourmet Detective Mysteries</title>
+    <sub-title lang="en">A Healthy Place to Die</sub-title>
+    <desc lang="en">When Henry is invited as a guest speaker at a luxury resort spa, he quickly finds himself at the center of another murder.</desc>
+    <credits>
+      <actor>Dylan Neal</actor>
+      <actor>Brooke Burns</actor>
+      <actor>Matthew Kevin Anderson</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250121020000 +0100" stop="20250121040000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Crimes of Fashion: Killer Clutch</title>
+    <desc lang="en">An American psychologist helps a French detective investigate a murder that happened backstage at a Paris fashion show.</desc>
+    <credits>
+      <actor>Brooke D'Orsay</actor>
+      <actor>Gilles Marini</actor>
+      <actor>David Bowles</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Mystery</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250121040000 +0100" stop="20250121050000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">The Sicilian Encounter</sub-title>
+    <desc lang="en">Michael Haggerty (Len Cariou) falls for a widow (Deidre Hall) whose volatile brothers-in-law pose a threat.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
   <programme start="20250119000200 +0100" stop="20250119030300 +0100" channel="syfy.us">
     <title lang="en">Harry Potter and the Prisoner of Azkaban</title>
     <desc lang="en">The young wizard (Daniel Radcliffe) and his friends (Rupert Grint, Emma Watson) confront Sirius Black, a fugitive with ties to Harry's past.</desc>
@@ -14233,6 +15403,158 @@
       <actor>Emma Watson</actor>
     </credits>
     <date>2007</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250120023000 +0100" stop="20250120060000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Half-Blood Prince</title>
+    <desc lang="en">Dumbledore tries to prepare Harry for the final battle with Voldemort, while Death Eaters wreak havoc in both Muggle and Wizard worlds, and tragedy looms on the horizon.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250120060000 +0100" stop="20250120090000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Deathly Hallows: Part 1</title>
+    <desc lang="en">Harry (Daniel Radcliffe), Ron (Rupert Grint) and Hermione (Emma Watson) leave Hogwarts behind on a mission to destroy the Horcruxes, the secrets to Voldemort's power and immortality.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250120090000 +0100" stop="20250120120000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Deathly Hallows: Part 2</title>
+    <desc lang="en">As his showdown with Lord Voldemort (Ralph Fiennes) nears, Harry (Daniel Radcliffe) may have to make the ultimate sacrifice.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250120120000 +0100" stop="20250120150000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Prisoner of Azkaban</title>
+    <desc lang="en">The young wizard (Daniel Radcliffe) and his friends (Rupert Grint, Emma Watson) confront Sirius Black, a fugitive with ties to Harry's past.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250120150000 +0100" stop="20250120183000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Goblet of Fire</title>
+    <desc lang="en">During Harry's fourth year at Hogwarts a competition will be held between three schools of wizardry, and contestants will be magically chosen for the very dangerous event.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250120183000 +0100" stop="20250120213000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Order of the Phoenix</title>
+    <desc lang="en">When a new professor's bureaucratic methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches a dedicated group of students how to defend against the dark arts.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250120213000 +0100" stop="20250121010000 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Half-Blood Prince</title>
+    <desc lang="en">Dumbledore tries to prepare Harry for the final battle with Voldemort, while Death Eaters wreak havoc in both Muggle and Wizard worlds, and tragedy looms on the horizon.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250121010000 +0100" stop="20250121040500 +0100" channel="syfy.us">
+    <title lang="en">Harry Potter and the Deathly Hallows: Part 1</title>
+    <desc lang="en">Harry (Daniel Radcliffe), Ron (Rupert Grint) and Hermione (Emma Watson) leave Hogwarts behind on a mission to destroy the Horcruxes, the secrets to Voldemort's power and immortality.</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+    </credits>
+    <date>2010</date>
     <category lang="en">Movies</category>
     <category lang="en">Fantasy</category>
     <previously-shown/>
@@ -14456,6 +15778,247 @@
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <previously-shown/>
+  </programme>
+  <programme start="20250120030000 +0100" stop="20250120060000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime Live</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120060000 +0100" stop="20250120063000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120063000 +0100" stop="20250120070000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120070000 +0100" stop="20250120073000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120073000 +0100" stop="20250120080000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120080000 +0100" stop="20250120083000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120083000 +0100" stop="20250120090000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120090000 +0100" stop="20250120093000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120093000 +0100" stop="20250120100000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120100000 +0100" stop="20250120103000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120103000 +0100" stop="20250120110000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120110000 +0100" stop="20250120113000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120113000 +0100" stop="20250120120000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120120000 +0100" stop="20250120123000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120123000 +0100" stop="20250120130000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120130000 +0100" stop="20250120133000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120133000 +0100" stop="20250120140000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120140000 +0100" stop="20250120143000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120143000 +0100" stop="20250120150000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120150000 +0100" stop="20250120153000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120153000 +0100" stop="20250120160000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120160000 +0100" stop="20250120163000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120163000 +0100" stop="20250120170000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120170000 +0100" stop="20250120173000 +0100" channel="nbatv.us">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts, who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120173000 +0100" stop="20250120180000 +0100" channel="nbatv.us">
+    <title lang="en">NBA TV Pregame Show</title>
+    <desc lang="en">Preview of tonight's game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120180000 +0100" stop="20250120203000 +0100" channel="nbatv.us">
+    <title lang="en">Live: NBA Basketball</title>
+    <sub-title lang="en">Dallas Mavericks at Charlotte Hornets</sub-title>
+    <desc lang="en">Professional basketball action from the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250120203000 +0100" stop="20250120210000 +0100" channel="nbatv.us">
+    <title lang="en">NBA TV Postgame Show</title>
+    <desc lang="en">Review of the game; highlights; interviews with players and coaches.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120210000 +0100" stop="20250120223000 +0100" channel="nbatv.us">
+    <title lang="en">The Announcement</title>
+    <desc lang="en">At 32 years of age, Earvin "Magic" Johnson makes the stunning announcement that he is HIV-positive and will be retiring from the NBA immediately. Two decades later, Magic has defied the odds and continues to thrive.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250120223000 +0100" stop="20250120233000 +0100" channel="nbatv.us">
+    <title lang="en">Run It Back</title>
+    <desc lang="en">Covering all things NBA, including the day's biggest games, interesting matchups, and most talked about storylines.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250120233000 +0100" stop="20250121010000 +0100" channel="nbatv.us">
+    <title lang="en">The Doctor</title>
+    <desc lang="en">The definitive look at Julius "Dr. J" Erving's life and career--growing up in New York, playing in the ABA, and winning a NBA championship with the Philadelphia 76ers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250121010000 +0100" stop="20250121030000 +0100" channel="nbatv.us">
+    <title lang="en">Magic &amp; Bird: A Courtship of Rivals</title>
+    <desc lang="en">A history traces the competition between basketball players Larry Bird and Earvin "Magic" Johnson.</desc>
+    <credits>
+      <actor>Magic Johnson</actor>
+      <actor>Larry Bird</actor>
+      <actor>Pat Riley</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250121030000 +0100" stop="20250121043000 +0100" channel="nbatv.us">
+    <title lang="en">The Dream Team</title>
+    <desc lang="en">The story behind the historic Olympic gold medal run of the 1992 USA Men's Basketball team.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
   </programme>
   <programme start="20250119020000 +0100" stop="20250119040000 +0100" channel="tnt.us">
     <title lang="en">Live: All Elite Wrestling: Collision</title>
@@ -14723,6 +16286,214 @@
     <star-rating system="MPAA">
       <value>6.0/10</value>
     </star-rating>
+  </programme>
+  <programme start="20250120050000 +0100" stop="20250120050000 +0100" channel="tnt.us">
+    <title lang="en">Black Panther</title>
+    <desc lang="en">Black Panther's mettle as king gets tested when an old enemy draws him into a conflict that puts his nation and the world at risk. The king must soon rally his allies and release his full power to defeat his foes and secure the safety of his people.</desc>
+    <credits>
+      <actor>Chadwick Boseman</actor>
+      <actor>Michael B. Jordan</actor>
+      <actor>Lupita Nyong'o</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250120050000 +0100" stop="20250120080000 +0100" channel="tnt.us">
+    <title lang="en">Black Panther</title>
+    <desc lang="en">Black Panther's mettle as king gets tested when an old enemy draws him into a conflict that puts his nation and the world at risk. The king must soon rally his allies and release his full power to defeat his foes and secure the safety of his people.</desc>
+    <credits>
+      <actor>Chadwick Boseman</actor>
+      <actor>Michael B. Jordan</actor>
+      <actor>Lupita Nyong'o</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250120080000 +0100" stop="20250120090000 +0100" channel="tnt.us">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Man on Fire</sub-title>
+    <desc lang="en">After the discovery of a petty officer's body inside a sports arena, evidence leads Pride and the NCIS team to a kidnapping case of another petty officer, last seen in Mexico.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Vanessa Ferlito</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250120090000 +0100" stop="20250120100000 +0100" channel="tnt.us">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Escape Plan</sub-title>
+    <desc lang="en">The NCIS must come to the rescue of one of its own when Sebastian is kidnapped while dining in a restaurant with his mother; Sebastian relies on his gaming skills in a prison break.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Vanessa Ferlito</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250120100000 +0100" stop="20250120110000 +0100" channel="tnt.us">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Course Correction</sub-title>
+    <desc lang="en">The NCIS and the FBI investigate a private plane crash in the bayou that killed three sailors; Sonja and Lasalle interview candidates for a job opening on the team.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Vanessa Ferlito</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250120110000 +0100" stop="20250120120000 +0100" channel="tnt.us">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">One Good Man</sub-title>
+    <desc lang="en">A Navy SEAL candidate is murdered weeks before his graduation; Wade seeks Pride's help when her adopted son announces his plan to join the Navy.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Vanessa Ferlito</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250120120000 +0100" stop="20250120130000 +0100" channel="tnt.us">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Baby's First Demon</sub-title>
+    <desc lang="en">When Piper's baby is nearly abducted, Paige seeks out the would-be kidnappers at a demonic black market.</desc>
+    <credits>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+      <actor>Rose McGowan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120130000 +0100" stop="20250120140000 +0100" channel="tnt.us">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Lucky Charmed</sub-title>
+    <desc lang="en">The Charmed Ones team up with a leprechaun to go after a leprechaun-killing demon; Paige gets kidnapped when her luck runs out.</desc>
+    <credits>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+      <actor>Rose McGowan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250120140000 +0100" stop="20250120161500 +0100" channel="tnt.us">
+    <title lang="en">Out of Time</title>
+    <desc lang="en">Considered a suspect in a deadly arson, a police chief must cover his tracks while trying to prove his innocence.</desc>
+    <credits>
+      <actor>Denzel Washington</actor>
+      <actor>Eva Mendes</actor>
+      <actor>Sanaa Lathan</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250120161500 +0100" stop="20250120193000 +0100" channel="tnt.us">
+    <title lang="en">Tenet</title>
+    <desc lang="en">A secret agent embarks on a dangerous, time-bending mission to prevent the start of World War III.</desc>
+    <credits>
+      <actor>John David Washington</actor>
+      <actor>Robert Pattinson</actor>
+      <actor>Elizabeth Debicki</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <previously-shown/>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250120193000 +0100" stop="20250120203000 +0100" channel="tnt.us">
+    <title lang="en">Live: NBA Tip-Off</title>
+    <desc lang="en">Host Ernie Johnson readies viewers for NBA action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250120203000 +0100" stop="20250120230000 +0100" channel="tnt.us">
+    <title lang="en">Live: NBA Basketball</title>
+    <sub-title lang="en">Minnesota Timberwolves at Memphis Grizzlies</sub-title>
+    <desc lang="en">Professional basketball action from the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250120230000 +0100" stop="20250121013000 +0100" channel="tnt.us">
+    <title lang="en">Live: NBA Basketball</title>
+    <sub-title lang="en">Boston Celtics at Golden State Warriors</sub-title>
+    <desc lang="en">Professional basketball action from the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250121013000 +0100" stop="20250121020000 +0100" channel="tnt.us">
+    <title lang="en">Live: Inside the NBA</title>
+    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250121020000 +0100" stop="20250121023000 +0100" channel="tnt.us">
+    <title lang="en">Live: Unrivaled Pregame</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <category lang="en">Regular</category>
+  </programme>
+  <programme start="20250121023000 +0100" stop="20250121033000 +0100" channel="tnt.us">
+    <title lang="en">Live: Unrivaled Basketball</title>
+    <sub-title lang="en">Vinyl Basketball Club vs. Phantom Basketball Club</sub-title>
+    <desc lang="en">From Mediapro Basketball Facility in Miami.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250121033000 +0100" stop="20250121043000 +0100" channel="tnt.us">
+    <title lang="en">Live: Unrivaled Basketball</title>
+    <sub-title lang="en">Laces Basketball Club vs. Mist Basketball Club</sub-title>
+    <desc lang="en">From Mediapro Basketball Facility in Miami.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20250119000000 +0000" stop="20250119014000 +0000" channel="sportklub1.rs">
     <title lang="sr">Košarka - Australijska liga: Illawarra - Melbourne</title>
