@@ -17241,25 +17241,53 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/08/10/00/27/13/stb_xl_ae0b80e943fc43450fcea1d3774035c01402b3a1_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
   </programme>
-  <programme start="20250322150000 +0000" stop="20250322220000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Miami</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20250322164500 +0000" stop="20250322184500 +0000" channel="sportklub1.rs">
+    <title lang="sr">ATP Masters Miami: Tirante - Shapovalov</title>
+    <desc lang="sr">Uživajte u mečevima jednog od najprestižnijih ATP turnira! Ovaj turnir se igra u Majamiju, a tradicionalno se uvek održava u martu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/03/21/07/46/17/1440x810_31ca9659_18f6_45cf_8798_dc4a2e8a52a1.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/29/15/22/05/stb_xl_3db37500d4941fee18ad948d51b014b72741372e_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20250322220000 +0000" stop="20250322223000 +0000" channel="sportklub1.rs">
+  <programme start="20250322184500 +0000" stop="20250322203000 +0000" channel="sportklub1.rs">
+    <title lang="sr">ATP Masters Miami: Rune - Opelka</title>
+    <desc lang="sr">Uživajte u mečevima jednog od najprestižnijih ATP turnira! Ovaj turnir se igra u Majamiju, a tradicionalno se uvek održava u martu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/29/15/22/05/stb_xl_3db37500d4941fee18ad948d51b014b72741372e_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20250322203000 +0000" stop="20250322221500 +0000" channel="sportklub1.rs">
+    <title lang="sr">ATP Masters Miami: Berrettini - Gaston</title>
+    <desc lang="sr">Uživajte u mečevima jednog od najprestižnijih ATP turnira! Ovaj turnir se igra u Majamiju, a tradicionalno se uvek održava u martu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/29/15/22/05/stb_xl_3db37500d4941fee18ad948d51b014b72741372e_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20250322221500 +0000" stop="20250322224500 +0000" channel="sportklub1.rs">
     <title lang="sr">Soccer Bet SK VESTI</title>
     <desc lang="sr">Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/07/20/15/36/20/stb_xl_6bc9a7be81b09172cbc17b1b67a40f2ddc58452a_5bfa6c5e0b08ee4a285ec497928a74aa.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20250322223000 +0000" stop="20250323023000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Miami</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20250322224500 +0000" stop="20250323001500 +0000" channel="sportklub1.rs">
+    <title lang="sr">ATP Masters Miami: Fils - Diallo (UKLJUČENJE)</title>
+    <desc lang="sr">Uživajte u mečevima jednog od najprestižnijih ATP turnira! Ovaj turnir se igra u Majamiju, a tradicionalno se uvek održava u martu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/03/21/07/46/17/1440x810_31ca9659_18f6_45cf_8798_dc4a2e8a52a1.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/29/15/22/05/stb_xl_3db37500d4941fee18ad948d51b014b72741372e_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20250323001500 +0000" stop="20250323004500 +0000" channel="sportklub1.rs">
+    <title lang="sr">ATP Masters Miami: Davidovich-Fokina - Tiafoe (UKLJUČENJE)</title>
+    <desc lang="sr">Uživajte u mečevima jednog od najprestižnijih ATP turnira! Ovaj turnir se igra u Majamiju, a tradicionalno se uvek održava u martu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/29/15/22/05/stb_xl_3db37500d4941fee18ad948d51b014b72741372e_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20250323004500 +0000" stop="20250323023000 +0000" channel="sportklub1.rs">
+    <title lang="sr">WTA 1000 Miami: Zheng - Townsend</title>
+    <desc lang="sr">Uživajte u mečevima jednog od najprestižnijih WTA turnira! Ovaj turnir se igra u Majamiju, a tradicionalno se uvek održava u martu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/29/15/22/05/stb_xl_3db37500d4941fee18ad948d51b014b72741372e_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
     <premiere/>
   </programme>
   <programme start="20250323023000 +0000" stop="20250323030000 +0000" channel="sportklub1.rs">
@@ -17286,7 +17314,7 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/22/17/18/46/stb_xl_8e1f143a104208911a51c2eb43ec7ad5ded35161_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
   <programme start="20250323052500 +0000" stop="20250323070000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Koledž košarka: March Madness (RD2)</title>
+    <title lang="sr">Koledž košarka - March Madness (RD2): Texas A&amp;M - Michigan</title>
     <desc lang="sr">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proleća pratite ko će biti najbolja univerzitetska ekipa u SAD-u i koje će možda buduće NBA zvezde zablistati.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/11/09/18/19/49/stb_xl_333106ddff73e313e99c2caeb5a8f79d31ca52b5_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
@@ -17317,7 +17345,7 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/15/13/38/58/stb_xl_0bd6e6a0e0fc9685d8fa9028375b577faa5eccc6_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
   <programme start="20250323103000 +0000" stop="20250323120000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Koledž košarka: March Madness (RD2)</title>
+    <title lang="sr">Koledž košarka - March Madness (RD2): Wisonsin - Brigham Young</title>
     <desc lang="sr">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proleća pratite ko će biti najbolja univerzitetska ekipa u SAD-u i koje će možda buduće NBA zvezde zablistati.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/11/09/18/19/49/stb_xl_333106ddff73e313e99c2caeb5a8f79d31ca52b5_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
@@ -17482,27 +17510,21 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/22/17/18/46/stb_xl_8e1f143a104208911a51c2eb43ec7ad5ded35161_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
-  <programme start="20250322234500 +0000" stop="20250323014500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Koledž košarka: March Madness (RD2)</title>
+  <programme start="20250322234500 +0000" stop="20250323014000 +0000" channel="sportklub2.rs">
+    <title lang="sr">Koledž košarka: March Madness (RD2): Wisonsin - Brigham Young</title>
     <desc lang="sr">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proleća pratite ko će biti najbolja univerzitetska ekipa u SAD-u i koje će možda buduće NBA zvezde zablistati. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/11/09/18/19/49/stb_xl_333106ddff73e313e99c2caeb5a8f79d31ca52b5_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20250323014500 +0000" stop="20250323020000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Na današnji dan</title>
-    <desc lang="sr">Podsećanje na godišnjice uspeha sportista, klubova i reprezentacije koji su se dogodili na današnji dan.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/55/27/stb_xl_122c82639a63b674a2a83dcabb3e114072e62a42.jpg"/>
-  </programme>
-  <programme start="20250323020000 +0000" stop="20250323040000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Koledž košarka: March Madness (RD2)</title>
+  <programme start="20250323014000 +0000" stop="20250323034500 +0000" channel="sportklub2.rs">
+    <title lang="sr">Koledž košarka: March Madness (RD2): Tennessee - UCLA</title>
     <desc lang="sr">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proleća pratite ko će biti najbolja univerzitetska ekipa u SAD-u i koje će možda buduće NBA zvezde zablistati. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/11/09/18/19/49/stb_xl_333106ddff73e313e99c2caeb5a8f79d31ca52b5_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20250323040000 +0000" stop="20250323055500 +0000" channel="sportklub2.rs">
+  <programme start="20250323034500 +0000" stop="20250323055500 +0000" channel="sportklub2.rs">
     <title lang="sr">Cage Warriors 186: O2 London</title>
     <desc lang="sr">Najbolji borci današnjice obračunavaju se u bespoštednim okršajima. Jedan loš ili jedan savršen trenutak mogu potpuno promeniti tok karijere.</desc>
     <category lang="sr">Sports</category>
@@ -18135,12 +18157,39 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
   </programme>
-  <programme start="20250322150000 +0000" stop="20250323010000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Tenis: WTA 1000 &amp; ATP Masters Miami</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20250322164500 +0000" stop="20250322184500 +0000" channel="sportklub5.rs">
+    <title lang="sr">ATP Masters Miami: Thompson - Mpetshi-Perricard</title>
+    <desc lang="sr">Uživajte u mečevima jednog od najprestižnijih ATP turnira! Ovaj turnir se igra u Majamiju, a tradicionalno se uvek održava u martu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/03/21/07/46/17/1440x810_31ca9659_18f6_45cf_8798_dc4a2e8a52a1.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/29/15/22/05/stb_xl_3db37500d4941fee18ad948d51b014b72741372e_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
     <premiere/>
+  </programme>
+  <programme start="20250322184500 +0000" stop="20250322203000 +0000" channel="sportklub5.rs">
+    <title lang="sr">ATP Masters Miami: Popyrin - Safiullin</title>
+    <desc lang="sr">Uživajte u mečevima jednog od najprestižnijih ATP turnira! Ovaj turnir se igra u Majamiju, a tradicionalno se uvek održava u martu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/29/15/22/05/stb_xl_3db37500d4941fee18ad948d51b014b72741372e_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20250322203000 +0000" stop="20250322221500 +0000" channel="sportklub5.rs">
+    <title lang="sr">ATP Masters Miami: Bopanna/Dodig - Bhambri/Borges (dublovi)</title>
+    <desc lang="sr">Uživajte u mečevima jednog od najprestižnijih ATP turnira! Ovaj turnir se igra u Majamiju, a tradicionalno se uvek održava u martu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/29/15/22/05/stb_xl_3db37500d4941fee18ad948d51b014b72741372e_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20250322221500 +0000" stop="20250323000000 +0000" channel="sportklub5.rs">
+    <title lang="sr">ATP Masters Miami: Arevalo/Pavić - Matos/Melo (dublovi)</title>
+    <desc lang="sr">Uživajte u mečevima jednog od najprestižnijih ATP turnira! Ovaj turnir se igra u Majamiju, a tradicionalno se uvek održava u martu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/29/15/22/05/stb_xl_3db37500d4941fee18ad948d51b014b72741372e_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20250323000000 +0000" stop="20250323010000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
   </programme>
   <programme start="20250323010000 +0000" stop="20250323020000 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 5 Promo 3</title>
@@ -18355,14 +18404,21 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/09/25/14/48/31/stb_xl_c7747a41643a8dc2b3b048a2435f12d890be8755_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20250322214500 +0000" stop="20250323001000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Tenis: WTA 1000 &amp; ATP Masters Miami</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20250322214500 +0000" stop="20250322223000 +0000" channel="sportklub6.rs">
+    <title lang="sr">ATP Masters Miami: Bergs - Rublev (UKLJUČENJE)</title>
+    <desc lang="sr">Uživajte u mečevima jednog od najprestižnijih ATP turnira! Ovaj turnir se igra u Majamiju, a tradicionalno se uvek održava u martu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/03/21/07/46/17/1440x810_31ca9659_18f6_45cf_8798_dc4a2e8a52a1.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/29/15/22/05/stb_xl_3db37500d4941fee18ad948d51b014b72741372e_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20250323001000 +0000" stop="20250323010000 +0000" channel="sportklub6.rs">
+  <programme start="20250322223000 +0000" stop="20250323003000 +0000" channel="sportklub6.rs">
+    <title lang="sr">ATP Masters Miami: De Minaur - Bu</title>
+    <desc lang="sr">Uživajte u mečevima jednog od najprestižnijih ATP turnira! Ovaj turnir se igra u Majamiju, a tradicionalno se uvek održava u martu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/29/15/22/05/stb_xl_3db37500d4941fee18ad948d51b014b72741372e_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20250323003000 +0000" stop="20250323010000 +0000" channel="sportklub6.rs">
     <title lang="sr">Sport Klub 6 Promo 2</title>
     <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
     <category lang="sr">Sports</category>
