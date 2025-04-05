@@ -420,11 +420,25 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S17 E4/10</episode-num>
   </programme>
-  <programme start="20250405100000 +0000" stop="20250405130000 +0000" channel="svt1.se">
+  <programme start="20250405100000 +0000" stop="20250405113000 +0000" channel="svt1.se">
     <title lang="sv">Bordtennis: WTT Champions</title>
     <desc lang="sv">Incheon, Sydkorea. Se de 32 bästa herr- och damspelarna i världen göra upp i den andra WTT Champions-tävlingen för året, den här gången är de på plats i Incheon, Sydkorea. Ska Truls Möregård, som enda svenska spelare, ta sig hela vägen till final?</desc>
     <date>2025</date>
     <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20250405113000 +0000" stop="20250405120000 +0000" channel="svt1.se">
+    <title lang="sv">Strömsö</title>
+    <desc lang="sv">Kocken Julien Huéber bjuder på klassisk fransk bakning. Han visar hur man gör frasiga och luftiga éclairer och petit choux.. Det bjuds även på tips på hur man spritsar och gör en god vaniljkräm. Rabarber är en älskad trädgårdsväxt som finns i många olika varianter.. Lena och Nicke odlar lite olika sorter och visar hur man gör glasrabarber. Det blir också ny inspiration för träning hemma. Personliga tränaren Anna-Karin Siegfrids visar på olika sätt att träna benstyrka. Det blir en introduktion till träningsformen barre, som är som en blandning av pilates och balett.</desc>
+    <date>2024</date>
+    <country lang="sv">FIN</country>
+    <episode-num system="onscreen">S36 E10/21</episode-num>
+  </programme>
+  <programme start="20250405120000 +0000" stop="20250405130000 +0000" channel="svt1.se">
+    <title lang="sv">Detektiverna</title>
+    <desc lang="sv">Det har skett ett mystiskt dödsfall ombord på tåget. Kan detektiverna lista ut vilket mordvapen som användes?</desc>
+    <date>2025</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">S2 E3/7</episode-num>
   </programme>
   <programme start="20250405130000 +0000" stop="20250405132000 +0000" channel="svt1.se">
     <title lang="sv">Beppe på resa</title>
@@ -6385,31 +6399,31 @@
     <country lang="sv">ESP</country>
     <episode-num system="onscreen">S2025 E27/35</episode-num>
   </programme>
-  <programme start="20250405210500 +0000" stop="20250405213500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20250405210500 +0000" stop="20250405213000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">NBA action</title>
     <date>2024</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S2024 E24/36</episode-num>
   </programme>
-  <programme start="20250405213500 +0000" stop="20250405220500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20250405213000 +0000" stop="20250405220500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Inside Serie A</title>
     <date>2024</date>
     <country lang="sv">ITA</country>
     <episode-num system="onscreen">S2024 E32/40</episode-num>
   </programme>
-  <programme start="20250405220500 +0000" stop="20250405224000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20250405220500 +0000" stop="20250405223500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">La Liga show</title>
     <date>2024</date>
     <country lang="sv">ESP</country>
     <episode-num system="onscreen">S2024 E30/38</episode-num>
   </programme>
-  <programme start="20250405224000 +0000" stop="20250405231000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20250405223500 +0000" stop="20250405230500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">La liga world</title>
     <date>2024</date>
     <country lang="sv">ESP</country>
     <episode-num system="onscreen">S2024 E34</episode-num>
   </programme>
-  <programme start="20250405231000 +0000" stop="20250405234000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20250405230500 +0000" stop="20250405234000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Inside Serie A</title>
     <date>2024</date>
     <country lang="sv">ITA</country>
