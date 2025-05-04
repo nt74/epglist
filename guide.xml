@@ -16510,7 +16510,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250505050000 +0200" stop="20250505060000 +0200" channel="nbatv.us">
+  <programme start="20250505050000 +0200" stop="20250505050000 +0200" channel="nbatv.us">
     <title lang="en">Playoff Central</title>
     <desc lang="en">News and features from the NBA playoffs.</desc>
     <category lang="en">Sports</category>
@@ -16518,47 +16518,40 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18006017_b_s4_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250505060000 +0200" stop="20250505070000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
+  <programme start="20250505050000 +0200" stop="20250505063000 +0200" channel="nbatv.us">
+    <title lang="en">Playoff Central</title>
+    <desc lang="en">News and features from the NBA playoffs.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18006017_b_s4_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250505070000 +0200" stop="20250505080000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
+  <programme start="20250505063000 +0200" stop="20250505080000 +0200" channel="nbatv.us">
+    <title lang="en">Playoff Central</title>
+    <desc lang="en">News and features from the NBA playoffs.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18006017_b_s4_aa.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20250505080000 +0200" stop="20250505090000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
+    <title lang="en">NBA Playoff Playback</title>
+    <sub-title lang="en">2025 Western Conference First Round: LA Clippers at Denver Nuggets</sub-title>
+    <desc lang="en">Game 7.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3591435_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20250505090000 +0200" stop="20250505100000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
+    <title lang="en">NBA Playoff Playback</title>
+    <desc lang="en">A look at the best NBA playoff action.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3591435_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250505100000 +0200" stop="20250505103000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250505103000 +0200" stop="20250505113000 +0200" channel="nbatv.us">
+  <programme start="20250505100000 +0200" stop="20250505110000 +0200" channel="nbatv.us">
     <title lang="en">Inside the NBA</title>
     <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
     <category lang="en">Sports</category>
@@ -16566,16 +16559,13 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p248610_i_h8_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250505113000 +0200" stop="20250505120000 +0200" channel="nbatv.us">
-    <title lang="en">NBA Action</title>
-    <desc lang="en">A weekly look back at the top news and highlights in the NBA.</desc>
+  <programme start="20250505110000 +0200" stop="20250505120000 +0200" channel="nbatv.us">
+    <title lang="en">Inside the NBA</title>
+    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p448615_b_v11_an.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p248610_i_h8_ab.jpg"/>
     <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20250505120000 +0200" stop="20250505130000 +0200" channel="nbatv.us">
     <title lang="en">Inside the NBA</title>
@@ -16618,51 +16608,57 @@
     <previously-shown/>
   </programme>
   <programme start="20250505170000 +0200" stop="20250505180000 +0200" channel="nbatv.us">
-    <title lang="en">Inside the NBA</title>
-    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
+    <title lang="en">NBA Playoff Playback</title>
+    <sub-title lang="en">2025 Eastern Conference Semifinals: Indiana Pacers at Cleveland Cavaliers</sub-title>
+    <desc lang="en">Game 1.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p248610_i_h8_ab.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3591435_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20250505180000 +0200" stop="20250505190000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
+    <title lang="en">NBA Playoff Playback</title>
+    <sub-title lang="en">2025 eastern Conference First Round: New York Knicks at Detroit Pistons</sub-title>
+    <desc lang="en">Game 6.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3591435_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20250505190000 +0200" stop="20250505200000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
+    <title lang="en">NBA Playoff Playback</title>
+    <sub-title lang="en">2025 Western Conference First Round: Minnesota Timberwolves at Los Angeles Lakers</sub-title>
+    <desc lang="en">Rudy Gobert had playoff career highs with 27 points and 24 rebounds, Julius Randle added 23 points and Minnesota advanced in the NBA playoffs with a clinching 103-96 victory in their first-round series.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3591435_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20250505200000 +0200" stop="20250505210000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
+    <title lang="en">NBA Playoff Playback</title>
+    <sub-title lang="en">2025 Eastern Conference First Round: Milwaukee Bucks at Indiana Pacers</sub-title>
+    <desc lang="en">Game 5.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3591435_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20250505210000 +0200" stop="20250505220000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
+    <title lang="en">NBA Playoff Playback</title>
+    <sub-title lang="en">2025 Western Conference First Round: Denver Nuggets at Los Angeles Clippers</sub-title>
+    <desc lang="en">A look at the best NBA playoff action.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3591435_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20250505220000 +0200" stop="20250505230000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
+    <title lang="en">NBA Playoff Playback</title>
+    <sub-title lang="en">2025 Western Conference First Round: Denver Nuggets at LA Clippers</sub-title>
+    <desc lang="en">Game 6.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3591435_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20250505230000 +0200" stop="20250506000000 +0200" channel="nbatv.us">
@@ -16707,20 +16703,12 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8919446_b_s4_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250506020000 +0200" stop="20250506030000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
+  <programme start="20250506020000 +0200" stop="20250506033000 +0200" channel="nbatv.us">
+    <title lang="en">Everything But the Chip: The 2001 76ers</title>
+    <desc lang="en">This retrospective takes an in-depth look at one of the most eventful and rewarding seasons in 76ers history. The talented team made it all the way to the NBA Finals, led by 2001 MVP Allen Iverson and 2001 NBA Coach of the Year Larry Brown.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250506030000 +0200" stop="20250506040000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24737397_i_s2_aa.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20250506040000 +0200" stop="20250506050000 +0200" channel="nbatv.us">
@@ -17233,13 +17221,12 @@
     <previously-shown/>
   </programme>
   <programme start="20250506010000 +0200" stop="20250506033000 +0200" channel="tnt.us">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">First Round: Teams TBA</sub-title>
-    <desc lang="en">Professional basketball action from the NBA.</desc>
+    <title lang="en">Live: NBA Basketball</title>
+    <sub-title lang="en">New York Knicks at Boston Celtics</sub-title>
+    <desc lang="en">Old rivals collide in an East semifinal as the No. 3 Knicks visit the No. 2 Celtics for Game 1. This is the first time Boston and New York have met at this stage since 1984, when Larry Bird's Celtics eliminated Bernard King's Knicks in seven games.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191276_b_v12_ak.jpg"/>
-    <previously-shown/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG001YSSPP.jpg"/>
   </programme>
   <programme start="20250504004000 +0000" stop="20250504021000 +0000" channel="sportklub1.rs">
     <title lang="sr">Košarka - Litvanska liga: Lietkabelis - Zalgiris</title>
