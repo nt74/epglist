@@ -16503,11 +16503,11 @@
     <previously-shown/>
   </programme>
   <programme start="20250505050000 +0200" stop="20250505050000 +0200" channel="nbatv.us">
-    <title lang="en">NBATV Gap Programming</title>
-    <desc lang="en">NBATV programming.</desc>
+    <title lang="en">Playoff Central</title>
+    <desc lang="en">News and features from the NBA playoffs.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27569206_b_s4_aa.jpg"/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18006017_b_s4_aa.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20250505050000 +0200" stop="20250505050000 +0200" channel="nbatv.us">
