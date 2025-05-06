@@ -7571,8 +7571,13 @@
     <desc lang="el">Αθλητική επικαιρότητα.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
   </programme>
-  <programme start="20250507205000 +0300" stop="20250507220000 +0300" channel="mega.gr">
+  <programme start="20250507205000 +0300" stop="20250507210000 +0300" channel="mega.gr">
     <title lang="el">Δελτίο Καιρού</title>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
+  </programme>
+  <programme start="20250507210000 +0300" stop="20250507220000 +0300" channel="mega.gr">
+    <title lang="el">Pre game</title>
+    <desc lang="el">Πριν από κάθε αγώνα, μάθετε ό,τι αφορά την αναμέτρηση που ακολουθεί.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
   </programme>
   <programme start="20250506000000 +0300" stop="20250506020000 +0300" channel="ant1.gr">
@@ -8031,33 +8036,13 @@
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/files/images/2021/1/04449f0a-f581-4623-ab07-b903b9e36145.jpg"/>
   </programme>
-  <programme start="20250506014500 +0300" stop="20250506040000 +0300" channel="alpha.gr">
-    <title lang="el">Η μονομαχία</title>
-    <desc lang="el">Ένας αξιωματούχος του Νόμου στέλνεται σε μια μικρή πόλη για να ερευνήσει μια σειρά ανεξήγητων φόνων. Όταν θα ανακαλύψει το σκοτεινό μυστικό του ιεροκήρυκα που κυβερνά την κοινότητα, θα κάνει τα πάντα για να σταματήσει τη δράση του.</desc>
-    <credits>
-      <director>Kieran Darcy-Smith</director>
-      <actor role="Abraham">Woody Harrelson</actor>
-      <actor role="David Kingston">Λίαμ Χέμσγουορθ</actor>
-      <actor role="Marisol">Άλις Μπράγκα</actor>
-      <actor role="Isaac">Έμορι Κόεν</actor>
-      <actor role="Naomi">Felicity Πράις</actor>
-      <actor role="Governor Ross">Γουίλιαμ Σάντλερ</actor>
-      <actor role="Monte (ως Chris Baker)">Κρίστοφερ Μπέικερ</actor>
-      <actor role="Dale (ως Chris Berry)">Κρίστοφερ Μπέρι</actor>
-      <actor role="George">Benedict Samuel</actor>
-      <actor role="John">Giles Matthey</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="el">Ταινία</category>
-    <icon src="https://www.ishow.gr/files/images/2018/1/8/09393cef-46f4-407b-9044-6ddaa352a9e2_pposter.jpg"/>
+  <programme start="20250506035000 +0300" stop="20250506045000 +0300" channel="alpha.gr">
+    <title lang="el">Άγιος Έρωτας</title>
+    <desc lang="el">Ο Παύλος, προσπαθώντας να σώσει το μαγαζί του από την Κατρίν, συνωμοτεί ακόμα μια φορά με τη Χριστίνα για να την εξοντώσουν. Ο έγγαμος βίος της Χλόης και του Πέτρου πηγαίνει από το κακό στο χειρότερο.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
+    <episode-num system="onscreen">S2 E110</episode-num>
   </programme>
-  <programme start="20250506040000 +0300" stop="20250506051500 +0300" channel="alpha.gr">
-    <title lang="el">Αμφιβολίες</title>
-    <desc lang="el">ΠΡΕΜΙΕΡΑ. Ιστορίες γεμάτες ένταση και συνεχείς ανατροπές, υποθέσεις αστυνομικού χαρακτήρα που σπείρουν αμφιβολίες στον πρωταγωνιστή που έρχεται αντιμέτωπος με την υποψία ότι κάποιος δικός του αγαπημένος άνθρωπος έχει διαπράξει κάποιο έγκλημα.</desc>
-    <category lang="el">Σειρά</category>
-    <icon src="https://www.ishow.gr/files/images/2022/9/6f460297-83c3-4afb-a571-5d7ddebfadd9.jpg"/>
-  </programme>
-  <programme start="20250506051500 +0300" stop="20250506061000 +0300" channel="alpha.gr">
+  <programme start="20250506045000 +0300" stop="20250506061000 +0300" channel="alpha.gr">
     <title lang="el">Αμφιβολίες</title>
     <desc lang="el">ΠΡΕΜΙΕΡΑ. Ιστορίες γεμάτες ένταση και συνεχείς ανατροπές, υποθέσεις αστυνομικού χαρακτήρα που σπείρουν αμφιβολίες στον πρωταγωνιστή που έρχεται αντιμέτωπος με την υποψία ότι κάποιος δικός του αγαπημένος άνθρωπος έχει διαπράξει κάποιο έγκλημα.</desc>
     <category lang="el">Σειρά</category>
@@ -10259,30 +10244,14 @@
     </credits>
     <icon src="https://www.ishow.gr/files/images/2022/11/d5a53c7d-ddab-43d2-8b9c-4ebd33c10d9e.jpg"/>
   </programme>
-  <programme start="20250507170000 +0300" stop="20250507173000 +0300" channel="ert3.gr">
-    <title lang="el">Πράσινοι Παράδεισοι</title>
-    <desc lang="el">Ανακαλύπτουμε τη Χιλιανή Παταγονία, μια εξαιρετική γη με βουνά, παγετώνες, ποτάμια και δάση. Στη μέση μιας οροσειράς, δύο γρανιτένιοι ογκόλιθοι υψώνονται πάνω από την πεδιάδα της Παταγονίας.</desc>
+  <programme start="20250507170000 +0300" stop="20250507171500 +0300" channel="ert3.gr">
+    <title lang="el">Sports Doc</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
   </programme>
-  <programme start="20250507173000 +0300" stop="20250507190000 +0300" channel="ert3.gr">
-    <title lang="el">Η αδελφή μου θέλει ξύλο</title>
-    <desc lang="el">Ένας ταλαίπωρος τυπάκος, ο Σπύρος, θέλει να παντρέψει την αδελφή του, μια ζωηρή σουσουραδίτσα –Μαριάννα το όνομα. Θέλει να της δώσει ένα διαμέρισμα για προίκα αλλά τα χρήματά του δεν αρκούν για κάτι τέτοιο. Έτσι αναγκάζεται να ζητήσει δάνειο απ’ το αφεντικό του. Ο τελευταίος αρνείται να τον εξυπηρετήσει αλλά μόλις γνωρίζει αυτοπροσώπως τη Μαριάννα, η οποία στο μεταξύ έχει αναδειχθεί Μις Παγώνι και πρωταγωνιστεί σε ταινία, αλλάζει γνώμη. Ο Σπύρος προσπαθεί να βάλει μυαλό στη Μαριάννα η οποία τροχίζεται για ερωμένη του αφεντικού του, το μόνο όμως που καταφέρνει είναι να χάσει τη δουλειά του. Επειδή ωστόσο είναι καλός χημικός, δεν αργεί να βρει άλλη δουλειά αλλά το πρόβλημά του παραμένει. Θέλει με κάθε θυσία να αποκαταστήσει την αδελφή του, παντρεύοντάς την με τον φτωχό και έντιμο ηλεκτρολόγο Μανώλη. Ο τελευταίος, καθώς φαίνεται, την υπεραγαπά.</desc>
-    <credits>
-      <director>Κώστας Λυχναράς</director>
-      <actor>Γιάννης Γκιωνάκης</actor>
-      <actor>Νίκη Λινάρδου (Μπέμπη Λινάρδου)</actor>
-      <actor>Γιώργος Βρασιβανόπουλος</actor>
-      <actor>Χάρης Παναγιώτου</actor>
-      <actor>Άννα Γαλάνη</actor>
-      <actor>Διονύσης Παπαγιαννόπουλος</actor>
-      <actor>Νίκος Ρίζος</actor>
-      <actor>Αντώνης Παπαδόπουλος</actor>
-      <actor>Στέλιος Λιονάκης</actor>
-      <actor>Αλέκος Δαρόπουλος</actor>
-      <writer>Αλέκος Σακελλάριος</writer>
-      <composer>Πάνος Γαβαλάς</composer>
-    </credits>
-    <icon src="https://www.ishow.gr/files/images/2022/9/436eff4e-3ada-4038-8c3e-f6894209c580.jpg"/>
+  <programme start="20250507171500 +0300" stop="20250507190000 +0300" channel="ert3.gr">
+    <title lang="el">Μπάσκετ: ΠΑΟΚ - Πανιώνιος (Ζ)</title>
+    <desc lang="el">Basket League 2024-25. Αγώνας Κατάταξης Θέσεις 6-7. Ο ΠΑΟΚ, που ηττήθηκε από την Καρδίτσα για τους αγώνες κατάταξης 5-6, θα διεκδικήσει την 6η θέση απέναντι στον Πανιώνιο, που κέρδισε το Περιστέρι για τις αντίστοιχες θέσεις στο 7-8.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
   </programme>
   <programme start="20250507190000 +0300" stop="20250507191500 +0300" channel="ert3.gr">
     <title lang="el">ΕΡΤ Καιρός</title>
@@ -10656,9 +10625,10 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/43.png"/>
   </programme>
   <programme start="20250507200000 +0300" stop="20250507210000 +0300" channel="makedoniatv.gr">
-    <title lang="el">Castle - 6ος κύκλος</title>
-    <desc lang="el">Όταν ένα ανερχόμενο αστέρι της ποπ βρίσκεται νεκρό σ’ ένα σοκάκι, ο Castle και η Beckett σκαλίζουν τον "ανεξέλεγκτο" τρόπο ζωής του θύματος. Ψάχνοντας όμως ακόμα πιο βαθιά, μια σοκαριστική αποκάλυψη απειλεί την έρευνά τους.</desc>
-    <icon src="https://www.ishow.gr/files/images/2013/9/11/028c5bd3-d4bb-48f6-896a-2e28fa9ea05e.jpg"/>
+    <title lang="el">Baywatch - 8ος κύκλος</title>
+    <desc lang="el">Η θρυλική σειρά της δεκαετίας του '90 επιστρέφει! Σε μια πολυσύχναστη παραλία του Λος Άντζελες, μια ομάδα ναυαγοσωστών έρχεται διαρκώς αντιμέτωπη με απρόβλεπτες συνθήκες κι αμέτρητους κινδύνους, στην προσπάθειά της να σώσει ζωές. Παραγωγή: ΗΠΑ (1997).</desc>
+    <icon src="https://www.ishow.gr/files/images/2022/8/61c648ed-0a66-46aa-88f0-eb7a0020e2a9.jpg"/>
+    <episode-num system="onscreen">S9 E1000</episode-num>
   </programme>
   <programme start="20250507210000 +0300" stop="20250507220000 +0300" channel="makedoniatv.gr">
     <title lang="el">CSI: NY - 5ος κύκλος</title>
@@ -11206,14 +11176,14 @@
     <desc lang="el">Κορυφαίοι αθλητές μιλούν για την καλύτερη στιγμή της καριέρας τους.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20250506020000 +0300" stop="20250506030000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+  <programme start="20250506020000 +0300" stop="20250506050000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς (Ζ)</title>
+    <desc lang="el">NBA Playoffs 2025. Ανατολική Περιφέρεια, Ημιτελική Φάση, 1ος Αγώνας. Περιγραφή: Γιάννης Φιλέρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250506030000 +0300" stop="20250506060000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: NBA Playoffs 2025</title>
-    <desc lang="el">Η 79η σεζόν του κορυφαίου πρωταθλήματος μπάσκετ του πλανήτη ξεκινά με τους Μπόστον Σέλτικς πρωταθλητές και τους Μιλγουόκι Μπακς του Γιάννη Αντετοκούνμπο να διεκδικούν τον τίτλο.</desc>
+  <programme start="20250506050000 +0300" stop="20250506060000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials: Basketball Stories</title>
+    <desc lang="el">Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
   <programme start="20250506060000 +0300" stop="20250506080000 +0300" channel="cosmotesport4.gr">
@@ -11226,61 +11196,66 @@
     <desc lang="el">FIBA Basketball Champions League 2024-25. Προημιτελική Φάση, 2ος Αγώνας. Παρακολουθήστε τους αγώνες της 9ης σεζόν του FIBA Basketball Champions League. 32 ομάδες μπαίνουν στην αφετηρία από τη φάση των ομίλων, μέχρι το Φάιναλ Φορ που θα αναδείξει τον πρωταθλητή. Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250506100000 +0300" stop="20250506120000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: Μάλαγα - Ανδόρα</title>
-    <desc lang="el">ACB Liga Endesa 2024-25. 30η Αγωνιστική. Το κορυφαίο ισπανικό πρωτάθλημα μπάσκετ διαθέτει ευρωπαϊκές υπερδυνάμεις όπως οι Μπαρτσελόνα, Μπασκόνια, Γκραν Κανάρια, Ουνικάχα Μάλαγα, αλλά και η πρωταθήτρια Ρεάλ Μαδρίτης. Συνολικά 18 ομάδες διεκδικούν τον τίτλο, συμπεριλαμβανομένων των νεοφώτιστων Γέιδα και Κορούνια. Περιγραφή: Γιάννης Φιλέρης.</desc>
+  <programme start="20250506100000 +0300" stop="20250506123000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς</title>
+    <desc lang="el">NBA Playoffs 2025. Ανατολική Περιφέρεια, Ημιτελική Φάση, 1ος Αγώνας. Περιγραφή: Γιάννης Φιλέρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250506120000 +0300" stop="20250506143000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: NBA Playoffs 2025</title>
-    <desc lang="el">Η 79η σεζόν του κορυφαίου πρωταθλήματος μπάσκετ του πλανήτη ξεκινά με τους Μπόστον Σέλτικς πρωταθλητές και τους Μιλγουόκι Μπακς του Γιάννη Αντετοκούνμπο να διεκδικούν τον τίτλο.</desc>
+  <programme start="20250506123000 +0300" stop="20250506124500 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς</title>
+    <desc lang="el">NBA Playoffs 2025. Ανατολική Περιφέρεια, Ηµιτελική Φάση, 1ος Αγώνας. Περιγραφή: Γιάννης Φιλέρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250506143000 +0300" stop="20250506163000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: Ναντέρ - ΑΕΚ</title>
-    <desc lang="el">FIBA Basketball Champions League 2024-25. Προημιτελική Φάση, 2ος Αγώνας. Παρακολουθήστε τους αγώνες της 9ης σεζόν του FIBA Basketball Champions League. 32 ομάδες μπαίνουν στην αφετηρία από τη φάση των ομίλων, μέχρι το Φάιναλ Φορ που θα αναδείξει τον πρωταθλητή. Περιγραφή: Γιάννης Φιλέρης.</desc>
+  <programme start="20250506124500 +0300" stop="20250506153000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Οκλαχόμα Σίτι Θάντερ - Ντένβερ Νάγκετς</title>
+    <desc lang="el">NBA Playoffs 2025. Δυτική Περιφέρεια, Ημιτελική Φάση, 1ος Αγώνας. Περιγραφή: Βασίλης Σκουντής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250506163000 +0300" stop="20250506183000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: Τρεντίνο - Ρέτζιο Εμίλια</title>
-    <desc lang="el">Lega Basket Serie A 2024-25. 29η Αγωνιστική. Το ιταλικό πρωτάθλημα μπάσκετ ετοιμάζεται να μας δώσει μια συναρπαστική νέα σεζόν. Η πρωταθλήτρια Αρμάνι Μιλάνο και η Βίρτους Μπολόνια θα εξακολουθήσουν να παλεύουν για τον τίτλο ή θα πρέπει να περιμένουμε εκπλήξεις Περιγραφή: Γιάννης Φιλέρης.</desc>
+  <programme start="20250506153000 +0300" stop="20250506162500 +0300" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials: Basketball Stories</title>
+    <desc lang="el">Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250506183000 +0300" stop="20250506205500 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: NBA Playoffs 2025</title>
-    <desc lang="el">Η 79η σεζόν του κορυφαίου πρωταθλήματος μπάσκετ του πλανήτη ξεκινά με τους Μπόστον Σέλτικς πρωταθλητές και τους Μιλγουόκι Μπακς του Γιάννη Αντετοκούνμπο να διεκδικούν τον τίτλο.</desc>
+  <programme start="20250506162500 +0300" stop="20250506191000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς</title>
+    <desc lang="el">NBA Playoffs 2025. Ανατολική Περιφέρεια, Ημιτελική Φάση, 1ος Αγώνας. Περιγραφή: Γιάννης Φιλέρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250506205500 +0300" stop="20250506213000 +0300" channel="cosmotesport4.gr">
+  <programme start="20250506191000 +0300" stop="20250506192500 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Sports Classics: Worldies</title>
+    <desc lang="el">Από τη F1 έως την υψηλή κατάδυση και ένα σωρό άλλα extreme sports, κάθε εκπομπή παρουσιάζει και αναδεικνύει μέσα από 5 βίντεο μερικές από τις πιο απίστευτες στιγμές, διοργανώσεις και αθλητές σε όλα τα σπορ δράσης.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20250506192500 +0300" stop="20250506200000 +0300" channel="cosmotesport4.gr">
     <title lang="el">NBA Action 2024-25</title>
     <desc lang="el">Η εκπομπή προβάλλει τις καλύτερες στιγμές και τα νέα του ΝΒΑ, καθώς και συνόψεις των αγώνων με τα σχετικά στατιστικά που τους συνοδεύουν. Μεταφέροντας τους φίλους του μπάσκετ πιο κοντά στο παιχνίδι μέσω ποικίλων αφιερωμάτων, προσφέρει την απόλυτη εμπειρία από τα γήπέδα του κορυφαίου πρωταθλήματος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
     <episode-num system="onscreen">S2 E3429</episode-num>
   </programme>
-  <programme start="20250506213000 +0300" stop="20250506231500 +0300" channel="cosmotesport4.gr">
+  <programme start="20250506200000 +0300" stop="20250506214500 +0300" channel="cosmotesport4.gr">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250506231500 +0300" stop="20250506234000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">NBA Specials</title>
-    <desc lang="el">75 Stories: Baylor, Cunningham, Havlicek, Arizin &amp; Schayes. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+  <programme start="20250506214500 +0300" stop="20250507001500 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Οκλαχόμα Σίτι Θάντερ - Ντένβερ Νάγκετς</title>
+    <desc lang="el">NBA Playoffs 2025. Δυτική Περιφέρεια, Ημιτελική Φάση, 1ος Αγώνας. Περιγραφή: Βασίλης Σκουντής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
-    <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20250506234000 +0300" stop="20250507012500 +0300" channel="cosmotesport4.gr">
+  <programme start="20250507001500 +0300" stop="20250507020000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250507012500 +0300" stop="20250507030000 +0300" channel="cosmotesport4.gr">
+  <programme start="20250507020000 +0300" stop="20250507050000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Κλίβελαντ Καβαλίερς - Ιντιάνα Πέισερς (Ζ)</title>
+    <desc lang="el">NBA Playoffs 2025. Ανατολική Περιφέρεια, Ημιτελική Φάση, 2ος Αγώνας. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
+  </programme>
+  <programme start="20250507050000 +0300" stop="20250507060000 +0300" channel="cosmotesport4.gr">
     <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">Ένα ντοκιμαντέρ για την καριέρα του Τζορτζ Γκέρβιν, κορυφαίου σκόρερ στο ΝΒΑ. Γνωστός για το στυλ του, επηρέασε πολλούς αθλητές κατά τη διάρκεια της εποχής του αλλά και μετέπειτα.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
-  </programme>
-  <programme start="20250507030000 +0300" stop="20250507060000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: NBA Playoffs 2025</title>
-    <desc lang="el">Η 79η σεζόν του κορυφαίου πρωταθλήματος μπάσκετ του πλανήτη ξεκινά με τους Μπόστον Σέλτικς πρωταθλητές και τους Μιλγουόκι Μπακς του Γιάννη Αντετοκούνμπο να διεκδικούν τον τίτλο.</desc>
+    <desc lang="el">Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
   <programme start="20250507060000 +0300" stop="20250507074500 +0300" channel="cosmotesport4.gr">
@@ -11294,46 +11269,46 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20250507080500 +0300" stop="20250507100000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: Τρεντίνο - Ρέτζιο Εμίλια</title>
-    <desc lang="el">Lega Basket Serie A 2024-25. 29η Αγωνιστική. Το ιταλικό πρωτάθλημα μπάσκετ ετοιμάζεται να μας δώσει μια συναρπαστική νέα σεζόν. Η πρωταθλήτρια Αρμάνι Μιλάνο και η Βίρτους Μπολόνια θα εξακολουθήσουν να παλεύουν για τον τίτλο ή θα πρέπει να περιμένουμε εκπλήξεις Περιγραφή: Γιάννης Φιλέρης.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
-  </programme>
-  <programme start="20250507100000 +0300" stop="20250507120000 +0300" channel="cosmotesport4.gr">
+  <programme start="20250507080500 +0300" stop="20250507100500 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: ΑΕΚ - Ναντέρ</title>
     <desc lang="el">FIBA Basketball Champions League 2024-25. Προημιτελική Φάση, 3ος Αγώνας. Παρακολουθήστε τους αγώνες της 9ης σεζόν του FIBA Basketball Champions League. 32 ομάδες μπαίνουν στην αφετηρία από τη φάση των ομίλων, μέχρι το Φάιναλ Φορ που θα αναδείξει τον πρωταθλητή. Περιγραφή: Γιάννης Φιλέρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250507120000 +0300" stop="20250507143000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: NBA Playoffs 2025</title>
-    <desc lang="el">Η 79η σεζόν του κορυφαίου πρωταθλήματος μπάσκετ του πλανήτη ξεκινά με τους Μπόστον Σέλτικς πρωταθλητές και τους Μιλγουόκι Μπακς του Γιάννη Αντετοκούνμπο να διεκδικούν τον τίτλο.</desc>
+  <programme start="20250507100500 +0300" stop="20250507123500 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Κλίβελαντ Καβαλίερς - Ιντιάνα Πέισερς</title>
+    <desc lang="el">NBA Playoffs 2025. Ανατολική Περιφέρεια, Ημιτελική Φάση, 2ος Αγώνας. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250507143000 +0300" stop="20250507161500 +0300" channel="cosmotesport4.gr">
+  <programme start="20250507123500 +0300" stop="20250507150500 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Μινεσότα Τίμπεργουλβς - Γκόλντεν Στέιτ Ουόριορς</title>
+    <desc lang="el">NBA Playoffs 2025. Δυτική Περιφέρεια, Ημιτελική Φάση, 1ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
+  </programme>
+  <programme start="20250507150500 +0300" stop="20250507170000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Τρέντο - Ρέτζιο Εμίλια</title>
+    <desc lang="el">Lega Basket Serie A 2024-25. 29η Αγωνιστική. Το ιταλικό πρωτάθλημα μπάσκετ ετοιμάζεται να μας δώσει μια συναρπαστική νέα σεζόν. Η πρωταθλήτρια Αρμάνι Μιλάνο και η Βίρτους Μπολόνια θα εξακολουθήσουν να παλεύουν για τον τίτλο ή θα πρέπει να περιμένουμε εκπλήξεις Περιγραφή: Γιάννης Φιλέρης.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
+  </programme>
+  <programme start="20250507170000 +0300" stop="20250507184500 +0300" channel="cosmotesport4.gr">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250507161500 +0300" stop="20250507181000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Καρσίγιακα</title>
-    <desc lang="el">Turkish Basketball Super League 2024-25. 28η Αγωνιστική. Η 59η σεζόν του τουρκικού πρωταθλήματος μπάσκετ περιλαμβάνει 16 ομάδες. Οι Γιάλοβασπορ και Μερσίν προβιβάστηκαν, ενώ η Φενέρμπαχτσε είναι η κάτοχος του τίτλου. Περιγραφή: Ρήγας Δάρδαλης.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
-  </programme>
-  <programme start="20250507181000 +0300" stop="20250507190500 +0300" channel="cosmotesport4.gr">
-    <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
-  </programme>
-  <programme start="20250507190500 +0300" stop="20250507210500 +0300" channel="cosmotesport4.gr">
+  <programme start="20250507184500 +0300" stop="20250507204500 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Μάλαγα - Ανδόρα</title>
     <desc lang="el">ACB Liga Endesa 2024-25. 30η Αγωνιστική. Το κορυφαίο ισπανικό πρωτάθλημα μπάσκετ διαθέτει ευρωπαϊκές υπερδυνάμεις όπως οι Μπαρτσελόνα, Μπασκόνια, Γκραν Κανάρια, Ουνικάχα Μάλαγα, αλλά και η πρωταθήτρια Ρεάλ Μαδρίτης. Συνολικά 18 ομάδες διεκδικούν τον τίτλο, συμπεριλαμβανομένων των νεοφώτιστων Γέιδα και Κορούνια. Περιγραφή: Γιάννης Φιλέρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250507210500 +0300" stop="20250507213000 +0300" channel="cosmotesport4.gr">
+  <programme start="20250507204500 +0300" stop="20250507210500 +0300" channel="cosmotesport4.gr">
     <title lang="el">Ισπανικό Πρωτάθλημα 2024-25 - 5η Περίοδος</title>
     <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της 5ης περιόδου του Ισπανικού Πρωταθλήματος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
     <episode-num system="onscreen">S2 E32</episode-num>
+  </programme>
+  <programme start="20250507210500 +0300" stop="20250507233500 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Κλίβελαντ Καβαλίερς - Ιντιάνα Πέισερς</title>
+    <desc lang="el">NBA Playoffs 2025. Ανατολική Περιφέρεια, Ημιτελική Φάση, 2ος Αγώνας. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
   <programme start="20250506000000 +0300" stop="20250506013000 +0300" channel="cosmotesport5.gr">
     <title lang="el">Εκπομπή Grand Prix 2025</title>
@@ -11350,14 +11325,15 @@
     <desc lang="el">Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20250506025500 +0300" stop="20250506060000 +0300" channel="cosmotesport5.gr">
-    <title lang="el">ROC Nations Cup 2025</title>
-    <desc lang="el">Απολαύστε το διεθνές πρωτάθλημα που λαμβάνει χώρα κάθε χρόνο, με τη συμμετοχή μερικών από τους καλύτερους οδηγούς αγώνων του κόσμου. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
+  <programme start="20250506025500 +0300" stop="20250506043000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">WRC 2025</title>
+    <desc lang="el">Κανάρια Νησιά, SS18 Maspalomas 2 Wolf Power Stage. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2025. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
+    <episode-num system="onscreen">S2 E43</episode-num>
   </programme>
-  <programme start="20250506060000 +0300" stop="20250506073000 +0300" channel="cosmotesport5.gr">
-    <title lang="el">DTM 2025</title>
-    <desc lang="el">Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο. Περιγραφή: Χρήστος Κυριαζής.</desc>
+  <programme start="20250506043000 +0300" stop="20250506073000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Μπάσκετ: Οκλαχόμα Σίτι Θάντερ - Ντένβερ Νάγκετς (Ζ)</title>
+    <desc lang="el">NBA Playoffs 2025. Δυτική Περιφέρεια, Ημιτελική Φάση, 1ος Αγώνας. Περιγραφή: Βασίλης Σκουντής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
   <programme start="20250506073000 +0300" stop="20250506090000 +0300" channel="cosmotesport5.gr">
@@ -11454,25 +11430,26 @@
     <desc lang="el">Απολαύστε το διεθνές πρωτάθλημα που λαμβάνει χώρα κάθε χρόνο, με τη συμμετοχή μερικών από τους καλύτερους οδηγούς αγώνων του κόσμου.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20250507030000 +0300" stop="20250507060000 +0300" channel="cosmotesport5.gr">
-    <title lang="el">ROC Race of Champions 2025</title>
-    <desc lang="el">Απολαύστε το διεθνές πρωτάθλημα που λαμβάνει χώρα κάθε χρόνο, με τη συμμετοχή μερικών από τους καλύτερους οδηγούς αγώνων του κόσμου. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
+  <programme start="20250507030000 +0300" stop="20250507043000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">DTM 2025</title>
+    <desc lang="el">Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο. Περιγραφή: Χρήστος Κυριαζής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20250507060000 +0300" stop="20250507070000 +0300" channel="cosmotesport5.gr">
-    <title lang="el">WRC 2025</title>
-    <desc lang="el">Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2025.</desc>
+  <programme start="20250507043000 +0300" stop="20250507073000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Μπάσκετ: Μινεσότα Τίμπεργουλβς - Γκόλντεν Στέιτ Ουόριορς (Ζ)</title>
+    <desc lang="el">NBA Playoffs 2025. Δυτική Περιφέρεια, Ημιτελική Φάση, 1ος Αγώνας.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20250507070000 +0300" stop="20250507083000 +0300" channel="cosmotesport5.gr">
+  <programme start="20250507073000 +0300" stop="20250507090000 +0300" channel="cosmotesport5.gr">
     <title lang="el">Εκπομπή Grand Prix 2025</title>
     <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η COSMΟΤΕ TV (MotoGP, WRC, ERC, DTM).</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20250507083000 +0300" stop="20250507091500 +0300" channel="cosmotesport5.gr">
-    <title lang="el">WRC 2025</title>
-    <desc lang="el">Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2025. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
+  <programme start="20250507090000 +0300" stop="20250507091500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Sports Classics: Worldies</title>
+    <desc lang="el">Από τη F1 έως την υψηλή κατάδυση και ένα σωρό άλλα extreme sports, κάθε εκπομπή παρουσιάζει και αναδεικνύει μέσα από 5 βίντεο μερικές από τις πιο απίστευτες στιγμές, διοργανώσεις και αθλητές σε όλα τα σπορ δράσης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
+    <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
   <programme start="20250507091500 +0300" stop="20250507101500 +0300" channel="cosmotesport5.gr">
     <title lang="el">WRC 2025</title>
@@ -11547,15 +11524,26 @@
     <desc lang="el">Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο. Περιγραφή: Χρήστος Κυριαζής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20250506003000 +0300" stop="20250506030000 +0300" channel="cosmotesport6.gr">
-    <title lang="el">Βόλεϊ: CEV Champions League 2025</title>
-    <desc lang="el">Η 66η σεζόν του CEV Champions League Ανδρών φιλοξενεί 20 ομάδες στη φάση των ομίλων. Η ιταλική Τρεντίνο είναι η κάτοχος του τροπαίου. Περιγραφή: Παύλος Παλαιστής.</desc>
+  <programme start="20250506003000 +0300" stop="20250506023000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Βόλεϊ: Κονελιάνο - Σκαντίτσι</title>
+    <desc lang="el">CEV Champions League 2025. Τελικός Γυναικών. Η 66η σεζόν του CEV Champions League Ανδρών φιλοξενεί 20 ομάδες στη φάση των ομίλων. Η ιταλική Τρεντίνο είναι η κάτοχος του τροπαίου. Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250506030000 +0300" stop="20250506053000 +0300" channel="cosmotesport6.gr">
-    <title lang="el">Βόλεϊ: CEV Champions League 2025</title>
-    <desc lang="el">(Τελικός 3ης Θέσης Γυναικών). Παρακολουθήστε τους αγώνες του CEV Champions League. Περιγραφή: Παύλος Παλαιστής.</desc>
+  <programme start="20250506023000 +0300" stop="20250506030000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Premier Padel Tour 2025 - Στιγμιότυπα</title>
+    <desc lang="el">Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20250506030000 +0300" stop="20250506050000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Βόλεϊ: Μιλάνο - Βάκιφμπανκ</title>
+    <desc lang="el">CEV Champions League 2025. Τελικός 3ης Θέσης Γυναικών. Η 66η σεζόν του CEV Champions League Ανδρών φιλοξενεί 20 ομάδες στη φάση των ομίλων. Η ιταλική Τρεντίνο είναι η κάτοχος του τροπαίου. Περιγραφή: Παύλος Παλαιστής.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20250506050000 +0300" stop="20250506053000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Υδάτινα Σπορ: Ο Κόσμος της Ιστιοπλοΐας 2025</title>
+    <desc lang="el">Η ιστιοπλοΐα είναι ένα πολύ ξεχωριστό άθλημα. Η εκπομπή παρουσιάζει την καρδιά της ιστιοπλοΐας, από την κομψότητα και το πρεστίζ των εκπληκτικών γιοτ μέχρι την αντοχή που χρειάζεται στους αγώνες και τον σκληρό κόσμο των αγώνων dinghy και του kite surfing.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+    <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
   <programme start="20250506053000 +0300" stop="20250506060000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Sports Classics: 2024 Outdoor Specials</title>
@@ -11584,51 +11572,56 @@
     <desc lang="el">Το Beach Pro Tour επιστρέφει στο Μεξικό, το οποίο αυτή τη φορά θα φιλοξενήσει Elite16 από τις 26 έως τις 30 Μαρτίου. Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250506100000 +0300" stop="20250506110000 +0300" channel="cosmotesport6.gr">
+  <programme start="20250506100000 +0300" stop="20250506111000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Beach Volley: Pro Tour Elite 16 2025</title>
     <desc lang="el">Το Beach Pro Tour επιστρέφει στο Μεξικό, το οποίο αυτή τη φορά θα φιλοξενήσει Elite16 από τις 26 έως τις 30 Μαρτίου. Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250506110000 +0300" stop="20250506121500 +0300" channel="cosmotesport6.gr">
+  <programme start="20250506111000 +0300" stop="20250506123000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Beach Volley: Pro Tour Elite 16 2025</title>
     <desc lang="el">Το Beach Pro Tour επιστρέφει στο Μεξικό, το οποίο αυτή τη φορά θα φιλοξενήσει Elite16 από τις 26 έως τις 30 Μαρτίου. Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250506121500 +0300" stop="20250506134500 +0300" channel="cosmotesport6.gr">
+  <programme start="20250506123000 +0300" stop="20250506140000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Topspin</title>
     <desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20250506134500 +0300" stop="20250506141500 +0300" channel="cosmotesport6.gr">
+  <programme start="20250506140000 +0300" stop="20250506143000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Sports Classics: 2025 Outdoor Specials</title>
     <desc lang="el">Το Outdoor Specials σας φέρνει τα πιο συναρπαστικά γεγονότα στον κόσμο των extreme sports. Από το windsurfing μέχρι την ορειβασία και από την οδήγηση αγώνων μέχρι τις καταδύσεις σπηλαίων, αυτή είναι μια σειρά που θα σας δώσει μια γενναιόδωρη δόση αδρεναλίνης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250506141500 +0300" stop="20250506161500 +0300" channel="cosmotesport6.gr">
+  <programme start="20250506143000 +0300" stop="20250506161500 +0300" channel="cosmotesport6.gr">
     <title lang="el">Τένις: Κύπελλο Ελλάδας Ανδρών - Γυναικών 2025</title>
     <desc lang="el">Τελικός Διπλού Ανδρών. Δείτε τους αγώνες τένις του Κυπέλλου Ελλάδος. Περιγραφή: Μαρίζα Γεωργίτση, Γιάννης Κυφωνίδης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250506161500 +0300" stop="20250506181500 +0300" channel="cosmotesport6.gr">
+  <programme start="20250506161500 +0300" stop="20250506175000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Τένις: Κύπελλο Ελλάδας Ανδρών - Γυναικών 2025</title>
     <desc lang="el">Τελικός Μονού Γυναικών. Δείτε τους αγώνες τένις του Κυπέλλου Ελλάδος. Περιγραφή: Μαρίζα Γεωργίτση, Γιάννης Κυφωνίδης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250506181500 +0300" stop="20250506184500 +0300" channel="cosmotesport6.gr">
+  <programme start="20250506175000 +0300" stop="20250506191000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc lang="el">Το Beach Pro Tour επιστρέφει στο Μεξικό, το οποίο αυτή τη φορά θα φιλοξενήσει Elite16 από τις 26 έως τις 30 Μαρτίου. Περιγραφή: Παύλος Παλαιστής.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20250506191000 +0300" stop="20250506194000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Sports Classics: The Outdoor Sports Show 2025</title>
     <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων αθλημάτων, παρουσιάζοντας τους αθλητές που αγωνίζονται. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20250506184500 +0300" stop="20250506211500 +0300" channel="cosmotesport6.gr">
-    <title lang="el">Βόλεϊ: CEV Champions League 2025</title>
-    <desc lang="el">(Τελικός 3ης Θέσης Γυναικών). Παρακολουθήστε τους αγώνες του CEV Champions League. Περιγραφή: Παύλος Παλαιστής.</desc>
+  <programme start="20250506194000 +0300" stop="20250506214500 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Βόλεϊ: Μιλάνο - Βάκιφμπανκ</title>
+    <desc lang="el">CEV Champions League 2025. Τελικός 3ης Θέσης Γυναικών. Η 66η σεζόν του CEV Champions League Ανδρών φιλοξενεί 20 ομάδες στη φάση των ομίλων. Η ιταλική Τρεντίνο είναι η κάτοχος του τροπαίου. Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250506211500 +0300" stop="20250506234500 +0300" channel="cosmotesport6.gr">
-    <title lang="el">Βόλεϊ: CEV Champions League 2025</title>
-    <desc lang="el">Η 66η σεζόν του CEV Champions League Ανδρών φιλοξενεί 20 ομάδες στη φάση των ομίλων. Η ιταλική Τρεντίνο είναι η κάτοχος του τροπαίου. Περιγραφή: Παύλος Παλαιστής.</desc>
+  <programme start="20250506214500 +0300" stop="20250506234500 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Βόλεϊ: Κονελιάνο - Σκαντίτσι</title>
+    <desc lang="el">CEV Champions League 2025. Τελικός Γυναικών. Η 66η σεζόν του CEV Champions League Ανδρών φιλοξενεί 20 ομάδες στη φάση των ομίλων. Η ιταλική Τρεντίνο είναι η κάτοχος του τροπαίου. Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
   <programme start="20250506234500 +0300" stop="20250507012500 +0300" channel="cosmotesport6.gr">
@@ -11664,9 +11657,14 @@
     <desc lang="el">Η 66η σεζόν του CEV Champions League Ανδρών φιλοξενεί 20 ομάδες στη φάση των ομίλων. Η ιταλική Τρεντίνο είναι η κάτοχος του τροπαίου. Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250507080000 +0300" stop="20250507103000 +0300" channel="cosmotesport6.gr">
-    <title lang="el">Βόλεϊ: CEV Champions League 2025</title>
-    <desc lang="el">Η 66η σεζόν του CEV Champions League Ανδρών φιλοξενεί 20 ομάδες στη φάση των ομίλων. Η ιταλική Τρεντίνο είναι η κάτοχος του τροπαίου. Περιγραφή: Παύλος Παλαιστής.</desc>
+  <programme start="20250507080000 +0300" stop="20250507100000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Βόλεϊ: Κονελιάνο - Σκαντίτσι</title>
+    <desc lang="el">CEV Champions League 2025. Τελικός Γυναικών. Η 66η σεζόν του CEV Champions League Ανδρών φιλοξενεί 20 ομάδες στη φάση των ομίλων. Η ιταλική Τρεντίνο είναι η κάτοχος του τροπαίου. Περιγραφή: Παύλος Παλαιστής.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20250507100000 +0300" stop="20250507103000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Sports Classics: 2025 Outdoor Specials</title>
+    <desc lang="el">Το Outdoor Specials σας φέρνει τα πιο συναρπαστικά γεγονότα στον κόσμο των extreme sports. Από το windsurfing μέχρι την ορειβασία και από την οδήγηση αγώνων μέχρι τις καταδύσεις σπηλαίων, αυτή είναι μια σειρά που θα σας δώσει μια γενναιόδωρη δόση αδρεναλίνης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
   <programme start="20250507103000 +0300" stop="20250507120000 +0300" channel="cosmotesport6.gr">
@@ -18589,7 +18587,7 @@
     <category lang="sr">Fudbal</category>
   </programme>
   <programme start="20250506040000 +0200" stop="20250506060000 +0200" channel="arenasport2.rs">
-    <title lang="sr">Huesca - Oviedo</title>
+    <title lang="sr">Cordoba - Cadiz</title>
     <desc lang="sr">ŠPANSKA 2. LIGA.</desc>
     <category lang="sr">Fudbal</category>
   </programme>
@@ -18618,19 +18616,22 @@
     <desc lang="sr">ITALIJANSKA LIGA.</desc>
     <category lang="sr">Fudbal</category>
   </programme>
-  <programme start="20250506160000 +0200" stop="20250506174500 +0200" channel="arenasport2.rs">
+  <programme start="20250506160000 +0200" stop="20250506180000 +0200" channel="arenasport2.rs">
     <title lang="sr">Zaragoza - Coruna</title>
     <desc lang="sr">ŠPANSKA LIGA.</desc>
     <category lang="sr">Košarka</category>
   </programme>
-  <programme start="20250506174500 +0200" stop="20250506200000 +0200" channel="arenasport2.rs">
-    <title lang="sr">Uživo: Hapoel Tel-Aviv - Play-in winner 1, G2</title>
-    <desc lang="sr">IZRAELSKA LIGA.</desc>
+  <programme start="20250506180000 +0200" stop="20250506190000 +0200" channel="arenasport2.rs">
+    <title lang="sr">(Ne)uspjeh prvaka - Nikola Karabatić, drugi deo</title>
+  </programme>
+  <programme start="20250506190000 +0200" stop="20250506210000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Uživo: CSKA - Unics, G1</title>
+    <desc lang="sr">VTB LIGA.</desc>
     <category lang="sr">Košarka</category>
   </programme>
-  <programme start="20250506200000 +0200" stop="20250506220000 +0200" channel="arenasport2.rs">
-    <title lang="sr">Cagliari - Udinese</title>
-    <desc lang="sr">ITALIJANSKA LIGA.</desc>
+  <programme start="20250506210000 +0200" stop="20250506220000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Pregled 34. kola</title>
+    <desc lang="sr">ŠPANSKA LIGA.</desc>
     <category lang="sr">Fudbal</category>
   </programme>
   <programme start="20250506220000 +0200" stop="20250507000000 +0200" channel="arenasport2.rs">
@@ -18644,7 +18645,7 @@
     <category lang="sr">Košarka</category>
   </programme>
   <programme start="20250507020000 +0200" stop="20250507040000 +0200" channel="arenasport2.rs">
-    <title lang="sr">Levante - Tenerife</title>
+    <title lang="sr">Cordoba - Cadiz</title>
     <desc lang="sr">ŠPANSKA 2. LIGA.</desc>
     <category lang="sr">Fudbal</category>
   </programme>
@@ -19318,7 +19319,7 @@
     <category lang="sr">Odbojka</category>
   </programme>
   <programme start="20250507151500 +0200" stop="20250507171500 +0200" channel="arenasport7.rs">
-    <title lang="sr">Efes - Besiktas</title>
+    <title lang="sr">Mersin - Bursaspor</title>
     <desc lang="sr">TURSKA LIGA.</desc>
     <category lang="sr">Košarka</category>
   </programme>
