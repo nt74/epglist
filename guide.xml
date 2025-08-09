@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.4.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="svt1.se">
     <display-name lang="sv">SVT1</display-name>
     <url>http://www.kolla.tv</url>
@@ -339,15 +339,6 @@
     <icon src="https://www.tvarenasport.com/files/img/icons/chanel-07.png"/>
     <url>http://www.tvarenasport.com</url>
   </channel>
-  <programme start="20250809001000 +0000" stop="20250809030000 +0000" channel="svt1.se">
-    <title lang="sv">Sändningsuppehåll</title>
-  </programme>
-  <programme start="20250809030000 +0000" stop="20250809040000 +0000" channel="svt1.se">
-    <title lang="sv">Allsångsscenen är din – Thomas Stenström</title>
-    <desc lang="sv">Allsången förlängs med en timmes egen konsert med Thomas Stenström, som gör årets Allsångscenen är din.</desc>
-    <date>2025</date>
-    <country lang="sv">SWE</country>
-  </programme>
   <programme start="20250809040000 +0000" stop="20250809043000 +0000" channel="svt1.se">
     <title lang="sv">Tove Ditlevsen: Breven till frågespalten</title>
     <desc lang="sv">Ellen upptäcker att hennes man är otrogen mot henne.. Han erkänner tårögt och kommer att göra vad som helst för Ellen och barnen, bara han får behålla henne.. Men Ellen tvivlar - kan han verkligen stoppa otroheten eller kommer hon att behöva lära sig leva med den? Förvirrad skriver hon ett brev till Tove Ditlevsen som ansvarar för att frågespalten i den danska tidningen Familie Journal. Men kan Tove över huvud taget hjälpa henne? Och varför svarar hon som hon gör?</desc>
@@ -690,6 +681,7 @@
   </programme>
   <programme start="20250810170000 +0000" stop="20250810173000 +0000" channel="svt1.se">
     <title lang="sv">Sportspegeln</title>
+    <desc lang="sv">Nicklas Bäckström är tillbaka i Brynäs efter 18 säsonger i NHL. SVT Sport har träffat honom inför återkomsten till SHL.. Dessutom träffar vi Kif Örebros 24-åriga mittback Sofia Parkner som väljer att tala öppet om sin autism och hur hon med hjälp av klubben får livet som elitidrottare att fungera i vardagen.</desc>
     <date>2025</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2025 E32/53</episode-num>
@@ -713,62 +705,62 @@
     <country lang="sv">GBR</country>
     <episode-num system="onscreen">S46 E13/21</episode-num>
   </programme>
-  <programme start="20250810190000 +0000" stop="20250810195000 +0000" channel="svt1.se">
+  <programme start="20250810190000 +0000" stop="20250810194500 +0000" channel="svt1.se">
     <title lang="sv">Bergerac</title>
     <desc lang="sv">Efter upptäckten att Cate kan ha förrått Arthur är kommissarie Bergerac övertygad om att han närmar sig sin huvudmisstänkte.. Striden mellan Bergerac och Arthur Wakefield trappas upp. Samtidigt vinner Bergeracs fiender mark - och en chockerande sanning om lösensumman avslöjas. fl.</desc>
     <date>2025</date>
     <country lang="sv">GBR</country>
     <episode-num system="onscreen">S1 E4/6</episode-num>
   </programme>
-  <programme start="20250810195000 +0000" stop="20250810202000 +0000" channel="svt1.se">
+  <programme start="20250810194500 +0000" stop="20250810201500 +0000" channel="svt1.se">
     <title lang="sv">Första dejten</title>
     <desc lang="sv">Edith, 23, har aldrig varit i en relation och fattar knappt att hon är med i tv för att träffa någon.. Utrustad med vackra blommor gör hon entré i restaurangen, men när hon räcker över buketten till sin dejt Isak, 21, blir det inte alls som hon tänkt sig.. Färgstarka Lollo, 58, från Göteborg har aldrig varit kär och bara varit på dejt en gång i sitt liv. Nu hoppas hon äntligen få uppleva kärlek och träffa en man som hon kan presentera för sina arbetskollegor. Frågan är bara om vattenpolotokige Berne, 63, från Ängelholm är mannen som platsar både i lunchrummet (på jobbet) och får henne att känna kärlek för allra första gången.</desc>
     <date>2025</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S8 E6/16</episode-num>
   </programme>
-  <programme start="20250810202000 +0000" stop="20250810211000 +0000" channel="svt1.se">
+  <programme start="20250810201500 +0000" stop="20250810210500 +0000" channel="svt1.se">
     <title lang="sv">Nya livet på landet med Sarah Beeny</title>
     <desc lang="sv">Julen närmar sig och familjens förberedelser i Somerset är i full gång. Familjen hälsar på renar, tillverkar egen mjöd och planerar julklappar.. Det hela avslutas med ett fantastiskt julfirande i familjens trädkoja.</desc>
     <date>2021</date>
     <country lang="sv">GBR</country>
     <episode-num system="onscreen">S2 E9/9</episode-num>
   </programme>
-  <programme start="20250810211000 +0000" stop="20250810211500 +0000" channel="svt1.se">
+  <programme start="20250810210500 +0000" stop="20250810211000 +0000" channel="svt1.se">
     <title lang="sv">Rapport</title>
     <date>2025</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2025 E222/261</episode-num>
   </programme>
-  <programme start="20250810211500 +0000" stop="20250810220500 +0000" channel="svt1.se">
+  <programme start="20250810211000 +0000" stop="20250810220000 +0000" channel="svt1.se">
     <title lang="sv">Alone Australien</title>
     <desc lang="sv">Nu är det verkligt hårda tider, det är iskallt och inga djur vare sig hittas eller fångas.. Deltagarna kämpar med yrsel och huvudvärk av hungern, men har siktet på målet i from av 250 000 dollar.</desc>
     <date>2024</date>
     <country lang="sv">AUS</country>
     <episode-num system="onscreen">S2 E9/11</episode-num>
   </programme>
-  <programme start="20250810220500 +0000" stop="20250810225000 +0000" channel="svt1.se">
+  <programme start="20250810220000 +0000" stop="20250810224500 +0000" channel="svt1.se">
     <title lang="sv">En älskvärd man</title>
     <desc lang="sv">Elliot bjuder med Rachel och Liam till sin avlägsna stuga - men där dyker en okänd kvinna upp med en varning.</desc>
     <date>2024</date>
     <country lang="sv">GBR</country>
     <episode-num system="onscreen">S1 E3/4</episode-num>
   </programme>
-  <programme start="20250810225000 +0000" stop="20250810231000 +0000" channel="svt1.se">
+  <programme start="20250810224500 +0000" stop="20250810230500 +0000" channel="svt1.se">
     <title lang="sv">Kriminalarkivet: Mordet på Lisa Holm</title>
     <desc lang="sv">Efter fem dygns intensivt letande efter Lisa inträffar en märklig händelse vid en gård några kilometer från platsen där hon försvann.. Några sökarbetare konfronteras av två män som försöker få bort dem från området. Det leder istället till att sökningarna intensifieras på platsen och snart gör man också ett fruktansvärt fynd.</desc>
     <date>2025</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E2/4</episode-num>
   </programme>
-  <programme start="20250810231000 +0000" stop="20250811001000 +0000" channel="svt1.se">
+  <programme start="20250810230500 +0000" stop="20250811000500 +0000" channel="svt1.se">
     <title lang="sv">Historien om Sverige</title>
     <desc lang="sv">Sverige är förvandlat till en militärstat, och den effektiva krigsapparaten väcker respekt i Europa.. Men landet går också igenom enormt svåra tider med häxbränningar, missväxt och pest - och tusentals unga män kommer att dö i försöken att bevara stormakten. Simon J Berger är seriens berättare.</desc>
     <date>2023</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E7/10</episode-num>
   </programme>
-  <programme start="20250811001000 +0000" stop="20250811030000 +0000" channel="svt1.se">
+  <programme start="20250811000500 +0000" stop="20250811030000 +0000" channel="svt1.se">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
   <programme start="20250811030000 +0000" stop="20250811033000 +0000" channel="svt1.se">
@@ -1078,30 +1070,6 @@
     <date>2021</date>
     <country lang="sv">GBR</country>
     <episode-num system="onscreen">S1 E3/5</episode-num>
-  </programme>
-  <programme start="20250809022500 +0000" stop="20250809025500 +0000" channel="tv3.se">
-    <title lang="sv">Nanny</title>
-    <desc lang="sv">Maxwells farmor kommer på besök, och Maxwell ber Fran att uppföra sig lite mer formellt än vanligt.. Allt går bra tills Fran får ett tragiskt besked om sin ex-pojkvän, och gråtande faller i Maxwells armar.</desc>
-    <date>1996</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S4 E11/26</episode-num>
-  </programme>
-  <programme start="20250809025500 +0000" stop="20250809033000 +0000" channel="tv3.se">
-    <title lang="sv">Nanny</title>
-    <desc lang="sv">Fran bestämmer att det får vara slut på hennes omöjliga ”icke-förhållande” med Maxwell och träffar en ny, underbar man.. Snart får hon dock veta att den underbare, perfekte är hennes kusin. Maxwell skickar henne till en psykolog för att hon ska reda ut sina konstiga relationer till män.</desc>
-    <date>1996</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S4 E12/26</episode-num>
-  </programme>
-  <programme start="20250809033000 +0000" stop="20250809035600 +0000" channel="tv3.se">
-    <title lang="sv">Unga mammor</title>
-    <desc lang="sv">Julia M och Nanja besöker badhuset och Nanja verkar trivas i vattnet.. På Milans förskola firas Rocka sockorna-dagen, stämningen är på topp och Milan och de andra barnen dansar tillsammans med stor glädje.. Lina och Emil planerar inför flytten och gör en budget och inköpslista för allt som behövs i nya lägenheten. Joy och Hailey tar bussen in till stan och pratar om längtan efter körkort. Kevin tar sitt uppdrag som bonuspappa på största allvar, men Alicia vill styra och ställa när Kevin lagar pannkakor.</desc>
-    <date>2017</date>
-    <country lang="sv">SWE</country>
-    <episode-num system="onscreen">S2 E8/30</episode-num>
-  </programme>
-  <programme start="20250809035600 +0000" stop="20250809040000 +0000" channel="tv3.se">
-    <title lang="sv">To Be Announced</title>
   </programme>
   <programme start="20250809040000 +0000" stop="20250809045500 +0000" channel="tv3.se">
     <title lang="sv">Pacific Blue</title>
@@ -1465,29 +1433,6 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E10/30</episode-num>
   </programme>
-  <programme start="20250809005000 +0000" stop="20250809015000 +0000" channel="tv4.se">
-    <title lang="sv">Morden i Helsingör</title>
-    <desc lang="sv">Fallet hamnar i en återvändsgränd, men när offrets försvunna mamma plötsligt dyker upp får utredningen nytt liv.. Fallet riskerar att omkullkasta Dan och Josefines vigsel. Om bröllopsdagen får ett lyckligt slut återstår att se.</desc>
-    <date>2024</date>
-    <country lang="sv">DNK</country>
-    <episode-num system="onscreen">S6 E8/8</episode-num>
-  </programme>
-  <programme start="20250809015000 +0000" stop="20250809025900 +0000" channel="tv4.se">
-    <title lang="sv">The rookie</title>
-    <desc lang="sv">Ett tåg fyllt med värdefulla auktionsföremål rånas och teamet rycker ut.. Samtidigt får Chen nog av att inte få det erkännande hon förtjänar från Bradford. Harper tar livsavgörande beslut som rör hennes eget liv.</desc>
-    <date>2022</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S4 E18/22</episode-num>
-  </programme>
-  <programme start="20250809025900 +0000" stop="20250809030000 +0000" channel="tv4.se">
-    <title lang="sv">To Be Announced</title>
-  </programme>
-  <programme start="20250809030000 +0000" stop="20250809040000 +0000" channel="tv4.se">
-    <title lang="sv">En plats i solen</title>
-    <date>2022</date>
-    <country lang="sv">GBR</country>
-    <episode-num system="onscreen">S15 E75/120</episode-num>
-  </programme>
   <programme start="20250809040000 +0000" stop="20250809045500 +0000" channel="tv4.se">
     <title lang="sv">En plats i solen</title>
     <date>2022</date>
@@ -1503,6 +1448,7 @@
   </programme>
   <programme start="20250809055500 +0000" stop="20250809100000 +0000" channel="tv4.se">
     <title lang="sv">Nyhetsmorgon</title>
+    <desc lang="sv">Melinda Jacobs svarar på kritiken. Bh-skola: Så väljer du rätt bh. Olympiska mästaren siktar mot nytt OS.</desc>
     <date>2025</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2025 E221/365</episode-num>
@@ -1841,7 +1787,10 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S9 E1/14</episode-num>
   </programme>
-  <programme start="20250811031000 +0000" stop="20250811033500 +0000" channel="tv4.se">
+  <programme start="20250811031000 +0000" stop="20250811031500 +0000" channel="tv4.se">
+    <title lang="sv">To Be Announced</title>
+  </programme>
+  <programme start="20250811031500 +0000" stop="20250811033500 +0000" channel="tv4.se">
     <title lang="sv">Unga föräldrar</title>
     <desc lang="sv">Bella fyller 2 år och Siri har svårt att greppa att hon är mamma. Kerstin och Hampus berättar om Biancas medfödda hjärtfel.. Malou får viktiga insikter och Alice och Sebastian tävlar om vilket fotbollslag som sonen Hugo ska hålla på.</desc>
     <date>2022</date>
@@ -1854,37 +1803,6 @@
     <date>2025</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2025 E159/262</episode-num>
-  </programme>
-  <programme start="20250809002500 +0000" stop="20250809012500 +0000" channel="kanal5.se">
-    <title lang="sv">Fångat på polisens kamera</title>
-    <desc lang="sv">Polisflyget i Göteborg tar upp jakten på tre vattenskotrar som kör vårdslöst.. I Örebro jagar polisen en skåpbil som kör över gångbroar och gräsmattor och utanför Göteborg jagar polisen en narkotikapåverkad man på motorcykel.</desc>
-    <date>2024</date>
-    <country lang="sv">SWE</country>
-    <episode-num system="onscreen">S1 E23/32</episode-num>
-  </programme>
-  <programme start="20250809012500 +0000" stop="20250809022500 +0000" channel="kanal5.se">
-    <title lang="sv">Law &amp; order: Special victims unit</title>
-    <desc lang="sv">En kvinna anklagar sin kollega för våldtäkt och det leder till en utredning mot hela företaget och dess kultur.</desc>
-    <date>2019</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S21 E15/20</episode-num>
-  </programme>
-  <programme start="20250809022500 +0000" stop="20250809032500 +0000" channel="kanal5.se">
-    <title lang="sv">Law &amp; order: Special victims unit</title>
-    <desc lang="sv">Rollins syster sätter igång en utredning när hon anmäler en läkare som byter receptbelagd medicin mot sex.</desc>
-    <date>2019</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S21 E16/20</episode-num>
-  </programme>
-  <programme start="20250809032500 +0000" stop="20250809035500 +0000" channel="kanal5.se">
-    <title lang="sv">Sommaren med släkten</title>
-    <desc lang="sv">Bobo får i ett mail veta att han ärvt flera miljoner och delar ut pengar till höger och vänster trots Carros varningar.. Gunnar träffar en kompis på Blocket och Ingrid går på dejt på hamnkrogen.</desc>
-    <date>2021</date>
-    <country lang="sv">SWE</country>
-    <episode-num system="onscreen">S6 E5/12</episode-num>
-  </programme>
-  <programme start="20250809035500 +0000" stop="20250809040000 +0000" channel="kanal5.se">
-    <title lang="sv">To Be Announced</title>
   </programme>
   <programme start="20250809040000 +0000" stop="20250809041000 +0000" channel="kanal5.se">
     <title lang="sv">Parterapi</title>
@@ -2250,20 +2168,6 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S10 E52/64</episode-num>
   </programme>
-  <programme start="20250809015500 +0000" stop="20250809025500 +0000" channel="tv6.se">
-    <title lang="sv">The blacklist</title>
-    <desc lang="sv">Medan teamet utreder en kidnappning, hamnar Dembe i en farlig situation. Red börjar tänka på vem som skulle kunna bli hans efterträdare.</desc>
-    <date>2019</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S7 E18/19</episode-num>
-  </programme>
-  <programme start="20250809025500 +0000" stop="20250809040000 +0000" channel="tv6.se">
-    <title lang="sv">Murdered at first sight</title>
-    <desc lang="sv">I februari 2015 är den 69-årige pastorn Ron Browning ensam hemma när han öppnar dörren för en främling som ber om vatten.. Helt ovetande om att han just har träffat den person som kommer att avsluta hans liv.</desc>
-    <date>2022</date>
-    <country lang="sv">GBR</country>
-    <episode-num system="onscreen">S1 E7/10</episode-num>
-  </programme>
   <programme start="20250809040000 +0000" stop="20250809043000 +0000" channel="tv6.se">
     <title lang="sv">Spin city</title>
     <desc lang="sv">Mikes förre detta flickvän Carrie vill ha barn med honom med eller utan hans välsignelse.</desc>
@@ -2622,37 +2526,6 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S7 E18/26</episode-num>
   </programme>
-  <programme start="20250809000000 +0000" stop="20250809010000 +0000" channel="sjuan.se">
-    <title lang="sv">Det okända</title>
-    <desc lang="sv">Nathalie och hennes mamma Weronica bor i en lägenhet utanför Stockholm.. Sedan flytten har en stegrande aktivitet från andra sidan lett till att de inte längre vill bo kvar. Mediet Andreas Österlund kommer på besök och framkallar känslostormar.</desc>
-    <date>2018</date>
-    <country lang="sv">SWE</country>
-    <episode-num system="onscreen">S26 E3/13</episode-num>
-  </programme>
-  <programme start="20250809010000 +0000" stop="20250809020500 +0000" channel="sjuan.se">
-    <title lang="sv">Diagnosis murder</title>
-    <desc lang="sv">En av Alex kompisar från skolan är på plats på sjukhuset för att göra en dokumentär.. Det går ett rykte om att det huserar ett spöke i Community Generals källarvåning. När Mark går ner till källaren får han en chock.</desc>
-    <date>2000</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S8 E22/22</episode-num>
-  </programme>
-  <programme start="20250809020500 +0000" stop="20250809025900 +0000" channel="sjuan.se">
-    <title lang="sv">Vad blir det för mat</title>
-    <desc lang="sv">Per Morberg lagar moules marinières, halstrad råbiff och pommes allumettes. Hans fru Inese svänger ihop en chokladfondant till efterrätt.</desc>
-    <date>2016</date>
-    <country lang="sv">SWE</country>
-    <episode-num system="onscreen">S10 E3/10</episode-num>
-  </programme>
-  <programme start="20250809025900 +0000" stop="20250809030000 +0000" channel="sjuan.se">
-    <title lang="sv">To Be Announced</title>
-  </programme>
-  <programme start="20250809030000 +0000" stop="20250809040000 +0000" channel="sjuan.se">
-    <title lang="sv">The Hardacres</title>
-    <desc lang="sv">Familjen Hardacres försöker njuta av den bekvämliga tillvaron, men det är inte helt lätt.. Sam längtar tillbaka till hamnen, Mary försöker komma överens med den kallsinniga hushållerskan samtidigt som Joe inte kan sluta tänka på den vackra Adella.</desc>
-    <date>2024</date>
-    <country lang="sv">GBR</country>
-    <episode-num system="onscreen">S1 E2/6</episode-num>
-  </programme>
   <programme start="20250809040000 +0000" stop="20250809050000 +0000" channel="sjuan.se">
     <title lang="sv">Diagnosis murder</title>
     <desc lang="sv">Fyra korrupta poliser iscensätter grova brott med lyckligt slut, för att de ska få skörda frukterna av sina framgångar hos polisledningen.. När en av poliserna har ihjäl en person av misstag skyller de mordet på Steve Sloan. Första delen av två. .</desc>
@@ -2992,30 +2865,6 @@
     <country lang="sv">GBR</country>
     <episode-num system="onscreen">S1 E2/6</episode-num>
   </programme>
-  <programme start="20250809002000 +0000" stop="20250809022500 +0000" channel="tv8.se">
-    <title lang="sv">Nord och syd</title>
-    <desc lang="sv">Charles och Billy tar nästan livet av varandra i det blodiga slaget vid Antietam. Charles vän Ambrose dödas av en kanon från Hazard Iron.</desc>
-    <date>1985</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S2 E3/6</episode-num>
-  </programme>
-  <programme start="20250809022500 +0000" stop="20250809033000 +0000" channel="tv8.se">
-    <title lang="sv">En plats på landet</title>
-    <desc lang="sv">Denise Nurse har fått i uppdrag att hitta ett permanent hem åt en familj som har tillbringat det senaste året med att resa runt i sin husbil.</desc>
-    <date>2023</date>
-    <country lang="sv">GBR</country>
-    <episode-num system="onscreen">S31 E55/55</episode-num>
-  </programme>
-  <programme start="20250809033000 +0000" stop="20250809035400 +0000" channel="tv8.se">
-    <title lang="sv">Idas fristelser</title>
-    <desc lang="sv">Pannkakor är en favorit hos många och här visar Ida dig flera spännande sorter.</desc>
-    <date>2016</date>
-    <country lang="sv">NOR</country>
-    <episode-num system="onscreen">S3 E29/40</episode-num>
-  </programme>
-  <programme start="20250809035400 +0000" stop="20250809040000 +0000" channel="tv8.se">
-    <title lang="sv">To Be Announced</title>
-  </programme>
   <programme start="20250809040000 +0000" stop="20250809045000 +0000" channel="tv8.se">
     <title lang="sv">Dr Phil</title>
     <desc lang="sv">Experter diskuterar ekonomisk gottgörelse till afroamerikaner.</desc>
@@ -3321,36 +3170,6 @@
     <date>2022</date>
     <country lang="sv">GBR</country>
     <episode-num system="onscreen">S1 E4/7</episode-num>
-  </programme>
-  <programme start="20250809002500 +0000" stop="20250809012500 +0000" channel="kanal9.se">
-    <title lang="sv">Salvage hunters</title>
-    <desc lang="sv">Pojkarna stannar till vid ett bärgningsupplag som Drew anser är bäst i landet.. De hittar ett par vackert tillverkade solur och en överliggare som tros vara från Belvoir Castle.</desc>
-    <date>2021</date>
-    <country lang="sv">GBR</country>
-    <episode-num system="onscreen">S15 E15/15</episode-num>
-  </programme>
-  <programme start="20250809012500 +0000" stop="20250809022500 +0000" channel="kanal9.se">
-    <title lang="sv">Gold rush</title>
-    <desc lang="sv">Parker försöker begränsa de royalties han betalar till Tony, medan Tonys söner kämpar mot isiga förhållanden och en slussolycka.. Rick får hjälp från oväntat håll.</desc>
-    <date>2021</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S12 E8/24</episode-num>
-  </programme>
-  <programme start="20250809022500 +0000" stop="20250809033000 +0000" channel="kanal9.se">
-    <title lang="sv">Alaska: The last frontier</title>
-    <date>2017</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S7 E3/17</episode-num>
-  </programme>
-  <programme start="20250809033000 +0000" stop="20250809035800 +0000" channel="kanal9.se">
-    <title lang="sv">How do they do it?</title>
-    <desc lang="sv">Hur tillverkas modern gatsten, och hur har produktionen förändrats över de senaste tusen åren?. Och hur tillverkas egentligen en traditionellt skräddarsydd smoking?</desc>
-    <date>2016</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S14 E19/20</episode-num>
-  </programme>
-  <programme start="20250809035800 +0000" stop="20250809040000 +0000" channel="kanal9.se">
-    <title lang="sv">To Be Announced</title>
   </programme>
   <programme start="20250809040000 +0000" stop="20250809041000 +0000" channel="kanal9.se">
     <title lang="sv">Gärdsgårdsserien</title>
@@ -3729,37 +3548,6 @@
     <date>2018</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S15 E1/20</episode-num>
-  </programme>
-  <programme start="20250809000000 +0000" stop="20250809010000 +0000" channel="tv10.se">
-    <title lang="sv">Alone</title>
-    <desc lang="sv">Temperaturen sjunker kraftigt på Vancouver Island och de återstående deltagarna möter vinterns intåg.. En frostperiod gör att en deltagare inte har något skydd under årets kallaste natt.</desc>
-    <date>2015</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S1 E11/15</episode-num>
-  </programme>
-  <programme start="20250809010000 +0000" stop="20250809020000 +0000" channel="tv10.se">
-    <title lang="sv">Hitler's most wanted</title>
-    <desc lang="sv">Den drivande kraften bakom Nazitysklands försök att avla fram en ”mästarras”.. James tar reda på hur Heinrich Himmler orkestrerade folkmordet på miljontals människor.</desc>
-    <date>2019</date>
-    <country lang="sv">CAN</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20250809020000 +0000" stop="20250809030000 +0000" channel="tv10.se">
-    <title lang="sv">Hitler's most wanted</title>
-    <desc lang="sv">James tittar in i sinnet hos Goebbels, Hitlers minister som orkestrerade hjärntvätten av Tysklands befolkning som banade väg för Förintelsen.</desc>
-    <date>2019</date>
-    <country lang="sv">CAN</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20250809030000 +0000" stop="20250809034600 +0000" channel="tv10.se">
-    <title lang="sv">Alone</title>
-    <desc lang="sv">Två män stannar kvar på Vancouver Island när årets storm blåser in.. De tvingas in i sina skyddsrum och reflekterar över den tid de tillbringat i vildmarken.</desc>
-    <date>2015</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S1 E15/15</episode-num>
-  </programme>
-  <programme start="20250809034600 +0000" stop="20250809040000 +0000" channel="tv10.se">
-    <title lang="sv">To Be Announced</title>
   </programme>
   <programme start="20250809040000 +0000" stop="20250809042500 +0000" channel="tv10.se">
     <title lang="sv">Det stora fyndkriget</title>
@@ -4182,27 +3970,6 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S1 E10/20</episode-num>
   </programme>
-  <programme start="20250809005000 +0000" stop="20250809015000 +0000" channel="kanal11.se">
-    <title lang="sv">Evil lives here: The killer speaks</title>
-    <date>2025</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S2 E1/11</episode-num>
-  </programme>
-  <programme start="20250809015000 +0000" stop="20250809025000 +0000" channel="kanal11.se">
-    <title lang="sv">The perfect murder</title>
-    <date>2017</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S5 E5/10</episode-num>
-  </programme>
-  <programme start="20250809025000 +0000" stop="20250809035500 +0000" channel="kanal11.se">
-    <title lang="sv">Nightmare next door</title>
-    <date>2012</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S3 E17/20</episode-num>
-  </programme>
-  <programme start="20250809035500 +0000" stop="20250809040000 +0000" channel="kanal11.se">
-    <title lang="sv">To Be Announced</title>
-  </programme>
   <programme start="20250809040000 +0000" stop="20250809045000 +0000" channel="kanal11.se">
     <title lang="sv">90 day fiance</title>
     <date>2020</date>
@@ -4579,30 +4346,6 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E8/10</episode-num>
   </programme>
-  <programme start="20250809004500 +0000" stop="20250809014000 +0000" channel="tv12.se">
-    <title lang="sv">Pawn Stars: Pantbanken</title>
-    <desc lang="sv">Rick blir salig över ett exemplar av Mormons bok från 1842 men är tron stark nog för att han ska slå till?. Även en signerad utgåva av en av böckerna i Game of Thrones-serien dyker upp i butiken och en biografi över cirkusdirektören P T Barnaums liv.</desc>
-    <date>2023</date>
-    <country lang="sv">USA</country>
-    <episode-num system="onscreen">S24 E5/67</episode-num>
-  </programme>
-  <programme start="20250809014000 +0000" stop="20250809025900 +0000" channel="tv12.se">
-    <title lang="sv">Polisens biljakter</title>
-    <desc lang="sv">En grupp killar i en bil blir stannade vid sidan av vägen och påvisar ett misstänksamt beteende. I Aspley gör poliserna ett omfattande drogfynd.. Samtidigt behöver Jim och hans team rycka in när en man inte betalar för sin bensin.</desc>
-    <date>2021</date>
-    <country lang="sv">GBR</country>
-    <episode-num system="onscreen">S20 E5/15</episode-num>
-  </programme>
-  <programme start="20250809025900 +0000" stop="20250809030000 +0000" channel="tv12.se">
-    <title lang="sv">To Be Announced</title>
-  </programme>
-  <programme start="20250809030000 +0000" stop="20250809040000 +0000" channel="tv12.se">
-    <title lang="sv">Brynolf &amp; Ljung – street magic</title>
-    <desc lang="sv">Brynolf och Ljung utför sina tricks på Gry Forssell och Peter Settman som inte förstår någonting när de plötsligt blir av med sina korttidsminnen.. Carolina Gynnings innersta tankar visar sig på ett minst sagt märkligt sätt.</desc>
-    <date>2015</date>
-    <country lang="sv">SWE</country>
-    <episode-num system="onscreen">S1 E1/6</episode-num>
-  </programme>
   <programme start="20250809040000 +0000" stop="20250809050000 +0000" channel="tv12.se">
     <title lang="sv">Fabriken inifrån</title>
     <desc lang="sv">Gregg besöker en fabrik som tillverkar soffor i västra Yorkshire.. Cherry lär sig om tekniken som krävs för att tillverka glödlampor och hur man skapar den perfekta belysningen för en mysig soffhörna. Ruth lär sig om soffornas historia.</desc>
@@ -4972,36 +4715,6 @@
     <date>2025</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E5/6</episode-num>
-  </programme>
-  <programme start="20250809030000 +0000" stop="20250809032500 +0000" channel="svtb.se">
-    <title lang="sv">I drömmarnas trädgård</title>
-    <date>2007</date>
-    <country lang="sv">GBR</country>
-    <episode-num system="onscreen">S1 E31/50</episode-num>
-  </programme>
-  <programme start="20250809032500 +0000" stop="20250809033500 +0000" channel="svtb.se">
-    <title lang="sv">Molnbebbarna</title>
-    <date>2014</date>
-    <country lang="sv">GBR</country>
-    <episode-num system="onscreen">S1 E13/26</episode-num>
-  </programme>
-  <programme start="20250809033500 +0000" stop="20250809034500 +0000" channel="svtb.se">
-    <title lang="sv">Lu och småkrypsgänget</title>
-    <date>2023</date>
-    <country lang="sv">CAN</country>
-    <episode-num system="onscreen">S1 E37/37</episode-num>
-  </programme>
-  <programme start="20250809034500 +0000" stop="20250809035000 +0000" channel="svtb.se">
-    <title lang="sv">Minibods</title>
-    <date>2023</date>
-    <country lang="sv">GBR</country>
-    <episode-num system="onscreen">S1 E23/39</episode-num>
-  </programme>
-  <programme start="20250809035000 +0000" stop="20250809040000 +0000" channel="svtb.se">
-    <title lang="sv">Hej Jycke</title>
-    <date>2018</date>
-    <country lang="sv">GBR</country>
-    <episode-num system="onscreen">S2 E8/26</episode-num>
   </programme>
   <programme start="20250809040000 +0000" stop="20250809040500 +0000" channel="svtb.se">
     <title lang="sv">Greta Gris</title>
@@ -6035,9 +5748,6 @@
     <country lang="sv">ISL</country>
     <episode-num system="onscreen">S2022 E1/5</episode-num>
   </programme>
-  <programme start="20250809001400 +0000" stop="20250809090000 +0000" channel="tv4fotboll.se">
-    <title lang="sv">Sändningsuppehåll</title>
-  </programme>
   <programme start="20250809090000 +0000" stop="20250809113000 +0000" channel="tv4fotboll.se">
     <title lang="sv">Serie A: Venezia - Lecce</title>
     <desc lang="sv">Stadio Pier Luigi Penzo. Fotboll från Stadio Pier Luigi Penzo där Venezia ställs mot Lecce i omgång 13 av Serie A. Engelsk kommentering.</desc>
@@ -6106,9 +5816,6 @@
     <title lang="sv">Serie A: Torino - Napoli</title>
     <desc lang="sv">Stadio Olimpico Grande Torino. Fotboll från Stadio Olimpico Grande Torino där Torino ställs mot Napoli i omgång 14 av Serie A.</desc>
     <date>2024</date>
-  </programme>
-  <programme start="20250809025800 +0000" stop="20250809100000 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">Sändningsuppehåll</title>
   </programme>
   <programme start="20250809100000 +0000" stop="20250809110000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Rally-VM: Highlight show</title>
@@ -6903,14 +6610,6 @@
     <date>2024</date>
     <country lang="sv">SWE</country>
   </programme>
-  <programme start="20250809030000 +0000" stop="20250809033000 +0000" channel="tv4sportlive.se">
-    <title lang="sv">Höjdpunkter</title>
-    <desc lang="sv">De senaste höjdpunkterna från bland annat SHL, Hockeyallsvenskan, UEFA Champions League, NBA, La Liga och mycket mer.</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20250809033000 +0000" stop="20250810030000 +0000" channel="tv4sportlive.se">
-    <title lang="sv">Sändningsuppehåll</title>
-  </programme>
   <programme start="20250810030000 +0000" stop="20250810033000 +0000" channel="tv4sportlive.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">De senaste höjdpunkterna från bland annat SHL, Hockeyallsvenskan, UEFA Champions League, NBA, La Liga och mycket mer.</desc>
@@ -6923,14 +6622,6 @@
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">De senaste höjdpunkterna från bland annat SHL, Hockeyallsvenskan, UEFA Champions League, NBA, La Liga och mycket mer.</desc>
     <date>2024</date>
-  </programme>
-  <programme start="20250809030000 +0000" stop="20250809033000 +0000" channel="tv4sportlive2.se">
-    <title lang="sv">Höjdpunkter</title>
-    <desc lang="sv">De senaste höjdpunkterna från bland annat SHL, Hockeyallsvenskan, UEFA Champions League, NBA, La Liga och mycket mer.</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20250809033000 +0000" stop="20250810030000 +0000" channel="tv4sportlive2.se">
-    <title lang="sv">Sändningsuppehåll</title>
   </programme>
   <programme start="20250810030000 +0000" stop="20250810033000 +0000" channel="tv4sportlive2.se">
     <title lang="sv">Höjdpunkter</title>
@@ -6945,14 +6636,6 @@
     <desc lang="sv">De senaste höjdpunkterna från bland annat SHL, Hockeyallsvenskan, UEFA Champions League, NBA, La Liga och mycket mer.</desc>
     <date>2024</date>
   </programme>
-  <programme start="20250809030000 +0000" stop="20250809033000 +0000" channel="tv4sportlive3.se">
-    <title lang="sv">Höjdpunkter</title>
-    <desc lang="sv">De senaste höjdpunkterna från bland annat SHL, Hockeyallsvenskan, UEFA Champions League, NBA, La Liga och mycket mer.</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20250809033000 +0000" stop="20250810030000 +0000" channel="tv4sportlive3.se">
-    <title lang="sv">Sändningsuppehåll</title>
-  </programme>
   <programme start="20250810030000 +0000" stop="20250810033000 +0000" channel="tv4sportlive3.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">De senaste höjdpunkterna från bland annat SHL, Hockeyallsvenskan, UEFA Champions League, NBA, La Liga och mycket mer.</desc>
@@ -6965,14 +6648,6 @@
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">De senaste höjdpunkterna från bland annat SHL, Hockeyallsvenskan, UEFA Champions League, NBA, La Liga och mycket mer.</desc>
     <date>2024</date>
-  </programme>
-  <programme start="20250809030000 +0000" stop="20250809033000 +0000" channel="tv4sportlive4.se">
-    <title lang="sv">Höjdpunkter</title>
-    <desc lang="sv">De senaste höjdpunkterna från bland annat SHL, Hockeyallsvenskan, UEFA Champions League, NBA, La Liga och mycket mer.</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20250809033000 +0000" stop="20250810030000 +0000" channel="tv4sportlive4.se">
-    <title lang="sv">Sändningsuppehåll</title>
   </programme>
   <programme start="20250810030000 +0000" stop="20250810033000 +0000" channel="tv4sportlive4.se">
     <title lang="sv">Höjdpunkter</title>
@@ -7091,7 +6766,7 @@
   </programme>
   <programme start="20250809100000 +0300" stop="20250809103000 +0300" channel="mega.gr">
     <title lang="el">Οι Τρεις Χάριτες</title>
-    <desc lang="el">Ελληνική κωμική σειρά. Τρεις αδερφές, με πολύ διαφορετικές προσωπικότητες και αντιλήψεις, αναγκάζονται να μοιραστούν την ίδια στέγη.</desc>
+    <desc lang="el">Η Μαρία φέρνει μαγιό στο σπίτι για να τα δώσει στις αδελφές της και στη Μπεμπέκα. Η Όλγα φοράει ένα από αυτά και διαπιστώνει ότι έχει παχύνει. Επειδή δεν θέλει να κυκλοφορήσει έτσι στην παραλία, αποφασίζει να κάνει δίαιτα.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
   </programme>
   <programme start="20250809103000 +0300" stop="20250809110000 +0300" channel="mega.gr">
@@ -7101,11 +6776,7 @@
   </programme>
   <programme start="20250809110000 +0300" stop="20250809113000 +0300" channel="mega.gr">
     <title lang="el">Εμείς και εμείς</title>
-    <desc lang="el">Στη γειτονιά μας ένα νέο πρόσωπο, έρχεται να αναταράξει τα ήσυχα νερά στη ζωή της παρέας μας. Η Νανά! 'Οπου Νανά εστί... μια όμορφη τσακπίνα ζωντοχήρα, που φλερτάρει κάθε αρσενικό της αρεσκείας της. Πολύ σύντομα, στο στόχαστρο της Νανάς μπαίνει ο Στέλιος... Θα πιαστεί άραγε στα δίχτυα της; Και... θα προλάβουν η Μαρία και οι υπόλοιπες γυναίκες της παρέας να εμποδίσουν αυτή την άνομη σχέση;.</desc>
-    <credits>
-      <director>Πηνελόπη Κροντηροπούλου</director>
-      <writer>Πάνος Αμαραντίδης</writer>
-    </credits>
+    <desc lang="el">Ο Χάμπος θέλει να παντρευτεί και έρχεται από το Κιλκίς στην Αθήνα, για να γνωρίσει στην Παρθένα τη νύφη! Εκείνη, η Συμέλα, θέλει οπωσδήποτε να μοιράσουν την οικογενειακή περιουσία και να πάρει ο Χάμπος το σπίτι στο Κιλκίς.</desc>
     <icon src="https://www.ishow.gr/files/images/2015/9/24/fa9c90b7-e5f1-44e5-9194-b21bc2db246b.jpg"/>
   </programme>
   <programme start="20250809113000 +0300" stop="20250809121000 +0300" channel="mega.gr">
@@ -7156,8 +6827,7 @@
   </programme>
   <programme start="20250809145000 +0300" stop="20250809153000 +0300" channel="mega.gr">
     <title lang="el">Δέκα λεπτά κήρυγμα</title>
-    <desc lang="el">Η προοδευτική μαμά γκρινιάζει. Ο χωρισμένος μπαμπάς νουθετεί. Η μοντέρνα γιαγιά τα συμβιβάζει. Και η φίλη της μαμάς θεωρητικολογεί... Στη μέση ο έφηβος Λεωνίδας ακούει προσεκτικά το «δεκάλεπτο κήρυγμα» των μεγάλων. Μόνο και μόνο για να κάνει μετά το ακριβώς αντίθετο! Από κοντά σιγοντάρουν ο κολλητός του ο Τέλης και η φίλη του η Μαριλένα.
-Επιτέλους, μια οικογειακή κωμωδία φέρνει τους δεκαεξάρηδες στην εξουσία!</desc>
+    <desc lang="el">Το σίριαλ με την γκαρσονιέρα που νοικιάζουν τα παιδιά συνεχίζεται... Κι ενώ η αναζήτηση της αλήθειας καλά κρατεί, ο Λεωνίδας έχει μια καινούργια κατάκτηση.</desc>
     <credits>
       <director>Κώστας Λυχναράς</director>
       <writer>Ντίνα Παντελέων</writer>
@@ -7166,7 +6836,11 @@
   </programme>
   <programme start="20250809153000 +0300" stop="20250809163000 +0300" channel="mega.gr">
     <title lang="el">Δέκα λεπτά κήρυγμα</title>
-    <desc lang="el">Οικογενειακό δείπνο χωρίς τους γονείς γίνεται; Κικίτσα, Ζέτα και Βιβή κανονίζουν συγκέντρωση στο σπίτι για να λύσουν το πρόβλημα που φαίνεται να απασχολεί τον Νάσο και τη Μαίρη.</desc>
+    <desc lang="el">Στην προσπάθεια της να κερδίσει πίσω τον εγγονό της, η Κικίτσα αποφασίζει να του αγοράσει σπίτι! Όλα καλά για τον Λεωνίδα, μέχρι που συνειδητοποιεί ότι στην νέα πολυκατοικία, εκτός από τη μαμά και τη γιαγιά του, θα μένει η Ζέτα και ο μπαμπάς του με τη Βιβή!</desc>
+    <credits>
+      <director>Κώστας Λυχναράς</director>
+      <writer>Ντίνα Παντελέων</writer>
+    </credits>
     <icon src="https://www.ishow.gr/files/images/2015/9/24/f14a955a-3493-457f-8da7-94e0cc05ae77.jpg"/>
   </programme>
   <programme start="20250809163000 +0300" stop="20250809172000 +0300" channel="mega.gr">
@@ -7618,7 +7292,7 @@
     <category lang="el">Σειρά</category>
     <icon src="https://www.ishow.gr/files/images/2010/9/2/0031fbf6-0cf7-4af6-8ade-0a00e0fbb172.jpg"/>
   </programme>
-  <programme start="20250809100000 +0300" stop="20250809130000 +0300" channel="ant1.gr">
+  <programme start="20250809100000 +0300" stop="20250809110000 +0300" channel="ant1.gr">
     <title lang="el">Λίτσα.com</title>
     <desc lang="el">Το πιστολάκι συνάντησε το mouse…
 Η αγαπημένη μας κομμώτρια συνεχίζει να "διαδικτυώνεται" και να βλέπει τη θετική πλευρά της ζωής. Επιστρέφοντας από την Αγγλία, η Λίτσα έχει στις αποσκευές της ένα βραβείο κομμωτικής, αλλά και ένα καινούργιο αγόρι… Είναι έτοιμη να κάνει μια νέα αρχή με κάποιον που της ταιριάζει πραγματικά, μιας και ο Ηλίας δεν έχει δώσει σημεία ζωής. Κι όχι μόνο αυτό, αλλά αποφασίζει να ανοίξει δικό της κομμωτήριο!
@@ -7642,6 +7316,14 @@
     </credits>
     <category lang="el">Σειρά</category>
     <icon src="https://www.ishow.gr/files/images/2013/9/20/fcb98906-1210-4d3d-b480-155ab2e4243b.jpg"/>
+  </programme>
+  <programme start="20250809110000 +0300" stop="20250809130000 +0300" channel="ant1.gr">
+    <title lang="el">Δεληγιάννειο παρθεναγωγείο</title>
+    <desc lang="el">Λίγο πριν την έναρξη του Β Παγκοσµίου Πολέµου…
+Ο Χάρης Ρώµας διευθύνει το Δεληγιάννειο Παρθεναγωγείο, ένα πρότυπο οικοτροφείο θηλέων που φιλοξενεί στους κοιτώνες του κορίτσια καλών οικογενειών απ όλη την Ελλάδα.
+Όταν στο Παρθεναγωγείο φτάνει η όµορφη, χειραφετηµένη και προοδευτική καθηγήτρια, Ζωή, έρχονται τα πάνω κάτω. Οι προχωρηµένες ιδέες της θα ανατρέψουν τις ισορροπίες λειτουργίας του οικοτροφείου αλλά και την προσωπική ζωή του διευθυντή. Ένας ανοµολόγητος έρωτας γεννιέται και ένας θεός ξέρει πού θα καταλήξει… Τι θα γίνει, αν αυτός ο έρωτας δει το φως της µέρας ή της… νύχτας και το µάθει η αυταρχική γυναίκα του, ο γιος του, η πεθερά του, ο κόσµος γύρω του;
+Όλα όσα συµβαίνουν στο µικρόκοσµο του Δεληγιάννειου Παρθεναγωγείου αποδεικνύουν πως, όταν η κωµωδία είναι αυθεντική, το γέλιο βγαίνει αβίαστα.</desc>
+    <icon src="https://www.ishow.gr/files/images/2013/9/20/9550da26-01b8-4f1a-8902-97488a9eb2b9.jpg"/>
   </programme>
   <programme start="20250809130000 +0300" stop="20250809135000 +0300" channel="ant1.gr">
     <title lang="el">ΑΝΤ1 News</title>
@@ -7862,7 +7544,7 @@
     <category lang="el">Σειρά</category>
     <icon src="https://www.ishow.gr/files/images/2010/9/2/0031fbf6-0cf7-4af6-8ade-0a00e0fbb172.jpg"/>
   </programme>
-  <programme start="20250810100000 +0300" stop="20250810130000 +0300" channel="ant1.gr">
+  <programme start="20250810100000 +0300" stop="20250810110000 +0300" channel="ant1.gr">
     <title lang="el">Λίτσα.com</title>
     <desc lang="el">Το πιστολάκι συνάντησε το mouse…
 Η αγαπημένη μας κομμώτρια συνεχίζει να "διαδικτυώνεται" και να βλέπει τη θετική πλευρά της ζωής. Επιστρέφοντας από την Αγγλία, η Λίτσα έχει στις αποσκευές της ένα βραβείο κομμωτικής, αλλά και ένα καινούργιο αγόρι… Είναι έτοιμη να κάνει μια νέα αρχή με κάποιον που της ταιριάζει πραγματικά, μιας και ο Ηλίας δεν έχει δώσει σημεία ζωής. Κι όχι μόνο αυτό, αλλά αποφασίζει να ανοίξει δικό της κομμωτήριο!
@@ -7886,6 +7568,14 @@
     </credits>
     <category lang="el">Σειρά</category>
     <icon src="https://www.ishow.gr/files/images/2013/9/20/fcb98906-1210-4d3d-b480-155ab2e4243b.jpg"/>
+  </programme>
+  <programme start="20250810110000 +0300" stop="20250810130000 +0300" channel="ant1.gr">
+    <title lang="el">Δεληγιάννειο παρθεναγωγείο</title>
+    <desc lang="el">Λίγο πριν την έναρξη του Β Παγκοσµίου Πολέµου…
+Ο Χάρης Ρώµας διευθύνει το Δεληγιάννειο Παρθεναγωγείο, ένα πρότυπο οικοτροφείο θηλέων που φιλοξενεί στους κοιτώνες του κορίτσια καλών οικογενειών απ όλη την Ελλάδα.
+Όταν στο Παρθεναγωγείο φτάνει η όµορφη, χειραφετηµένη και προοδευτική καθηγήτρια, Ζωή, έρχονται τα πάνω κάτω. Οι προχωρηµένες ιδέες της θα ανατρέψουν τις ισορροπίες λειτουργίας του οικοτροφείου αλλά και την προσωπική ζωή του διευθυντή. Ένας ανοµολόγητος έρωτας γεννιέται και ένας θεός ξέρει πού θα καταλήξει… Τι θα γίνει, αν αυτός ο έρωτας δει το φως της µέρας ή της… νύχτας και το µάθει η αυταρχική γυναίκα του, ο γιος του, η πεθερά του, ο κόσµος γύρω του;
+Όλα όσα συµβαίνουν στο µικρόκοσµο του Δεληγιάννειου Παρθεναγωγείου αποδεικνύουν πως, όταν η κωµωδία είναι αυθεντική, το γέλιο βγαίνει αβίαστα.</desc>
+    <icon src="https://www.ishow.gr/files/images/2013/9/20/9550da26-01b8-4f1a-8902-97488a9eb2b9.jpg"/>
   </programme>
   <programme start="20250810130000 +0300" stop="20250810135000 +0300" channel="ant1.gr">
     <title lang="el">ΑΝΤ1 News</title>
@@ -8045,7 +7735,7 @@
   </programme>
   <programme start="20250809101500 +0300" stop="20250809112000 +0300" channel="alpha.gr">
     <title lang="el">Εντιμότατοι Κερατάδες</title>
-    <desc lang="el">Καλό παιδί ο Σπύρος, αλλά έχει ένα μεγάλο μειονέκτημα: είναι τσιγκούνης! Οικονομία στο φως, στο νερό, στις μετακινήσεις. Όσο και να τον αγαπάει η Έλλη, έχει πια απηυδήσει. Έτσι όταν γνωρίζει τον εφοπλιστή Σοφό, δεν μπορεί παρά να ενδώσει.</desc>
+    <desc lang="el">Ο Αργύρης είναι ένας άνθρωπος που δεν ζητάει πολλά από την ζωή του. Αντίθετα η Καίτη, η γυναίκα του, ζητάει πολλά περισσότερα απ' αυτά που μπορεί εκείνος να της προσφέρει. Έτσι όταν μπαίνει στη ζωή της ο Τάσος, τον ερωτεύεται παράφορα.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
   </programme>
   <programme start="20250809112000 +0300" stop="20250809122000 +0300" channel="alpha.gr">
@@ -11063,8 +10753,8 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/68.png"/>
   </programme>
   <programme start="20250809213000 +0300" stop="20250809233500 +0300" channel="cosmotesport2.gr">
-    <title lang="el">Ποδόσφαιρο: Ουνιόν Βερολίνου - Ολυμπιακός</title>
-    <desc lang="el">Φιλικός Αγώνας. Περιγραφή: Αντρέα Παλομπαρίνι.</desc>
+    <title lang="el">Ποδόσφαιρο: Αλ Τααβούν - Ολυμπιακός</title>
+    <desc lang="el">Φιλικός Αγώνας. Περιγραφή: Δημήτρης Σπηλιόπουλος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/68.png"/>
   </programme>
   <programme start="20250809233500 +0300" stop="20250810013500 +0300" channel="cosmotesport2.gr">
@@ -11668,12 +11358,17 @@
     <desc lang="el">Σινσινάτι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250809180000 +0300" stop="20250809220000 +0300" channel="cosmotesport6.gr">
+  <programme start="20250809180000 +0300" stop="20250809200000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ATP Masters 1000 2025</title>
     <desc lang="el">Σινσινάτι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Δημήτρης Ξαρλής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250809220000 +0300" stop="20250810020000 +0300" channel="cosmotesport6.gr">
+  <programme start="20250809200000 +0300" stop="20250809223000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Στέφανος Τσιτσιπάς - Φαμπιάν Μαροζάν</title>
+    <desc lang="el">ATP Masters 1000 2025. Σινσινάτι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Δημήτρης Ξαρλής.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20250809223000 +0300" stop="20250810020000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ATP Masters 1000 2025</title>
     <desc lang="el">Σινσινάτι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
@@ -11693,9 +11388,14 @@
     <desc lang="el">Σινσινάτι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250810140000 +0300" stop="20250810170000 +0300" channel="cosmotesport6.gr">
+  <programme start="20250810140000 +0300" stop="20250810143000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ATP Masters 1000 2025</title>
     <desc lang="el">Σινσινάτι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20250810143000 +0300" stop="20250810170000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Στέφανος Τσιτσιπάς - Φαμπιάν Μαροζάν</title>
+    <desc lang="el">ATP Masters 1000 2025. Σινσινάτι. Kυρίως ταμπλό. To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Δημήτρης Ξαρλής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
   <programme start="20250810170000 +0300" stop="20250810180000 +0300" channel="cosmotesport6.gr">
@@ -11787,7 +11487,7 @@
     <icon src="https://www.ishow.gr/files/images/2025/7/45369671-541d-4497-8f9c-98552b52a43c.jpg"/>
   </programme>
   <programme start="20250809194500 +0300" stop="20250809220000 +0300" channel="novasportsprime.gr">
-    <title lang="el">Φέγενορντ - Μπρέντα (Ζ) : Eredivisie 2025/26</title>
+    <title lang="el">Φέγενορντ - Μπρέντα : Eredivisie 2025/26</title>
     <desc lang="el">Eredivisie 2025/26. Η Φέγενορντ, που πέρσι κατέκτησε την τρίτη θέση και τη συμμετοχή στα προκριματικά του Champions League, και η Μπρέντα, που τερμάτισε 15η την περασμένη σεζόν, συναντιούνται στην.</desc>
     <icon src="https://www.ishow.gr/files/images/2025/8/66830b4f-dad6-419b-b531-0a7fa42135d4.png"/>
   </programme>
@@ -12237,12 +11937,12 @@
     <icon src="https://www.ishow.gr/files/images/2025/8/cf1ebb08-0109-493e-b68a-942d1130683a.jpg"/>
   </programme>
   <programme start="20250809160000 +0300" stop="20250809180000 +0300" channel="novasports6.gr">
-    <title lang="el">Τένις: WTA 1000 2025 : Μόντρεαλ, Τελικός</title>
-    <desc lang="el">Μόντρεαλ, Τελικός.</desc>
-    <icon src="https://www.ishow.gr/files/images/2025/8/cf1ebb08-0109-493e-b68a-942d1130683a.jpg"/>
+    <title lang="el">Τένις: WTA 1000 2025 : Ραχίμοβα - Σάκκαρη</title>
+    <desc lang="el">Ραχίμοβα - Σάκκαρη. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Cincinnati Open της σειράς WTA 1000, που διεξάγεται το διάστημα 7-18 Αυγούστου στο Σινσινάτι των ΗΠΑ.</desc>
+    <icon src="https://www.ishow.gr/files/images/2025/8/84725817-d4d0-4131-9479-d4f901b562e0.jpg"/>
   </programme>
   <programme start="20250809180000 +0300" stop="20250809220000 +0300" channel="novasports6.gr">
-    <title lang="el">Τένις: WTA 1000 2025 (Ζ) : Σινσινάτι, 1η Μέρα</title>
+    <title lang="el">Τένις: WTA 1000 2025 : Σινσινάτι, 1η Μέρα</title>
     <desc lang="el">Σινσινάτι, 1η Μέρα. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Cincinnati Open της σειράς WTA 1000, που διεξάγεται το διάστημα 7-18 Αυγούστου στο Σινσινάτι των ΗΠΑ. Περιγραφή: Θ. Σολούκος.</desc>
     <icon src="https://www.ishow.gr/files/images/2025/8/7224165e-b0b0-4014-bd93-244eb067ca31.jpg"/>
   </programme>
@@ -12265,71 +11965,6 @@
     <title lang="el">Τένις: WTA 1000 2025 : Σινσινάτι, 2η Μέρα</title>
     <desc lang="el">Σινσινάτι, 2η Μέρα. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Cincinnati Open της σειράς WTA 1000, που διεξάγεται το διάστημα 7-18 Αυγούστου στο Σινσινάτι των ΗΠΑ. Περιγραφή: Θ. Σολούκος.</desc>
     <icon src="https://www.ishow.gr/files/images/2025/8/3a6f4e28-27e8-42af-825f-d0ebcaae22bf.jpg"/>
-  </programme>
-  <programme start="20250809000000 +0200" stop="20250809003000 +0200" channel="abcwabc.us">
-    <title lang="en">Eyewitness News at 6</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769035_b_s4_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250809003000 +0200" stop="20250809010000 +0200" channel="abcwabc.us">
-    <title lang="en">ABC World News Tonight With David Muir</title>
-    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250809010000 +0200" stop="20250809013000 +0200" channel="abcwabc.us">
-    <title lang="en">Jeopardy!</title>
-    <sub-title lang="en">Tournament of Champions</sub-title>
-    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184056_b_v12_aa.jpg"/>
-    <episode-num system="onscreen">E9265</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250809013000 +0200" stop="20250809020000 +0200" channel="abcwabc.us">
-    <title lang="en">Wheel of Fortune</title>
-    <sub-title lang="en">Chasing Sunsets</sub-title>
-    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184057_b_h8_ah.jpg"/>
-    <episode-num system="onscreen">E8155</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250809020000 +0200" stop="20250809030100 +0200" channel="abcwabc.us">
-    <title lang="en">Match Game</title>
-    <sub-title lang="en">Kevin Nealon, Selena Gomez, BD Wong, Anthony Anderson, Cara Delevingne, Ziwe</sub-title>
-    <desc lang="en">Celebrity contestants Kevin Nealon, Selena Gomez, BD Wong, Anthony Anderson, Cara Delevingne and Ziwe.Guests: Kevin Nealon, Selena Gomez, B.D. Wong, Anthony Anderson, Cara Delevingne, Ziwe..</desc>
-    <category lang="en">Game Shows</category>
-    <category lang="en">Performing Arts</category>
-    <episode-num system="onscreen">E604</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250809030100 +0200" stop="20250809050000 +0200" channel="abcwabc.us">
-    <title lang="en">20/20</title>
-    <sub-title lang="en">The One That Got Out</sub-title>
-    <desc lang="en">Multiple women are murdered during a Texas police hunt for a serial killer.</desc>
-    <category lang="en">News Magazine</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184299_i_h8_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250809050000 +0200" stop="20250809053500 +0200" channel="abcwabc.us">
-    <title lang="en">Eyewitness News at 11</title>
-    <desc lang="en">Breaking news.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769039_b_s4_aa.jpg"/>
-    <previously-shown/>
   </programme>
   <programme start="20250809053500 +0200" stop="20250809063700 +0200" channel="abcwabc.us">
     <title lang="en">Jimmy Kimmel Live!</title>
@@ -12516,7 +12151,7 @@
   <programme start="20250809190000 +0200" stop="20250809210000 +0200" channel="abcwabc.us">
     <title lang="en">Live: Premier Lacrosse League</title>
     <sub-title lang="en">Philadelphia Waterdogs vs. New York Atlas</sub-title>
-    <desc lang="en">From Harvard Stadium in Boston.</desc>
+    <desc lang="en">Boston hosts Premier Lacrosse League action between Philadelphia and New York at Harvard Stadium.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Lacrosse</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG001YHBKM.jpg"/>
@@ -12805,7 +12440,7 @@
   <programme start="20250810210000 +0200" stop="20250810230000 +0200" channel="abcwabc.us">
     <title lang="en">Live: 2025 Little League Softball World Series</title>
     <sub-title lang="en">Championship Game: Teams TBA</sub-title>
-    <desc lang="en">From Stallings Stadium in Greenville, N.C.</desc>
+    <desc lang="en">The Orange Bracket winner clashes with the Purple Bracket champions for the LLSWS title. From Stallings Stadium in Greenville, N.C.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Softball</category>
   </programme>
@@ -12861,39 +12496,6 @@
     <star-rating system="MPAA">
       <value>6.0/10</value>
     </star-rating>
-  </programme>
-  <programme start="20250809010000 +0200" stop="20250809013000 +0200" channel="foxsportswisconsin.us">
-    <title lang="en">Due North Outdoors</title>
-    <desc lang="en">Ron Schara shares his stories of outdoor sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p659267_b_v12_aa.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250809013000 +0200" stop="20250809020000 +0200" channel="foxsportswisconsin.us">
-    <title lang="en">Live: Brewers Live Pregame</title>
-    <desc lang="en">Preview and analysis of Milwaukee Brewers game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7845342_i_h8_aa.jpg"/>
-  </programme>
-  <programme start="20250809020000 +0200" stop="20250809050000 +0200" channel="foxsportswisconsin.us">
-    <title lang="en">Live: MLB Baseball</title>
-    <sub-title lang="en">New York Mets at Milwaukee Brewers</sub-title>
-    <desc lang="en">From American Family Field in Milwaukee.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191273_i_h8_ad.jpg"/>
-  </programme>
-  <programme start="20250809050000 +0200" stop="20250809053000 +0200" channel="foxsportswisconsin.us">
-    <title lang="en">Live: Brewers Live Postgame</title>
-    <desc lang="en">Review of the Milwaukee Brewers game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15179320_b_s4_ad.jpg"/>
   </programme>
   <programme start="20250809053000 +0200" stop="20250809073000 +0200" channel="foxsportswisconsin.us">
     <title lang="en">Golic / Golic</title>
@@ -13437,29 +13039,6 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10934787_b_h10_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250809010000 +0200" stop="20250809030000 +0200" channel="espn.us">
-    <title lang="en">Live: Little League Baseball</title>
-    <sub-title lang="en">Metro Regional: New York vs. Connecticut</sub-title>
-    <desc lang="en">Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3606786_i_s2_aa.jpg"/>
-  </programme>
-  <programme start="20250809030000 +0200" stop="20250809050000 +0200" channel="espn.us">
-    <title lang="en">Live: Little League Baseball</title>
-    <sub-title lang="en">Northwest Regional: Washington vs. Oregon</sub-title>
-    <desc lang="en">Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3606786_i_s2_aa.jpg"/>
-  </programme>
-  <programme start="20250809050000 +0200" stop="20250809060000 +0200" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
-  </programme>
   <programme start="20250809060000 +0200" stop="20250809070000 +0200" channel="espn.us">
     <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
@@ -13558,7 +13137,7 @@
   </programme>
   <programme start="20250809200000 +0200" stop="20250809220000 +0200" channel="espn.us">
     <title lang="en">Live: 2025 Little League Softball World Series</title>
-    <sub-title lang="en">North Carolina vs. TBA</sub-title>
+    <sub-title lang="en">North Carolina vs. Indiana</sub-title>
     <desc lang="en">Game 19: Orange Championship.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Softball</category>
@@ -13732,36 +13311,7 @@
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
   </programme>
-  <programme start="20250809000000 +0200" stop="20250809010000 +0200" channel="espn2.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
-  </programme>
-  <programme start="20250809010000 +0200" stop="20250809030000 +0200" channel="espn2.us">
-    <title lang="en">Live: 2025 Little League Softball World Series</title>
-    <sub-title lang="en">TBA vs. Indiana</sub-title>
-    <desc lang="en">Game 18.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Softball</category>
-  </programme>
-  <programme start="20250809030000 +0200" stop="20250809050000 +0200" channel="espn2.us">
-    <title lang="en">Live: Premier Lacrosse League</title>
-    <sub-title lang="en">Carolina Chaos vs. Utah Archers</sub-title>
-    <desc lang="en">From Harvard Stadium in Boston.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Lacrosse</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG001YHBZ7.jpg"/>
-  </programme>
-  <programme start="20250809050000 +0200" stop="20250809060000 +0200" channel="espn2.us">
-    <title lang="en">UFC 319 Countdown: Du Plessis vs. Chimaev</title>
-    <desc lang="en">An inside look to the middleweight title fight between Dricus du Plessis and Khamzat Chimaev; featuring fight preview and fighter profiles. From the United Center in Chicago.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Martial Arts</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20250809060000 +0200" stop="20250809070000 +0200" channel="espn2.us">
+  <programme start="20250809060000 +0200" stop="20250809065900 +0200" channel="espn2.us">
     <title lang="en">Dana White's Contender Series</title>
     <sub-title lang="en">Next Level - Dream Chasers (Mansur Abdul-Malik, Nick Klein)</sub-title>
     <desc lang="en">Prospective fighters fight for a UFC contract in front of UFC President Dana White.</desc>
@@ -13770,7 +13320,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27992710_b_v12_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250809070000 +0200" stop="20250809080000 +0200" channel="espn2.us">
+  <programme start="20250809065900 +0200" stop="20250809080000 +0200" channel="espn2.us">
     <title lang="en">Dana White's Contender Series</title>
     <sub-title lang="en">Next Level - Live to Fight Another Day (Kody Steele, Austin Bashi)</sub-title>
     <desc lang="en">Prospective fighters fight for a UFC contract in front of UFC President Dana White.</desc>
@@ -13779,7 +13329,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27992710_b_v12_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250809080000 +0200" stop="20250809090000 +0200" channel="espn2.us">
+  <programme start="20250809080000 +0200" stop="20250809085900 +0200" channel="espn2.us">
     <title lang="en">Dana White's Contender Series</title>
     <sub-title lang="en">Next Level - Stepping Into Stardom (Elijah Smith, Navajo Stirling)</sub-title>
     <desc lang="en">Prospective fighters fight for a UFC contract in front of UFC President Dana White.</desc>
@@ -13788,7 +13338,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27992710_b_v12_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250809090000 +0200" stop="20250809100000 +0200" channel="espn2.us">
+  <programme start="20250809085900 +0200" stop="20250809095900 +0200" channel="espn2.us">
     <title lang="en">The Ultimate Fighter</title>
     <sub-title lang="en">Team Cormier vs. Team Sonnen, Part 10</sub-title>
     <desc lang="en">The training and development of professional Ultimate Fighters.</desc>
@@ -13800,7 +13350,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20250809100000 +0200" stop="20250809110000 +0200" channel="espn2.us">
+  <programme start="20250809095900 +0200" stop="20250809110000 +0200" channel="espn2.us">
     <title lang="en">The Ultimate Fighter</title>
     <sub-title lang="en">Team Cormier vs. Team Sonnen</sub-title>
     <desc lang="en">Follow 16 top mixed martial arts athletes as they compete for a six-figure UFC contract.</desc>
@@ -13892,7 +13442,7 @@
   </programme>
   <programme start="20250809230000 +0200" stop="20250810010000 +0200" channel="espn2.us">
     <title lang="en">Live: 2025 Little League Softball World Series</title>
-    <sub-title lang="en">Pennsylvania vs. TBA</sub-title>
+    <sub-title lang="en">Pennsylvania vs. Oklahoma</sub-title>
     <desc lang="en">Game 20: Purple Championship.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Softball</category>
@@ -14057,110 +13607,6 @@
     <category lang="en">Golf</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9232187_i_h8_ac.jpg"/>
     <previously-shown/>
-  </programme>
-  <programme start="20250809000000 +0200" stop="20250809020000 +0200" channel="Hallmark Channel (East)">
-    <title lang="en">The Sweetest Christmas</title>
-    <desc lang="en">A struggling pastry chef is thrilled to learn that she has made it to the finals of the American Gingerbread Competition, but distractions in her love life threaten to derail her dreams of taking home the grand prize.</desc>
-    <credits>
-      <actor>Lacey Chabert</actor>
-      <actor>Lea Coco</actor>
-      <actor>Jonathan Adams</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Christmas</category>
-    <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14422625_i_s3_aa.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250809020000 +0200" stop="20250809040000 +0200" channel="Hallmark Channel (East)">
-    <title lang="en">A Merry Scottish Christmas</title>
-    <desc lang="en">When estranged siblings Lindsay and Brad Morgan travel to Scotland at Christmas to reunite with their mother Jo, a big family secret is revealed.</desc>
-    <credits>
-      <actor>Lacey Chabert</actor>
-      <actor>Scott Wolf</actor>
-      <actor>James Robinson</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Christmas</category>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25782884_k_h8_aa.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250809040000 +0200" stop="20250809043000 +0200" channel="Hallmark Channel (East)">
-    <title lang="en">The Golden Girls</title>
-    <sub-title lang="en">Golden Moments: Part 2</sub-title>
-    <desc lang="en">The women reflect on their years spent together when Sophia announces she is going to live with her son.</desc>
-    <credits>
-      <actor>Beatrice Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
-    <episode-num system="onscreen">E70</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250809043000 +0200" stop="20250809050000 +0200" channel="Hallmark Channel (East)">
-    <title lang="en">The Golden Girls</title>
-    <sub-title lang="en">Dorothy's New Friend</sub-title>
-    <desc lang="en">Blanche and Rose despise one of Dorothy's friends, the novelist Barbara Thorndyke.</desc>
-    <credits>
-      <actor>Beatrice Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
-    <episode-num system="onscreen">E66</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250809050000 +0200" stop="20250809053000 +0200" channel="Hallmark Channel (East)">
-    <title lang="en">The Golden Girls</title>
-    <sub-title lang="en">Grab That Dough</sub-title>
-    <desc lang="en">A trip to Hollywood to compete on their favorite game show turns sour for the roommates.</desc>
-    <credits>
-      <actor>Beatrice Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284288_e_h10_ab.jpg"/>
-    <episode-num system="onscreen">E63</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250809053000 +0200" stop="20250809060000 +0200" channel="Hallmark Channel (East)">
-    <title lang="en">The Golden Girls</title>
-    <sub-title lang="en">My Brother, My Father</sub-title>
-    <desc lang="en">Sophia encourages Dorothy and Stan to pretend they are still married, at least until Sophia's clergyman brother leaves town.</desc>
-    <credits>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284293_e_s2_aa.jpg"/>
-    <episode-num system="onscreen">E68</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
   </programme>
   <programme start="20250809060000 +0200" stop="20250809063000 +0200" channel="Hallmark Channel (East)">
     <title lang="en">The Golden Girls</title>
@@ -14909,7 +14355,7 @@
     <desc lang="en">Taking a break from her wellness empire, an entrepreneur develops a budding romance with a handsome man at a relaxing retreat.</desc>
     <credits>
       <actor>Autumn Reeser</actor>
-      <actor>Andrew W. Walker</actor>
+      <actor>Andrew Walker</actor>
       <actor>Rhiannon Fish</actor>
     </credits>
     <date>2021</date>
@@ -14969,52 +14415,6 @@
     <previously-shown/>
     <rating system="MPAA">
       <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250809000000 +0200" stop="20250809020000 +0200" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">Aurora Teagarden Mysteries</title>
-    <sub-title lang="en">Honeymoon, Honeymurder</sub-title>
-    <desc lang="en">Aurora and Nick discover a body while on a pre-honeymoon getaway; as they get closer to finding out what really happened, danger knocks on their doorstep.</desc>
-    <credits>
-      <actor>Candace Cameron Bure</actor>
-      <actor>Niall Matter</actor>
-      <actor>Marilu Henner</actor>
-    </credits>
-    <category lang="en">Regular</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20269500_e_s2_aa.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250809020000 +0200" stop="20250809040000 +0200" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">Aurora Teagarden Mysteries: Death at the Diner</title>
-    <desc lang="en">When the owner of the diner where Aurora Teagarden works is suddenly killed, her new boyfriend becomes the primary suspect.</desc>
-    <credits>
-      <actor>Skyler Samuels</actor>
-      <actor>Evan Roderick</actor>
-      <actor>Marilu Henner</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Mystery</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28243478_i_s4_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250809040000 +0200" stop="20250809060000 +0200" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">Aurora Teagarden Mysteries</title>
-    <sub-title lang="en">Haunted by Murder</sub-title>
-    <desc lang="en">A murder investigation gets reignited in a house that's considered haunted by the Lawrenceton locals, and where years earlier, Aurora and Sally discovered a body as teenagers.</desc>
-    <credits>
-      <actor>Candace Cameron Bure</actor>
-      <actor>Niall Matter</actor>
-      <actor>Marilu Henner</actor>
-    </credits>
-    <category lang="en">Regular</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21373177_b_s4_aa.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
     </rating>
   </programme>
   <programme start="20250809060000 +0200" stop="20250809070000 +0200" channel="Hallmark Movies and Mysteries HD">
@@ -15559,43 +14959,6 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20250809013000 +0200" stop="20250809040000 +0200" channel="syfy.us">
-    <title lang="en">Click</title>
-    <desc lang="en">An overworked architect meets an eccentric inventor who gives him a universal remote that allows him to control the world around him.</desc>
-    <credits>
-      <actor>Adam Sandler</actor>
-      <actor>Kate Beckinsale</actor>
-      <actor>Christopher Walken</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p159128_k_s2_ac.jpg"/>
-    <premiere lang="en"/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250809040000 +0200" stop="20250809051100 +0200" channel="syfy.us">
-    <title lang="en">Resident Alien</title>
-    <sub-title lang="en">The End Is Here</sub-title>
-    <desc lang="en">Harry faces one final threat, and one that forces him to use more than just his alien strength.</desc>
-    <credits>
-      <actor>Alan Tudyk</actor>
-      <actor>Sara Tomko</actor>
-      <actor>Corey Reynolds</actor>
-    </credits>
-    <category lang="en">Sci-Fi</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19132562_i_h8_ag.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
   <programme start="20250809051100 +0200" stop="20250809073800 +0200" channel="syfy.us">
     <title lang="en">Click</title>
     <desc lang="en">An overworked architect meets an eccentric inventor who gives him a universal remote that allows him to control the world around him.</desc>
@@ -16019,57 +15382,6 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250809003000 +0200" stop="20250809010000 +0200" channel="nbatv.us">
-    <title lang="en">WNBA Weekly</title>
-    <desc lang="en">The week's top news, storylines, and action in the WNBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18641368_b_h10_ad.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250809010000 +0200" stop="20250809023000 +0200" channel="nbatv.us">
-    <title lang="en">The Ultimate Draft</title>
-    <desc lang="en">Eight general managers, including Dwyane Wade, Charles Barkley, Sue Bird, Quavo and Jerry West, select their all-time teams from the pool of 75 greatest NBA players.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21475660_i_h8_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250809023000 +0200" stop="20250809030000 +0200" channel="nbatv.us">
-    <title lang="en">WNBA Weekly</title>
-    <desc lang="en">The week's top news, storylines, and action in the WNBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18641368_b_h10_ad.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250809030000 +0200" stop="20250809043000 +0200" channel="nbatv.us">
-    <title lang="en">The Doctor</title>
-    <desc lang="en">The definitive look at Julius "Dr. J" Erving's life and career--growing up in New York, playing in the ABA, and winning a NBA championship with the Philadelphia 76ers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9965820_b_s2_aa.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250809043000 +0200" stop="20250809050000 +0200" channel="nbatv.us">
-    <title lang="en">WNBA Weekly</title>
-    <desc lang="en">The week's top news, storylines, and action in the WNBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18641368_b_h10_ad.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250809050000 +0200" stop="20250809060000 +0200" channel="nbatv.us">
-    <title lang="en">Basketball Stories: Sir Charles &amp; The Doctor</title>
-    <desc lang="en">Two members of the NBA 75th Anniversary Team - Charles Barkley and Julius "Dr. J." Erving - are featured in this basketball documentary.</desc>
-    <category lang="en">Specials</category>
-    <category lang="en">Sports</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21524629_i_s4_aa.jpg"/>
-    <previously-shown/>
-  </programme>
   <programme start="20250809060000 +0200" stop="20250809080000 +0200" channel="nbatv.us">
     <title lang="en">NBA Playoff Playback</title>
     <sub-title lang="en">2017: Washington Wizards at Boston Celtics</sub-title>
@@ -16097,7 +15409,15 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3591435_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250809120000 +0200" stop="20250809140000 +0200" channel="nbatv.us">
+  <programme start="20250809120000 +0200" stop="20250809130000 +0200" channel="nbatv.us">
+    <title lang="en">WNBA Weekly</title>
+    <desc lang="en">The week's top news, storylines, and action in the WNBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18641368_b_h10_ad.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250809130000 +0200" stop="20250809150000 +0200" channel="nbatv.us">
     <title lang="en">Hardwood Classics</title>
     <sub-title lang="en">Detroit Pistons at Portland Trail Blazers</sub-title>
     <desc lang="en">Game 5 of the 1990 NBA Finals. A very close back-and-forth battle between the Pistons and the Trail Blazers. From June 14, 1990.</desc>
@@ -16106,7 +15426,15 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815597_b_h10_ae.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250809140000 +0200" stop="20250809160000 +0200" channel="nbatv.us">
+  <programme start="20250809150000 +0200" stop="20250809160000 +0200" channel="nbatv.us">
+    <title lang="en">WNBA Weekly</title>
+    <desc lang="en">The week's top news, storylines, and action in the WNBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18641368_b_h10_ad.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250809160000 +0200" stop="20250809180000 +0200" channel="nbatv.us">
     <title lang="en">Hardwood Classics</title>
     <sub-title lang="en">1991 NBA All-Star Game</sub-title>
     <desc lang="en">East 116, West 114, Charles Barkley MVP, from Charlotte.</desc>
@@ -16115,7 +15443,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2810748_e_h10_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250809160000 +0200" stop="20250809180000 +0200" channel="nbatv.us">
+  <programme start="20250809180000 +0200" stop="20250809200000 +0200" channel="nbatv.us">
     <title lang="en">Hardwood Classics</title>
     <sub-title lang="en">Indiana Pacers at Boston Celtics</sub-title>
     <desc lang="en">Game 5 of the 1991 Eastern Conference first-round playoffs. Larry Bird overcomes injuries to lead Boston past Indiana in the playoffs.</desc>
@@ -16124,7 +15452,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815597_b_h10_ae.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250809180000 +0200" stop="20250809183000 +0200" channel="nbatv.us">
+  <programme start="20250809200000 +0200" stop="20250809210000 +0200" channel="nbatv.us">
     <title lang="en">WNBA Weekly</title>
     <desc lang="en">The week's top news, storylines, and action in the WNBA.</desc>
     <category lang="en">Sports</category>
@@ -16132,15 +15460,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18641368_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250809183000 +0200" stop="20250809203000 +0200" channel="nbatv.us">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9306016_b_v8_ac.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250809203000 +0200" stop="20250809223000 +0200" channel="nbatv.us">
+  <programme start="20250809210000 +0200" stop="20250809230000 +0200" channel="nbatv.us">
     <title lang="en">NBA Playoff Playback</title>
     <sub-title lang="en">2025 Eastern Conference Finals: Indiana Pacers at New York Knicks</sub-title>
     <desc lang="en">The Pacers finished off their stunning rally by beating the Knicks 138-135 in overtime in Game 1 of the Eastern Conference finals. The Knicks led by 14 points with under three minutes remaining in regulation, but Aaron Nesmith brought the Pacers.</desc>
@@ -16149,7 +15469,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3591435_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250809223000 +0200" stop="20250809230000 +0200" channel="nbatv.us">
+  <programme start="20250809230000 +0200" stop="20250810000000 +0200" channel="nbatv.us">
     <title lang="en">WNBA Weekly</title>
     <desc lang="en">The week's top news, storylines, and action in the WNBA.</desc>
     <category lang="en">Sports</category>
@@ -16157,7 +15477,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18641368_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250809230000 +0200" stop="20250810010000 +0200" channel="nbatv.us">
+  <programme start="20250810000000 +0200" stop="20250810020000 +0200" channel="nbatv.us">
     <title lang="en">NBA Playoff Playback</title>
     <sub-title lang="en">2025 Eastern Conference Finals: Indiana Pacers at New York Knicks</sub-title>
     <desc lang="en">Game 2.</desc>
@@ -16166,24 +15486,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3591435_b_h10_ad.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250810010000 +0200" stop="20250810013000 +0200" channel="nbatv.us">
-    <title lang="en">WNBA Weekly</title>
-    <desc lang="en">The week's top news, storylines, and action in the WNBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18641368_b_h10_ad.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250810013000 +0200" stop="20250810033000 +0200" channel="nbatv.us">
-    <title lang="en">Hardwood Classics</title>
-    <sub-title lang="en">2007 NBA All-Star Game</sub-title>
-    <desc lang="en">West 153, East 132, Kobe Bryant MVP. This is Bryant's second MVP title (Philadelphia 2002). From Feb. 18, 2007, in Las Vegas.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815597_b_h10_ae.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250810033000 +0200" stop="20250810053000 +0200" channel="nbatv.us">
+  <programme start="20250810020000 +0200" stop="20250810040000 +0200" channel="nbatv.us">
     <title lang="en">Hardwood Classics</title>
     <sub-title lang="en">1991 NBA All-Star Game</sub-title>
     <desc lang="en">East 116, West 114, Charles Barkley MVP, from Charlotte.</desc>
@@ -16192,12 +15495,13 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2810748_e_h10_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250810053000 +0200" stop="20250810060000 +0200" channel="nbatv.us">
-    <title lang="en">WNBA Weekly</title>
-    <desc lang="en">The week's top news, storylines, and action in the WNBA.</desc>
+  <programme start="20250810040000 +0200" stop="20250810060000 +0200" channel="nbatv.us">
+    <title lang="en">Basketball Stories</title>
+    <sub-title lang="en">Iceman: A George Gervin Story</sub-title>
+    <desc lang="en">George The Iceman Gervin is a pro and college Hall of Famer who was once the most dominant scorer in the NBA. His accolades include four NBA scoring titles, nine All-Star appearances and being honored as one of the top 50 NBA players of all time.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18641368_b_h10_ad.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26282942_b_s2_aa.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20250810060000 +0200" stop="20250810080000 +0200" channel="nbatv.us">
@@ -16322,44 +15626,6 @@
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191289_i_h8_ac.jpg"/>
-  </programme>
-  <programme start="20250809011500 +0200" stop="20250809040000 +0200" channel="tnt.us">
-    <title lang="en">Jurassic Park</title>
-    <desc lang="en">An entrepreneur invites scientists (Sam Neill, Laura Dern), a mathematics theorist (Jeff Goldblum) and others to his jungle theme-park featuring dinosaurs regenerated from DNA.</desc>
-    <credits>
-      <actor>Sam Neill</actor>
-      <actor>Laura Dern</actor>
-      <actor>Jeff Goldblum</actor>
-    </credits>
-    <date>1993</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Sci-Fi</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14812_k_s3_aa.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250809040000 +0200" stop="20250809050000 +0200" channel="tnt.us">
-    <title lang="en">Peacemaker</title>
-    <sub-title lang="en">Stop Dragon My Heart Around</sub-title>
-    <desc lang="en">Harcourt, Murn, and Adebayo find themselves surrounded by an alien force; Peacemaker squares off against his father with help from Vigilante and Economos.</desc>
-    <credits>
-      <actor>John Cena</actor>
-      <actor>Steve Agee</actor>
-      <actor>Jennifer Holland</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20861920_e_s2_ac.jpg"/>
-    <episode-num system="onscreen">E107</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
   </programme>
   <programme start="20250809050000 +0200" stop="20250809080000 +0200" channel="tnt.us">
     <title lang="en">Pirates of the Caribbean: At World's End</title>
@@ -16553,7 +15819,7 @@
     <credits>
       <actor>Sam Neill</actor>
       <actor>William H. Macy</actor>
-      <actor>Téa Leoni</actor>
+      <actor>Tea Leoni</actor>
     </credits>
     <date>2001</date>
     <category lang="en">Movies</category>
@@ -16571,7 +15837,7 @@
     <title lang="en">Live: All Elite Wrestling: Collision</title>
     <desc lang="en">World Champion Hangman Adam Page joins with JetSpeed to take on LFI. Kyle Fletcher holds his first defense of the TNT Championship against Tomohiro Ishii. Thekla, Julia Hart, and Skye Blue collide with Willow Nightingale, Tay Melo, and Queen Aminata.</desc>
     <credits>
-      <actor>Samoa Joe</actor>
+      <actor>Joe Seanoa</actor>
       <actor>Chris Jericho</actor>
       <actor>Jake Hager</actor>
     </credits>
@@ -16851,54 +16117,6 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250809040000 +0000" stop="20250809060000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Sport Klub 1</title>
-    <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/21/13/49/23/stb_xl_cbebc676905acf21a4be75281df12678f002daae_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
-  </programme>
-  <programme start="20250809060000 +0000" stop="20250809080000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Sport Klub 1</title>
-    <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/21/13/49/23/stb_xl_cbebc676905acf21a4be75281df12678f002daae_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
-  </programme>
-  <programme start="20250809080000 +0000" stop="20250809100000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Sport Klub 1</title>
-    <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/21/13/49/23/stb_xl_cbebc676905acf21a4be75281df12678f002daae_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
-  </programme>
-  <programme start="20250809100000 +0000" stop="20250809120000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Sport Klub 1</title>
-    <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/21/13/49/23/stb_xl_cbebc676905acf21a4be75281df12678f002daae_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
-  </programme>
-  <programme start="20250809120000 +0000" stop="20250809140000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Sport Klub 1</title>
-    <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/21/13/49/23/stb_xl_cbebc676905acf21a4be75281df12678f002daae_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
-  </programme>
-  <programme start="20250809140000 +0000" stop="20250809160000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Sport Klub 1</title>
-    <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/21/13/49/23/stb_xl_cbebc676905acf21a4be75281df12678f002daae_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
-  </programme>
-  <programme start="20250809160000 +0000" stop="20250809180000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Sport Klub 1</title>
-    <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/21/13/49/23/stb_xl_cbebc676905acf21a4be75281df12678f002daae_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
-  </programme>
-  <programme start="20250809180000 +0000" stop="20250809200000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Sport Klub 1</title>
-    <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/21/13/49/23/stb_xl_cbebc676905acf21a4be75281df12678f002daae_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
-  </programme>
   <programme start="20250809200000 +0000" stop="20250810040000 +0000" channel="sportklub1.rs">
     <title lang="sr">Sport Klub 1</title>
     <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
@@ -16958,108 +16176,6 @@
     <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/21/13/49/23/stb_xl_cbebc676905acf21a4be75281df12678f002daae_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
-  </programme>
-  <programme start="20250809010000 +0000" stop="20250809024500 +0000" channel="sportklub2.rs">
-    <title lang="sr">WTA 1000 Cincinnati: McNally - Inglis</title>
-    <desc lang="sr">Nastavlja se nikad zanimljivija sezona na WTA turu. Svaki turnir ima više kandidatkinja za titulu, a svaka šampionka bi već na sledećem turniru mogla veoma rano da završi. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/03/09/17/46/stb_xl_c2a4980b6de6352e355481cfda3e7c908e67bfe7_60576d23e503901df7211f27d61696f8.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809024500 +0000" stop="20250809044500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Atletika: Silver Meeting - Banska Bystrica</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/05/29/16/04/39/stb_xl_c96544b8cfdb20b7adf2c0cc7e2da0bb85a36bfa_e1ed7f2b8e99fc43b23a733a190cfc96.jpg"/>
-  </programme>
-  <programme start="20250809044500 +0000" stop="20250809063500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Fudbal - Turska liga: Gaziantep - Galatasaray</title>
-    <desc lang="sr">Turska Superliga je najviša profesionalna liga Turske u fudbalu. Ova liga osnovana je 1957. godine.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/09/21/04/37/05/stb_xl_f5144074e1873e43dfc743be76c0d2f4cd838da0_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
-  </programme>
-  <programme start="20250809063500 +0000" stop="20250809075000 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Masters Cincinnati: Kecmanović - Quinn</title>
-    <desc lang="sr">Poslednja priprema pred US Open i najbrži beton na kalendaru. Prošle godine, ovaj turnir se igrao u Njujorku ali sada se vraća na svoju originalnu lokaciju u Ohaju.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-  </programme>
-  <programme start="20250809075000 +0000" stop="20250809084000 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Masters Cincinnati: Vukic - Basavareddy</title>
-    <desc lang="sr">Poslednja priprema pred US Open i najbrži beton na kalendaru. Prošle godine, ovaj turnir se igrao u Njujorku ali sada se vraća na svoju originalnu lokaciju u Ohaju.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-  </programme>
-  <programme start="20250809084000 +0000" stop="20250809091000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Fast Zone</title>
-    <desc lang="sr">U ovoj emisiji, videćemo šta se dešava na serijama koje ne prenosi Sport Klub. I ovde ima kvalitetnih i ambicioznih vozača koji žele da se probiju u sam vrh.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/05/25/15/07/06/stb_xl_fastzone_2880x1620_sk.jpg"/>
-  </programme>
-  <programme start="20250809091000 +0000" stop="20250809100000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Porsche Carrera Cup Deutschland: Nurburgring - 1. TRKA</title>
-    <desc lang="sr">Ovde su automobili svi isti, dizajnirani na poseban način. Samo najbolji vozač može da pobedi, a skauti iz bogatijih serija su uvek prisutni... (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/10/18/14/14/12/stb_xl_d074a1b8ef045a79a6b946e25bbb5e05e8a128e6_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809100000 +0000" stop="20250809102000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Legende Košarke</title>
-    <desc lang="sr">Upoznajte legendarne ličnosti koje su obeležile istoriju košarke ostavivši neizbrisiv trag u svetu sporta.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/11/24/20/46/46/stb_xl_e29fcfca60a5cf2d6352e5efd509cc888342f2db.jpg"/>
-  </programme>
-  <programme start="20250809102000 +0000" stop="20250809120000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Košarka - Prijateljska utakmica: Slovenia - Germany</title>
-    <desc lang="sr">Pratite prijateljsku utakmicu i saznajte u kakvoj su formi neki od najboljih košarkaša pred početak velikih takmičenja.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/08/15/09/15/54/stb_xl_af8ca1e4ac4e7fc319fd3e96a4050b8d8b6e33e3_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-  </programme>
-  <programme start="20250809120000 +0000" stop="20250809140000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Fudbal - 3. Bundesliga: Munchen 1860 - Osnabruck</title>
-    <desc lang="sr">Neki nekadašnji šampioni Nemačke su ovde. Ulazak u Cvajtu znači mnogo slave i novca, ali dug je i naporan put do cilja. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/04/16/52/32/stb_xl_a0c40fa8d9cf1824352fe48011c0aa0c23e2fa14_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809140000 +0000" stop="20250809143000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Ekstremni svet sporta</title>
-    <desc lang="sr">Sve o ekstremnim sportovima, takmičenjima u izdržljivosti i istinskim takmičarskim maratonima. Ovi ljudi svaki dan pomeraju granice onoga što je moguće.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/07/18/16/56/48/stb_xl_1cf03f61a97ab4e3202421e2f5eeabd85f4fd9b8_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
-  </programme>
-  <programme start="20250809143000 +0000" stop="20250809150000 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Uncovered</title>
-    <desc lang="sr">Teniseri su gotovo celu godinu na putovanjima. Saznajte nešto više o tome kako izgleda njihov život na terenu i van njega i kako organizatori ATP turnira rešavaju slatke i gorke muke koje imaju.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/05/27/11/51/53/stb_xl_51a4912a9b1fe39d7456e2e0c84dc761ad1105d4_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
-  </programme>
-  <programme start="20250809150000 +0000" stop="20250809170000 +0000" channel="sportklub2.rs">
-    <title lang="sr">WTA 1000 Cincinnati: Swiatek - Potapova</title>
-    <desc lang="sr">Nastavlja se nikad zanimljivija sezona na WTA turu. Svaki turnir ima više kandidatkinja za titulu, a svaka šampionka bi već na sledećem turniru mogla veoma rano da završi. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/03/09/17/46/stb_xl_c2a4980b6de6352e355481cfda3e7c908e67bfe7_60576d23e503901df7211f27d61696f8.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809170000 +0000" stop="20250809190000 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Masters Cincinnati: Martinez - Paul</title>
-    <desc lang="sr">Poslednja priprema pred US Open i najbrži beton na kalendaru. Prošle godine, ovaj turnir se igrao u Njujorku ali sada se vraća na svoju originalnu lokaciju u Ohaju. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809190000 +0000" stop="20250809210000 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Masters Cincinnati: Sinner - Galan</title>
-    <desc lang="sr">Poslednja priprema pred US Open i najbrži beton na kalendaru. Prošle godine, ovaj turnir se igrao u Njujorku ali sada se vraća na svoju originalnu lokaciju u Ohaju. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809210000 +0000" stop="20250809230000 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Masters Cincinnati: Atmane - Cobolli</title>
-    <desc lang="sr">Poslednja priprema pred US Open i najbrži beton na kalendaru. Prošle godine, ovaj turnir se igrao u Njujorku ali sada se vraća na svoju originalnu lokaciju u Ohaju. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
   </programme>
   <programme start="20250809230000 +0000" stop="20250810010000 +0000" channel="sportklub2.rs">
     <title lang="sr">ATP Masters Cincinnati: Tiafoe - Baena</title>
@@ -17136,109 +16252,6 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/03/21/07/46/17/1440x810_31ca9659_18f6_45cf_8798_dc4a2e8a52a1.jpg"/>
     <premiere/>
-  </programme>
-  <programme start="20250809012500 +0000" stop="20250809031500 +0000" channel="sportklub3.rs">
-    <title lang="sr">E-Sports: League of Legends - EBL</title>
-    <desc lang="sr">Novi igrači, nove ekipe, sve je spremno za novi split EBL-a! Najbolji balkanski igrači takmiče se, ne samo za trofej, već i za mesto na prestižnom evropskom takmičenju: EMEA Masters.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/05/25/16/14/26/stb_xl_48fd4dbbeb8891b3a46d57155a25bbae54f0c1fd_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
-  </programme>
-  <programme start="20250809031500 +0000" stop="20250809034000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Basket 3x3: Prvenstvo Slovenije: 1/2 Finale A (M)</title>
-    <desc lang="sr">Uživajte uz utakmice sve popularnijeg basketa, košarkaškog takmičenja u kom igrači odmeravaju snage u ekipama po tri člana, igrajući košarku na terenu sa jednim košem!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/08/03/22/47/17/1440x810_1d3539d8_dd21_44d7_a31b_5c5e61ac05d7.jpg"/>
-  </programme>
-  <programme start="20250809034000 +0000" stop="20250809040500 +0000" channel="sportklub3.rs">
-    <title lang="sr">Basket 3x3: Prvenstvo Slovenije: 1/2 Finale B (M)</title>
-    <desc lang="sr">Uživajte uz utakmice sve popularnijeg basketa, košarkaškog takmičenja u kom igrači odmeravaju snage u ekipama po tri člana, igrajući košarku na terenu sa jednim košem!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/08/03/22/47/17/1440x810_1d3539d8_dd21_44d7_a31b_5c5e61ac05d7.jpg"/>
-  </programme>
-  <programme start="20250809040500 +0000" stop="20250809043000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Basket 3x3: Prvenstvo Slovenije: FINALE (Ž)</title>
-    <desc lang="sr">Uživajte uz utakmice sve popularnijeg basketa, košarkaškog takmičenja u kom igrači odmeravaju snage u ekipama po tri člana, igrajući košarku na terenu sa jednim košem!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/08/03/22/47/17/1440x810_1d3539d8_dd21_44d7_a31b_5c5e61ac05d7.jpg"/>
-  </programme>
-  <programme start="20250809043000 +0000" stop="20250809050000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Basket 3x3: Prvenstvo Slovenije: FINALE (M)</title>
-    <desc lang="sr">Uživajte uz utakmice sve popularnijeg basketa, košarkaškog takmičenja u kom igrači odmeravaju snage u ekipama po tri člana, igrajući košarku na terenu sa jednim košem!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/08/03/22/47/17/1440x810_1d3539d8_dd21_44d7_a31b_5c5e61ac05d7.jpg"/>
-  </programme>
-  <programme start="20250809050000 +0000" stop="20250809063000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Košarka - Kup Azije (M): Lebanon - Australia</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/11/21/15/45/09/stb_xl_c893aaf554dbac686b9b9fd6698c1bb70e4db073_91ccff520eaad700d1e94cff7eebdbf8.jpg"/>
-  </programme>
-  <programme start="20250809063000 +0000" stop="20250809082000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Fudbal - 3. Bundesliga: Schweinfurt - Cottbus</title>
-    <desc lang="sr">Neki nekadašnji šampioni Nemačke su ovde. Ulazak u Cvajtu znači mnogo slave i novca, ali dug je i naporan put do cilja.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/04/16/52/32/stb_xl_a0c40fa8d9cf1824352fe48011c0aa0c23e2fa14_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-  </programme>
-  <programme start="20250809082000 +0000" stop="20250809084500 +0000" channel="sportklub3.rs">
-    <title lang="sr">Put do vrha</title>
-    <desc lang="sr">Neverovatne priče o usponu tamnoputih sportista do samog vrha: Između ostalih, Lebron Džejms i Serena Vilijams...</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/01/23/09/02/08/stb_xl_123.jpg"/>
-  </programme>
-  <programme start="20250809084500 +0000" stop="20250809091000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Legende o Legendama</title>
-    <desc lang="sr">Zanimljiv koncept, sportske legende pričaju o svojim dostignućima, strahovima, usponima i padovima. Uživaćete u ovom serijalu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/01/09/08/04/53/stb_xl_4605101b1e22ded7b9a45e736bf61e5647a81de8.jpg"/>
-  </programme>
-  <programme start="20250809091000 +0000" stop="20250809110000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Fudbal - Danska liga: Copenhagen - Aarhus</title>
-    <desc lang="sr">Brondbi je uzeo neočekivanu titulu prošle sezone, ali Mitjilend i FC Kopenhagen smatraju da mogu da premeste pehar u svoje vitrine. Čini se da nas očekuje neizvesna i uzbudljiva trka.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/09/01/09/18/42/stb_xl_efa13a3bbe1e1b214bac6da7681e342e0e546338_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-  </programme>
-  <programme start="20250809110000 +0000" stop="20250809125500 +0000" channel="sportklub3.rs">
-    <title lang="sr">Fudbal - Bundesliga 2: Fortuna - Hannover</title>
-    <desc lang="sr">Popularna "Cvajta" čini se, nikada nije bila jača. Ko će se od velikana vratiti u prvu ligu? Mesta je malo a kandidata mnogo. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/10/51/39/stb_xl_f19de03e07bb2e8b5675f46a7d37dfd6c2af026c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809125500 +0000" stop="20250809143000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Košarka - Kup Azije (M): Iraq - Philippines</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/11/21/15/45/09/stb_xl_c893aaf554dbac686b9b9fd6698c1bb70e4db073_91ccff520eaad700d1e94cff7eebdbf8.jpg"/>
-  </programme>
-  <programme start="20250809143000 +0000" stop="20250809163000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Fudbal - 3. Bundesliga: Verl - Wehen</title>
-    <desc lang="sr">Neki nekadašnji šampioni Nemačke su ovde. Ulazak u Cvajtu znači mnogo slave i novca, ali dug je i naporan put do cilja. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/04/16/52/32/stb_xl_a0c40fa8d9cf1824352fe48011c0aa0c23e2fa14_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809163000 +0000" stop="20250809170000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Idealna putanja</title>
-    <desc lang="sr">Ceo život, vozači Formule 1 traže tu "idealnu putanju". Kako doći do nje i kako napraviti savršeni set-ap bolida i koliko vremena oduzima sve to, saznaćete u ovoj emisiji.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/11/07/14/20/26/stb_xl_the_inside_line_1920x1080.jpg"/>
-  </programme>
-  <programme start="20250809170000 +0000" stop="20250809211500 +0000" channel="sportklub3.rs">
-    <title lang="sr">Bilijar: 9-Ball Florida Open</title>
-    <desc lang="sr">Otvoreno prvenstvo Floride u bilijaru igra se od 2025. godine. Pratite motivisane igrače koji se bore za što bolji plasman, ali i vredne novčane nagrade. Nagradni fond turnira iznosi 200 000 dolara. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/08/04/22/17/22/300x168_40a0fa4e_0a71_4802_ae4c_3b5fe6ba06ad.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809211500 +0000" stop="20250809214000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Ekstremni svet sporta</title>
-    <desc lang="sr">Sve o ekstremnim sportovima, takmičenjima u izdržljivosti i istinskim takmičarskim maratonima. Ovi ljudi svaki dan pomeraju granice onoga što je moguće.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/07/18/16/56/48/stb_xl_1cf03f61a97ab4e3202421e2f5eeabd85f4fd9b8_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
-  </programme>
-  <programme start="20250809214000 +0000" stop="20250809233000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Fudbal - Bugarska liga: Slavia - Ludogorets</title>
-    <desc lang="sr">Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/04/29/15/15/26/stb_xl_d6c5aa41765e884a7ecefd09865754c2ecb18a27_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
   </programme>
   <programme start="20250809233000 +0000" stop="20250810040000 +0000" channel="sportklub3.rs">
     <title lang="sr">Bilijar: 9-Ball Florida Open</title>
@@ -17333,105 +16346,6 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/08/04/22/17/22/300x168_40a0fa4e_0a71_4802_ae4c_3b5fe6ba06ad.jpg"/>
     <premiere/>
-  </programme>
-  <programme start="20250809002000 +0000" stop="20250809021000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Fudbal - Portugalska liga: Casa Pia - Sporting</title>
-    <desc lang="sr">Prvi liga portugalskog fudbala, Primeira liga, osnovana je 1934. i broji 18 klubova. Najviše osvojenih titula prvaka ima lisabonski gigant Benfika.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/16/09/30/32/stb_xl_9fc540c9c379a32ddae51beacf22f6eb9a18c836_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-  </programme>
-  <programme start="20250809021000 +0000" stop="20250809044000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Basket 3x3 Pro Tour: Finala Novalja</title>
-    <desc lang="sr">Pratite Pro 3x3 Tour, seriju turnira u basketu 3x3. Ovaj košarkaški karavan održava se u više hrvatskih gradova i traje od sredine maja. Pobednička ekipa ide na završni turnir 26.-27. avgusta 2023....</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/09/13/52/18/stb_xl_c861245d80ca1462eaae426e3246e9e9b2accff8_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-  </programme>
-  <programme start="20250809044000 +0000" stop="20250809062500 +0000" channel="sportklub4.rs">
-    <title lang="sr">Fudbal - Bundesliga 2: Munster - Paderborn</title>
-    <desc lang="sr">Popularna "Cvajta" čini se, nikada nije bila jača. Ko će se od velikana vratiti u prvu ligu? Mesta je malo a kandidata mnogo.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/10/51/39/stb_xl_f19de03e07bb2e8b5675f46a7d37dfd6c2af026c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-  </programme>
-  <programme start="20250809062500 +0000" stop="20250809075500 +0000" channel="sportklub4.rs">
-    <title lang="sr">Košarka - Kup Azije (M): Iran - Japan</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/11/21/15/45/09/stb_xl_c893aaf554dbac686b9b9fd6698c1bb70e4db073_91ccff520eaad700d1e94cff7eebdbf8.jpg"/>
-  </programme>
-  <programme start="20250809075500 +0000" stop="20250809094500 +0000" channel="sportklub4.rs">
-    <title lang="sr">Fudbal - Turska liga: Gaziantep - Galatasaray</title>
-    <desc lang="sr">Turska Superliga je najviša profesionalna liga Turske u fudbalu. Ova liga osnovana je 1957. godine.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/09/21/04/37/05/stb_xl_f5144074e1873e43dfc743be76c0d2f4cd838da0_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
-  </programme>
-  <programme start="20250809094500 +0000" stop="20250809101000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Rivalitet legendi</title>
-    <desc lang="sr">Vukli su jedni druge napred, uvek je neki rivalitet izdizao sport na lestvicu više. Najbolji sportisti svih vremena, iz svih sportova.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/25/11/11/34/stb_xl_national_icons_2880x1620.jpg"/>
-  </programme>
-  <programme start="20250809101000 +0000" stop="20250809104000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Ekstremni svet sporta</title>
-    <desc lang="sr">Sve o ekstremnim sportovima, takmičenjima u izdržljivosti i istinskim takmičarskim maratonima. Ovi ljudi svaki dan pomeraju granice onoga što je moguće.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/07/18/16/56/48/stb_xl_1cf03f61a97ab4e3202421e2f5eeabd85f4fd9b8_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
-  </programme>
-  <programme start="20250809104000 +0000" stop="20250809110000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Moja priča &amp; Galerija slavnih</title>
-    <desc lang="sr">Moja priča &amp; Galerija slavnih.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/22/17/18/46/stb_xl_8e1f143a104208911a51c2eb43ec7ad5ded35161_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-  </programme>
-  <programme start="20250809110000 +0000" stop="20250809130000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Fudbal - Bundesliga 2: Braunschweig - Greuther Furth</title>
-    <desc lang="sr">Popularna "Cvajta" čini se, nikada nije bila jača. Ko će se od velikana vratiti u prvu ligu? Mesta je malo a kandidata mnogo. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/10/51/39/stb_xl_f19de03e07bb2e8b5675f46a7d37dfd6c2af026c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809130000 +0000" stop="20250809133000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Fast Zone</title>
-    <desc lang="sr">U ovoj emisiji, videćemo šta se dešava na serijama koje ne prenosi Sport Klub. I ovde ima kvalitetnih i ambicioznih vozača koji žele da se probiju u sam vrh.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/05/25/15/07/06/stb_xl_fastzone_2880x1620_sk.jpg"/>
-  </programme>
-  <programme start="20250809133000 +0000" stop="20250809150000 +0000" channel="sportklub4.rs">
-    <title lang="sr">30 za 30</title>
-    <desc lang="sr">ESPN-ovi dokumentarci imaju potpis nekih od najpoznatijih režisera današnjice, poput Barija Levinsona i Spajk Lija.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/06/24/23/43/50/stb_xl_3349390caf42581f1d41f056190c638d9df0edfe.jpg"/>
-  </programme>
-  <programme start="20250809150000 +0000" stop="20250809170000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Fudbal - Austrijska liga: Blau-Weiss - Hartberg</title>
-    <desc lang="sr">Salcburg je ponovo favorit za titulu, ali LASK, Rapid i ostali se neće predati bez borbe. Svakako ćemo imati i neko iznenađenje kao Volfsberger prethodnih godina. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/02/16/13/17/22/stb_xl_95efb1759e90bf7f0581e31dfa42479debb63036_60576d23e503901df7211f27d61696f8.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809170000 +0000" stop="20250809171500 +0000" channel="sportklub4.rs">
-    <title lang="sr">SK Mix</title>
-    <desc lang="sr">Najbolji, najsmešniji, najčudniji, sve što ima veze sa superlativima videćete u ovom specijalnom kolažu. I verujte, neće vam biti dovoljno da ga odgledate samo jednom...</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/07/16/27/14/stb_xl_7d3a1c7abac3044b3008346e629395579b3ebc20_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
-  </programme>
-  <programme start="20250809171500 +0000" stop="20250809193000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Fudbal - Norveška liga: Bodo - Tromso</title>
-    <desc lang="sr">Prva liga Norveške je najviše fudbalsko ligaško takmičenje u Norveškoj. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/09/01/09/18/41/stb_xl_f174736f0d799786f0765961d7fcbbd058ada759_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809193000 +0000" stop="20250809213000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Fudbal - Portugalska liga: Arouca - AFS</title>
-    <desc lang="sr">Prvi liga portugalskog fudbala, Primeira liga, osnovana je 1934. i broji 18 klubova. Najviše osvojenih titula prvaka ima lisabonski gigant Benfika. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/16/09/30/32/stb_xl_9fc540c9c379a32ddae51beacf22f6eb9a18c836_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809213000 +0000" stop="20250809215500 +0000" channel="sportklub4.rs">
-    <title lang="sr">Omaž zvezdama</title>
-    <desc lang="sr">Bokseri, fudbaleri, košarkaši... Najbolji sportisti svih vremena, iz svih sportova. Na istom mestu, u isto vreme, kako ih uporediti i kako napraviti večne liste.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2019/09/24/10/07/29/stb_xl_50230ffcf6424153d384678643ea6d199245592d.jpg"/>
   </programme>
   <programme start="20250809215500 +0000" stop="20250809234000 +0000" channel="sportklub4.rs">
     <title lang="sr">Fudbal - Bundesliga 2: Dynamo Dresden - Magdeburg</title>
@@ -17555,113 +16469,6 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/06/03/09/30/35/stb_xl_u_i_izbor_2880x1620.jpg"/>
   </programme>
-  <programme start="20250809010000 +0000" stop="20250809020000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
-  </programme>
-  <programme start="20250809020000 +0000" stop="20250809030000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 1</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
-  </programme>
-  <programme start="20250809030000 +0000" stop="20250809040000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 2</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
-  </programme>
-  <programme start="20250809040000 +0000" stop="20250809050000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 3</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
-  </programme>
-  <programme start="20250809050000 +0000" stop="20250809060000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
-  </programme>
-  <programme start="20250809060000 +0000" stop="20250809070000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 1</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
-  </programme>
-  <programme start="20250809070000 +0000" stop="20250809080000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 2</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
-  </programme>
-  <programme start="20250809080000 +0000" stop="20250809090000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 3</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
-  </programme>
-  <programme start="20250809090000 +0000" stop="20250809100000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
-  </programme>
-  <programme start="20250809100000 +0000" stop="20250809110000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 1</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
-  </programme>
-  <programme start="20250809110000 +0000" stop="20250809130000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Košarka - Kup Azije (M): China - Jordan</title>
-    <desc lang="sr">(LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/11/21/15/45/09/stb_xl_c893aaf554dbac686b9b9fd6698c1bb70e4db073_91ccff520eaad700d1e94cff7eebdbf8.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809130000 +0000" stop="20250809140000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
-  </programme>
-  <programme start="20250809140000 +0000" stop="20250809150000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 1</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
-  </programme>
-  <programme start="20250809150000 +0000" stop="20250809170000 +0000" channel="sportklub5.rs">
-    <title lang="sr">ATP Masters Cincinnati: Safiullin - Rune</title>
-    <desc lang="sr">Poslednja priprema pred US Open i najbrži beton na kalendaru. Prošle godine, ovaj turnir se igrao u Njujorku ali sada se vraća na svoju originalnu lokaciju u Ohaju. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809170000 +0000" stop="20250809190000 +0000" channel="sportklub5.rs">
-    <title lang="sr">WTA 1000 Cincinnati: Fernandez - Maneiro</title>
-    <desc lang="sr">Nastavlja se nikad zanimljivija sezona na WTA turu. Svaki turnir ima više kandidatkinja za titulu, a svaka šampionka bi već na sledećem turniru mogla veoma rano da završi. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/03/09/17/46/stb_xl_c2a4980b6de6352e355481cfda3e7c908e67bfe7_60576d23e503901df7211f27d61696f8.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809190000 +0000" stop="20250809210000 +0000" channel="sportklub5.rs">
-    <title lang="sr">WTA 1000 Cincinnati: Townsend - Samsonova</title>
-    <desc lang="sr">Nastavlja se nikad zanimljivija sezona na WTA turu. Svaki turnir ima više kandidatkinja za titulu, a svaka šampionka bi već na sledećem turniru mogla veoma rano da završi. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/03/09/17/46/stb_xl_c2a4980b6de6352e355481cfda3e7c908e67bfe7_60576d23e503901df7211f27d61696f8.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809210000 +0000" stop="20250809230000 +0000" channel="sportklub5.rs">
-    <title lang="sr">WTA 1000 Cincinnati: Alexandrova - Sun</title>
-    <desc lang="sr">Nastavlja se nikad zanimljivija sezona na WTA turu. Svaki turnir ima više kandidatkinja za titulu, a svaka šampionka bi već na sledećem turniru mogla veoma rano da završi. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/03/09/17/46/stb_xl_c2a4980b6de6352e355481cfda3e7c908e67bfe7_60576d23e503901df7211f27d61696f8.jpg"/>
-    <premiere/>
-  </programme>
   <programme start="20250809230000 +0000" stop="20250810010000 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 5 Promo 2</title>
     <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
@@ -17765,117 +16572,6 @@
     <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
-  </programme>
-  <programme start="20250809000000 +0000" stop="20250809010000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 3</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_1d007d72285dbf365b4b4c2de1ad3efebb20f442.jpg"/>
-  </programme>
-  <programme start="20250809010000 +0000" stop="20250809020000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/46/stb_xl_69218669d330066f5ddd0848183b868fcf8f163c.jpg"/>
-  </programme>
-  <programme start="20250809020000 +0000" stop="20250809030000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 1</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/48/stb_xl_0bb27540b210ed55abf0edda825a14aa6077dd08.jpg"/>
-  </programme>
-  <programme start="20250809030000 +0000" stop="20250809040000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 2</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_a8f31983d2ec652dd1834fec4b6831ca0e9631e1.jpg"/>
-  </programme>
-  <programme start="20250809040000 +0000" stop="20250809050000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 3</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_1d007d72285dbf365b4b4c2de1ad3efebb20f442.jpg"/>
-  </programme>
-  <programme start="20250809050000 +0000" stop="20250809060000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/46/stb_xl_69218669d330066f5ddd0848183b868fcf8f163c.jpg"/>
-  </programme>
-  <programme start="20250809060000 +0000" stop="20250809070000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 1</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/48/stb_xl_0bb27540b210ed55abf0edda825a14aa6077dd08.jpg"/>
-  </programme>
-  <programme start="20250809070000 +0000" stop="20250809080000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 2</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_a8f31983d2ec652dd1834fec4b6831ca0e9631e1.jpg"/>
-  </programme>
-  <programme start="20250809080000 +0000" stop="20250809090000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 3</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_1d007d72285dbf365b4b4c2de1ad3efebb20f442.jpg"/>
-  </programme>
-  <programme start="20250809090000 +0000" stop="20250809100000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/46/stb_xl_69218669d330066f5ddd0848183b868fcf8f163c.jpg"/>
-  </programme>
-  <programme start="20250809100000 +0000" stop="20250809110000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 1</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/48/stb_xl_0bb27540b210ed55abf0edda825a14aa6077dd08.jpg"/>
-  </programme>
-  <programme start="20250809110000 +0000" stop="20250809120000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 2</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_a8f31983d2ec652dd1834fec4b6831ca0e9631e1.jpg"/>
-  </programme>
-  <programme start="20250809120000 +0000" stop="20250809140000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Fudbal - 3. Bundesliga: Saarbrucken - Viktoria Koln</title>
-    <desc lang="sr">Neki nekadašnji šampioni Nemačke su ovde. Ulazak u Cvajtu znači mnogo slave i novca, ali dug je i naporan put do cilja. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/04/16/52/32/stb_xl_a0c40fa8d9cf1824352fe48011c0aa0c23e2fa14_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809140000 +0000" stop="20250809150000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 1</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/48/stb_xl_0bb27540b210ed55abf0edda825a14aa6077dd08.jpg"/>
-  </programme>
-  <programme start="20250809150000 +0000" stop="20250809153000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 2</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_a8f31983d2ec652dd1834fec4b6831ca0e9631e1.jpg"/>
-  </programme>
-  <programme start="20250809153000 +0000" stop="20250809173000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Fudbal - Slovenačka 1. liga: Bravo - Aluminij</title>
-    <desc lang="sr">Prethodnih sezona gledali smo veoma zanimljiva prvenstva u Sloveniji i dobijali iznenađujuće ishode. Da li će tako biti i ove sezone? (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/08/10/04/01/35/stb_xl_8485d6fe0cbf9c0d9d3c105f82844f6a92e3b134_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809173000 +0000" stop="20250809193000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Fudbal - Austrijska liga: Salzburg - Grazer</title>
-    <desc lang="sr">Salcburg je ponovo favorit za titulu, ali LASK, Rapid i ostali se neće predati bez borbe. Svakako ćemo imati i neko iznenađenje kao Volfsberger prethodnih godina. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/02/16/13/17/22/stb_xl_95efb1759e90bf7f0581e31dfa42479debb63036_60576d23e503901df7211f27d61696f8.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20250809193000 +0000" stop="20250809200000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 2</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_a8f31983d2ec652dd1834fec4b6831ca0e9631e1.jpg"/>
   </programme>
   <programme start="20250809200000 +0000" stop="20250810010000 +0000" channel="sportklub6.rs">
     <title lang="sr">Basket BIG 3: Los Angeles</title>
