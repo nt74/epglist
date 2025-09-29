@@ -235,7 +235,7 @@
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="abc.us">
-    <display-name lang="en">ABC - Eastern</display-name>
+    <display-name lang="en">ABC - Central</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/>
     <url>http://www.tvpassport.com</url>
   </channel>
@@ -246,20 +246,22 @@
   </channel>
   <channel id="espn2.us">
     <display-name lang="en">ESPN2</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png"/>
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Hallmark Channel (East)">
     <display-name lang="en">Hallmark - Eastern Feed</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11221_h15_aa.png"/>
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Hallmark Movies and Mysteries HD">
-    <display-name lang="en">Hallmark Mystery HD East</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s46710_h15_ab.png"/>
+    <display-name lang="en">Hallmark Mystery - Eastern</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s61522_h15_ab.png"/>
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="syfy.us">
-    <display-name lang="en">Syfy HD East</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s92091_h15_aa.png"/>
+    <display-name lang="en">Syfy - Eastern Feed</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png"/>
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="nbatv.us">
@@ -269,6 +271,7 @@
   </channel>
   <channel id="tnt.us">
     <display-name lang="en">TNT - Eastern Feed</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png"/>
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="sportklub1.rs">
@@ -11129,10 +11132,16 @@
     <desc lang="el">Liga Portugal Betclic 2025-26. 7η Αγωνιστική. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20250929163000 +0300" stop="20250929195000 +0300" channel="cosmotesport3.gr">
+  <programme start="20250929163000 +0300" stop="20250929193000 +0300" channel="cosmotesport3.gr">
     <title lang="el">Αμερικάνικο Ποδόσφαιρο: Κάνσας Σίτι Τσιφς - Μπάλτιμορ Ρέιβενς</title>
     <desc lang="el">NFL 2025 - 26 - Κανονική διάρκεια. 4η Αγωνιστική. Περιγραφή: Αντρέα Παλομπαρίνι.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
+  </programme>
+  <programme start="20250929193000 +0300" stop="20250929195000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Sports Classics: Worldies</title>
+    <desc lang="el">Από τη F1 έως την υψηλή κατάδυση και ένα σωρό άλλα extreme sports, κάθε εκπομπή παρουσιάζει και αναδεικνύει μέσα από 5 βίντεο μερικές από τις πιο απίστευτες στιγμές, διοργανώσεις και αθλητές σε όλα τα σπορ δράσης.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
+    <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
   <programme start="20250929195000 +0300" stop="20250929220000 +0300" channel="cosmotesport3.gr">
     <title lang="el">Ποδόσφαιρο: Ανόρθωση - Ομόνοια</title>
@@ -11245,39 +11254,56 @@
     <desc lang="el">Lega Basket Supercoppa 2025. 1ος Ημιτελικός. Περιγραφή: Γιάννης Φιλέρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250929123000 +0300" stop="20250929143000 +0300" channel="cosmotesport4.gr">
+  <programme start="20250929123000 +0300" stop="20250929150000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Βίρτους Μπολόνια - Αρμάνι Μιλάνο</title>
     <desc lang="el">Lega Basket Supercoppa 2025. 2ος Ημιτελικός. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250929143000 +0300" stop="20250929170000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: Lega Basket Supercoppa 2025</title>
-    <desc lang="el">Τελικός. Το ιταλικό Σούπερ Καπ διεξάγεται στο Μιλάνο στις 27 και 28 Σεπτεμβρίου με τη συμμετοχή των ομάδων Τρεντίνο, Μπρέσια, Βίρτους Μπολόνια και Αρμάνι Μιλάνο. Περιγραφή: Ρήγας Δάρδαλης.</desc>
+  <programme start="20250929150000 +0300" stop="20250929170000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Μπρέσια - Αρμάνι Μιλάνο</title>
+    <desc lang="el">Lega Basket Supercoppa 2025. Τελικός. Το ιταλικό Σούπερ Καπ διεξάγεται στο Μιλάνο στις 27 και 28 Σεπτεμβρίου με τη συμμετοχή των ομάδων Τρεντίνο, Μπρέσια, Βίρτους Μπολόνια και Αρμάνι Μιλάνο. Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250929170000 +0300" stop="20250929190000 +0300" channel="cosmotesport4.gr">
+  <programme start="20250929170000 +0300" stop="20250929173000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">75 Stories: Duncan, Nowitzki, Malone, Ewing &amp; McHale. Στιγμιότυπα από το NBA.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20250929173000 +0300" stop="20250929194000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Μάλαγα - Βαλένθια</title>
     <desc lang="el">ACB Supercopa Endesa 2025. 1ος Ημιτελικός. Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250929190000 +0300" stop="20250929210000 +0300" channel="cosmotesport4.gr">
+  <programme start="20250929194000 +0300" stop="20250929214500 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Ρεάλ Μαδρίτης - Τενερίφη</title>
     <desc lang="el">ACB Supercopa Endesa 2025. 2ος Ημιτελικός. Το 22ο Σούπερ Καπ Ισπανίας φιλοξενείται στη Μάλαγα. Εκτός της γηπεδούχου ομάδας, η Ρεάλ Μαδρίτης, η Τενερίφη και η Βαλένθια διεκδικούν το τρόπαιο. Περιγραφή: Άρης Μπάρκας.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250929210000 +0300" stop="20250929233000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: ACB Supercopa Endesa 2025</title>
-    <desc lang="el">Τελικός. Το 22ο Σούπερ Καπ Ισπανίας φιλοξενείται στη Μάλαγα. Εκτός της γηπεδούχου ομάδας, η Ρεάλ Μαδρίτης, η Τενερίφη και η Βαλένθια διεκδικούν το τρόπαιο. Περιγραφή: Βασίλης Σκουντής.</desc>
+  <programme start="20250929214500 +0300" stop="20250930003000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Ρεάλ Μαδρίτης - Βαλένθια</title>
+    <desc lang="el">ACB Supercopa Endesa 2025. Τελικός. Το 22ο Σούπερ Καπ Ισπανίας φιλοξενείται στη Μάλαγα. Εκτός της γηπεδούχου ομάδας, η Ρεάλ Μαδρίτης, η Τενερίφη και η Βαλένθια διεκδικούν το τρόπαιο. Περιγραφή: Βασίλης Σκουντής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250929233000 +0300" stop="20250930020000 +0300" channel="cosmotesport4.gr">
+  <programme start="20250930003000 +0300" stop="20250930010000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">75 Stories: Antetokounmpo, Rick Barry &amp; Wes Unseld. Στιγμιότυπα από το NBA.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20250930010000 +0300" stop="20250930011500 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
+  </programme>
+  <programme start="20250930011500 +0300" stop="20250930033000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Ιντιάνα Φίβερ - Λας Βέγκας Έισις</title>
     <desc lang="el">2025 WNBA Playoffs. Ημιτελική Φάση, 4ος Αγώνας. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20250930020000 +0300" stop="20250930040000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">Μπάσκετ: G League Γιουνάιτεντ - Φλαμένγκο</title>
-    <desc lang="el">FIBA Intercontinental Cup Σιγκαπούρη 2025. Φάση Ομίλων, 2ος 'Ομιλος. Περιγραφή: Γιάννης Φιλέρης.</desc>
+  <programme start="20250930033000 +0300" stop="20250930040000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">Στιγμιότυπα από το NBA.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
   <programme start="20250930040000 +0300" stop="20250930062500 +0300" channel="cosmotesport4.gr">
@@ -11602,32 +11628,31 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20250929203000 +0300" stop="20250929220500 +0300" channel="cosmotesport6.gr">
+  <programme start="20250929203000 +0300" stop="20250929222000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Χάντμπολ: Μέλσουνγκεν - Αμβούργο</title>
     <desc lang="el">DAIKIN Bundesliga 2025-26. 6η Αγωνιστική. Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250929220500 +0300" stop="20250929233500 +0300" channel="cosmotesport6.gr">
+  <programme start="20250929222000 +0300" stop="20250929235000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Topspin</title>
     <desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20250929233500 +0300" stop="20250930020000 +0300" channel="cosmotesport6.gr">
+  <programme start="20250929235000 +0300" stop="20250930032500 +0300" channel="cosmotesport6.gr">
     <title lang="el">Premier Padel Tour 2025</title>
     <desc lang="el">Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Νίκος Κουλούρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250930020000 +0300" stop="20250930043000 +0300" channel="cosmotesport6.gr">
+  <programme start="20250930032500 +0300" stop="20250930053000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Premier Padel Tour 2025</title>
     <desc lang="el">Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Νίκος Κουλούρης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20250930043000 +0300" stop="20250930060000 +0300" channel="cosmotesport6.gr">
-    <title lang="el">Topspin</title>
-    <desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
+  <programme start="20250930053000 +0300" stop="20250930060000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Premier Padel Tour 2025 - Στιγμιότυπα</title>
+    <desc lang="el">Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
-    <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
   <programme start="20250930060000 +0300" stop="20250930100000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ATP 500 2025</title>
@@ -12418,14 +12443,25 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250929130000 +0200" stop="20250929150000 +0200" channel="abc.us">
+  <programme start="20250929130000 +0200" stop="20250929140000 +0200" channel="abc.us">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Sign off.</desc>
+    <category lang="en">Regular</category>
+    <category lang="en">Variety</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p480440_b_s4_be.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250929140000 +0200" stop="20250929160000 +0200" channel="abc.us">
     <title lang="en">Good Morning America</title>
     <desc lang="en">Actor Tim Allen; singer-songwriter Lionel Richie; ESPN host Stephen A. Smith; Deals &amp; Steals with Tory Johnson.Guests: Tim Allen, Lionel Richie, Stephen A. Smith, Tory Johnson..</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20250929150000 +0200" stop="20250929170000 +0200" channel="abc.us">
+  <programme start="20250929160000 +0200" stop="20250929170000 +0200" channel="abc.us">
     <title lang="en">Local Programming</title>
     <desc lang="en">Sign off.</desc>
     <category lang="en">Regular</category>
@@ -12621,14 +12657,25 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20250930130000 +0200" stop="20250930150000 +0200" channel="abc.us">
+  <programme start="20250930130000 +0200" stop="20250930140000 +0200" channel="abc.us">
+    <title lang="en">Local Programming</title>
+    <desc lang="en">Sign off.</desc>
+    <category lang="en">Regular</category>
+    <category lang="en">Variety</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p480440_b_s4_be.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930140000 +0200" stop="20250930160000 +0200" channel="abc.us">
     <title lang="en">Good Morning America</title>
     <desc lang="en">Actor Glen Powell; author Arash Hashemi; Deals &amp; Steals with actress Mindy Kaling and Tory Johnson.Guests: Glen Powell, Arash Hashemi, Mindy Kaling, Tory Johnson..</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">News</category>
     <previously-shown/>
   </programme>
-  <programme start="20250930150000 +0200" stop="20250930170000 +0200" channel="abc.us">
+  <programme start="20250930160000 +0200" stop="20250930170000 +0200" channel="abc.us">
     <title lang="en">Local Programming</title>
     <desc lang="en">Sign off.</desc>
     <category lang="en">Regular</category>
@@ -12763,6 +12810,1525 @@
     <previously-shown/>
     <rating system="MPAA">
       <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250929053000 +0200" stop="20250929070000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his "One Big Thing" commentary.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13816005_i_h10_ab.jpg"/>
+  </programme>
+  <programme start="20250929070000 +0200" stop="20250929080000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250929080000 +0200" stop="20250929090000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250929090000 +0200" stop="20250929100000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250929100000 +0200" stop="20250929120000 +0200" channel="espn.us">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">BYU at Colorado</sub-title>
+    <desc lang="en">The No. 25 Cougars begin their Big 12 slate with a game against the Buffaloes at Folsom Field. With Kaidon Salter back at starting quarterback, Colorado dumped Wyoming 37-20 to improve to 2-2 on Sept. 20. BYU is 3-0 for the third straight season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191261_i_h8_ag.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250929120000 +0200" stop="20250929130000 +0200" channel="espn.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250929130000 +0200" stop="20250929140000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250929140000 +0200" stop="20250929160000 +0200" channel="espn.us">
+    <title lang="en">Live: Get Up</title>
+    <desc lang="en">Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15158780_i_s4_ac.jpg"/>
+  </programme>
+  <programme start="20250929160000 +0200" stop="20250929180000 +0200" channel="espn.us">
+    <title lang="en">Live: First Take</title>
+    <desc lang="en">Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186291_i_h8_ae.jpg"/>
+  </programme>
+  <programme start="20250929180000 +0200" stop="20250929200000 +0200" channel="espn.us">
+    <title lang="en">Live: The Pat McAfee Show</title>
+    <desc lang="en">Former NFL punter Pat McAfee brings his humor and candor to the microphone to highlight the day's top stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26224166_i_s4_aa.jpg"/>
+  </programme>
+  <programme start="20250929200000 +0200" stop="20250929210000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250929210000 +0200" stop="20250929230000 +0200" channel="espn.us">
+    <title lang="en">Live: NFL Live</title>
+    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267723_i_s4_ae.jpg"/>
+  </programme>
+  <programme start="20250929230000 +0200" stop="20250930010000 +0200" channel="espn.us">
+    <title lang="en">Live: Monday Night Countdown</title>
+    <desc lang="en">Host Scott Van Pelt is joined by Ryan Clark, Jason Kelce, Marcus Spears, Adam Schefter and Michelle Beisner-Buck as they preview the upcoming Monday Night Football matchup and discuss the latest news from Sunday's NFL action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p806866_b_v12_ai.jpg"/>
+  </programme>
+  <programme start="20250930010000 +0200" stop="20250930041500 +0200" channel="espn.us">
+    <title lang="en">Live: NFL Football</title>
+    <sub-title lang="en">New York Jets at Miami Dolphins</sub-title>
+    <desc lang="en">The Dolphins (0-3) host the Jets (0-3). Miami gave Buffalo all it could handle in a 31-21 loss in Week 3. New York took a late lead against Tampa Bay on a blocked field-goal return for the touchdown, but fell 29-27 on a walk-off 36-yard kick.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250930041500 +0200" stop="20250930051500 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250930051500 +0200" stop="20250930053000 +0200" channel="espn.us">
+    <title lang="en">Live: Monday Night Postgame</title>
+    <desc lang="en">A recap of the Monday Night Football matchup with highlights, interviews and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20481475_i_h10_ac.jpg"/>
+  </programme>
+  <programme start="20250930053000 +0200" stop="20250930063000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter With Scott Van Pelt</title>
+    <desc lang="en">Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his "One Big Thing" commentary.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13816005_i_h10_ab.jpg"/>
+  </programme>
+  <programme start="20250930063000 +0200" stop="20250930073000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250930073000 +0200" stop="20250930083000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250930083000 +0200" stop="20250930093000 +0200" channel="espn.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250930093000 +0200" stop="20250930103000 +0200" channel="espn.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250930103000 +0200" stop="20250930110000 +0200" channel="espn.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250930110000 +0200" stop="20250930120000 +0200" channel="espn.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250930120000 +0200" stop="20250930130000 +0200" channel="espn.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250930130000 +0200" stop="20250930140000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250930140000 +0200" stop="20250930160000 +0200" channel="espn.us">
+    <title lang="en">Live: Get Up</title>
+    <desc lang="en">Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15158780_i_s4_ac.jpg"/>
+  </programme>
+  <programme start="20250930160000 +0200" stop="20250930180000 +0200" channel="espn.us">
+    <title lang="en">Live: First Take</title>
+    <desc lang="en">Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186291_i_h8_ae.jpg"/>
+  </programme>
+  <programme start="20250930180000 +0200" stop="20250930190000 +0200" channel="espn.us">
+    <title lang="en">Live: Baseball Tonight</title>
+    <desc lang="en">Nightly baseball news and highlights.</desc>
+    <credits>
+      <actor>Adnan Virk</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p337588_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250930190000 +0200" stop="20250930220000 +0200" channel="espn.us">
+    <title lang="en">Live: MLB Baseball</title>
+    <sub-title lang="en">Detroit Tigers at Cleveland Guardians</sub-title>
+    <desc lang="en">American League Wild Card, Game 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191273_i_h8_ad.jpg"/>
+  </programme>
+  <programme start="20250930220000 +0200" stop="20250930230000 +0200" channel="espn.us">
+    <title lang="en">Live: Baseball Tonight</title>
+    <desc lang="en">Nightly baseball news and highlights.</desc>
+    <credits>
+      <actor>Adnan Virk</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p337588_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250930230000 +0200" stop="20250930233000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250930233000 +0200" stop="20251001000000 +0200" channel="espn.us">
+    <title lang="en">Live: Pardon the Interruption</title>
+    <desc lang="en">Opinions regarding the day's top sports stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186288_b_h8_ag.jpg"/>
+  </programme>
+  <programme start="20251001000000 +0200" stop="20251001030000 +0200" channel="espn.us">
+    <title lang="en">Live: MLB Baseball</title>
+    <sub-title lang="en">Boston Red Sox at New York Yankees</sub-title>
+    <desc lang="en">American League Wild Card, Game 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191273_i_h8_ad.jpg"/>
+  </programme>
+  <programme start="20250929060000 +0200" stop="20250929070000 +0200" channel="espn2.us">
+    <title lang="en">The Kingdom</title>
+    <sub-title lang="en">Family Business</sub-title>
+    <desc lang="en">Behind Patrick Mahomes, whose journey from son of a baseball player to starter quarterback is already notable, the Chiefs kick off their bid for a third straight Super Bowl title.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">E1</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20250929070000 +0200" stop="20250929080000 +0200" channel="espn2.us">
+    <title lang="en">The Kingdom</title>
+    <sub-title lang="en">Don't Judge</sub-title>
+    <desc lang="en">Guided by a resolve never to judge anyone else and a firm belief in second chances, Chiefs' coach Andy Reid leans on family bonds to sustain him through the highs of victory and the lows of defeat.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">E2</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20250929080000 +0200" stop="20250929090000 +0200" channel="espn2.us">
+    <title lang="en">The Kingdom</title>
+    <sub-title lang="en">In Our Chiefs Era</sub-title>
+    <desc lang="en">In a much anticipated game of the regular season, the Chiefs square off against AFC rivals Josh Allen and the Buffalo Bills.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20250929090000 +0200" stop="20250929100000 +0200" channel="espn2.us">
+    <title lang="en">The Kingdom</title>
+    <sub-title lang="en">The Formula</sub-title>
+    <desc lang="en">An ankle injury to Patrick Mahomes puts more pressure, and the team's Super Bowl hopes, on the shoulders of Chris Jones and the Chiefs' defense; a Christmas Day showdown against the Pittsburgh Steelers has major postseason implications.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">E4</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20250929100000 +0200" stop="20250929110000 +0200" channel="espn2.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250929110000 +0200" stop="20250929120000 +0200" channel="espn2.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250929120000 +0200" stop="20250929140000 +0200" channel="espn2.us">
+    <title lang="en">Live: Unsportsmanlike with Evan, Canty and Michelle</title>
+    <desc lang="en">Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it's all about.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25542634_i_h8_aa.jpg"/>
+  </programme>
+  <programme start="20250929140000 +0200" stop="20250929150000 +0200" channel="espn2.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250929150000 +0200" stop="20250929160000 +0200" channel="espn2.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250929160000 +0200" stop="20250929180000 +0200" channel="espn2.us">
+    <title lang="en">Live: Get Up</title>
+    <desc lang="en">Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15158780_i_s4_ac.jpg"/>
+  </programme>
+  <programme start="20250929180000 +0200" stop="20250929200000 +0200" channel="espn2.us">
+    <title lang="en">Live: First Take</title>
+    <desc lang="en">Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186291_i_h8_ae.jpg"/>
+  </programme>
+  <programme start="20250929200000 +0200" stop="20250929210000 +0200" channel="espn2.us">
+    <title lang="en">The Domonique Foxworth Show</title>
+    <desc lang="en">Domonique Foxworth shares his take on current sports events and participants.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27226335_b_h8_aa.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250929210000 +0200" stop="20250929220000 +0200" channel="espn2.us">
+    <title lang="en">Live: NBA Today</title>
+    <desc lang="en">In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20706981_i_s2_ac.jpg"/>
+  </programme>
+  <programme start="20250929220000 +0200" stop="20250929223000 +0200" channel="espn2.us">
+    <title lang="en">Live: ESPN BET Live</title>
+    <desc lang="en">ESPN Sports Betting Analysts Erin Dolan and Joe Fortenbaugh, along with host Tyler Fulghum, break down the biggest storylines through the lens of sports betting, with breakdowns, discussions and picks.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26025567_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250929223000 +0200" stop="20250929230000 +0200" channel="espn2.us">
+    <title lang="en">This Is Football</title>
+    <desc lang="en">Featuring interviews with football players, coaches, and pundits, offering in-depth analysis and exclusive stories.</desc>
+    <credits>
+      <actor>Kevin Clark</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28265012_b_s4_aa.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250929230000 +0200" stop="20250929233000 +0200" channel="espn2.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250929233000 +0200" stop="20250930000000 +0200" channel="espn2.us">
+    <title lang="en">Live: Pardon the Interruption</title>
+    <desc lang="en">Opinions regarding the day's top sports stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186288_b_h8_ag.jpg"/>
+  </programme>
+  <programme start="20250930000000 +0200" stop="20250930010000 +0200" channel="espn2.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250930010000 +0200" stop="20250930030000 +0200" channel="espn2.us">
+    <title lang="en">Yankees-Dodgers: An Uncivil War</title>
+    <desc lang="en">In 1977 and 1978, the New York Yankees and Los Angeles Dodgers squared off in back-to-back World Series. This ESPN Films documentary tells the story of a rivalry filled with colorful characters, seismic controversies and unforgettable moments.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23037849_b_v12_aa.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250930030000 +0200" stop="20250930040000 +0200" channel="espn2.us">
+    <title lang="en">30 for 30</title>
+    <sub-title lang="en">The House of Steinbrenner</sub-title>
+    <desc lang="en">Filmmaker Barbara Kopple examines the legacy of baseball owner George M. Steinbrenner, including the building of a new Yankee Stadium and the transition of ownership to his heirs, led by his younger son, Hal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">E9022</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20250930040000 +0200" stop="20250930050000 +0200" channel="espn2.us">
+    <title lang="en">30 for 30</title>
+    <sub-title lang="en">Four Days in October</sub-title>
+    <desc lang="en">MLB Productions chronicles the 2004 American League playoff series between the Yankees and Red Sox that made baseball history and finally put an end to the "Curse of the Bambino.".</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">E9024</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20250930050000 +0200" stop="20250930070000 +0200" channel="espn2.us">
+    <title lang="en">Catching Hell</title>
+    <desc lang="en">Citizens of Chicago blame baseball fan Steve Bartman for interfering with a crucial play during a Cubs playoff game.</desc>
+    <date>2011</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8708264_i_h10_ab.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250930070000 +0200" stop="20250930080000 +0200" channel="espn2.us">
+    <title lang="en">UFC Countdown</title>
+    <sub-title lang="en">UFC 320 Countdown</sub-title>
+    <desc lang="en">A look at the lives and training camps of UFC athletes as they prepare for the next UFC pay-per-view event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p308818_b_s4_af.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250930080000 +0200" stop="20250930090000 +0200" channel="espn2.us">
+    <title lang="en">30 for 30</title>
+    <sub-title lang="en">The New York Sack Exchange</sub-title>
+    <desc lang="en">The Jets' 1980s high-octane defensive line featuring the larger than life personalities of Mark Gastineau, Marty Lyons, Joe Klecko and Abdul Salaam became New York legends.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250930090000 +0200" stop="20250930100000 +0200" channel="espn2.us">
+    <title lang="en">E60</title>
+    <sub-title lang="en">The Perfect Machine</sub-title>
+    <desc lang="en">A look the 1972 Miami Dolphins, who 50 years ago won Super Bowl VII, completing the first and only undefeated season in NFL history.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23952265_b_s4_aa.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250930100000 +0200" stop="20250930110000 +0200" channel="espn2.us">
+    <title lang="en">The Kingdom</title>
+    <sub-title lang="en">Heartland</sub-title>
+    <desc lang="en">With Chiefs Kingdom in full-throated support, Kansas City earns a home playoff win against the Texans; their reward: an AFC Championship Game rematch with the Buffalo Bills, with a third straight trip to the Super Bowl on the line.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20250930110000 +0200" stop="20250930120000 +0200" channel="espn2.us">
+    <title lang="en">The Kingdom</title>
+    <sub-title lang="en">The Pursuit</sub-title>
+    <desc lang="en">The Chiefs arrive in New Orleans on the verge of Super Bowl history; standing in the way of their three-peat hopes are the Philadelphia Eagles, who have no intention of playing supporting characters in a storybook ending.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20250930120000 +0200" stop="20250930140000 +0200" channel="espn2.us">
+    <title lang="en">Live: Unsportsmanlike with Evan, Canty and Michelle</title>
+    <desc lang="en">Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it's all about.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25542634_i_h8_aa.jpg"/>
+  </programme>
+  <programme start="20250930140000 +0200" stop="20250930150000 +0200" channel="espn2.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250930150000 +0200" stop="20250930160000 +0200" channel="espn2.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250930160000 +0200" stop="20250930180000 +0200" channel="espn2.us">
+    <title lang="en">Live: Get Up</title>
+    <desc lang="en">Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15158780_i_s4_ac.jpg"/>
+  </programme>
+  <programme start="20250930180000 +0200" stop="20250930200000 +0200" channel="espn2.us">
+    <title lang="en">Live: The Pat McAfee Show</title>
+    <desc lang="en">Former NFL punter Pat McAfee brings his humor and candor to the microphone to highlight the day's top stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18762527_b_s4_ab.jpg"/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930200000 +0200" stop="20250930210000 +0200" channel="espn2.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20250930210000 +0200" stop="20250930220000 +0200" channel="espn2.us">
+    <title lang="en">Live: NBA Today</title>
+    <desc lang="en">In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20706981_i_s2_ac.jpg"/>
+  </programme>
+  <programme start="20250930220000 +0200" stop="20250930230000 +0200" channel="espn2.us">
+    <title lang="en">Live: NFL Live</title>
+    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267723_i_s4_ae.jpg"/>
+  </programme>
+  <programme start="20250930230000 +0200" stop="20251001000000 +0200" channel="espn2.us">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <category lang="en">TBA</category>
+    <category lang="en">Specials</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20251001000000 +0200" stop="20251001010000 +0200" channel="espn2.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+  </programme>
+  <programme start="20251001010000 +0200" stop="20251001033000 +0200" channel="espn2.us">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <category lang="en">TBA</category>
+    <category lang="en">Specials</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20251001033000 +0200" stop="20251001053000 +0200" channel="espn2.us">
+    <title lang="en">Live: WNBA Basketball</title>
+    <sub-title lang="en">Indiana Fever at Las Vegas Aces</sub-title>
+    <desc lang="en">From Michelob ULTRA Arena in Las Vegas.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191289_i_h8_ac.jpg"/>
+  </programme>
+  <programme start="20250929050000 +0200" stop="20250929070000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Love on the Danube: Love Song</title>
+    <desc lang="en">A daughter traveling with her widowed mother and a son traveling with his widower father meet on a cruise; the two decide that their musical parents would make the perfect couple try to engineer a romance only to falling in love themselves.</desc>
+    <credits>
+      <actor>Nazneen Contractor</actor>
+      <actor>Wes Brown</actor>
+      <actor>Kathryn Drysdale</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28132686_i_s4_aa.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20250929070000 +0200" stop="20250929073000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Transplant</sub-title>
+    <desc lang="en">Blanche must decide whether to donate one of her kidneys to the sister she hates.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
+    <episode-num system="onscreen">E5</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929073000 +0200" stop="20250929080000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Rose: Portrait of a Woman</sub-title>
+    <desc lang="en">Sophia becomes a doting mother when Dorothy accepts a lucrative corporate teaching job.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
+    <episode-num system="onscreen">E176</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929080000 +0200" stop="20250929083000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">The Engagement</sub-title>
+    <desc lang="en">Blanche's plans to marry go awry when she discovers her fiance is a bigamist.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284174_e_s2_ab.jpg"/>
+    <episode-num system="onscreen">E1</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929083000 +0200" stop="20250929090000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Guess Who's Coming to the Wedding</sub-title>
+    <desc lang="en">Dorothy must face her ex-husband Stanley Zbornak when her daughter announces her upcoming wedding.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
+    <episode-num system="onscreen">E4</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929090000 +0200" stop="20250929093000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Rose the Prude</sub-title>
+    <desc lang="en">Rose finds herself romantically involved for the first time since her husband's death.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
+    <episode-num system="onscreen">E6</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929093000 +0200" stop="20250929100000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Transplant</sub-title>
+    <desc lang="en">Blanche must decide whether to donate one of her kidneys to the sister she hates.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
+    <episode-num system="onscreen">E5</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929100000 +0200" stop="20250929110000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">The Breakup, Part 2</sub-title>
+    <desc lang="en">Rory kisses Tristan at a party after fighting with Dean; Lorelai impulsively shows up at Max's house for a night of lovemaking.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Edward Herrmann</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <episode-num system="onscreen">E226716</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929110000 +0200" stop="20250929120000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">The Third Lorelai</sub-title>
+    <desc lang="en">Rory's great-grandmother offers Lorelai a trust fund for Rory's education, causing Emily to fear losing her newfound relationship with them.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Edward Herrmann</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <episode-num system="onscreen">E226717</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929120000 +0200" stop="20250929123000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Reba</title>
+    <sub-title lang="en">Where There's Smoke</sub-title>
+    <desc lang="en">Cheyenne and Van must run interference at a client party after Reba takes a pill, by mistake, that will make her violently ill if she drinks alcohol.</desc>
+    <credits>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184735_i_s3_ab.jpg"/>
+    <episode-num system="onscreen">E501</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929123000 +0200" stop="20250929130000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Reba</title>
+    <sub-title lang="en">Reba and the One</sub-title>
+    <desc lang="en">When Barbra Jean signs Reba up for an online dating service, Reba winds up dating a mystery man and spending less time with the family.</desc>
+    <credits>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2565999_e_h10_ab.jpg"/>
+    <episode-num system="onscreen">E502</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929130000 +0200" stop="20250929133000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Reba</title>
+    <sub-title lang="en">As Is</sub-title>
+    <desc lang="en">When Reba teams up with Van to invest in real estate, he buys an uninspected house, which prompts her to want out of their partnership.</desc>
+    <credits>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184735_i_s3_ab.jpg"/>
+    <episode-num system="onscreen">E503</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929133000 +0200" stop="20250929140000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Reba</title>
+    <sub-title lang="en">And God Created Van</sub-title>
+    <desc lang="en">Cheyenne asks Reba to talk some sense into Van when he stops going to church, but when Reba's efforts fail, she takes her problem straight to the church's handsome new minister (Patrick Fabian).</desc>
+    <credits>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2566000_e_h11_ab.jpg"/>
+    <episode-num system="onscreen">E504</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929140000 +0200" stop="20250929143000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">The Triangle</sub-title>
+    <desc lang="en">Dorothy's attractive date flirts with Blanche, sparking a rivalry between the two.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
+    <episode-num system="onscreen">E9</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929143000 +0200" stop="20250929150000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">On Golden Girls</sub-title>
+    <desc lang="en">Blanche's unruly teenage grandson visits, and goes out every night with a rough crowd.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
+    <episode-num system="onscreen">E7</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929150000 +0200" stop="20250929153000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">The Competition</sub-title>
+    <desc lang="en">Sophia challenges Dorothy to prove she is spry enough to take a trip to Italy.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284175_e_s2_aa.jpg"/>
+    <episode-num system="onscreen">E10</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929153000 +0200" stop="20250929160000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Break In</sub-title>
+    <desc lang="en">After a burglar enters the house, Rose buys a gun to feel more safe.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284251_e_s2_aa.jpg"/>
+    <episode-num system="onscreen">E3</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929160000 +0200" stop="20250929170000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">Say Something</sub-title>
+    <desc lang="en">After the disastrous scene at the wedding, Lorelai begs Luke not to give up on their relationship, and his decision to be alone leaves her devastated.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <episode-num system="onscreen">E514</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929170000 +0200" stop="20250929180000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">Jews and Chinese Food</sub-title>
+    <desc lang="en">When Luke agrees to build sets for the elementary school's production of "Fiddler on the Roof," he knows that Lorelai is the costume designer and hopes that their paths will cross.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <episode-num system="onscreen">E515</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929180000 +0200" stop="20250929190000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">So ... Good Talk</sub-title>
+    <desc lang="en">Upon returning from their second honeymoon, Richard and Emily attend the customary Friday night dinner, but an angry Lorelai refuses to see or speak with Emily.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <episode-num system="onscreen">E516</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929190000 +0200" stop="20250929200000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">Pulp Friction</sub-title>
+    <desc lang="en">When Rory spies Logan out on the town with another girl, she immediately regrets their agreement to date other people.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <episode-num system="onscreen">E517</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929200000 +0200" stop="20250929220000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Paging Mr. Darcy</title>
+    <desc lang="en">When an overly serious scholar attends an annual Jane Austen conference, she has a sudden change of heart when she strikes a deal with the man who's playing Mr. Darcy.</desc>
+    <credits>
+      <actor>Mallory Jansen</actor>
+      <actor>Will Kemp</actor>
+      <actor>Lillian Doucet-Roche</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26447243_st_v8_aa.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250929220000 +0200" stop="20250930000000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Autumn in the City</title>
+    <desc lang="en">As she bounces between temporary jobs, an optimistic woman and her jaded neighbor discover the beauty of New York City together.</desc>
+    <credits>
+      <actor>Aimee Teegarden</actor>
+      <actor>Evan Roderick</actor>
+      <actor>Laura Soltis</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22905579_i_s2_ac.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930000000 +0200" stop="20250930020000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Love on the Slopes</title>
+    <desc lang="en">Alex, a copy editor from New York, is sent to an extreme sports outpost to write a story for a travel writing competition. Cole, a sports enthusiast, reluctantly agrees to be Alex's guide as she faces her fears.</desc>
+    <credits>
+      <actor>Katrina Bowden</actor>
+      <actor>Thomas Beaudoin</actor>
+      <actor>Elysia Rotaru</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14900276_i_s2_ac.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930020000 +0200" stop="20250930040000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Savoring Paris</title>
+    <desc lang="en">Disillusioned with her life, Ella embarks on a soul-searching journey to Paris, navigating love, self-discovery and cheese amid the city's enchanting backdrop.</desc>
+    <credits>
+      <actor>Bethany Joy Lenz</actor>
+      <actor>Stanley Weber</actor>
+      <actor>Ben Wiggins</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27320893_k_s4_aa.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930040000 +0200" stop="20250930043000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Blanche and the Younger Man</sub-title>
+    <desc lang="en">Blanche dates a young aerobics instructor; Rose's mother, Alma Lindstrom, teaches her an important lesson.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284354_e_h10_ad.jpg"/>
+    <episode-num system="onscreen">E11</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930043000 +0200" stop="20250930050000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">The Triangle</sub-title>
+    <desc lang="en">Dorothy's attractive date flirts with Blanche, sparking a rivalry between the two.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
+    <episode-num system="onscreen">E9</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930050000 +0200" stop="20250930053000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">On Golden Girls</sub-title>
+    <desc lang="en">Blanche's unruly teenage grandson visits, and goes out every night with a rough crowd.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
+    <episode-num system="onscreen">E7</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930053000 +0200" stop="20250930060000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">The Competition</sub-title>
+    <desc lang="en">Sophia challenges Dorothy to prove she is spry enough to take a trip to Italy.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284175_e_s2_aa.jpg"/>
+    <episode-num system="onscreen">E10</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930060000 +0200" stop="20250930063000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Break In</sub-title>
+    <desc lang="en">After a burglar enters the house, Rose buys a gun to feel more safe.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284251_e_s2_aa.jpg"/>
+    <episode-num system="onscreen">E3</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930063000 +0200" stop="20250930070000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Blanche and the Younger Man</sub-title>
+    <desc lang="en">Blanche dates a young aerobics instructor; Rose's mother, Alma Lindstrom, teaches her an important lesson.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284354_e_h10_ad.jpg"/>
+    <episode-num system="onscreen">E11</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930070000 +0200" stop="20250930080000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">Say Something</sub-title>
+    <desc lang="en">After the disastrous scene at the wedding, Lorelai begs Luke not to give up on their relationship, and his decision to be alone leaves her devastated.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <episode-num system="onscreen">E514</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930080000 +0200" stop="20250930090000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">Jews and Chinese Food</sub-title>
+    <desc lang="en">When Luke agrees to build sets for the elementary school's production of "Fiddler on the Roof," he knows that Lorelai is the costume designer and hopes that their paths will cross.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <episode-num system="onscreen">E515</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930090000 +0200" stop="20250930100000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">So ... Good Talk</sub-title>
+    <desc lang="en">Upon returning from their second honeymoon, Richard and Emily attend the customary Friday night dinner, but an angry Lorelai refuses to see or speak with Emily.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <episode-num system="onscreen">E516</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930100000 +0200" stop="20250930110000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">Pulp Friction</sub-title>
+    <desc lang="en">When Rory spies Logan out on the town with another girl, she immediately regrets their agreement to date other people.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <episode-num system="onscreen">E517</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930110000 +0200" stop="20250930113000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Reba</title>
+    <sub-title lang="en">Best Li'l Haunted House in Texas</sub-title>
+    <desc lang="en">Reba is disappointed when her plans for Halloween fall through because everyone in the family has other plans.</desc>
+    <credits>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2566002_e_h11_ab.jpg"/>
+    <episode-num system="onscreen">E506</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930113000 +0200" stop="20250930120000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Reba</title>
+    <sub-title lang="en">Have Your Cake</sub-title>
+    <desc lang="en">Realizing that his wife has gained quite a bit of weight, Brock consults Reba on how best to handle the delicate situation.</desc>
+    <credits>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184735_i_s3_ab.jpg"/>
+    <episode-num system="onscreen">E507</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930120000 +0200" stop="20250930123000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Reba</title>
+    <sub-title lang="en">Grannies Gone Wild</sub-title>
+    <desc lang="en">The family learns that Cheyenne no longer wishes to pursue a career in dentistry after she turns down Brock's offer to intern at his office; Barbara Jean is called for jury duty.</desc>
+    <credits>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2566004_e_h10_ac.jpg"/>
+    <episode-num system="onscreen">E508</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930123000 +0200" stop="20250930130000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Reba</title>
+    <sub-title lang="en">Invasion</sub-title>
+    <desc lang="en">A miscommunication with her brother, Bryan, sends Barbra Jean to his place for Thanksgiving, while he goes to Reba's.</desc>
+    <credits>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184735_i_s3_ab.jpg"/>
+    <episode-num system="onscreen">E509</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930130000 +0200" stop="20250930133000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Reba</title>
+    <sub-title lang="en">Issues</sub-title>
+    <desc lang="en">After observing their constant bickering in the office, Reba and Van's boss insists they see the company's occupational therapist.</desc>
+    <credits>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184735_i_s3_ab.jpg"/>
+    <episode-num system="onscreen">E510</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930133000 +0200" stop="20250930140000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Reba</title>
+    <sub-title lang="en">Brock's Got Stones</sub-title>
+    <desc lang="en">Reba must care for Brock, who has kidney stones while Barbra Jean is away; Cheyenne helps at the homeless shelter.</desc>
+    <credits>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2566007_e_s1_aa.jpg"/>
+    <episode-num system="onscreen">E511</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930140000 +0200" stop="20250930143000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Heart Attack</sub-title>
+    <desc lang="en">The women bring their separate views of death into focus after Sophia suffers the symptoms of a heart attack.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
+    <episode-num system="onscreen">E13</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930143000 +0200" stop="20250930150000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Stan's Return</sub-title>
+    <desc lang="en">Dorothy's ex-husband comes to town and spends the night with her.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284197_e_h10_ac.jpg"/>
+    <episode-num system="onscreen">E12</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930150000 +0200" stop="20250930153000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">The Custody Battle</sub-title>
+    <desc lang="en">Sophia decides to live in California with Dorothy's sister Gloria.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284219_e_h11_ad.jpg"/>
+    <episode-num system="onscreen">E14</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930153000 +0200" stop="20250930160000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">A Little Romance</sub-title>
+    <desc lang="en">Rose tries to conceal the fact that she is dating Dr. Jonathan Newman, a little person.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284230_e_h10_ad.jpg"/>
+    <episode-num system="onscreen">E15</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930160000 +0200" stop="20250930170000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">To Live and Let Diorama</sub-title>
+    <desc lang="en">When Stars Hollow's oldest resident dies and leaves his house to the town, Luke volunteers to help turn the house into a temporary museum.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930170000 +0200" stop="20250930180000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">But I'm a Gilmore!</sub-title>
+    <desc lang="en">The reaction of Logan's parents' to Rory and Logan's relationship shocks Rory; when Sookie is placed on bed rest, Lorelai calls on Luke to serve as the interim chef at the Dragonfly Inn.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930180000 +0200" stop="20250930190000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">How Many Kropogs to Cape Cod?</sub-title>
+    <desc lang="en">Rory studies up on Logan's father (Gregg Henry) before beginning work for him as an intern; Lorelei sees a side of Logan that makes her worry about Rory's involvement with the Huntzberger family.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930190000 +0200" stop="20250930200000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Gilmore Girls</title>
+    <sub-title lang="en">Blame Booze and Melville</sub-title>
+    <desc lang="en">Rory is stunned by the performance review she receives from Logan's father, Mitchum Huntzberger; Lorelai has mixed feelings when the travel article featuring the inn hits the stands.</desc>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184655_b_v11_av.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930200000 +0200" stop="20250930220000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Raise a Glass to Love</title>
+    <desc lang="en">Aspiring master sommelier Jenna returns to her family vineyard to study and is intrigued by the natural methods of the handsome Argentinian winemaker Marcelo.</desc>
+    <credits>
+      <actor>Laura Osnes</actor>
+      <actor>Juan Pablo Di Pace</actor>
+      <actor>Matthew James Dowden</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20450335_i_h8_ae.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930220000 +0200" stop="20251001000000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Sweet Carolina</title>
+    <desc lang="en">A marketing executive reconnects with her high school boyfriend after becoming the unexpected guardian of her niece and nephew.</desc>
+    <credits>
+      <actor>Lacey Chabert</actor>
+      <actor>Tyler Hynes</actor>
+      <actor>Gregory Harrison</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19766586_i_h10_ad.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20251001000000 +0200" stop="20251001020000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Groundswell</title>
+    <desc lang="en">On the heels of a personal and professional setback, chef Emma travels to Hawaii, where she meets Ben, a handsome, reclusive surf instructor whose lessons help her to regain her footing.</desc>
+    <credits>
+      <actor>Lacey Chabert</actor>
+      <actor>Ektor Rivera</actor>
+      <actor>Tracy Yamamoto</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22540794_i_h10_aa.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20251001020000 +0200" stop="20251001040000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">Love, Romance &amp; Chocolate</title>
+    <desc lang="en">On a trip to Belgium, Emma is introduced to renowned chocolatier Luc, who is in the midst of a competition to create the most romantic chocolate in Belgium for the upcoming Belgian royal wedding. A budding romance develops between the pair.</desc>
+    <credits>
+      <actor>Lacey Chabert</actor>
+      <actor>Will Kemp</actor>
+      <actor>Brittany Bristow</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16409930_i_h8_aa.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20251001040000 +0200" stop="20251001043000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">That Was No Lady</sub-title>
+    <desc lang="en">Dorothy's becomes involved with a married coworker; her housemates disapprove.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
+    <episode-num system="onscreen">E8</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20251001043000 +0200" stop="20251001050000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Heart Attack</sub-title>
+    <desc lang="en">The women bring their separate views of death into focus after Sophia suffers the symptoms of a heart attack.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183996_i_s4_ab.jpg"/>
+    <episode-num system="onscreen">E13</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20251001050000 +0200" stop="20251001053000 +0200" channel="Hallmark Channel (East)">
+    <title lang="en">The Golden Girls</title>
+    <sub-title lang="en">Stan's Return</sub-title>
+    <desc lang="en">Dorothy's ex-husband comes to town and spends the night with her.</desc>
+    <credits>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1284197_e_h10_ac.jpg"/>
+    <episode-num system="onscreen">E12</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
     </rating>
   </programme>
   <programme start="20250929000000 +0200" stop="20250929020000 +0200" channel="Hallmark Movies and Mysteries HD">
@@ -13133,6 +14699,341 @@
       <value>TVG</value>
     </rating>
   </programme>
+  <programme start="20250930050000 +0200" stop="20250930060000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">If the Shoe Fits</sub-title>
+    <desc lang="en">Jessica befriends a Cabot Cove newcomer who is a murder suspect.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1157014_e_s1_aa.jpg"/>
+    <episode-num system="onscreen">E65324</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930060000 +0200" stop="20250930070000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">How to Make a Killing Without Really Trying</sub-title>
+    <desc lang="en">Jessica enters the world of high finance when she attempts to solve the murder of her stockbroker, a partner in a prestigious Wall Street firm.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184149_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E65313</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930070000 +0200" stop="20250930080000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">Fixer Upper</sub-title>
+    <desc lang="en">Jessica's niece (Genie Francis) is a suspect in the murder of a real-estate client, a rich movie heiress in Beverly Hills.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1157008_e_s2_ab.jpg"/>
+    <episode-num system="onscreen">E65315</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930080000 +0200" stop="20250930090000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">The Big Show of 1965</sub-title>
+    <desc lang="en">Jessica attends a variety-show reunion to research the 25-year-old unsolved murder of TV host Richie King (Kim Strauss), and while she's investigating, a show writer (Gavin MacLeod) is shot backstage.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1157012_e_h10_aa.jpg"/>
+    <episode-num system="onscreen">E65319</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930090000 +0200" stop="20250930100000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">Good-bye Charlie</sub-title>
+    <desc lang="en">The questionable identity of a body found by a railroad track leads to murder and becomes the inspiration for Jessica's latest novel.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1157000_e_h11_ac.jpg"/>
+    <episode-num system="onscreen">E65307</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930100000 +0200" stop="20250930110000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">If the Shoe Fits</sub-title>
+    <desc lang="en">Jessica befriends a Cabot Cove newcomer who is a murder suspect.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1157014_e_s1_aa.jpg"/>
+    <episode-num system="onscreen">E65324</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930110000 +0200" stop="20250930120000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">How to Make a Killing Without Really Trying</sub-title>
+    <desc lang="en">Jessica enters the world of high finance when she attempts to solve the murder of her stockbroker, a partner in a prestigious Wall Street firm.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184149_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E65313</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930120000 +0200" stop="20250930140000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Columbo</title>
+    <sub-title lang="en">Columbo Likes the Nightlife</sub-title>
+    <desc lang="en">Columbo investigates the apparent suicide of a tabloid reporter in the Los Angeles rave scene.</desc>
+    <credits>
+      <actor>Peter Falk</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184135_b_s4_ac.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930140000 +0200" stop="20250930150000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Diagnosis Murder</title>
+    <sub-title lang="en">Misdiagnosis Murder</sub-title>
+    <desc lang="en">An overworked and tired Jesse witnesses the death of a patient, but when the body vanishes, not even Dr. Sloan believes him.</desc>
+    <credits>
+      <actor>Dick Van Dyke</actor>
+      <actor>Victoria Rowell</actor>
+      <actor>Barry Van Dyke</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184251_b_h10_ac.jpg"/>
+    <episode-num system="onscreen">E9508</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930150000 +0200" stop="20250930160000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Diagnosis Murder</title>
+    <sub-title lang="en">The Pressure to Murder</sub-title>
+    <desc lang="en">The high-pressure learning environment for the interns at the hospital claims Amanda's cousin, but Amanda believes his death is no accident.</desc>
+    <credits>
+      <actor>Dick Van Dyke</actor>
+      <actor>Victoria Rowell</actor>
+      <actor>Barry Van Dyke</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184251_b_h10_ac.jpg"/>
+    <episode-num system="onscreen">E9509</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930160000 +0200" stop="20250930170000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Diagnosis Murder</title>
+    <sub-title lang="en">Living on the Streets Can Be Murder</sub-title>
+    <desc lang="en">Mark poses as a vagrant to learn who is killing homeless people for their vital organs.</desc>
+    <credits>
+      <actor>Dick Van Dyke</actor>
+      <actor>Victoria Rowell</actor>
+      <actor>Barry Van Dyke</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184251_b_h10_ac.jpg"/>
+    <episode-num system="onscreen">E9510</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930170000 +0200" stop="20250930180000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Diagnosis Murder</title>
+    <sub-title lang="en">Murder, Murder</sub-title>
+    <desc lang="en">A slain rich man's young widow tops the list of suspects, and she has a twin; with Kate McNeil, Robert Vaughn.</desc>
+    <credits>
+      <actor>Dick Van Dyke</actor>
+      <actor>Victoria Rowell</actor>
+      <actor>Barry Van Dyke</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184251_b_h10_ac.jpg"/>
+    <episode-num system="onscreen">E9511</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930180000 +0200" stop="20250930190000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Matlock</title>
+    <sub-title lang="en">The Student</sub-title>
+    <desc lang="en">Ben gets involved in the case of a coed (Debbie Barker) accused of murdering her professor lover.</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>David Froman</actor>
+      <actor>Nancy Stafford</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1149161_e_h11_ad.jpg"/>
+    <episode-num system="onscreen">E8914</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930190000 +0200" stop="20250930200000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Matlock</title>
+    <sub-title lang="en">The Talk Show</sub-title>
+    <desc lang="en">Ben and Michelle defend a TV producer (Teri Austin) accused of murdering an obnoxious talk-show host.</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Nancy Stafford</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1149162_e_h11_ad.jpg"/>
+    <episode-num system="onscreen">E8915</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930200000 +0200" stop="20250930210000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Matlock</title>
+    <sub-title lang="en">The Victim</sub-title>
+    <desc lang="en">The adulterous wife of a businessman is murdered, and an associate finds himself framed for the crime.</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>David Froman</actor>
+      <actor>Nancy Stafford</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1149163_e_h11_aa.jpg"/>
+    <episode-num system="onscreen">E8916</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930210000 +0200" stop="20250930220000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Matlock</title>
+    <sub-title lang="en">The Kidnapper</sub-title>
+    <desc lang="en">Michelle and Conrad search for Ben, who may have been kidnapped by vengeful ex-convicts.</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>David Froman</actor>
+      <actor>Nancy Stafford</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1149164_e_h11_aa.jpg"/>
+    <episode-num system="onscreen">E8917</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930220000 +0200" stop="20250930230000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Matlock</title>
+    <sub-title lang="en">The Pro</sub-title>
+    <desc lang="en">A hotheaded professional tennis player (Vincent Van Patten) is accused of murdering his primary rival.</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Nancy Stafford</actor>
+      <actor>Julie Sommars</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1149165_e_h11_aa.jpg"/>
+    <episode-num system="onscreen">E8918</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930230000 +0200" stop="20251001000000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Matlock</title>
+    <sub-title lang="en">The D.A</sub-title>
+    <desc lang="en">Conrad swings into action to determine who is harassing District Attorney March.</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>David Froman</actor>
+      <actor>Julie Sommars</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1149168_e_h11_aa.jpg"/>
+    <episode-num system="onscreen">E8921</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20251001000000 +0200" stop="20251001020000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Garage Sale Mysteries</title>
+    <sub-title lang="en">The Novel Murders</sub-title>
+    <desc lang="en">Antiques expert Jennifer Shannon thinks two clues found at the scene of a murder are really clues from a mystery novel.</desc>
+    <credits>
+      <actor>Lori Loughlin</actor>
+      <actor>Sarah Strange</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15490178_b_h10_ad.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20251001020000 +0200" stop="20251001040000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Aurora Teagarden Mysteries: Dead Over Heels</title>
+    <desc lang="en">Librarian and real crime buff Aurora Roe Teagarden never liked Detective Sgt. Frederick Burns. She also never wanted to see him dead, but when he winds up murdered, she can't help but get involved.</desc>
+    <credits>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Marilu Henner</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Mystery</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13797126_i_h8_ag.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20251001040000 +0200" stop="20251001050000 +0200" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">Murder, She Wrote</title>
+    <sub-title lang="en">Murder -- According to Maggie</sub-title>
+    <desc lang="en">One of Jessica's former students (Diana Canova), a script writer for a TV show, must find the killer of a network executive or look for another job.</desc>
+    <credits>
+      <actor>Angela Lansbury</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1157007_e_h11_ad.jpg"/>
+    <episode-num system="onscreen">E65314</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
   <programme start="20250929000000 +0200" stop="20250929003000 +0200" channel="syfy.us">
     <title lang="en">Home Improvement</title>
     <sub-title lang="en">My Dinner With Wilson</sub-title>
@@ -13224,18 +15125,157 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250929060000 +0200" stop="20250929080000 +0200" channel="syfy.us">
-    <title lang="en">Naked Gun 33 1/3: The Final Insult</title>
-    <desc lang="en">Ed (George Kennedy) coaxes his "Police Squad" pal Frank (Leslie Nielsen) out of retirement to thwart a terrorist bombing.</desc>
+  <programme start="20250929040000 +0200" stop="20250929063300 +0200" channel="syfy.us">
+    <title lang="en">Halloween Ends</title>
+    <desc lang="en">Four years after her last encounter with Michael Myers, Laurie Strode finally decides to liberate herself and embrace life. However, a local murder unleashes a cascade of violence and terror, forcing her to confront the evil she can't control.</desc>
     <credits>
-      <actor>Leslie Nielsen</actor>
-      <actor>Priscilla Presley</actor>
-      <actor>George Kennedy</actor>
+      <actor>Jamie Lee Curtis</actor>
+      <actor>Andi Matichak</actor>
+      <actor>James Jude Courtney</actor>
     </credits>
-    <date>1994</date>
+    <date>2022</date>
     <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15493_i_h8_aa.jpg"/>
+    <category lang="en">Hallowe'en</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20852955_i_h8_ad.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250929063300 +0200" stop="20250929092600 +0200" channel="syfy.us">
+    <title lang="en">The Invisible Man</title>
+    <desc lang="en">After staging his own suicide, a crazed scientist uses his power to become invisible to stalk and terrorize his ex-girlfriend. When the police refuse to believe her story, she decides to take matters into her own hands and fight back.</desc>
+    <credits>
+      <actor>Elisabeth Moss</actor>
+      <actor>Oliver Jackson-Cohen</actor>
+      <actor>Aldis Hodge</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17290385_p_v12_ah.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250929092600 +0200" stop="20250929120000 +0200" channel="syfy.us">
+    <title lang="en">Blackwater Lane</title>
+    <desc lang="en">Late one night a woman drives by a stranded motorist who is later revealed to have been murdered. After a series of terrifying events the woman believes she is the killer's next victim.</desc>
+    <credits>
+      <actor>Minka Kelly</actor>
+      <actor>Maggie Grace</actor>
+      <actor>Dermot Mulroney</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27008116_k_s2_aa.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250929120000 +0200" stop="20250929140500 +0200" channel="syfy.us">
+    <title lang="en">Goosebumps</title>
+    <desc lang="en">Author R.L. Stine (Jack Black), his young daughter (Odeya Rush) and their new neighbor (Dylan Minnette) must save the day when the monsters from the "Goosebumps" books magically come to life.</desc>
+    <credits>
+      <actor>Jack Black</actor>
+      <actor>Dylan Minnette</actor>
+      <actor>Odeya Rush</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11819892_k_h10_ab.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250929140500 +0200" stop="20250929165700 +0200" channel="syfy.us">
+    <title lang="en">The Invisible Man</title>
+    <desc lang="en">After staging his own suicide, a crazed scientist uses his power to become invisible to stalk and terrorize his ex-girlfriend. When the police refuse to believe her story, she decides to take matters into her own hands and fight back.</desc>
+    <credits>
+      <actor>Elisabeth Moss</actor>
+      <actor>Oliver Jackson-Cohen</actor>
+      <actor>Aldis Hodge</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17290385_p_v12_ah.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250929165700 +0200" stop="20250929193000 +0200" channel="syfy.us">
+    <title lang="en">Halloween Ends</title>
+    <desc lang="en">Four years after her last encounter with Michael Myers, Laurie Strode finally decides to liberate herself and embrace life. However, a local murder unleashes a cascade of violence and terror, forcing her to confront the evil she can't control.</desc>
+    <credits>
+      <actor>Jamie Lee Curtis</actor>
+      <actor>Andi Matichak</actor>
+      <actor>James Jude Courtney</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Hallowe'en</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20852955_i_h8_ad.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250929193000 +0200" stop="20250929213000 +0200" channel="syfy.us">
+    <title lang="en">The First Purge</title>
+    <desc lang="en">Violence and mayhem spread across the nation when the New Founding Fathers of America try a radical sociological experiment that allows citizens to vent their aggression for one night in an isolated community.</desc>
+    <credits>
+      <actor>Y'lan Noel</actor>
+      <actor>Lex Scott Davis</actor>
+      <actor>Joivan Wade</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13845790_i_s2_aa.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250929213000 +0200" stop="20250930010000 +0200" channel="syfy.us">
+    <title lang="en">2012</title>
+    <desc lang="en">Earth's billions of inhabitants are unaware that the planet has an expiration date. With the warnings of an American scientist, world leaders begin secret preparations for the survival of select members of society.</desc>
+    <credits>
+      <actor>John Cusack</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Amanda Peet</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p193479_p_v8_at.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVG</value>
@@ -13244,83 +15284,87 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250929080000 +0200" stop="20250929083000 +0200" channel="syfy.us">
-    <title lang="en">ALF</title>
-    <sub-title lang="en">Live and Let Die</sub-title>
-    <desc lang="en">ALF's attitude toward cats changes after his first encounter with kittens. With Max Wright and Anne Schedeen.</desc>
+  <programme start="20250930010000 +0200" stop="20250930040000 +0200" channel="syfy.us">
+    <title lang="en">Black Panther</title>
+    <desc lang="en">Black Panther's mettle as king gets tested when an old enemy draws him into a conflict that puts his nation and the world at risk. The king must soon rally his allies and release his full power to defeat his foes and secure the safety of his people.</desc>
     <credits>
-      <actor>Max Wright</actor>
-      <actor>Paul Fusco</actor>
-      <actor>Anne Schedeen</actor>
+      <actor>Chadwick Boseman</actor>
+      <actor>Michael B. Jordan</actor>
+      <actor>Lupita Nyong'o</actor>
     </credits>
-    <category lang="en">Sitcom</category>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12878741_i_h8_ac.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250930040000 +0200" stop="20250930060000 +0200" channel="syfy.us">
+    <title lang="en">Zombieland</title>
+    <desc lang="en">Survivors (Woody Harrelson, Jesse Eisenberg, Emma Stone) of a zombie apocalypse use creative means to dispatch the undead as they make their way toward a rumored safe haven in Los Angeles.</desc>
+    <credits>
+      <actor>Woody Harrelson</actor>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Emma Stone</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
     <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183925_b_s4_aa.jpg"/>
-    <episode-num system="onscreen">E4008</episode-num>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3532040_p_v8_ae.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250929083000 +0200" stop="20250929090000 +0200" channel="syfy.us">
-    <title lang="en">ALF</title>
-    <sub-title lang="en">Break Up to Make Up</sub-title>
-    <desc lang="en">Whizzer (Paul Dooley) comes face-to-face with ALF when he searches for Dorothy (Anne Meara) at the Tanners. With Max Wright.</desc>
+  <programme start="20250930060000 +0200" stop="20250930080000 +0200" channel="syfy.us">
+    <title lang="en">The Last Witch Hunter</title>
+    <desc lang="en">The fate of the human race hangs in the balance when the Witch Queen (Julie Engelbrecht) rises from the dead, seeking revenge against Kaulder (Vin Diesel), the immortal warrior who slayed her centuries ago.</desc>
     <credits>
-      <actor>Max Wright</actor>
-      <actor>Paul Fusco</actor>
-      <actor>Anne Schedeen</actor>
+      <actor>Vin Diesel</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Rose Leslie</actor>
     </credits>
-    <category lang="en">Sitcom</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183925_b_s4_aa.jpg"/>
-    <episode-num system="onscreen">E4009</episode-num>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11753508_k_h10_ab.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250929090000 +0200" stop="20250929093000 +0200" channel="syfy.us">
-    <title lang="en">NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <desc lang="en">Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29477991_i_h11_aa.jpg"/>
+  <programme start="20250930080000 +0200" stop="20250930100000 +0200" channel="syfy.us">
+    <title lang="en">Winchester</title>
+    <desc lang="en">Ensconced in her sprawling San Jose, California mansion, eccentric firearm heiress Sarah Winchester believes she is haunted by the souls of people killed by the Winchester repeating rifle.</desc>
+    <credits>
+      <actor>Helen Mirren</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Sarah Snook</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14477601_k_h10_aa.jpg"/>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>2.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250929093000 +0200" stop="20250929100000 +0200" channel="syfy.us">
-    <title lang="en">Car accident? Free Legal Consultation</title>
-    <desc lang="en">Legal professionals standing by to answer your questions.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23642783_st_h10_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250929100000 +0200" stop="20250929103000 +0200" channel="syfy.us">
-    <title lang="en">Explore the last of the Kennedy Half Dollar with CSN Mint!</title>
-    <desc lang="en">The U.S. Mint has announced they are changing the half dollar! Join your host Mike Mezack as we explore the final year of the Kennedy Half Dollar as we know it and get your opportunity to add them to your collection!</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20250929103000 +0200" stop="20250929110000 +0200" channel="syfy.us">
-    <title lang="en">Total Gym 50 Years of Moving You</title>
-    <desc lang="en">For years, Total Gym has been a leader in fitness, empowering millions to achieve their health goals. One piece of equipment does it all. Over 100 unique exercises. No assembly required. Folds for storing. Go to TotalGymDirect.com for special offers!</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28234501_st_v8_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250929110000 +0200" stop="20250929120000 +0200" channel="syfy.us">
-    <title lang="en">Who Has Access to Your Personal Data?</title>
-    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28553630_st_v8_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250929120000 +0200" stop="20250929123000 +0200" channel="syfy.us">
-    <title lang="en">24 Business Spotlight</title>
-    <category lang="en">Regular</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12106897_st_v8_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20250929123000 +0200" stop="20250929130000 +0200" channel="syfy.us">
+  <programme start="20250930100000 +0200" stop="20250930103000 +0200" channel="syfy.us">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.</desc>
     <category lang="en">Paid Program</category>
@@ -13331,40 +15375,91 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20250929130000 +0200" stop="20250929133000 +0200" channel="syfy.us">
-    <title lang="en">Just for Laughs Gags</title>
-    <desc lang="en">On this hidden-camera prank show, everyday people get caught up in gags with hilarious consequences.</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Reality TV</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12008947_b_v12_ab.jpg"/>
+  <programme start="20250930103000 +0200" stop="20250930110000 +0200" channel="syfy.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
-      <value>TVPG</value>
+      <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20250929133000 +0200" stop="20250929140000 +0200" channel="syfy.us">
-    <title lang="en">Just for Laughs Gags</title>
-    <desc lang="en">On this hidden-camera prank show, everyday people get caught up in gags with hilarious consequences.</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Reality TV</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12008947_b_v12_ab.jpg"/>
+  <programme start="20250930110000 +0200" stop="20250930113000 +0200" channel="syfy.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
-      <value>TVPG</value>
+      <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20250929140000 +0200" stop="20250929160000 +0200" channel="syfy.us">
-    <title lang="en">Naked Gun 33 1/3: The Final Insult</title>
-    <desc lang="en">Ed (George Kennedy) coaxes his "Police Squad" pal Frank (Leslie Nielsen) out of retirement to thwart a terrorist bombing.</desc>
+  <programme start="20250930113000 +0200" stop="20250930120000 +0200" channel="syfy.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250930120000 +0200" stop="20250930140000 +0200" channel="syfy.us">
+    <title lang="en">Winchester</title>
+    <desc lang="en">Ensconced in her sprawling San Jose, California mansion, eccentric firearm heiress Sarah Winchester believes she is haunted by the souls of people killed by the Winchester repeating rifle.</desc>
     <credits>
-      <actor>Leslie Nielsen</actor>
-      <actor>Priscilla Presley</actor>
-      <actor>George Kennedy</actor>
+      <actor>Helen Mirren</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Sarah Snook</actor>
     </credits>
-    <date>1994</date>
+    <date>2018</date>
     <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15493_i_h8_aa.jpg"/>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14477601_k_h10_aa.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>2.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250930140000 +0200" stop="20250930163000 +0200" channel="syfy.us">
+    <title lang="en">Looper</title>
+    <desc lang="en">A mob hit man (Joseph Gordon-Levitt) comes to the chilling realization that his latest assignment is his older self (Bruce Willis), sent back in time by his bosses.</desc>
+    <credits>
+      <actor>Bruce Willis</actor>
+      <actor>Joseph Gordon-Levitt</actor>
+      <actor>Emily Blunt</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9076140_k_s3_aa.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250930163000 +0200" stop="20250930200000 +0200" channel="syfy.us">
+    <title lang="en">2012</title>
+    <desc lang="en">Earth's billions of inhabitants are unaware that the planet has an expiration date. With the warnings of an American scientist, world leaders begin secret preparations for the survival of select members of society.</desc>
+    <credits>
+      <actor>John Cusack</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Amanda Peet</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p193479_p_v8_at.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVG</value>
@@ -13373,452 +15468,85 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250929160000 +0200" stop="20250929163000 +0200" channel="syfy.us">
-    <title lang="en">According to Jim</title>
-    <sub-title lang="en">The Race</sub-title>
-    <desc lang="en">Jim tries to teach Kyle a lesson about quitting by running a 10k marathon, but he ends up cheating in the race.</desc>
+  <programme start="20250930200000 +0200" stop="20250930220000 +0200" channel="syfy.us">
+    <title lang="en">The Last Witch Hunter</title>
+    <desc lang="en">The fate of the human race hangs in the balance when the Witch Queen (Julie Engelbrecht) rises from the dead, seeking revenge against Kaulder (Vin Diesel), the immortal warrior who slayed her centuries ago.</desc>
     <credits>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams</actor>
+      <actor>Vin Diesel</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Rose Leslie</actor>
     </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2526851_e_h10_ag.jpg"/>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11753508_k_h10_ab.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250929163000 +0200" stop="20250929170000 +0200" channel="syfy.us">
-    <title lang="en">According to Jim</title>
-    <sub-title lang="en">Anec-Don'ts</sub-title>
-    <desc lang="en">In an effort to outdo Cheryl's story about meeting Oprah, Jim makes up a story about his construction office catching fire.</desc>
+  <programme start="20250930220000 +0200" stop="20251001000000 +0200" channel="syfy.us">
+    <title lang="en">I, Frankenstein</title>
+    <desc lang="en">Still alive in modern times, Frankenstein's creature (Aaron Eckhart) becomes caught in the middle, as gargoyles and demons wage war for the souls of mankind.</desc>
     <credits>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Miranda Otto</actor>
     </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184750_b_v12_ak.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929170000 +0200" stop="20250929173000 +0200" channel="syfy.us">
-    <title lang="en">Last Man Standing</title>
-    <sub-title lang="en">Trick or Treat</sub-title>
-    <desc lang="en">Mike decides that everyone in the family should dress up like each other for the annual Halloween party, hoping to turn everyone against the holiday.</desc>
-    <credits>
-      <actor>Tim Allen</actor>
-      <actor>Nancy Travis</actor>
-      <actor>Molly Ephraim</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <category lang="en">Hallowe'en</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8679132_b_v12_at.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929173000 +0200" stop="20250929180000 +0200" channel="syfy.us">
-    <title lang="en">Last Man Standing</title>
-    <sub-title lang="en">A New Place for One of Our People</sub-title>
-    <desc lang="en">Mike attempts to teach Eve a hard lesson about life, but Eve's reaction throws Mike for a loop; Kyle attempts bartering to get Mandy an amazing wedding gift.</desc>
-    <credits>
-      <actor>Tim Allen</actor>
-      <actor>Nancy Travis</actor>
-      <actor>Molly Ephraim</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8679132_b_v12_at.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929180000 +0200" stop="20250929183000 +0200" channel="syfy.us">
-    <title lang="en">Last Man Standing</title>
-    <sub-title lang="en">Bridezilla vs. the Baxters</sub-title>
-    <desc lang="en">Mandy's volatile pre-wedding day behavior causes Ed to opt out of the festivities, leaving Mandy to find a new best man for Kyle.</desc>
-    <credits>
-      <actor>Tim Allen</actor>
-      <actor>Nancy Travis</actor>
-      <actor>Molly Ephraim</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8679132_b_v12_at.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929183000 +0200" stop="20250929190000 +0200" channel="syfy.us">
-    <title lang="en">Last Man Standing</title>
-    <sub-title lang="en">My Father the Car</sub-title>
-    <desc lang="en">Mike wants Chuck to sell him the car he recently inherited, but Joe is after the same thing; Kyle brings an ugly centerpiece for Thanksgiving dinner; Kristin and Ryan lay down the law after learning Eve's boyfriend stayed the night.</desc>
-    <credits>
-      <actor>Tim Allen</actor>
-      <actor>Nancy Travis</actor>
-      <actor>Molly Ephraim</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <category lang="en">Thanksgiving</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8679132_b_v12_at.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929190000 +0200" stop="20250929193000 +0200" channel="syfy.us">
-    <title lang="en">Bob Hearts Abishola</title>
-    <sub-title lang="en">Black Ice</sub-title>
-    <desc lang="en">On Valentine's Day, when it comes to showing affection, Bob and Abishola have to find a way to meet each other in the middle.</desc>
-    <credits>
-      <actor>Billy Gardell</actor>
-      <actor>Folake Olowofoyeku</actor>
-      <actor>Christine Ebersole</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17850322_e_h8_aa.jpg"/>
-    <episode-num system="onscreen">E15</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929193000 +0200" stop="20250929200000 +0200" channel="syfy.us">
-    <title lang="en">Bob Hearts Abishola</title>
-    <sub-title lang="en">An Afro and a Peugeot</sub-title>
-    <desc lang="en">Bob and Abishola are at odds over whether Dele is ready to get behind the wheel and decide to take matters into their own hands; Christina offers Douglas some work advice only to watch him claim her ideas as his own.</desc>
-    <credits>
-      <actor>Billy Gardell</actor>
-      <actor>Folake Olowofoyeku</actor>
-      <actor>Christine Ebersole</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23561890_e_s2_ac.jpg"/>
-    <episode-num system="onscreen">E70</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929200000 +0200" stop="20250929203000 +0200" channel="syfy.us">
-    <title lang="en">Man With a Plan</title>
-    <sub-title lang="en">Cabin Fever</sub-title>
-    <desc lang="en">When Adam accidentally invites Andi to go on the guys' annual trip, he tries to un-invite her, which only makes matters worse.</desc>
-    <credits>
-      <actor>Matt LeBlanc</actor>
-      <actor>Liza Snyder</actor>
-      <actor>Kevin Nealon</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12909853_b_v8_aa.jpg"/>
-    <episode-num system="onscreen">E313</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929203000 +0200" stop="20250929210000 +0200" channel="syfy.us">
-    <title lang="en">Man With a Plan</title>
-    <sub-title lang="en">Clean Country Living</sub-title>
-    <desc lang="en">Adam recruits Marcy to put Andi's snooty sister in her place when she comes for a visit.</desc>
-    <credits>
-      <actor>Matt LeBlanc</actor>
-      <actor>Liza Snyder</actor>
-      <actor>Kevin Nealon</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12909853_b_v8_aa.jpg"/>
-    <episode-num system="onscreen">E307</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929210000 +0200" stop="20250929213000 +0200" channel="syfy.us">
-    <title lang="en">According to Jim</title>
-    <sub-title lang="en">The Punch</sub-title>
-    <desc lang="en">Jim teaches Kyle to throw the perfect punch to defend himself against the school bully, but Kyle gets suspended for repeatedly hitting the other child.</desc>
-    <credits>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184750_b_v12_ak.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929213000 +0200" stop="20250929220000 +0200" channel="syfy.us">
-    <title lang="en">According to Jim</title>
-    <sub-title lang="en">Hoosier Daddy</sub-title>
-    <desc lang="en">Jim and Cheryl try to celebrate their 15th anniversary in an Indiana motel but must drive back to Chicago when Dana thinks she is in labor.</desc>
-    <credits>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184750_b_v12_ak.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929220000 +0200" stop="20250929223000 +0200" channel="syfy.us">
-    <title lang="en">According to Jim</title>
-    <sub-title lang="en">Guinea Pygmalion</sub-title>
-    <desc lang="en">Jim must pay for an expensive operation to keep the family's pet guinea pig alive.</desc>
-    <credits>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184750_b_v12_ak.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929223000 +0200" stop="20250929230000 +0200" channel="syfy.us">
-    <title lang="en">According to Jim</title>
-    <sub-title lang="en">All the Rage</sub-title>
-    <desc lang="en">Raging Jim accidentally backs into a police car while chasing a guy and chooses anger-management classes instead of paying the fine.</desc>
-    <credits>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184750_b_v12_ak.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250929230000 +0200" stop="20250929233000 +0200" channel="syfy.us">
-    <title lang="en">Home Improvement</title>
-    <sub-title lang="en">The Route of All Evil</sub-title>
-    <desc lang="en">Brad's paper route interferes with schoolwork, but he is afraid to quit.</desc>
-    <credits>
-      <actor>Tim Allen</actor>
-      <actor>Patricia Richardson</actor>
-      <actor>Earl Hindman</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183934_i_s4_ab.jpg"/>
-    <episode-num system="onscreen">E87</episode-num>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9366650_i_h10_ab.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVG</value>
     </rating>
+    <star-rating system="MPAA">
+      <value>2.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250929233000 +0200" stop="20250930000000 +0200" channel="syfy.us">
-    <title lang="en">Home Improvement</title>
-    <sub-title lang="en">Brother, Can You Spare a Hot Rod?</sub-title>
-    <desc lang="en">Tim can't think of a reason for selling his hot rod, except money; Randy tries to distance himself from Jill.</desc>
+  <programme start="20251001000000 +0200" stop="20251001020000 +0200" channel="syfy.us">
+    <title lang="en">Zombieland</title>
+    <desc lang="en">Survivors (Woody Harrelson, Jesse Eisenberg, Emma Stone) of a zombie apocalypse use creative means to dispatch the undead as they make their way toward a rumored safe haven in Los Angeles.</desc>
     <credits>
-      <actor>Tim Allen</actor>
-      <actor>Patricia Richardson</actor>
-      <actor>Earl Hindman</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Emma Stone</actor>
     </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1125286_e_s2_aa.jpg"/>
-    <episode-num system="onscreen">E89</episode-num>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3532040_p_v8_ae.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20251001020000 +0200" stop="20251001053000 +0200" channel="syfy.us">
+    <title lang="en">Black Panther: Wakanda Forever</title>
+    <desc lang="en">Queen Ramonda, Shuri, M'Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T'Challa's death.</desc>
+    <credits>
+      <actor>Letitia Wright</actor>
+      <actor>Angela Bassett</actor>
+      <actor>Lupita Nyong'o</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18958283_i_s2_ae.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVG</value>
     </rating>
-  </programme>
-  <programme start="20250930000000 +0200" stop="20250930003000 +0200" channel="syfy.us">
-    <title lang="en">Home Improvement</title>
-    <sub-title lang="en">Super Bowl Fever</sub-title>
-    <desc lang="en">Tim throws a Super Bowl party while Jill is bedridden with the flu.</desc>
-    <credits>
-      <actor>Tim Allen</actor>
-      <actor>Patricia Richardson</actor>
-      <actor>Earl Hindman</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1125287_e_s1_aa.jpg"/>
-    <episode-num system="onscreen">E92</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250930003000 +0200" stop="20250930010000 +0200" channel="syfy.us">
-    <title lang="en">Home Improvement</title>
-    <sub-title lang="en">Bachelor of the Year</sub-title>
-    <desc lang="en">Al (Richard Karn) is included among Detroit's sexiest bachelors, and the designation causes problems with Ilene (Sherry Hursey).</desc>
-    <credits>
-      <actor>Tim Allen</actor>
-      <actor>Patricia Richardson</actor>
-      <actor>Earl Hindman</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1125288_e_s2_aa.jpg"/>
-    <episode-num system="onscreen">E90</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250930010000 +0200" stop="20250930013000 +0200" channel="syfy.us">
-    <title lang="en">Last Man Standing</title>
-    <sub-title lang="en">Heavy Meddle</sub-title>
-    <desc lang="en">Mike and Vanessa disagree over how Eve should handle the situation when her boyfriend doesn't invite her to a family event; Kristin and Ryan doubt Mandy and Kyle's ability to find clues in an escape room.</desc>
-    <credits>
-      <actor>Tim Allen</actor>
-      <actor>Nancy Travis</actor>
-      <actor>Molly Ephraim</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8679132_b_v12_at.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250930013000 +0200" stop="20250930020000 +0200" channel="syfy.us">
-    <title lang="en">Last Man Standing</title>
-    <sub-title lang="en">Bad Heir Day</sub-title>
-    <desc lang="en">Mike and Vanessa think Mandy and Kyle should move out; Chuck relays some unexpected news about Kyle's absentee mom; Boyd might be embarrassed about being home-schooled.</desc>
-    <credits>
-      <actor>Tim Allen</actor>
-      <actor>Nancy Travis</actor>
-      <actor>Molly Ephraim</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8679132_b_v12_at.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250930020000 +0200" stop="20250930023000 +0200" channel="syfy.us">
-    <title lang="en">Last Man Standing</title>
-    <sub-title lang="en">Shadowboxing</sub-title>
-    <desc lang="en">At The Outdoor Man store, Mandy unintentionally causes a dispute between Chuck and Joe; thinking Vanessa needs to blow off some steam, Kristen and Eve invite her to their kickboxing class.</desc>
-    <credits>
-      <actor>Tim Allen</actor>
-      <actor>Nancy Travis</actor>
-      <actor>Molly Ephraim</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8679132_b_v12_at.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250930023000 +0200" stop="20250930030000 +0200" channel="syfy.us">
-    <title lang="en">Last Man Standing</title>
-    <sub-title lang="en">Welcome Baxter</sub-title>
-    <desc lang="en">Mike and Vanessa eagerly await Eve's return from the Air Force Academy; Ryan's anxiety about current events leads to a shocking announcement.</desc>
-    <credits>
-      <actor>Tim Allen</actor>
-      <actor>Nancy Travis</actor>
-      <actor>Héctor Elizondo</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8679132_b_v12_at.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250930030000 +0200" stop="20250930033000 +0200" channel="syfy.us">
-    <title lang="en">That '70s Show</title>
-    <sub-title lang="en">When the Levee Breaks</sub-title>
-    <desc lang="en">After Donna's dad leaves town for the weekend, she and Eric practice being married; Eric later tells Red he is engaged to Donna.</desc>
-    <credits>
-      <actor>Topher Grace</actor>
-      <actor>Mila Kunis</actor>
-      <actor>Ashton Kutcher</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184436_b_s2_ak.jpg"/>
-    <episode-num system="onscreen">E512</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250930033000 +0200" stop="20250930040000 +0200" channel="syfy.us">
-    <title lang="en">That '70s Show</title>
-    <sub-title lang="en">Whole Lotta Love</sub-title>
-    <desc lang="en">Red fires Eric from his job at Pricemart after hearing about his engagement; Nina invites Fez to spend the night with her.</desc>
-    <credits>
-      <actor>Topher Grace</actor>
-      <actor>Mila Kunis</actor>
-      <actor>Ashton Kutcher</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184436_b_s2_ak.jpg"/>
-    <episode-num system="onscreen">E513</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250930040000 +0200" stop="20250930043000 +0200" channel="syfy.us">
-    <title lang="en">That '70s Show</title>
-    <sub-title lang="en">Your Time Is Gonna Come</sub-title>
-    <desc lang="en">When Annette (guest star Jessica Simpson) visits Kelso, Jackie must conceal her jealousy from Hyde. Tom Poston and Betty White also guest star.</desc>
-    <credits>
-      <actor>Topher Grace</actor>
-      <actor>Mila Kunis</actor>
-      <actor>Ashton Kutcher</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184436_b_s2_ak.jpg"/>
-    <episode-num system="onscreen">E514</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250930043000 +0200" stop="20250930050000 +0200" channel="syfy.us">
-    <title lang="en">That '70s Show</title>
-    <sub-title lang="en">Babe, I'm Gonna Leave You</sub-title>
-    <desc lang="en">Hyde breaks up with Jackie when he realizes she still has feelings for Kelso. Betty White and Jessica Simpson guest star.</desc>
-    <credits>
-      <actor>Topher Grace</actor>
-      <actor>Mila Kunis</actor>
-      <actor>Ashton Kutcher</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2147518_e_h10_ac.jpg"/>
-    <episode-num system="onscreen">E515</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250930050000 +0200" stop="20250930053000 +0200" channel="syfy.us">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">Trucking Live in Front of a Fully Vaccinated Studio Audience: East Coast</sub-title>
-    <desc lang="en">The Conners continue to deal with the pandemic while navigating breakups and newfound sobriety, all while planning an upcoming wedding.</desc>
-    <credits>
-      <actor>John Goodman</actor>
-      <actor>Laurie Metcalf</actor>
-      <actor>Alicia Goranson</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg"/>
-    <episode-num system="onscreen">E404</episode-num>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250929000000 +0200" stop="20250929010000 +0200" channel="nbatv.us">
     <title lang="en">Open Court</title>
@@ -14271,6 +15999,616 @@
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
+  </programme>
+  <programme start="20250929040000 +0200" stop="20250929061500 +0200" channel="tnt.us">
+    <title lang="en">The Hunger Games: Mockingjay, Part 1</title>
+    <desc lang="en">After shattering the games forever, Katniss (Jennifer Lawrence) finds herself in District 13, fighting to save Peeta (Josh Hutcherson) and a nation moved by her courage.</desc>
+    <credits>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Josh Hutcherson</actor>
+      <actor>Liam Hemsworth</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10318081_i_h10_af.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250929061500 +0200" stop="20250929090000 +0200" channel="tnt.us">
+    <title lang="en">The Hunger Games: Mockingjay, Part 2</title>
+    <desc lang="en">Katniss faces mortal traps, deadly enemies and moral choices when she and her closest friends leave District 13 to assassinate President Snow and liberate the citizens of war-torn Panem.</desc>
+    <credits>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Josh Hutcherson</actor>
+      <actor>Liam Hemsworth</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10989172_i_s3_ad.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250929090000 +0200" stop="20250929100000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Superstar</sub-title>
+    <desc lang="en">Lilly gets new evidence in the 1973 murder of a young female tennis player who had won her high-profile match against the school's best male player just before her death.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184927_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E63</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250929100000 +0200" stop="20250929110000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Willkommen</sub-title>
+    <desc lang="en">When a theater owner discovers a.38 slug in a piece of set furniture that is not being used as a prop, Lilly and Jeffries reinvestigate a case involving the shooting of a local cabaret singer.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184927_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E64</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929110000 +0200" stop="20250929120000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Beautiful Little Fool</sub-title>
+    <desc lang="en">A woman researching her family history learns that her great-grandmother was murdered in 1929 and the case was never solved, prompting Lilly to take a look.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184927_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E65</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929120000 +0200" stop="20250929130000 +0200" channel="tnt.us">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">We All Scream for Ice Cream</sub-title>
+    <desc lang="en">An evil ice-cream man lures Prue and Phoebe into another dimension, where they are tricked into harming an innocent person.</desc>
+    <credits>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2134958_e_s2_aa.jpg"/>
+    <episode-num system="onscreen">E4300054</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929130000 +0200" stop="20250929140000 +0200" channel="tnt.us">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Blinded by the Whitelighter</sub-title>
+    <desc lang="en">The sisters battle a warlock who exterminates witches and takes their powers; an interfering "Whitelighter" causes friction between Piper and Leo.</desc>
+    <credits>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2134959_e_s2_aa.jpg"/>
+    <episode-num system="onscreen">E4300055</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250929140000 +0200" stop="20250929150000 +0200" channel="tnt.us">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Wrestling With Demons</sub-title>
+    <desc lang="en">When Prue discovers that her ex-boyfriend is mutating into a demon, she and her sisters battle for his soul in an underworld wrestling ring.</desc>
+    <credits>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2134960_e_h10_ad.jpg"/>
+    <episode-num system="onscreen">E4300056</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929150000 +0200" stop="20250929160000 +0200" channel="tnt.us">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Bride and Gloom</sub-title>
+    <desc lang="en">A warlock tricks Prue into marrying him in an effort to steal the Book of Shadows; Phoebe and Piper turn to the dark side and delight in their evil powers.</desc>
+    <credits>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2134961_e_h10_ad.jpg"/>
+    <episode-num system="onscreen">E4300057</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250929160000 +0200" stop="20250929170000 +0200" channel="tnt.us">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">Hibbing 911</sub-title>
+    <desc lang="en">Jody Mills (Kim Rhodes) is matched with an overeager partner during a mandatory sheriff's retreat; when a gruesome corpse is discovered, Jody calls Sam and Dean to help investigate.</desc>
+    <credits>
+      <actor>Jared Padalecki</actor>
+      <actor>Jensen Ackles</actor>
+      <actor>Misha Collins</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11262263_e_s3_aa.jpg"/>
+    <episode-num system="onscreen">E1008</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250929170000 +0200" stop="20250929180000 +0200" channel="tnt.us">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">The Things We Left Behind</sub-title>
+    <desc lang="en">When Castiel finds Jimmy's daughter in a group home, she persuades him to break her out; Crowley is faced with a big challenge.</desc>
+    <credits>
+      <actor>Jared Padalecki</actor>
+      <actor>Jensen Ackles</actor>
+      <actor>Misha Collins</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185113_b_v12_bh.jpg"/>
+    <episode-num system="onscreen">E1009</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250929180000 +0200" stop="20250929190000 +0200" channel="tnt.us">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">The Hunter Games</sub-title>
+    <desc lang="en">In search of a cure for the Mark of Cain, Castiel comes up with an idea that Sam does not support; as Rowena plots against Crowley, Castiel tries to make things right with Claire.</desc>
+    <credits>
+      <actor>Jared Padalecki</actor>
+      <actor>Jensen Ackles</actor>
+      <actor>Misha Collins</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185113_b_v12_bh.jpg"/>
+    <episode-num system="onscreen">E1011</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250929190000 +0200" stop="20250929200000 +0200" channel="tnt.us">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">There's No Place Like Home</sub-title>
+    <desc lang="en">When Sam comes across a video of Charlie attacking a district attorney, Dean thinks she has returned from Oz to hunt on her own.</desc>
+    <credits>
+      <actor>Jared Padalecki</actor>
+      <actor>Jensen Ackles</actor>
+      <actor>Misha Collins</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11410619_e_s2_aa.jpg"/>
+    <episode-num system="onscreen">E1010</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250929200000 +0200" stop="20250929210000 +0200" channel="tnt.us">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">About a Boy</sub-title>
+    <desc lang="en">Sam and Dean tackle a case where people vanish into thin air, leaving only their clothes behind; Dean becomes a victim.</desc>
+    <credits>
+      <actor>Jared Padalecki</actor>
+      <actor>Jensen Ackles</actor>
+      <actor>Misha Collins</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11429556_e_h10_ab.jpg"/>
+    <episode-num system="onscreen">E1012</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250929210000 +0200" stop="20250929231500 +0200" channel="tnt.us">
+    <title lang="en">The Hunger Games: Mockingjay, Part 1</title>
+    <desc lang="en">After shattering the games forever, Katniss (Jennifer Lawrence) finds herself in District 13, fighting to save Peeta (Josh Hutcherson) and a nation moved by her courage.</desc>
+    <credits>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Josh Hutcherson</actor>
+      <actor>Liam Hemsworth</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10318081_i_h10_af.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250929231500 +0200" stop="20250930020000 +0200" channel="tnt.us">
+    <title lang="en">The Hunger Games: Mockingjay, Part 2</title>
+    <desc lang="en">Katniss faces mortal traps, deadly enemies and moral choices when she and her closest friends leave District 13 to assassinate President Snow and liberate the citizens of war-torn Panem.</desc>
+    <credits>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Josh Hutcherson</actor>
+      <actor>Liam Hemsworth</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10989172_i_s3_ad.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250930020000 +0200" stop="20250930043000 +0200" channel="tnt.us">
+    <title lang="en">Meg 2: The Trench</title>
+    <desc lang="en">Jonas Taylor leads a research team on an exploratory dive into the deepest depths of the ocean. Pitted against colossal, prehistoric sharks and relentless environmental plunderers, they must outrun, outsmart and outswim their merciless predators.</desc>
+    <credits>
+      <actor>Jason Statham</actor>
+      <actor>Wu Jing</actor>
+      <actor>Sophia Cai</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21813617_k_h8_ab.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250930043000 +0200" stop="20250930070000 +0200" channel="tnt.us">
+    <title lang="en">Battleship</title>
+    <desc lang="en">A fleet of ships is forced to do battle with an armada of unknown origins in order to discover and thwart their destructive goals.</desc>
+    <credits>
+      <actor>Taylor Kitsch</actor>
+      <actor>Alexander Skarsgård</actor>
+      <actor>Rihanna</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8777089_p_v8_ab.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250930070000 +0200" stop="20250930080000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Death Penalty: Final Appeal</sub-title>
+    <desc lang="en">Days before his scheduled execution, a man Jeffries arrested in 1994 begs him to re-examine the case.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184927_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E66</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250930080000 +0200" stop="20250930090000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">The Hen House</sub-title>
+    <desc lang="en">A 1945 case involves an ambitious reporter demoted to writing trivial advice columns.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184927_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E67</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930090000 +0200" stop="20250930100000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">The River</sub-title>
+    <desc lang="en">A 1984 shooting case reopens when a new witness comes forward; Lilly follows a lead into the gambling world.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184927_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E68</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930100000 +0200" stop="20250930110000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Joseph</sub-title>
+    <desc lang="en">Lilly breaks procedural rules, putting herself and others in danger while investigating a drug counselor who was killed two days before he would testify against a student.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184927_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E69</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250930110000 +0200" stop="20250930120000 +0200" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Rampage</sub-title>
+    <desc lang="en">The case of two teens who killed themselves after a murderous rampage at a mall in 1995 reopens when evidence indicates there may have been a third shooter.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184927_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E70</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250930120000 +0200" stop="20250930130000 +0200" channel="tnt.us">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">The Good, the Bad and the Cursed</sub-title>
+    <desc lang="en">When Phoebe becomes caught up in a ghost town's violent past, Prue must travel back in time to rescue her sister from an appalling fate.</desc>
+    <credits>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184399_b_s4_aw.jpg"/>
+    <episode-num system="onscreen">E4300058</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930130000 +0200" stop="20250930140000 +0200" channel="tnt.us">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Just Harried</sub-title>
+    <desc lang="en">Piper's wedding day is jeopardized when Prue is arrested on suspicion of murder after her astral self engages in late-night shenanigans.</desc>
+    <credits>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184399_b_s4_aw.jpg"/>
+    <episode-num system="onscreen">E4300059</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930140000 +0200" stop="20250930150000 +0200" channel="tnt.us">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Death Takes a Halliwell</sub-title>
+    <desc lang="en">Prue staves off the Angel of Death while trying to save someone's life, but she ultimately comes to terms with the inevitable.</desc>
+    <credits>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184399_b_s4_aw.jpg"/>
+    <episode-num system="onscreen">E4300060</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930150000 +0200" stop="20250930160000 +0200" channel="tnt.us">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Pre-Witched</sub-title>
+    <desc lang="en">As Piper and Leo prepare to move out, the sisters remember what life was like before they found out they were the most powerful witches of all time.</desc>
+    <credits>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2134964_e_h10_ad.jpg"/>
+    <episode-num system="onscreen">E4300061</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250930160000 +0200" stop="20250930170000 +0200" channel="tnt.us">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">Halt &amp; Catch Fire</sub-title>
+    <desc lang="en">Dean and Sam race to stop a vengeful ghost who has been killing people through various electronic devices.</desc>
+    <credits>
+      <actor>Jared Padalecki</actor>
+      <actor>Jensen Ackles</actor>
+      <actor>Misha Collins</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11448191_e_h10_ab.jpg"/>
+    <episode-num system="onscreen">E1013</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250930170000 +0200" stop="20250930180000 +0200" channel="tnt.us">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">The Executioner's Song</sub-title>
+    <desc lang="en">Sam, Dean and Castiel must deal with Cain's (Timothy Omundson) return; Rowena and Crowley grow closer.</desc>
+    <credits>
+      <actor>Jared Padalecki</actor>
+      <actor>Jensen Ackles</actor>
+      <actor>Misha Collins</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185113_b_v12_bh.jpg"/>
+    <episode-num system="onscreen">E1014</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250930180000 +0200" stop="20250930190000 +0200" channel="tnt.us">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">The Things They Carried</sub-title>
+    <desc lang="en">Sam ignores Dean's directive and continues to search for a cure; a new murder case brings the brothers in contact with Cole -- who ends up being infected by a Khan worm that turns men into murderers.</desc>
+    <credits>
+      <actor>Jared Padalecki</actor>
+      <actor>Jensen Ackles</actor>
+      <actor>Misha Collins</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185113_b_v12_bh.jpg"/>
+    <episode-num system="onscreen">E1015</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250930190000 +0200" stop="20250930200000 +0200" channel="tnt.us">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">Paint It Black</sub-title>
+    <desc lang="en">Dean and Sam investigate grisly, identical suicides committed by various people with little in common; the brothers begin to suspect that a priest is involved.</desc>
+    <credits>
+      <actor>Jared Padalecki</actor>
+      <actor>Jensen Ackles</actor>
+      <actor>Misha Collins</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185113_b_v12_bh.jpg"/>
+    <episode-num system="onscreen">E1016</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250930200000 +0200" stop="20250930210000 +0200" channel="tnt.us">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">Inside Man</sub-title>
+    <desc lang="en">Castiel and Sam pursue a lead about the Mark of Cain; Rowena (Ruth Connell) and Dean have an encounter.</desc>
+    <credits>
+      <actor>Jared Padalecki</actor>
+      <actor>Jensen Ackles</actor>
+      <actor>Misha Collins</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185113_b_v12_bh.jpg"/>
+    <episode-num system="onscreen">E1017</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250930210000 +0200" stop="20250930233000 +0200" channel="tnt.us">
+    <title lang="en">Meg 2: The Trench</title>
+    <desc lang="en">Jonas Taylor leads a research team on an exploratory dive into the deepest depths of the ocean. Pitted against colossal, prehistoric sharks and relentless environmental plunderers, they must outrun, outsmart and outswim their merciless predators.</desc>
+    <credits>
+      <actor>Jason Statham</actor>
+      <actor>Wu Jing</actor>
+      <actor>Sophia Cai</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21813617_k_h8_ab.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250930233000 +0200" stop="20251001020000 +0200" channel="tnt.us">
+    <title lang="en">Fast &amp; Furious 6</title>
+    <desc lang="en">Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets convoluted also facing his presumed deceased girlfriend, Letty.</desc>
+    <credits>
+      <actor>Vin Diesel</actor>
+      <actor>Paul Walker</actor>
+      <actor>Dwayne Johnson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9573130_i_h10_ae.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20251001020000 +0200" stop="20251001043000 +0200" channel="tnt.us">
+    <title lang="en">Live: NHL Hockey</title>
+    <sub-title lang="en">Vegas Golden Knights at Colorado Avalanche</sub-title>
+    <desc lang="en">From Ball Arena in Denver.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191278_i_h8_ab.jpg"/>
   </programme>
   <programme start="20250929040000 +0000" stop="20250929060000 +0000" channel="sportklub1.rs">
     <title lang="sr">Sport Klub 1</title>
