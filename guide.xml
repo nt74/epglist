@@ -14448,18 +14448,18 @@
     </rating>
   </programme>
   <programme start="20251026110000 +0100" stop="20251026130000 +0100" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">Mystic Christmas</title>
-    <desc lang="en">A woman reconnects with the owner of a pizza shop while working at a rehabilitation center and aquarium during the holidays.</desc>
+    <title lang="en">Homegrown Christmas</title>
+    <desc lang="en">When forced to work together to organize a Christmas dance for the local high school, former sweethearts find themselves rediscovering what made them fall in love all those years ago.</desc>
     <credits>
-      <actor>Jessy Schram</actor>
-      <actor>Chandler Massey</actor>
-      <actor>Patti Murin</actor>
+      <actor>Lori Loughlin</actor>
+      <actor>Victor Webster</actor>
+      <actor>Gwynyth Walsh</actor>
     </credits>
-    <date>2023</date>
+    <date>2018</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
     <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25712718_k_h8_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16220740_k_s4_aa.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVG</value>
@@ -14717,14 +14717,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20251025123000 +0200" stop="20251025130000 +0200" channel="syfy.us">
-    <title lang="en">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
-    <desc lang="en">Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30074472_i_h8_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251025130000 +0200" stop="20251025133000 +0200" channel="syfy.us">
+  <programme start="20251025123000 +0200" stop="20251025133000 +0200" channel="syfy.us">
     <title lang="en">DraftKings Sportsbook Report</title>
     <desc lang="en">DraftKings Sportsbook, a top-rated sportsbook app!</desc>
     <category lang="en">Paid Program</category>
@@ -15849,53 +15842,45 @@
     <category lang="en">Sports</category>
     <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20251025220000 +0200" stop="20251025230000 +0200" channel="tnt.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">TBA</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg"/>
+  <programme start="20251025220000 +0200" stop="20251025233000 +0200" channel="tnt.us">
+    <title lang="en">Walking Tall</title>
+    <desc lang="en">When Chris Vaughn returns to his hometown to find work, he finds that the lumber mill has closed and the town's big business is now a casino. Aided by his friend Ray Templeton, Vaughn tries to make a stand against the area's crime and corruption.</desc>
+    <credits>
+      <actor>Dwayne Johnson</actor>
+      <actor>Johnny Knoxville</actor>
+      <actor>Neal McDonough</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p34259_k_s2_ab.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20251025230000 +0200" stop="20251026000000 +0200" channel="tnt.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">TBA</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg"/>
+  <programme start="20251025233000 +0200" stop="20251026020000 +0200" channel="tnt.us">
+    <title lang="en">Fast &amp; Furious 6</title>
+    <desc lang="en">Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets convoluted also facing his presumed deceased girlfriend, Letty.</desc>
+    <credits>
+      <actor>Vin Diesel</actor>
+      <actor>Paul Walker</actor>
+      <actor>Dwayne Johnson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9573130_i_h10_ae.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
-  </programme>
-  <programme start="20251026000000 +0200" stop="20251026010000 +0200" channel="tnt.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">TBA</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20251026010000 +0200" stop="20251026020000 +0200" channel="tnt.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">TBA</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20251026020000 +0200" stop="20251026030000 +0200" channel="tnt.us">
     <title lang="en">All Elite Wrestling: Collision</title>
