@@ -13348,14 +13348,7 @@
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267533_b_s4_ad.jpg"/>
   </programme>
-  <programme start="20251030000000 +0100" stop="20251030001200 +0100" channel="espn.us">
-    <title lang="en">Live: NBA Courtside</title>
-    <desc lang="en">An insight into upcoming National Basketball Association matches, highlighting the players to watch and the top team news.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815562_i_h8_aa.jpg"/>
-  </programme>
-  <programme start="20251030001200 +0100" stop="20251030023500 +0100" channel="espn.us">
+  <programme start="20251030000000 +0100" stop="20251030023500 +0100" channel="espn.us">
     <title lang="en">Live: NBA Basketball</title>
     <sub-title lang="en">Cleveland Cavaliers at Boston Celtics</sub-title>
     <desc lang="en">From TD Garden in Boston.</desc>
@@ -13732,7 +13725,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
   </programme>
   <programme start="20251030050000 +0100" stop="20251030053000 +0100" channel="espn2.us">
-    <title lang="en">Baseball Tonight</title>
+    <title lang="en">Live: Baseball Tonight</title>
     <desc lang="en">Nightly baseball news and highlights.</desc>
     <credits>
       <actor>Adnan Virk</actor>
@@ -13740,7 +13733,6 @@
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p337588_i_h8_ab.jpg"/>
-    <previously-shown/>
   </programme>
   <programme start="20251028010000 +0100" stop="20251028020000 +0100" channel="Hallmark Channel (East)">
     <title lang="en">Finding Mr. Christmas</title>
@@ -14458,22 +14450,25 @@
     </rating>
   </programme>
   <programme start="20251029050000 +0100" stop="20251029070000 +0100" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">Private Princess Christmas</title>
-    <desc lang="en">After failing in her royal duties, Princess Violet is sent to an American leadership training program where she makes and unexpected connection with the stoic instructor, Captain Ryan.</desc>
+    <title lang="en">November Christmas</title>
+    <desc lang="en">A community works together to help a couple bring an early Christmas to their sick 8-year-old daughter (Emily Alyn Lind).</desc>
     <credits>
-      <actor>Ali Skovbye</actor>
-      <actor>Derek Klena</actor>
-      <actor>Erica Durance</actor>
+      <actor>Sam Elliott</actor>
+      <actor>John Corbett</actor>
+      <actor>Sarah Paulson</actor>
     </credits>
-    <date>2024</date>
+    <date>2010</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
     <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28534899_i_h8_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8281195_p_v8_ax.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVG</value>
     </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20251029070000 +0100" stop="20251029090000 +0100" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Christmas in Evergreen</title>
@@ -14548,17 +14543,16 @@
     </rating>
   </programme>
   <programme start="20251029150000 +0100" stop="20251029170000 +0100" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">Fallen Angel</title>
-    <desc lang="en">Reluctantly returning to his hometown, a man (Gary Sinise) reconnects with a young woman (Joely Richardson) he knew as a child.</desc>
+    <title lang="en">Murder, She Baked</title>
+    <sub-title lang="en">A Plum Pudding Mystery</sub-title>
+    <desc lang="en">Hannah Swensen has her hands full with two romantic suitors, her baking business, a murdered customer, and the case to find her customer's killer.</desc>
     <credits>
-      <actor>Gary Sinise</actor>
-      <actor>Joely Richardson</actor>
-      <actor>Gordon Pinsent</actor>
+      <actor>Alison Sweeney</actor>
+      <actor>Cameron Mathison</actor>
+      <actor>Lisa Durupt</actor>
     </credits>
-    <date>2003</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33140_i_s2_aa.jpg"/>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15491583_i_h8_ab.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVPG</value>
@@ -17507,13 +17501,10 @@
     <desc lang="sr">ITALIJANSKA LIGA.</desc>
     <category lang="sr">Fudbal</category>
   </programme>
-  <programme start="20251028183000 +0100" stop="20251028203000 +0100" channel="arenasport2.rs">
-    <title lang="sr">Uživo: Heidenheim - HSV</title>
+  <programme start="20251028183000 +0100" stop="20251028204500 +0100" channel="arenasport2.rs">
+    <title lang="sr">Uživo: Eintracht Frankfurt - Borussia Dortmund</title>
     <desc lang="sr">NEMAČKI KUP.</desc>
     <category lang="sr">Fudbal</category>
-  </programme>
-  <programme start="20251028203000 +0100" stop="20251028204500 +0100" channel="arenasport2.rs">
-    <title lang="sr">Sportske igre mladih ep. 12</title>
   </programme>
   <programme start="20251028204500 +0100" stop="20251028230000 +0100" channel="arenasport2.rs">
     <title lang="sr">Uživo: Paris - Efes</title>
@@ -17560,15 +17551,21 @@
     <desc lang="sr">ITALIJANSKA LIGA.</desc>
     <category lang="sr">Fudbal</category>
   </programme>
-  <programme start="20251029120000 +0100" stop="20251029140000 +0100" channel="arenasport2.rs">
-    <title lang="sr">Athletic - Getafe</title>
-    <desc lang="sr">ŠPANSKA LIGA.</desc>
-    <category lang="sr">Fudbal</category>
+  <programme start="20251029120000 +0100" stop="20251029130000 +0100" channel="arenasport2.rs">
+    <title lang="sr">Shanghai - pregled turnira</title>
+    <desc lang="sr">ATP 1000.</desc>
+    <category lang="sr">Tenis</category>
   </programme>
-  <programme start="20251029140000 +0100" stop="20251029160000 +0100" channel="arenasport2.rs">
-    <title lang="sr">Napoli - Inter</title>
-    <desc lang="sr">ITALIJANSKA LIGA.</desc>
-    <category lang="sr">Fudbal</category>
+  <programme start="20251029130000 +0100" stop="20251029150000 +0100" channel="arenasport2.rs">
+    <title lang="sr">Uživo: Kecmanović - Cerundolo</title>
+    <desc lang="sr">ATP Masters - Paris.</desc>
+    <category lang="sr">Tenis</category>
+  </programme>
+  <programme start="20251029150000 +0100" stop="20251029153000 +0100" channel="arenasport2.rs">
+    <title lang="sr">Zona zdravog sporta</title>
+  </programme>
+  <programme start="20251029153000 +0100" stop="20251029160000 +0100" channel="arenasport2.rs">
+    <title lang="sr">Teme do Arene - Marko Nikolić</title>
   </programme>
   <programme start="20251029160000 +0100" stop="20251029180000 +0100" channel="arenasport2.rs">
     <title lang="sr">Uživo: Primorje - Radnički</title>
@@ -18298,7 +18295,7 @@
     <title lang="sr">Sportske igre mladih ep. 12</title>
   </programme>
   <programme start="20251029230000 +0100" stop="20251030010000 +0100" channel="arenasport7.rs">
-    <title lang="sr">Uralochka-NTMK - Dinamo Krasnodar</title>
+    <title lang="sr">Uralochka - Dinamo Krasnodar</title>
     <desc lang="sr">RUSKA LIGA (Ž).</desc>
     <category lang="sr">Odbojka</category>
   </programme>
