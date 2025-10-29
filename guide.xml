@@ -15748,18 +15748,16 @@
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20251031033000 +0100" stop="20251031040000 +0100" channel="nbatv.us">
+    <title lang="en">Live: The Association</title>
+    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251031040000 +0100" stop="20251031043000 +0100" channel="nbatv.us">
     <title lang="en">Coaches Corner</title>
     <desc lang="en">Host Tim Legler sits down for a one-on-one conversation with current NBA head coaches as they break down plays from past seasons and discuss team strategy and philosophy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20251031040000 +0100" stop="20251031043000 +0100" channel="nbatv.us">
-    <title lang="en">Inside Practice</title>
-    <sub-title lang="en">Denver Nuggets</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <episode-num system="onscreen">E1</episode-num>
     <previously-shown/>
   </programme>
   <programme start="20251031043000 +0100" stop="20251031050000 +0100" channel="nbatv.us">
@@ -16559,15 +16557,22 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/09/22/13/12/51/300x168_b579ad33_cf10_4c43_9514_972037bd73c2.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20251029100000 +0000" stop="20251029180000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters Paris &amp; WTA 250 Chennai &amp; WTA 250 Hong Kong &amp; WTA 250 Jiujiang</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20251029154500 +0000" stop="20251029180000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Paris: Musetti - Sonego</title>
+    <desc lang="sr">Ne propustite da gledate pariski ATP turnir. To je poslednji veliki turnir u sezoni, koji je deo ATP masters serije od 1990. godine i samim tim je jedan od devet najvažnijih turnira. Igra se na... (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/09/22/12/21/01/640x360_68e259d0_5a4f_4c8d_897d_7f4d497687a4.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/09/22/12/20/32/640x360_99e3e32a_ba1c_484b_868c_3cd0c4c72402.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20251029180000 +0000" stop="20251029214500 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Masters Paris</title>
+  <programme start="20251029180000 +0000" stop="20251029194500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Paris: Moutet - Bublik</title>
+    <desc lang="sr">Ne propustite da gledate pariski ATP turnir. To je poslednji veliki turnir u sezoni, koji je deo ATP masters serije od 1990. godine i samim tim je jedan od devet najvažnijih turnira. Igra se na... (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/09/22/12/20/32/640x360_99e3e32a_ba1c_484b_868c_3cd0c4c72402.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20251029194500 +0000" stop="20251029214500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Paris: Khachanov - Fonseca</title>
     <desc lang="sr">Ne propustite da gledate pariski ATP turnir. To je poslednji veliki turnir u sezoni, koji je deo ATP masters serije od 1990. godine i samim tim je jedan od devet najvažnijih turnira. Igra se na... (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/09/22/12/20/32/640x360_99e3e32a_ba1c_484b_868c_3cd0c4c72402.jpg"/>
@@ -16579,11 +16584,17 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/09/22/12/35/14/1920x1080_863fb0fa_3aa5_499a_82b5_1afa5315c2f4.jpg"/>
   </programme>
-  <programme start="20251029231500 +0000" stop="20251030013000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters Paris &amp; WTA 250 Chennai &amp; WTA 250 Hong Kong &amp; WTA 250 Jiujiang</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  <programme start="20251029231500 +0000" stop="20251030002000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Paris: Carabelli - Zverev</title>
+    <desc lang="sr">Ne propustite da gledate pariski ATP turnir. To je poslednji veliki turnir u sezoni, koji je deo ATP masters serije od 1990. godine i samim tim je jedan od devet najvažnijih turnira. Igra se na...</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/09/22/12/21/01/640x360_68e259d0_5a4f_4c8d_897d_7f4d497687a4.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/09/22/12/20/32/640x360_99e3e32a_ba1c_484b_868c_3cd0c4c72402.jpg"/>
+  </programme>
+  <programme start="20251030002000 +0000" stop="20251030013000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Paris: Bergs - Sinner</title>
+    <desc lang="sr">Ne propustite da gledate pariski ATP turnir. To je poslednji veliki turnir u sezoni, koji je deo ATP masters serije od 1990. godine i samim tim je jedan od devet najvažnijih turnira. Igra se na...</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/09/22/12/20/32/640x360_99e3e32a_ba1c_484b_868c_3cd0c4c72402.jpg"/>
   </programme>
   <programme start="20251030013000 +0000" stop="20251030041500 +0000" channel="sportklub2.rs">
     <title lang="sr">Košarka - NBA liga: Minnesota - LA Lakers</title>
@@ -17127,9 +17138,9 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
   </programme>
-  <programme start="20251029093000 +0000" stop="20251029173000 +0000" channel="sportklub5.rs">
-    <title lang="sr">WTA Tenis: WTA 250 Chennai &amp; WTA 250 Hong Kong &amp; WTA 250 Jiujiang</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA konkurenciji. Uživajte uz mečeve ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20251029130000 +0000" stop="20251029173000 +0000" channel="sportklub5.rs">
+    <title lang="sr">WTA 250 Chennai: Hontama/Omae - Bhamidipaty/Raina (parovi)</title>
+    <desc lang="sr">Pratite WTA 250 Chennai, teniski turnir za žene, koji se održava od 12. do 18. septembra 2022. godine u Chennaiju na jugu Indije. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/09/22/13/12/51/300x168_b579ad33_cf10_4c43_9514_972037bd73c2.jpg"/>
     <premiere/>
@@ -17141,7 +17152,7 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
   </programme>
   <programme start="20251029174500 +0000" stop="20251029194500 +0000" channel="sportklub5.rs">
-    <title lang="sr">ATP Masters Paris (UKLJUČENJE)</title>
+    <title lang="sr">ATP Masters Paris: Heliovaara/Patten - Nys/Vasselin (UKLJUČENJE)</title>
     <desc lang="sr">Ne propustite da gledate pariski ATP turnir. To je poslednji veliki turnir u sezoni, koji je deo ATP masters serije od 1990. godine i samim tim je jedan od devet najvažnijih turnira. Igra se na... (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/118bdb39-88b6-4c54-9e74-76dcfbedce3e/2025/09/22/12/20/32/640x360_99e3e32a_ba1c_484b_868c_3cd0c4c72402.jpg"/>
