@@ -13167,23 +13167,10 @@
     <category lang="en">Sports</category>
     <category lang="en">Volleyball</category>
   </programme>
-  <programme start="20251102230000 +0100" stop="20251103000000 +0100" channel="espn2.us">
-    <title lang="en">30 for 30</title>
-    <sub-title lang="en">The Day the Series Stopped</sub-title>
-    <desc lang="en">The San Francisco area is rocked by an earthquake shortly before the start of Game 3 of the 1989 World Series.</desc>
+  <programme start="20251102230000 +0100" stop="20251103013000 +0100" channel="espn2.us">
+    <title lang="en">Live: National Women's Soccer League Studio Show</title>
     <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11002482_b_s3_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251103000000 +0100" stop="20251103013000 +0100" channel="espn2.us">
-    <title lang="en">30 for 30</title>
-    <sub-title lang="en">Doc &amp; Darryl</sub-title>
-    <desc lang="en">A look at former New York Mets superstar pitcher Dwight "Doc" Gooden and power hitter Darryl Strawberry. They were stars on a team that captured the 1986 World Series, then broke the hearts of Mets fans when their lives spiraled out of control.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12908581_e_h10_ac.jpg"/>
-    <previously-shown/>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20251103013000 +0100" stop="20251103033000 +0100" channel="espn2.us">
     <title lang="en">APP Tour Pickleball</title>
@@ -13384,6 +13371,24 @@
     </rating>
   </programme>
   <programme start="20251102050100 +0100" stop="20251102080100 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">Christmas Wishes &amp; Mistletoe Kisses</title>
+    <desc lang="en">Weeks before Christmas, an interior designer is hired to decorate the estate of a wealthy businessman.</desc>
+    <credits>
+      <actor>Jill Wagner</actor>
+      <actor>Matthew Davis</actor>
+      <actor>Donna Mills</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17345992_i_s3_aa.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20251102080100 +0100" stop="20251102100000 +0100" channel="Hallmark Channel (East)">
     <title lang="en">A Cozy Christmas Inn</title>
     <desc lang="en">A real estate executive travels to Alaska during the holidays to acquire a bed-and-breakfast, only to discover it's owned by her ex. She's soon falling in love with the town and quite possibly him all over again.</desc>
     <credits>
@@ -13396,24 +13401,6 @@
     <category lang="en">Christmas</category>
     <category lang="en">Romance</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23062249_p_v12_aa.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20251102080100 +0100" stop="20251102100000 +0100" channel="Hallmark Channel (East)">
-    <title lang="en">A Fabled Holiday</title>
-    <desc lang="en">Talia and her childhood best friend unexpectedly reunite in a curiously familiar-looking town that's full of Christmas spirit.</desc>
-    <credits>
-      <actor>Brooke D'Orsay</actor>
-      <actor>Ryan Paevey</actor>
-      <actor>Daphne Hoskins</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Christmas</category>
-    <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23092441_i_h8_aa.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVG</value>
@@ -13438,24 +13425,6 @@
     </rating>
   </programme>
   <programme start="20251102120000 +0100" stop="20251102140000 +0100" channel="Hallmark Channel (East)">
-    <title lang="en">A Wish for Christmas</title>
-    <desc lang="en">Sara prefers to be on the sidelines at work until someone steals her big idea for a Christmas initiative. She makes a wish to Santa to gain the courage to stand up for herself, and he gives her 48 hours to discover how to speak her own mind.</desc>
-    <credits>
-      <actor>Lacey Chabert</actor>
-      <actor>Paul Greene</actor>
-      <actor>Andrea Brooks</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Christmas</category>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13139766_k_h10_aa.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20251102140000 +0100" stop="20251102160000 +0100" channel="Hallmark Channel (East)">
     <title lang="en">Window Wonderland</title>
     <desc lang="en">Two department store employees with secrets vie for the coveted window dressing job for the height of the Christmas shopping season. As the competition heats up, the two realize they have more in common than they thought.</desc>
     <credits>
@@ -13473,19 +13442,37 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20251102160000 +0100" stop="20251102180000 +0100" channel="Hallmark Channel (East)">
+  <programme start="20251102140000 +0100" stop="20251102160000 +0100" channel="Hallmark Channel (East)">
     <title lang="en">Pride, Prejudice and Mistletoe</title>
     <desc lang="en">When Darcy returns to her hometown for Christmas, and she reconnects with Luke, a former rival, they must plan a charity event together. As she spends time with her family and Luke, she starts to realize what matters most in life.</desc>
     <credits>
       <actor>Lacey Chabert</actor>
       <actor>Brendan Penny</actor>
-      <actor>Sherry Miller</actor>
+      <actor>Sheryl Miller</actor>
     </credits>
     <date>2018</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
     <category lang="en">Romance</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16070703_i_s3_aa.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20251102160000 +0100" stop="20251102180000 +0100" channel="Hallmark Channel (East)">
+    <title lang="en">Holiday Hotline</title>
+    <desc lang="en">After leaving London, Abby works for a cooking hotline and connects with an anonymous caller, a single father who Abby is unknowingly smitten with in real life.</desc>
+    <credits>
+      <actor>Emily Tennant</actor>
+      <actor>Niall Matter</actor>
+      <actor>Myla Volk</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25782983_st_v8_aa.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVG</value>
@@ -13714,22 +13701,19 @@
     </rating>
   </programme>
   <programme start="20251103200000 +0100" stop="20251103220000 +0100" channel="Hallmark Channel (East)">
-    <title lang="en">Miracle in Bethlehem, PA</title>
-    <desc lang="en">A single woman with a newly adopted baby gets stuck in Bethlehem, Pa.; with no room at the inn, she's forced to stay with a stranger who turns out to be the miracle she has needed.</desc>
+    <title lang="en">Christmas Under the Lights</title>
+    <desc lang="en">Emily reluctantly returns home to her family's rescue ranch to organize the Christmas Carnival and works with a handsome artist to honor her mother.</desc>
     <credits>
-      <actor>Laura Vandervoort</actor>
-      <actor>Benjamin Ayres</actor>
-      <actor>Amy Groening</actor>
+      <actor>Marco Grazzini</actor>
+      <actor>Heather Hemmens</actor>
+      <actor>Antonio Cayonne</actor>
     </credits>
-    <date>2023</date>
+    <date>2024</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
     <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25772903_i_s4_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28433518_i_h10_aa.jpg"/>
     <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20251103220000 +0100" stop="20251104000000 +0100" channel="Hallmark Channel (East)">
     <title lang="en">Deck the Halls on Cherry Lane</title>
@@ -13747,19 +13731,22 @@
     <previously-shown/>
   </programme>
   <programme start="20251104000000 +0100" stop="20251104020000 +0100" channel="Hallmark Channel (East)">
-    <title lang="en">Christmas Under the Lights</title>
-    <desc lang="en">Emily reluctantly returns home to her family's rescue ranch to organize the Christmas Carnival and works with a handsome artist to honor her mother.</desc>
+    <title lang="en">Miracle in Bethlehem, PA</title>
+    <desc lang="en">A single woman with a newly adopted baby gets stuck in Bethlehem, Pa.; with no room at the inn, she's forced to stay with a stranger who turns out to be the miracle she has needed.</desc>
     <credits>
-      <actor>Marco Grazzini</actor>
-      <actor>Heather Hemmens</actor>
-      <actor>Antonio Cayonne</actor>
+      <actor>Laura Vandervoort</actor>
+      <actor>Benjamin Ayres</actor>
+      <actor>Amy Groening</actor>
     </credits>
-    <date>2024</date>
+    <date>2023</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
     <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28433518_i_h10_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25772903_i_s4_aa.jpg"/>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20251104020000 +0100" stop="20251104030000 +0100" channel="Hallmark Channel (East)">
     <title lang="en">Finding Mr. Christmas</title>
@@ -14035,24 +14022,6 @@
     </rating>
   </programme>
   <programme start="20251103080000 +0100" stop="20251103100000 +0100" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">The Christmas Charade</title>
-    <desc lang="en">Facing another dull Christmas alone, sparks fly when a risk-averse librarian accidentally gets wrapped up with a grinchy FBI agent in an undercover mission to save the Heart of Christmas.</desc>
-    <credits>
-      <actor>Rachel Skarsten</actor>
-      <actor>Corey Sevier</actor>
-      <actor>Kristin Booth</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Christmas</category>
-    <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28450671_k_h8_aa.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20251103100000 +0100" stop="20251103120000 +0100" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Hitched for the Holidays</title>
     <desc lang="en">A man (Joey Lawrence) and a woman (Emily Hampshire) pose as a couple to fool their respective families.</desc>
     <credits>
@@ -14068,6 +14037,24 @@
     <previously-shown/>
     <rating system="MPAA">
       <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20251103100000 +0100" stop="20251103120000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">A Bride for Christmas</title>
+    <desc lang="en">Aiden (Andrew Walker) bets his friends that he can convince a woman to marry him by Christmas, and he sets his sights on Jessie (Arielle Kebbel), a young woman who has sworn off serious relationships.</desc>
+    <credits>
+      <actor>Arielle Kebbel</actor>
+      <actor>Andrew Walker</actor>
+      <actor>Sage Brocklebank</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9495753_p_v8_ad.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
     </rating>
   </programme>
   <programme start="20251103120000 +0100" stop="20251103140000 +0100" channel="Hallmark Movies and Mysteries HD">
@@ -14197,19 +14184,22 @@
     </rating>
   </programme>
   <programme start="20251104020000 +0100" stop="20251104040000 +0100" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">Happy Howlidays</title>
-    <desc lang="en">Mia, a meticulous webpage editor for the Seattle Tourism Board, finds herself unexpectedly navigating the holidays alone. As the only one working, she's drawn into an unusual encounter when she encounters a stray dog.</desc>
+    <title lang="en">A Godwink Christmas: Miracle of Love</title>
+    <desc lang="en">Joy and Eric find a new sense of purpose -- and get a chance at love -- as they work together to build a home for a family during Christmastime.</desc>
     <credits>
-      <actor>Jessica Lowndes</actor>
-      <actor>Ezra Moreland</actor>
-      <actor>Ella Cannon</actor>
+      <actor>Katherine Barrell</actor>
+      <actor>Alberto Frezza</actor>
+      <actor>Josh Ssettuba</actor>
     </credits>
-    <date>2024</date>
+    <date>2021</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28572792_b_h8_aa.jpg"/>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20909967_k_h8_aa.jpg"/>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20251102003000 +0100" stop="20251102032500 +0100" channel="syfy.us">
     <title lang="en">Pirates of the Caribbean: The Curse of the Black Pearl</title>
@@ -14320,25 +14310,37 @@
     </rating>
   </programme>
   <programme start="20251102123000 +0100" stop="20251102130000 +0100" channel="syfy.us">
-    <title lang="en">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
-    <desc lang="en">Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
     <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30074472_i_h8_aa.jpg"/>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg"/>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20251102130000 +0100" stop="20251102133000 +0100" channel="syfy.us">
-    <title lang="en">Who Has Access to Your Personal Data?</title>
-    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
     <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28553630_st_v8_aa.jpg"/>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg"/>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20251102133000 +0100" stop="20251102140000 +0100" channel="syfy.us">
-    <title lang="en">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
-    <desc lang="en">Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
     <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30074472_i_h8_aa.jpg"/>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg"/>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20251102140000 +0100" stop="20251102143000 +0100" channel="syfy.us">
     <title lang="en">The Twilight Zone</title>
@@ -14693,171 +14695,239 @@
     <previously-shown/>
   </programme>
   <programme start="20251102060000 +0100" stop="20251102063000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251102063000 +0100" stop="20251102090000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251102090000 +0100" stop="20251102113000 +0100" channel="nbatv.us">
-    <title lang="en">NBA Basketball</title>
-    <desc lang="en">Professional basketball action from the NBA.</desc>
+    <title lang="en">Coaches Corner</title>
+    <desc lang="en">Host Tim Legler sits down for a one-on-one conversation with current NBA head coaches as they break down plays from past seasons and discuss team strategy and philosophy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191276_b_s4_ag.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102063000 +0100" stop="20251102070000 +0100" channel="nbatv.us">
+    <title lang="en">Live: The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251102070000 +0100" stop="20251102073000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102073000 +0100" stop="20251102080000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102080000 +0100" stop="20251102083000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102083000 +0100" stop="20251102090000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102090000 +0100" stop="20251102093000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102093000 +0100" stop="20251102100000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102100000 +0100" stop="20251102103000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102103000 +0100" stop="20251102110000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102110000 +0100" stop="20251102113000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251102113000 +0100" stop="20251102120000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251102120000 +0100" stop="20251102123000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251102123000 +0100" stop="20251102130000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251102130000 +0100" stop="20251102133000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251102133000 +0100" stop="20251102140000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251102140000 +0100" stop="20251102143000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251102143000 +0100" stop="20251102150000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251102150000 +0100" stop="20251102153000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251102153000 +0100" stop="20251102160000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251102160000 +0100" stop="20251102163000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251102163000 +0100" stop="20251102170000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251102170000 +0100" stop="20251102190000 +0100" channel="nbatv.us">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9306016_b_v8_ac.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20251102190000 +0100" stop="20251102210000 +0100" channel="nbatv.us">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
+  <programme start="20251102170000 +0100" stop="20251102173000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9306016_b_v8_ac.jpg"/>
     <previously-shown/>
+  </programme>
+  <programme start="20251102173000 +0100" stop="20251102180000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102180000 +0100" stop="20251102200000 +0100" channel="nbatv.us">
+    <title lang="en">Game of the Night</title>
+    <desc lang="en">Game highlights from the game of the night in the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102200000 +0100" stop="20251102203000 +0100" channel="nbatv.us">
+    <title lang="en">Inside Practice</title>
+    <sub-title lang="en">Denver Nuggets</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <episode-num system="onscreen">E1</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20251102203000 +0100" stop="20251102210000 +0100" channel="nbatv.us">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">A weekly look back at the top news and highlights in the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p448615_b_v11_an.jpg"/>
+    <episode-num system="onscreen">E252602</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20251102210000 +0100" stop="20251102230000 +0100" channel="nbatv.us">
-    <title lang="en">NBA G League Basketball</title>
-    <desc lang="en">Basketball action of the NBA minor league.</desc>
+    <title lang="en">NBA Shot: Best Games of the Week</title>
+    <desc lang="en">Watch the best NBA games of the night in a condensed format.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14637408_b_h8_bb.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20251102230000 +0100" stop="20251103010000 +0100" channel="nbatv.us">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
+    <title lang="en">Game of the Night</title>
+    <desc lang="en">Game highlights from the game of the night in the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9306016_b_v8_ac.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20251103010000 +0100" stop="20251103030000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251103030000 +0100" stop="20251103033000 +0100" channel="nbatv.us">
-    <title lang="en">NBA TV Pregame Show</title>
-    <desc lang="en">Preview of tonight's game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267520_i_h10_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251103033000 +0100" stop="20251103060000 +0100" channel="nbatv.us">
-    <title lang="en">NBA Basketball</title>
-    <desc lang="en">Professional basketball action from the NBA.</desc>
+  <programme start="20251103010000 +0100" stop="20251103013000 +0100" channel="nbatv.us">
+    <title lang="en">Coaches Corner</title>
+    <desc lang="en">Host Tim Legler sits down for a one-on-one conversation with current NBA head coaches as they break down plays from past seasons and discuss team strategy and philosophy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191276_b_s4_ag.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20251103013000 +0100" stop="20251103020000 +0100" channel="nbatv.us">
+    <title lang="en">Coaches Corner</title>
+    <desc lang="en">Host Tim Legler sits down for a one-on-one conversation with current NBA head coaches as they break down plays from past seasons and discuss team strategy and philosophy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251103020000 +0100" stop="20251103040000 +0100" channel="nbatv.us">
+    <title lang="en">Live: The Association: Weekend</title>
+    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251103040000 +0100" stop="20251103060000 +0100" channel="nbatv.us">
+    <title lang="en">Hardwood Classics</title>
+    <sub-title lang="en">1985: Philadelphia 76ers vs. New York Knicks</sub-title>
+    <desc lang="en">From Oct. 26, 1985. Patrick Ewing's debut.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251103060000 +0100" stop="20251103063000 +0100" channel="nbatv.us">
