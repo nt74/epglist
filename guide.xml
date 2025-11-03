@@ -12649,11 +12649,12 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
   </programme>
   <programme start="20251103233000 +0100" stop="20251104000000 +0100" channel="espn.us">
-    <title lang="en">Live: Pardon the Interruption</title>
+    <title lang="en">Pardon the Interruption</title>
     <desc lang="en">Opinions regarding the day's top sports stories.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186288_b_h8_ag.jpg"/>
+    <previously-shown/>
   </programme>
   <programme start="20251104000000 +0100" stop="20251104020000 +0100" channel="espn.us">
     <title lang="en">Live: Monday Night Countdown</title>
@@ -12815,31 +12816,25 @@
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20251103050000 +0100" stop="20251103070000 +0100" channel="espn2.us">
-    <title lang="en">30 for 30</title>
-    <sub-title lang="en">Long Gone Summer</sub-title>
-    <desc lang="en">In the summer of 1998, the St. Louis Cardinals' Mark McGwire and the Chicago Cubs' Sammy Sosa embark on a chase of one of the game's most hallowed records, igniting the passion and imagination of fans and non-fans everywhere.</desc>
-    <credits>
-      <actor>Mark McGwire</actor>
-      <actor>Sammy Sosa</actor>
-    </credits>
-    <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18306133_b_s3_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251103070000 +0100" stop="20251103080000 +0100" channel="espn2.us">
-    <title lang="en">UFC Unleashed</title>
-    <sub-title lang="en">Best of Madison Square Garden</sub-title>
-    <desc lang="en">Features greatest moments from the UFC's vast library of fight footage.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Martial Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p308826_b_v12_ag.jpg"/>
-    <episode-num system="onscreen">E1805</episode-num>
+  <programme start="20251103013000 +0100" stop="20251103070000 +0100" channel="espn2.us">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <category lang="en">TBA</category>
+    <category lang="en">Specials</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
-      <value>TV14</value>
+      <value>TVPG</value>
     </rating>
+  </programme>
+  <programme start="20251103070000 +0100" stop="20251103080000 +0100" channel="espn2.us">
+    <title lang="en">UFC Archival</title>
+    <desc lang="en">Featuring some of the best UFC matches from the past.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16276051_b_h8_aa.jpg"/>
+    <previously-shown/>
   </programme>
   <programme start="20251103080000 +0100" stop="20251103100000 +0100" channel="espn2.us">
     <title lang="en">College Football</title>
@@ -12937,12 +12932,16 @@
     <previously-shown/>
   </programme>
   <programme start="20251104000000 +0100" stop="20251104010000 +0100" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <category lang="en">TBA</category>
+    <category lang="en">Specials</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg"/>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
   </programme>
   <programme start="20251104010000 +0100" stop="20251104020000 +0100" channel="espn2.us">
     <title lang="en">Live: SportsCenter</title>
@@ -13603,6 +13602,24 @@
     </rating>
   </programme>
   <programme start="20251103080000 +0100" stop="20251103100000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">The Christmas Charade</title>
+    <desc lang="en">Facing another dull Christmas alone, sparks fly when a risk-averse librarian accidentally gets wrapped up with a grinchy FBI agent in an undercover mission to save the Heart of Christmas.</desc>
+    <credits>
+      <actor>Rachel Skarsten</actor>
+      <actor>Corey Sevier</actor>
+      <actor>Kristin Booth</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28450671_k_h8_aa.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20251103100000 +0100" stop="20251103120000 +0100" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Hitched for the Holidays</title>
     <desc lang="en">A man (Joey Lawrence) and a woman (Emily Hampshire) pose as a couple to fool their respective families.</desc>
     <credits>
@@ -13618,24 +13635,6 @@
     <previously-shown/>
     <rating system="MPAA">
       <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20251103100000 +0100" stop="20251103120000 +0100" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">A Bride for Christmas</title>
-    <desc lang="en">Aiden (Andrew Walker) bets his friends that he can convince a woman to marry him by Christmas, and he sets his sights on Jessie (Arielle Kebbel), a young woman who has sworn off serious relationships.</desc>
-    <credits>
-      <actor>Arielle Kebbel</actor>
-      <actor>Andrew Walker</actor>
-      <actor>Sage Brocklebank</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Christmas</category>
-    <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9495753_p_v8_ad.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
     </rating>
   </programme>
   <programme start="20251103120000 +0100" stop="20251103140000 +0100" channel="Hallmark Movies and Mysteries HD">
@@ -13765,22 +13764,19 @@
     </rating>
   </programme>
   <programme start="20251104020000 +0100" stop="20251104040000 +0100" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">We Wish You a Married Christmas</title>
-    <desc lang="en">Taking advice from their marriage coach, a couple visit a quiet town to reconnect during Christmastime.</desc>
+    <title lang="en">Happy Howlidays</title>
+    <desc lang="en">Mia, a meticulous webpage editor for the Seattle Tourism Board, finds herself unexpectedly navigating the holidays alone. As the only one working, she's drawn into an unusual encounter when she encounters a stray dog.</desc>
     <credits>
-      <actor>Marisol Nichols</actor>
-      <actor>Kristoffer Polaha</actor>
-      <actor>Claude Knowlton</actor>
+      <actor>Jessica Lowndes</actor>
+      <actor>Ezra Moreland</actor>
+      <actor>Ella Cannon</actor>
     </credits>
-    <date>2022</date>
+    <date>2024</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
-    <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23062548_i_h10_aa.jpg"/>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28572792_b_h8_aa.jpg"/>
     <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20251104040000 +0100" stop="20251104060000 +0100" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Time for Him to Come Home for Christmas</title>
@@ -13819,22 +13815,25 @@
     </rating>
   </programme>
   <programme start="20251104080000 +0100" stop="20251104100000 +0100" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">Christmas in Evergreen: Bells Are Ringing</title>
-    <desc lang="en">As Michelle's wedding approaches, Hannah steps up to finish the new Evergreen museum's launch while questioning her future with Elliot.</desc>
+    <title lang="en">Christmas Song</title>
+    <desc lang="en">Romance blossoms between two music teachers (Natasha Henstridge, Gabriel Hogan) who compete for the same job.</desc>
     <credits>
-      <actor>Holly Robinson Peete</actor>
-      <actor>Rukiya Bernard</actor>
-      <actor>Antonio Cayonne</actor>
+      <actor>Natasha Henstridge</actor>
+      <actor>Gabriel Hogan</actor>
+      <actor>Amanda Thomson</actor>
     </credits>
-    <date>2020</date>
+    <date>2012</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
     <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18886543_k_s2_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9403955_p_v8_ac.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVG</value>
     </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20251104100000 +0100" stop="20251104120000 +0100" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Christmas List</title>
@@ -14896,38 +14895,18 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20251103063000 +0100" stop="20251103084500 +0100" channel="tnt.us">
-    <title lang="en">Major League</title>
-    <desc lang="en">Lackluster baseball players (Tom Berenger, Charlie Sheen, Corbin Bernsen) hear their Cleveland team's new owner is counting on them to lose.</desc>
+  <programme start="20251103063000 +0100" stop="20251103080000 +0100" channel="tnt.us">
+    <title lang="en">Walking Tall</title>
+    <desc lang="en">When Chris Vaughn returns to his hometown to find work, he finds that the lumber mill has closed and the town's big business is now a casino. Aided by his friend Ray Templeton, Vaughn tries to make a stand against the area's crime and corruption.</desc>
     <credits>
-      <actor>Tom Berenger</actor>
-      <actor>Charlie Sheen</actor>
-      <actor>Corbin Bernsen</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Johnny Knoxville</actor>
+      <actor>Neal McDonough</actor>
     </credits>
-    <date>1989</date>
+    <date>2004</date>
     <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11561_p_v8_ag.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20251103084500 +0100" stop="20251103110000 +0100" channel="tnt.us">
-    <title lang="en">Tag</title>
-    <desc lang="en">Five highly competitive friends hit the ground running for their yearly, no-holds-barred game of tag -- risking their necks, their jobs and their relationships to take one another down.</desc>
-    <credits>
-      <actor>Ed Helms</actor>
-      <actor>Jon Hamm</actor>
-      <actor>Jeremy Renner</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14909224_k_h10_aa.jpg"/>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p34259_k_s2_ab.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVPG</value>
@@ -14935,6 +14914,57 @@
     <star-rating system="MPAA">
       <value>4.0/10</value>
     </star-rating>
+  </programme>
+  <programme start="20251103080000 +0100" stop="20251103090000 +0100" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Gleen</sub-title>
+    <desc lang="en">A woman asks Lilly to investigate the murder of her fiance's first wife and points a finger at an inmate serving time for an unrelated crime.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>John Finn</actor>
+      <actor>Jeremy Ratchford</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184927_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E2</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20251103090000 +0100" stop="20251103100000 +0100" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Our Boy Is Back</sub-title>
+    <desc lang="en">A serial rapist sends a letter to the squad announcing his return to Philadelphia after five years and his plan to strike again.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>John Finn</actor>
+      <actor>Jeremy Ratchford</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184927_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E3</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20251103100000 +0100" stop="20251103110000 +0100" channel="tnt.us">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Churchgoing People</sub-title>
+    <desc lang="en">Lilly investigates the 1990 murder of a church organist who was found in an alley surrounded by crack vials and racy magazines.</desc>
+    <credits>
+      <actor>Kathryn Morris</actor>
+      <actor>John Finn</actor>
+      <actor>Jeremy Ratchford</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184927_b_v8_aa.jpg"/>
+    <episode-num system="onscreen">E4</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
   </programme>
   <programme start="20251103110000 +0100" stop="20251103120000 +0100" channel="tnt.us">
     <title lang="en">Cold Case</title>
@@ -15151,11 +15181,12 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25774187_i_s4_aa.jpg"/>
   </programme>
   <programme start="20251104010000 +0100" stop="20251104030000 +0100" channel="tnt.us">
-    <title lang="en">Live: College Basketball</title>
-    <sub-title lang="en">Florida vs. Arizona</sub-title>
-    <desc lang="en">The defending champion No. 3 Gators face the No. 13 Wildcats in Las Vegas. On April 7, Florida hung on to beat Houston 65-63 in the NCAA Tournament final to earn its third men's basketball championship, and first since back-to-back titles in 2006-07.</desc>
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">Arizona vs. Florida</sub-title>
+    <desc lang="en">From T-Mobile Arena in Las Vegas.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
+    <previously-shown/>
   </programme>
   <programme start="20251104030000 +0100" stop="20251104033000 +0100" channel="tnt.us">
     <title lang="en">College Basketball Studio Show</title>
@@ -15164,11 +15195,12 @@
     <previously-shown/>
   </programme>
   <programme start="20251104033000 +0100" stop="20251104053000 +0100" channel="tnt.us">
-    <title lang="en">Live: College Basketball</title>
+    <title lang="en">College Basketball</title>
     <sub-title lang="en">Villanova vs. BYU</sub-title>
-    <desc lang="en">The Wildcats go up against the No. 8 Cougars. BYU earned its highest preseason ranking in program history after posting a 26-10 record with a trip to the Sweet 16 in 2024-25. Consensus top 2025 recruit AJ Dybantsa (BYU) makes his college debut.</desc>
+    <desc lang="en">From T-Mobile Arena in Las Vegas.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
+    <previously-shown/>
   </programme>
   <programme start="20251104053000 +0100" stop="20251104060000 +0100" channel="tnt.us">
     <title lang="en">Live: CBB Hall of Fame Series Postgame</title>
