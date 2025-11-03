@@ -12816,31 +12816,25 @@
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20251103050000 +0100" stop="20251103070000 +0100" channel="espn2.us">
-    <title lang="en">30 for 30</title>
-    <sub-title lang="en">Long Gone Summer</sub-title>
-    <desc lang="en">In the summer of 1998, the St. Louis Cardinals' Mark McGwire and the Chicago Cubs' Sammy Sosa embark on a chase of one of the game's most hallowed records, igniting the passion and imagination of fans and non-fans everywhere.</desc>
-    <credits>
-      <actor>Mark McGwire</actor>
-      <actor>Sammy Sosa</actor>
-    </credits>
-    <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18306133_b_s3_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251103070000 +0100" stop="20251103080000 +0100" channel="espn2.us">
-    <title lang="en">UFC Unleashed</title>
-    <sub-title lang="en">Best of Madison Square Garden</sub-title>
-    <desc lang="en">Features greatest moments from the UFC's vast library of fight footage.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Martial Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p308826_b_v12_ag.jpg"/>
-    <episode-num system="onscreen">E1805</episode-num>
+  <programme start="20251103013000 +0100" stop="20251103070000 +0100" channel="espn2.us">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <category lang="en">TBA</category>
+    <category lang="en">Specials</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
-      <value>TV14</value>
+      <value>TVPG</value>
     </rating>
+  </programme>
+  <programme start="20251103070000 +0100" stop="20251103080000 +0100" channel="espn2.us">
+    <title lang="en">UFC Archival</title>
+    <desc lang="en">Featuring some of the best UFC matches from the past.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16276051_b_h8_aa.jpg"/>
+    <previously-shown/>
   </programme>
   <programme start="20251103080000 +0100" stop="20251103100000 +0100" channel="espn2.us">
     <title lang="en">College Football</title>
@@ -12938,12 +12932,16 @@
     <previously-shown/>
   </programme>
   <programme start="20251104000000 +0100" stop="20251104010000 +0100" channel="espn2.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <category lang="en">TBA</category>
+    <category lang="en">Specials</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg"/>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
   </programme>
   <programme start="20251104010000 +0100" stop="20251104020000 +0100" channel="espn2.us">
     <title lang="en">Live: SportsCenter</title>
@@ -12976,12 +12974,12 @@
     <previously-shown/>
   </programme>
   <programme start="20251104073000 +0100" stop="20251104093000 +0100" channel="espn2.us">
-    <title lang="en">ESPN Documentaries</title>
-    <sub-title lang="en">The Fab Five</sub-title>
-    <desc lang="en">The most amazing, moving and exciting stories in the world of sports.</desc>
+    <title lang="en">ESPN Films</title>
+    <sub-title lang="en">Fab Five</sub-title>
+    <desc lang="en">This film chronicles the recruitment, notorious time-out fiasco and cultural impact of the 1990s Michigan Wolverines men's basketball players known collectively as the Fab Five.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8417669_b_v12_ab.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12726071_e_h10_aa.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20251104093000 +0100" stop="20251104103000 +0100" channel="espn2.us">
@@ -13037,27 +13035,24 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186291_i_h8_ae.jpg"/>
   </programme>
   <programme start="20251104200000 +0100" stop="20251104203000 +0100" channel="espn2.us">
-    <title lang="en">College Football Live</title>
+    <title lang="en">Live: College Football Live</title>
     <desc lang="en">ESPN's daily college football show sharing reactions to the day's biggest stories and previews of each week's most important matchups. Kelsey Riggs and Jen Lada host alongside contributors Desmond Howard, Sam Acho, Greg McElroy and Pete Thamel.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p221266_i_s2_aa.jpg"/>
-    <previously-shown/>
   </programme>
   <programme start="20251104203000 +0100" stop="20251104210000 +0100" channel="espn2.us">
-    <title lang="en">ESPN BET Live</title>
+    <title lang="en">Live: ESPN BET Live</title>
     <desc lang="en">ESPN Sports Betting Analysts Erin Dolan and Joe Fortenbaugh, along with host Tyler Fulghum, break down the biggest storylines through the lens of sports betting, with breakdowns, discussions and picks.</desc>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26025567_i_h8_ab.jpg"/>
-    <previously-shown/>
   </programme>
   <programme start="20251104210000 +0100" stop="20251104220000 +0100" channel="espn2.us">
-    <title lang="en">NBA Today</title>
+    <title lang="en">Live: NBA Today</title>
     <desc lang="en">In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20706981_i_s2_ac.jpg"/>
-    <previously-shown/>
   </programme>
   <programme start="20251104220000 +0100" stop="20251105000000 +0100" channel="espn2.us">
     <title lang="en">Live: Women's College Basketball</title>
@@ -13067,36 +13062,29 @@
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191292_i_h8_aa.jpg"/>
   </programme>
-  <programme start="20251105000000 +0100" stop="20251105003000 +0100" channel="espn2.us">
-    <title lang="en">Live: SportsCenter</title>
+  <programme start="20251105000000 +0100" stop="20251105010000 +0100" channel="espn2.us">
+    <title lang="en">SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
-  </programme>
-  <programme start="20251105003000 +0100" stop="20251105010000 +0100" channel="espn2.us">
-    <title lang="en">Always College Football</title>
-    <desc lang="en">Greg McElroy explores the sport with the biggest names on and off the field. With off-seasons being a thing of the past, McElroy goes year-round with analysis, opinions and insight on top teams and under-the-radar stories from coast to coast.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27835759_b_h8_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20251105010000 +0100" stop="20251105020000 +0100" channel="espn2.us">
+  <programme start="20251105010000 +0100" stop="20251105040000 +0100" channel="espn2.us">
+    <title lang="en">Live: College Football</title>
+    <sub-title lang="en">Miami (Ohio) at Ohio</sub-title>
+    <desc lang="en">From Peden Stadium in Athens, Ohio.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG001EGRLH.jpg"/>
+  </programme>
+  <programme start="20251105040000 +0100" stop="20251105050000 +0100" channel="espn2.us">
     <title lang="en">NFL Live</title>
     <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267723_i_s4_ae.jpg"/>
     <previously-shown/>
-  </programme>
-  <programme start="20251105020000 +0100" stop="20251105050000 +0100" channel="espn2.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">Teams TBA</sub-title>
-    <desc lang="en">All the action from college football.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191261_i_h8_ag.jpg"/>
   </programme>
   <programme start="20251103000000 +0100" stop="20251103020000 +0100" channel="Hallmark Channel (East)">
     <title lang="en">Christmas on Duty</title>
@@ -13776,18 +13764,18 @@
     </rating>
   </programme>
   <programme start="20251104020000 +0100" stop="20251104040000 +0100" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">A Godwink Christmas: Miracle of Love</title>
-    <desc lang="en">Joy and Eric find a new sense of purpose -- and get a chance at love -- as they work together to build a home for a family during Christmastime.</desc>
+    <title lang="en">We Wish You a Married Christmas</title>
+    <desc lang="en">Taking advice from their marriage coach, a couple visit a quiet town to reconnect during Christmastime.</desc>
     <credits>
-      <actor>Katherine Barrell</actor>
-      <actor>Alberto Frezza</actor>
-      <actor>Josh Ssettuba</actor>
+      <actor>Marisol Nichols</actor>
+      <actor>Kristoffer Polaha</actor>
+      <actor>Claude Knowlton</actor>
     </credits>
-    <date>2021</date>
+    <date>2022</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
     <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20909967_k_h8_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23062548_i_h10_aa.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVG</value>
@@ -14657,219 +14645,209 @@
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20251104040000 +0100" stop="20251104043000 +0100" channel="nbatv.us">
+  <programme start="20251104040000 +0100" stop="20251104063000 +0100" channel="nbatv.us">
     <title lang="en">Live: NBA Basketball</title>
     <sub-title lang="en">Los Angeles Lakers at Portland Trail Blazers</sub-title>
     <desc lang="en">From Moda Center in Portland, Ore.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20251104043000 +0100" stop="20251104070000 +0100" channel="nbatv.us">
-    <title lang="en">NBA Basketball</title>
-    <desc lang="en">Professional basketball action from the NBA.</desc>
+  <programme start="20251104063000 +0100" stop="20251104070000 +0100" channel="nbatv.us">
+    <title lang="en">Coaches Corner</title>
+    <desc lang="en">Host Tim Legler sits down for a one-on-one conversation with current NBA head coaches as they break down plays from past seasons and discuss team strategy and philosophy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191276_b_s4_ag.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20251104070000 +0100" stop="20251104073000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">Inside Practice</title>
+    <sub-title lang="en">Golden State Warriors</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
+    <episode-num system="onscreen">E2</episode-num>
     <previously-shown/>
   </programme>
   <programme start="20251104073000 +0100" stop="20251104080000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">Live: The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
-    <previously-shown/>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20251104080000 +0100" stop="20251104083000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251104083000 +0100" stop="20251104090000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme start="20251104090000 +0100" stop="20251104113000 +0100" channel="nbatv.us">
-    <title lang="en">Center Court</title>
-    <desc lang="en">NBA TV's newest franchise featuring 20 live NBA games with enhanced viewing options throughout the 2019-20 season.</desc>
+  <programme start="20251104090000 +0100" stop="20251104093000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18087450_i_h8_aa.jpg"/>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251104093000 +0100" stop="20251104100000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251104100000 +0100" stop="20251104103000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251104103000 +0100" stop="20251104110000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251104110000 +0100" stop="20251104113000 +0100" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251104113000 +0100" stop="20251104120000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251104120000 +0100" stop="20251104123000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251104123000 +0100" stop="20251104130000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251104130000 +0100" stop="20251104133000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251104133000 +0100" stop="20251104140000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251104140000 +0100" stop="20251104143000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251104143000 +0100" stop="20251104150000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251104150000 +0100" stop="20251104153000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
+    <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
   <programme start="20251104153000 +0100" stop="20251104160000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251104160000 +0100" stop="20251104163000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251104163000 +0100" stop="20251104170000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251104170000 +0100" stop="20251104190000 +0100" channel="nbatv.us">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9306016_b_v8_ac.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20251104190000 +0100" stop="20251104210000 +0100" channel="nbatv.us">
-    <title lang="en">Game of the Day</title>
-    <desc lang="en">The best match-up of the week from around the NBA.</desc>
+  <programme start="20251104160000 +0100" stop="20251104180000 +0100" channel="nbatv.us">
+    <title lang="en">The Starting Lineup</title>
+    <desc lang="en">The best basketball talk with Frank Isola and Brian Scalabrine.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13302925_b_h10_aa.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20251104180000 +0100" stop="20251104200000 +0100" channel="nbatv.us">
+    <title lang="en">Game of the Night</title>
+    <desc lang="en">Game highlights from the game of the night in the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251104200000 +0100" stop="20251104203000 +0100" channel="nbatv.us">
+    <title lang="en">Real Training Camp</title>
+    <sub-title lang="en">Detroit Pistons</sub-title>
+    <desc lang="en">Go inside the gym with NBA coaches and players as they get ready for the new season in training camp.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20251104203000 +0100" stop="20251104210000 +0100" channel="nbatv.us">
+    <title lang="en">Inside Practice</title>
+    <sub-title lang="en">Denver Nuggets</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <episode-num system="onscreen">E1</episode-num>
     <previously-shown/>
   </programme>
   <programme start="20251104210000 +0100" stop="20251104220000 +0100" channel="nbatv.us">
-    <title lang="en">NBA Special</title>
-    <desc lang="en">A look at the NBA.</desc>
+    <title lang="en">Run It Back</title>
+    <desc lang="en">Michelle Beadle, Chandler Parsons and Lou Williams discuss the biggest NBA games, matchups and storylines from around the league.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17823017_i_s4_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23197216_b_h8_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20251104220000 +0100" stop="20251105000000 +0100" channel="nbatv.us">
-    <title lang="en">Game of the Day</title>
-    <desc lang="en">The best match-up of the week from around the NBA.</desc>
+  <programme start="20251104220000 +0100" stop="20251105010000 +0100" channel="nbatv.us">
+    <title lang="en">Live: NBA Today</title>
+    <desc lang="en">Justin Termine and Eddie Johnson talk basketball every afternoon.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13302925_b_h10_aa.jpg"/>
-    <previously-shown/>
   </programme>
-  <programme start="20251105000000 +0100" stop="20251105003000 +0100" channel="nbatv.us">
-    <title lang="en">#Handles</title>
-    <desc lang="en">Kristen Ledlow and Channing Frye engage with Twitter, Facebook and Instagram, sharing a social recap of the night's top highlights and storylines.</desc>
+  <programme start="20251105010000 +0100" stop="20251105013000 +0100" channel="nbatv.us">
+    <title lang="en">Coaches Corner</title>
+    <desc lang="en">Host Tim Legler sits down for a one-on-one conversation with current NBA head coaches as they break down plays from past seasons and discuss team strategy and philosophy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15980996_i_h8_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20251105003000 +0100" stop="20251105010000 +0100" channel="nbatv.us">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p815588_b_s4_an.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251105010000 +0100" stop="20251105030000 +0100" channel="nbatv.us">
-    <title lang="en">NBA G League Basketball</title>
-    <desc lang="en">Basketball action of the NBA minor league.</desc>
+  <programme start="20251105013000 +0100" stop="20251105043000 +0100" channel="nbatv.us">
+    <title lang="en">Live: The Association</title>
+    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14637408_b_h8_bb.jpg"/>
-    <previously-shown/>
   </programme>
-  <programme start="20251105030000 +0100" stop="20251105040000 +0100" channel="nbatv.us">
-    <title lang="en">NBA Special</title>
-    <desc lang="en">A look at the NBA.</desc>
+  <programme start="20251105043000 +0100" stop="20251105050000 +0100" channel="nbatv.us">
+    <title lang="en">Inside Practice</title>
+    <sub-title lang="en">Golden State Warriors</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17823017_i_s4_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251105040000 +0100" stop="20251105050000 +0100" channel="nbatv.us">
-    <title lang="en">NBA Special</title>
-    <desc lang="en">A look at the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17823017_i_s4_aa.jpg"/>
+    <episode-num system="onscreen">E2</episode-num>
     <previously-shown/>
   </programme>
   <programme start="20251105050000 +0100" stop="20251105053000 +0100" channel="nbatv.us">
