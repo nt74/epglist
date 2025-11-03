@@ -10942,37 +10942,37 @@
     <desc lang="el">Copa Sudamericana 2025. Ημιτελική Φάση, 2η Αγωνιστική. Περιγραφή: Πάρης Τσελεπίδης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20251104060000 +0200" stop="20251104091500 +0200" channel="cosmotesport3.gr">
+  <programme start="20251104060000 +0200" stop="20251104090500 +0200" channel="cosmotesport3.gr">
     <title lang="el">Αμερικάνικο Ποδόσφαιρο: Ουάσινγκτον Κομάντερς - Σιάτλ Σίχοκς</title>
     <desc lang="el">NFL 2025 - 26 - Κανονική διάρκεια. 9η Αγωνιστική.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20251104091500 +0200" stop="20251104111500 +0200" channel="cosmotesport3.gr">
+  <programme start="20251104090500 +0200" stop="20251104110500 +0200" channel="cosmotesport3.gr">
     <title lang="el">Ποδόσφαιρο: Ρίο Άβε - Εστορίλ</title>
     <desc lang="el">Liga Portugal Betclic 2025-26. 10η Αγωνιστική. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20251104111500 +0200" stop="20251104131500 +0200" channel="cosmotesport3.gr">
+  <programme start="20251104110500 +0200" stop="20251104131000 +0200" channel="cosmotesport3.gr">
     <title lang="el">Ποδόσφαιρο: Μάδεργουελ - Σεντ Μίρεν</title>
     <desc lang="el">Premier Sports Cup 2025-26. 1ος Ημιτελικός. Το League Cup αποτελεί τη δεύτερη κατά σειρά διοργάνωση με το μεγαλύτερο πρεστίζ στη Σκωτία. Περιγραφή: Δημήτρης Ξαρλής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20251104131500 +0200" stop="20251104151500 +0200" channel="cosmotesport3.gr">
+  <programme start="20251104131000 +0200" stop="20251104151000 +0200" channel="cosmotesport3.gr">
     <title lang="el">Ποδόσφαιρο: ΚΠΡ - Ίπσουιτς</title>
     <desc lang="el">Sky Bet EFL Championship 2025-26. 13η Αγωνιστική. Περιγραφή: Τόλης Χριστοφοράκης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20251104151500 +0200" stop="20251104171500 +0200" channel="cosmotesport3.gr">
+  <programme start="20251104151000 +0200" stop="20251104171000 +0200" channel="cosmotesport3.gr">
     <title lang="el">Ποδόσφαιρο: Πόρτο - Μπράγκα</title>
     <desc lang="el">Liga Portugal Betclic 2025-26. 10η Αγωνιστική. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20251104171500 +0200" stop="20251104191500 +0200" channel="cosmotesport3.gr">
+  <programme start="20251104171000 +0200" stop="20251104191000 +0200" channel="cosmotesport3.gr">
     <title lang="el">Ποδόσφαιρο: Πάφος - ΑΕΛ Λεμεσού</title>
     <desc lang="el">Cyprus League by Stoiximan 2025-26. 9η Αγωνιστική. Περιγραφή: Δημήτρης Ξαρλής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20251104191500 +0200" stop="20251104194500 +0200" channel="cosmotesport3.gr">
+  <programme start="20251104191000 +0200" stop="20251104194500 +0200" channel="cosmotesport3.gr">
     <title lang="el">William Hill Scottish Premiership - Στιγμιότυπα</title>
     <desc lang="el">Δείτε τις καλύτερες στιγμές από την 1η κατηγορία του σκωτσέζικου ποδοσφαίρου, της δεύτερης παλαιότερης λίγκας στην Ευρώπη.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
@@ -12815,25 +12815,31 @@
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20251103013000 +0100" stop="20251103070000 +0100" channel="espn2.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">TBA</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg"/>
+  <programme start="20251103050000 +0100" stop="20251103070000 +0100" channel="espn2.us">
+    <title lang="en">30 for 30</title>
+    <sub-title lang="en">Long Gone Summer</sub-title>
+    <desc lang="en">In the summer of 1998, the St. Louis Cardinals' Mark McGwire and the Chicago Cubs' Sammy Sosa embark on a chase of one of the game's most hallowed records, igniting the passion and imagination of fans and non-fans everywhere.</desc>
+    <credits>
+      <actor>Mark McGwire</actor>
+      <actor>Sammy Sosa</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18306133_b_s3_aa.jpg"/>
     <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
   </programme>
   <programme start="20251103070000 +0100" stop="20251103080000 +0100" channel="espn2.us">
-    <title lang="en">UFC Archival</title>
-    <desc lang="en">Featuring some of the best UFC matches from the past.</desc>
+    <title lang="en">UFC Unleashed</title>
+    <sub-title lang="en">Best of Madison Square Garden</sub-title>
+    <desc lang="en">Features greatest moments from the UFC's vast library of fight footage.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Martial Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16276051_b_h8_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p308826_b_v12_ag.jpg"/>
+    <episode-num system="onscreen">E1805</episode-num>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
   </programme>
   <programme start="20251103080000 +0100" stop="20251103100000 +0100" channel="espn2.us">
     <title lang="en">College Football</title>
@@ -12931,16 +12937,12 @@
     <previously-shown/>
   </programme>
   <programme start="20251104000000 +0100" stop="20251104010000 +0100" channel="espn2.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">TBA</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg"/>
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
     <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
   </programme>
   <programme start="20251104010000 +0100" stop="20251104020000 +0100" channel="espn2.us">
     <title lang="en">Live: SportsCenter</title>
@@ -13254,19 +13256,22 @@
     </rating>
   </programme>
   <programme start="20251103200000 +0100" stop="20251103220000 +0100" channel="Hallmark Channel (East)">
-    <title lang="en">Christmas Under the Lights</title>
-    <desc lang="en">Emily reluctantly returns home to her family's rescue ranch to organize the Christmas Carnival and works with a handsome artist to honor her mother.</desc>
+    <title lang="en">Miracle in Bethlehem, PA</title>
+    <desc lang="en">A single woman with a newly adopted baby gets stuck in Bethlehem, Pa.; with no room at the inn, she's forced to stay with a stranger who turns out to be the miracle she has needed.</desc>
     <credits>
-      <actor>Marco Grazzini</actor>
-      <actor>Heather Hemmens</actor>
-      <actor>Antonio Cayonne</actor>
+      <actor>Laura Vandervoort</actor>
+      <actor>Benjamin Ayres</actor>
+      <actor>Amy Groening</actor>
     </credits>
-    <date>2024</date>
+    <date>2023</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
     <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28433518_i_h10_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25772903_i_s4_aa.jpg"/>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20251103220000 +0100" stop="20251104000000 +0100" channel="Hallmark Channel (East)">
     <title lang="en">Deck the Halls on Cherry Lane</title>
@@ -13284,22 +13289,19 @@
     <previously-shown/>
   </programme>
   <programme start="20251104000000 +0100" stop="20251104020000 +0100" channel="Hallmark Channel (East)">
-    <title lang="en">Miracle in Bethlehem, PA</title>
-    <desc lang="en">A single woman with a newly adopted baby gets stuck in Bethlehem, Pa.; with no room at the inn, she's forced to stay with a stranger who turns out to be the miracle she has needed.</desc>
+    <title lang="en">Christmas Under the Lights</title>
+    <desc lang="en">Emily reluctantly returns home to her family's rescue ranch to organize the Christmas Carnival and works with a handsome artist to honor her mother.</desc>
     <credits>
-      <actor>Laura Vandervoort</actor>
-      <actor>Benjamin Ayres</actor>
-      <actor>Amy Groening</actor>
+      <actor>Marco Grazzini</actor>
+      <actor>Heather Hemmens</actor>
+      <actor>Antonio Cayonne</actor>
     </credits>
-    <date>2023</date>
+    <date>2024</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
     <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25772903_i_s4_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28433518_i_h10_aa.jpg"/>
     <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20251104020000 +0100" stop="20251104030000 +0100" channel="Hallmark Channel (East)">
     <title lang="en">Finding Mr. Christmas</title>
@@ -13481,18 +13483,18 @@
     </rating>
   </programme>
   <programme start="20251104220000 +0100" stop="20251105000000 +0100" channel="Hallmark Channel (East)">
-    <title lang="en">A Godwink Christmas: Miracle of Love</title>
-    <desc lang="en">Joy and Eric find a new sense of purpose -- and get a chance at love -- as they work together to build a home for a family during Christmastime.</desc>
+    <title lang="en">Checkin' It Twice</title>
+    <desc lang="en">Sparks fly between a hockey player and a real estate agent after he moves into a cottage in her family's backyard.</desc>
     <credits>
-      <actor>Katherine Barrell</actor>
-      <actor>Alberto Frezza</actor>
-      <actor>Josh Ssettuba</actor>
+      <actor>Kim Matula</actor>
+      <actor>Kevin McGarry</actor>
+      <actor>Brittany Mitchell</actor>
     </credits>
-    <date>2021</date>
+    <date>2023</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
     <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20909967_k_h8_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25712504_i_s4_aa.jpg"/>
     <previously-shown/>
     <rating system="MPAA">
       <value>TVG</value>
@@ -13601,24 +13603,6 @@
     </rating>
   </programme>
   <programme start="20251103080000 +0100" stop="20251103100000 +0100" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">The Christmas Charade</title>
-    <desc lang="en">Facing another dull Christmas alone, sparks fly when a risk-averse librarian accidentally gets wrapped up with a grinchy FBI agent in an undercover mission to save the Heart of Christmas.</desc>
-    <credits>
-      <actor>Rachel Skarsten</actor>
-      <actor>Corey Sevier</actor>
-      <actor>Kristin Booth</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Christmas</category>
-    <category lang="en">Romance</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28450671_k_h8_aa.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20251103100000 +0100" stop="20251103120000 +0100" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Hitched for the Holidays</title>
     <desc lang="en">A man (Joey Lawrence) and a woman (Emily Hampshire) pose as a couple to fool their respective families.</desc>
     <credits>
@@ -13634,6 +13618,24 @@
     <previously-shown/>
     <rating system="MPAA">
       <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20251103100000 +0100" stop="20251103120000 +0100" channel="Hallmark Movies and Mysteries HD">
+    <title lang="en">A Bride for Christmas</title>
+    <desc lang="en">Aiden (Andrew Walker) bets his friends that he can convince a woman to marry him by Christmas, and he sets his sights on Jessie (Arielle Kebbel), a young woman who has sworn off serious relationships.</desc>
+    <credits>
+      <actor>Arielle Kebbel</actor>
+      <actor>Andrew Walker</actor>
+      <actor>Sage Brocklebank</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9495753_p_v8_ad.jpg"/>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
     </rating>
   </programme>
   <programme start="20251103120000 +0100" stop="20251103140000 +0100" channel="Hallmark Movies and Mysteries HD">
@@ -13763,19 +13765,22 @@
     </rating>
   </programme>
   <programme start="20251104020000 +0100" stop="20251104040000 +0100" channel="Hallmark Movies and Mysteries HD">
-    <title lang="en">Happy Howlidays</title>
-    <desc lang="en">Mia, a meticulous webpage editor for the Seattle Tourism Board, finds herself unexpectedly navigating the holidays alone. As the only one working, she's drawn into an unusual encounter when she encounters a stray dog.</desc>
+    <title lang="en">We Wish You a Married Christmas</title>
+    <desc lang="en">Taking advice from their marriage coach, a couple visit a quiet town to reconnect during Christmastime.</desc>
     <credits>
-      <actor>Jessica Lowndes</actor>
-      <actor>Ezra Moreland</actor>
-      <actor>Ella Cannon</actor>
+      <actor>Marisol Nichols</actor>
+      <actor>Kristoffer Polaha</actor>
+      <actor>Claude Knowlton</actor>
     </credits>
-    <date>2024</date>
+    <date>2022</date>
     <category lang="en">Movies</category>
     <category lang="en">Christmas</category>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28572792_b_h8_aa.jpg"/>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23062548_i_h10_aa.jpg"/>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20251104040000 +0100" stop="20251104060000 +0100" channel="Hallmark Movies and Mysteries HD">
     <title lang="en">Time for Him to Come Home for Christmas</title>
