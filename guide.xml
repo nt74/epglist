@@ -11284,17 +11284,12 @@
     <desc lang="el">Sky Bet EFL Championship 2025-26. 16η Αγωνιστική. Περιγραφή: Μιχάλης Τσόχος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20251123120000 +0200" stop="20251123140000 +0200" channel="cosmotesport3.gr">
+  <programme start="20251123120000 +0200" stop="20251123135500 +0200" channel="cosmotesport3.gr">
     <title lang="el">Ποδόσφαιρο: Αλ Χιλάλ - Αλ Φατέχ</title>
     <desc lang="el">Roshn Saudi League 2025-26. 9η Αγωνιστική. Περιγραφή: Ανδρέας Σερεβέτας.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
-  <programme start="20251123140000 +0200" stop="20251123143000 +0200" channel="cosmotesport3.gr">
-    <title lang="el">Emirates FA Cup 2025-26 - Στιγμιότυπα</title>
-    <desc lang="el">1ος Γύρος. Παρακολουθήστε τις καλύτερες στιγμές του Κυπέλλου Αγγλίας.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
-  </programme>
-  <programme start="20251123143000 +0200" stop="20251123170000 +0200" channel="cosmotesport3.gr">
+  <programme start="20251123135500 +0200" stop="20251123170000 +0200" channel="cosmotesport3.gr">
     <title lang="el">Ποδόσφαιρο: Λανούς - Ατλέτικο Μινέιρο</title>
     <desc lang="el">Copa Sudamericana 2025. Τελικός. Περιγραφή: Δημήτρης Ξαρλής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
