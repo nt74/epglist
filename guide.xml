@@ -12935,23 +12935,14 @@
     <category lang="en">Football</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191261_i_h8_ag.jpg"/>
   </programme>
-  <programme start="20251123040000 +0100" stop="20251123045500 +0100" channel="espn.us">
-    <title lang="en">Formula 1 Grand Prix Sunday</title>
-    <sub-title lang="en">Las Vegas Grand Prix</sub-title>
-    <desc lang="en">Featuring pre-race predictions and analysis leading up to today's Formula 1 racing action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17998968_b_s2_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20251123045500 +0100" stop="20251123070000 +0100" channel="espn.us">
+  <programme start="20251123045100 +0100" stop="20251123065600 +0100" channel="espn.us">
     <title lang="en">Live: Formula 1 Racing</title>
     <sub-title lang="en">Las Vegas Grand Prix</sub-title>
     <desc lang="en">The Formula One grid returns to Sin City for the Las Vegas Grand Prix under the lights at the Las Vegas Strip Circuit. Lando Norris looks to build on his 24-point advantage over McLaren teammate Oscar Piastri. George Russell won this race in 2024.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Auto Racing</category>
   </programme>
-  <programme start="20251123070000 +0100" stop="20251123080000 +0100" channel="espn.us">
+  <programme start="20251123065600 +0100" stop="20251123080000 +0100" channel="espn.us">
     <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
