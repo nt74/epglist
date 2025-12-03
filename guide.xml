@@ -12079,7 +12079,7 @@
     <icon src="https://www.ishow.gr/files/images/2025/12/1073d2ce-2b36-4b6d-a76b-223019aa080f.png"/>
   </programme>
   <programme start="20251204200000 +0200" stop="20251204220000 +0200" channel="novasports1.gr">
-    <title lang="el">Μπολόνια - Πάρμα (Ζ) : Coppa Italia 2025/26</title>
+    <title lang="el">Μπολόνια - Πάρμα : Coppa Italia 2025/26</title>
     <desc lang="el">Coppa Italia 2025/26. H Μπολόνια και η Πάρμα συγκρούονται στη φάση των 16 του θεσμού σε μία δυνατή μάχη επιπέδου Serie A. Το ματς είναι νοκ άουτ και σε περίπτωση ισοπαλίας ακολουθεί παράταση και, αν.</desc>
     <icon src="https://www.ishow.gr/files/images/2025/12/7e11c777-82f4-4a9f-bf74-4d71c5357ca2.jpg"/>
   </programme>
@@ -13035,7 +13035,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20251203053000 +0100" stop="20251203063000 +0100" channel="espn.us">
+  <programme start="20251203055400 +0100" stop="20251203063000 +0100" channel="espn.us">
     <title lang="en">Live: SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
@@ -13079,7 +13079,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20251203110000 +0100" stop="20251203120000 +0100" channel="espn.us">
+  <programme start="20251203110000 +0100" stop="20251203115900 +0100" channel="espn.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
@@ -13087,7 +13087,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20251203120000 +0100" stop="20251203130000 +0100" channel="espn.us">
+  <programme start="20251203115900 +0100" stop="20251203130000 +0100" channel="espn.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
