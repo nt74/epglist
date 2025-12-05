@@ -7789,29 +7789,66 @@
     <desc lang="el">Τα τελευταία νέα όλων των ομάδων. Μεταγραφές, αποστολές στις προετοιμασίες, live συνδέσεις με τους απεσταλμένους μας και όχι μόνο. Ενα δίωρο αθλητικό μαγκαζίνο που θα χωράει τα πάντα και με διάδραση με τον κόσμο από το YouTube.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
   </programme>
-  <programme start="20251206030000 +0200" stop="20251206040000 +0200" channel="action24.gr">
+  <programme start="20251206030000 +0200" stop="20251206060000 +0200" channel="action24.gr">
     <title lang="el">Pure Action Show</title>
     <desc lang="el">Η Εκπομπή αυτή αφορά αθλητικά γεγονότα και παρουσίαση αθλημάτων. Σε κάθε επεισόδιο θα παρουσιάζεται ξεχωριστό event που θα επικεντρώνεται στις καλύτερες στιγμές. Στόχος είναι να παρουσιάζονται όλες οι ιδιαιτερότητες κάθε αθλήματος.</desc>
     <icon src="https://www.ishow.gr/files/images/2023/1/51ae1310-2c4d-4702-a907-5210c8f8415f.jpg"/>
   </programme>
-  <programme start="20251206040000 +0200" stop="20251206080000 +0200" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
+  <programme start="20251206060000 +0200" stop="20251206100000 +0200" channel="action24.gr">
+    <title lang="el">Action Σαββατοκύριακο</title>
+    <desc lang="el">Η επιστροφή του Δημήτρη Καμπουράκη στην μικρή οθόνη, μέσα από το ACTION 24 είναι γεγονός. Μαζί με τον Βαγγέλη Γιακουμή θα μας λένε καλημέρα.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
   </programme>
-  <programme start="20251206080000 +0200" stop="20251206120000 +0200" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
+  <programme start="20251206100000 +0200" stop="20251206110000 +0200" channel="action24.gr">
+    <title lang="el">Clarkson's Farm</title>
+    <desc lang="el">Ακολουθήστε τον Τζέρεμι Κλάρκσον καθώς προσπαθεί να τα βγάλει πέρα με τη διαχείριση μιας φάρμας στην εξοχή.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
   </programme>
-  <programme start="20251206120000 +0200" stop="20251206160000 +0200" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
+  <programme start="20251206110000 +0200" stop="20251206120000 +0200" channel="action24.gr">
+    <title lang="el">Clarkson's Farm</title>
+    <desc lang="el">Ακολουθήστε τον Τζέρεμι Κλάρκσον καθώς προσπαθεί να τα βγάλει πέρα με τη διαχείριση μιας φάρμας στην εξοχή.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
   </programme>
-  <programme start="20251206160000 +0200" stop="20251206200000 +0200" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
+  <programme start="20251206120000 +0200" stop="20251206130000 +0200" channel="action24.gr">
+    <title lang="el">Vitality</title>
+    <desc lang="el">Η Ελένη Πετρουλάκη σας καθοδηγεί στον κόσμο της υγείας και της ευεξίας! Ασκήσεις, διατροφικές συμβουλές, detox tips και συζητήσεις με κορυφαίους ειδικούς και πρόσωπα του αθλητισμού και του πολιτισμού.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
+  </programme>
+  <programme start="20251206130000 +0200" stop="20251206140000 +0200" channel="action24.gr">
+    <title lang="el">Μεσημεριανό Δελτίο Ειδήσεων</title>
+    <desc lang="el">#ACTIONNEWS. Παρακολουθήστε τις ειδήσεις.</desc>
+    <credits>
+      <actor>Ιωάννα Βάσσου</actor>
+      <actor>Νικόλ Ποφάντη</actor>
+    </credits>
+    <icon src="https://www.ishow.gr/files/images/2022/12/b2f5d62d-13f0-43ad-b863-2cf23a5d70fb.jpg"/>
+  </programme>
+  <programme start="20251206140000 +0200" stop="20251206160000 +0200" channel="action24.gr">
+    <title lang="el">Ποδόσφαιρο: Καλαμάτα - Ολυμπιακός Β'</title>
+    <desc lang="el">Greek Super League 2 2025-2026. Η 2η τη τάξει ελληνική κατηγορία διεξάγεται σε 2 ομίλους και με τη συμμετοχή 20 ομάδων, ανάμεσά τους οι 2ες ομάδες ΠΑΟΚ και ΑΕΚ. Οι νικήτριες των πλέι οφ κάθε ομίλου προβιβάζονται αυτόματα στη Super League.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
+  </programme>
+  <programme start="20251206160000 +0200" stop="20251206170000 +0200" channel="action24.gr">
+    <title lang="el">The Spirit of the Sports</title>
+    <desc lang="el">Εκπομπή για τα αθλητικά δρώμενα.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
+  </programme>
+  <programme start="20251206170000 +0200" stop="20251206175000 +0200" channel="action24.gr">
+    <title lang="el">Χωρίς Χάρτη</title>
+    <desc lang="el">Το νέο travel show του Action24 ακολουθεί τον ακατάπαυστο εξερευνητή Δημήτρη Καρβέλη.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
+  </programme>
+  <programme start="20251206175000 +0200" stop="20251206185000 +0200" channel="action24.gr">
+    <title lang="el">Καλύτερα Αργά</title>
+    <desc lang="el">Επειδή κάποια πράγματα λέγονται "Καλύτερα Αργά", η Αθηναΐς Νέγκα, μας συστήνει καλεσμένους που γνωρίζουμε καλά και θέλουμε να μάθουμε καλύτερα, με δημιουργική ασάφεια και χιούμορ επίτηδες και κατά λάθος.</desc>
+    <credits>
+      <actor>Αθηναΐς Νέγκα</actor>
+    </credits>
+    <icon src="https://www.ishow.gr/files/images/2023/1/595ef112-c3b5-40e5-9034-76b255e0f70d.jpg"/>
+  </programme>
+  <programme start="20251206185000 +0200" stop="20251206200000 +0200" channel="action24.gr">
+    <title lang="el">Βραδινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τα κυριότερα γεγονότα από την ελληνική και διεθνή ειδησεογραφία.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
   </programme>
   <programme start="20251205000000 +0200" stop="20251205000000 +0200" channel="mega.gr">
@@ -8157,6 +8194,10 @@
     <desc lang="el">Η Ελβίρα αγωνίζεται να σώσει το οικογενειακό ξενοδοχείο και μαζί του το όραμα του μακαρίτη πατέρα της για εναλλακτικό τουρισμό. Ένας γοητευτικός επενδυτής, ο Χάρι, εμφανίζεται ξαφνικά και υπόσχεται να τη βοηθήσει να πραγματοποιήσει το όνειρό της.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
   </programme>
+  <programme start="20251206221000 +0200" stop="20251206230000 +0200" channel="mega.gr">
+    <title lang="el">Έχω Παιδιά</title>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
+  </programme>
   <programme start="20251205000000 +0200" stop="20251205020000 +0200" channel="ant1.gr">
     <title lang="el">Ενώπιος Ενωπίω</title>
     <desc lang="el">Ο Νίκος Χατζηνικολάου βάζει τη δική του σφραγίδα σε συναντήσεις με προσωπικότητες από όλους τους χώρους. Πρόσωπα που έχουν έργο, λόγο και άποψη, και που απασχολούν την κοινή γνώμη με την ισχυρή τους παρουσία σε Πολιτική, Οικονομία και Πολιτισμό.</desc>
@@ -8307,16 +8348,17 @@
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/files/images/2016/8/1/b99b76a4-c040-48df-abb6-612e41d69bf7.jpg"/>
   </programme>
-  <programme start="20251205230000 +0200" stop="20251206003000 +0200" channel="ant1.gr">
-    <title lang="el">Επανάληψη Ελληνικού Προγράμματος</title>
-    <desc lang="el">Ψυχαγωγία και ενημέρωση με επιλεγμένα προγράμματα σε επανάληψη από την τηλεόραση του Αlpha.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/2.png"/>
-  </programme>
-  <programme start="20251206003000 +0200" stop="20251206023000 +0200" channel="ant1.gr">
+  <programme start="20251205230000 +0200" stop="20251206011500 +0200" channel="ant1.gr">
     <title lang="el">Τhe 2night Show</title>
     <desc lang="el">Το 'The 2Νight Show' έχει γενέθλια και κλείνει τα 10 του χρόνια! 10 χρόνια γεμάτα με πάνω από 1.000 εκπομπές, 1.500 καλεσμένους, 1.200 ώρες τηλεοπτικού αέρα. Ο Γρηγόρης Αρναούτογλου θα υποδεχτεί και φέτος στο πλατό ξεχωριστούς καλεσμένους και θα κάνει ξανά τα βράδια μας μοναδικά απολαυστικά.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/2.png"/>
     <episode-num system="onscreen">S11 E3</episode-num>
+  </programme>
+  <programme start="20251206011500 +0200" stop="20251206023000 +0200" channel="ant1.gr">
+    <title lang="el">Ο Δικαστής</title>
+    <desc lang="el">Η ανατίναξη του βενζινάδικου μπροστά στα μάτια του Δικαστή, σηματοδοτεί την έναρξη του πολέμου μεταξύ των μαφιόζων, με την Όλγα να προσπαθεί μάταια να ελέγξει την κατάσταση. Η Κλέλια, παρακολουθώντας τις εξελίξεις, αντιλαμβάνεται σύντομα πως ο Τάσος διακινδυνεύει τη ζωή του.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/2.png"/>
+    <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
   <programme start="20251206023000 +0200" stop="20251206031500 +0200" channel="ant1.gr">
     <title lang="el">Και οι παντρεμένοι έχουν ψυχή</title>
@@ -8502,16 +8544,10 @@
     <category lang="el">Τηλεπαιχνίδι</category>
     <icon src="https://www.ishow.gr/files/images/2022/9/9d034c3e-828a-4077-95b4-8c578e513b1c.jpg"/>
   </programme>
-  <programme start="20251206210000 +0200" stop="20251206223000 +0200" channel="ant1.gr">
+  <programme start="20251206210000 +0200" stop="20251206224500 +0200" channel="ant1.gr">
     <title lang="el">The Roadshow</title>
     <desc lang="el">Ο Γρηγόρης Αρναούτογλου, μετά από πολλά χρόνια, γεμίζει το σακίδιό του, μπαίνει στο van του και με ένα νέο όραμα, κάνει restart στα υπέροχα ταξίδια του σε όλη την Ελλάδα, έτοιμος για νέες απολαυστικές περιπέτειες. Συνταξιδιώτης στις νέες περιπέτειες του Γρηγόρη θα είναι ο Διονύσης Κυπριώτης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/2.png"/>
-  </programme>
-  <programme start="20251206223000 +0200" stop="20251206231500 +0200" channel="ant1.gr">
-    <title lang="el">Σέρρες</title>
-    <desc lang="el">Κοινωνική, κωμική σειρά, ελληνικής παραγωγής 2022. Ο Οδυσσέας, ζει στην Αθήνα, μακριά από την οικογένειά του. Η περίπλοκη σχέση με τον πατέρα του, τον Λευτέρη, τους έχει οδηγήσει στην αποξένωση. Όταν, όμως, ένα δυσάρεστο γεγονός αναγκάζει τον Οδυσσέα να επιστρέψει στις Σέρρες, όλα αλλάζουν.</desc>
-    <icon src="https://www.ishow.gr/files/images/2023/2/4dd082d5-9d1a-455c-936f-6b17f5fd48f1.jpg"/>
-    <episode-num system="onscreen">S2 E1000</episode-num>
   </programme>
   <programme start="20251205011500 +0200" stop="20251205030000 +0200" channel="alpha.gr">
     <title lang="el">Echo Boomers</title>
@@ -8557,10 +8593,18 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
   </programme>
   <programme start="20251205064500 +0200" stop="20251205074500 +0200" channel="alpha.gr">
-    <title lang="el">Ο Παράδεισος των Κυριών</title>
-    <desc lang="el">Ένα πολυκατάστημα, Ο Παράδεισος των κυριών, γεμάτο λάμψη και πολυτέλεια ετοιμάζεται να ανοίξει τις πύλες του στο γυναικείο κοινό και τα εγκαίνια αναμένονται φαντασμαγορικά.</desc>
-    <icon src="https://www.ishow.gr/files/images/2023/5/9f072558-bf83-4b73-a6dc-49fd1f1660c2.jpg"/>
-    <episode-num system="onscreen">S2 E6</episode-num>
+    <title lang="el">Οικογενειακές ιστορίες</title>
+    <desc lang="el">Απρόβλεπτες οικογενειακές ιστορίες που θα προκαλέσουν αίσθηση.
+
+Κρυμμένα μυστικά που έρχονται στο φως και ταράσσουν τις ισορροπίες.
+
+Έντονα συναισθήματα, δυνατές συγκρούσεις.
+
+Πόσο έτοιμη είναι μια οικογένεια να κοιτάξει την αλήθεια κατάματα;
+
+Τι θα κάνει για να κρατηθεί ενωμένη μετά από τις αποκαλύψεις;.</desc>
+    <category lang="el">Ριάλιτι</category>
+    <icon src="https://www.ishow.gr/files/images/2017/9/22/57eb5974-f11a-49bf-9fb2-80cabcdcdd37.jpg"/>
   </programme>
   <programme start="20251205074500 +0200" stop="20251205100000 +0200" channel="alpha.gr">
     <title lang="el">Happy Day στον Alpha</title>
@@ -8741,10 +8785,10 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
   </programme>
   <programme start="20251206064500 +0200" stop="20251206074500 +0200" channel="alpha.gr">
-    <title lang="el">Αμφιβολίες</title>
-    <desc lang="el">ΠΡΕΜΙΕΡΑ. Ιστορίες γεμάτες ένταση και συνεχείς ανατροπές, υποθέσεις αστυνομικού χαρακτήρα που σπείρουν αμφιβολίες στον πρωταγωνιστή που έρχεται αντιμέτωπος με την υποψία ότι κάποιος δικός του αγαπημένος άνθρωπος έχει διαπράξει κάποιο έγκλημα.</desc>
-    <category lang="el">Σειρά</category>
-    <icon src="https://www.ishow.gr/files/images/2022/9/6f460297-83c3-4afb-a571-5d7ddebfadd9.jpg"/>
+    <title lang="el">Ο Παράδεισος των Κυριών</title>
+    <desc lang="el">Η Ντέπυ επισκέπτεται το σπίτι του Ντίνου και του εξηγεί τον λόγο για τον οποίο εξαφανίστηκε και πρέπει να παραμείνει εξαφανισμένη. Ο Ντίνος την πιέζει πριν διαφύγει στο εξωτερικό να δώσει κατάθεση στην αστυνομία κι ενώ εκείνη δέχεται τελευταία στιγμή, όλα ανατρέπονται. Εντωμεταξύ αποκαλύπτεται κι ένας άλλος φόνος και ο Αποστόλης δεν μπορεί να βγάλει από το μυαλό του ότι και με αυτόν συνδέεται η Βικτώρια. Όσο ο Ντίνος προσπαθεί να μαζέψει τα κομμάτια του, η Αμαλία έρχεται αντιμέτωπη με τον μεγαλύτερό της εφιάλτη.</desc>
+    <icon src="https://www.ishow.gr/files/images/2023/5/9f072558-bf83-4b73-a6dc-49fd1f1660c2.jpg"/>
+    <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
   <programme start="20251206074500 +0200" stop="20251206084500 +0200" channel="alpha.gr">
     <title lang="el">Οικογενειακές ιστορίες</title>
@@ -8838,21 +8882,16 @@
     <category lang="el">Ειδήσεις</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
   </programme>
-  <programme start="20251206200000 +0200" stop="20251206204500 +0200" channel="alpha.gr">
+  <programme start="20251206200000 +0200" stop="20251206220000 +0200" channel="alpha.gr">
     <title lang="el">Τρομεροί Γονείς</title>
+    <desc lang="el">Η οικογένεια υποδέχεται ένα νέο μέλος, τη Φιόρα, που φέρνει ο Στέφανος, προκαλώντας αντιδράσεις από τη Ναταλία, η οποία ανησυχεί για τις ευθύνες και τις αλλαγές στο σπίτι. Τα παιδιά ενθουσιάζονται και προτείνουν διάφορα ονόματα.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
+    <episode-num system="onscreen">S2 E18</episode-num>
   </programme>
-  <programme start="20251206204500 +0200" stop="20251206213000 +0200" channel="alpha.gr">
-    <title lang="el">Τρομεροί Γονείς</title>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
-  </programme>
-  <programme start="20251206213000 +0200" stop="20251206222000 +0200" channel="alpha.gr">
-    <title lang="el">Να Μ' Αγαπάς</title>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
-  </programme>
-  <programme start="20251206222000 +0200" stop="20251206231500 +0200" channel="alpha.gr">
-    <title lang="el">Να Μ' Αγαπάς</title>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
+  <programme start="20251206220000 +0200" stop="20251206230000 +0200" channel="alpha.gr">
+    <title lang="el">Το Σόι σου</title>
+    <desc lang="el">Η Χαρούλα ετοιμάζεται να υποδεχτεί στο σπίτι τρεις παλιές της φίλες, που έκαναν παρέα πολλά χρόνια πριν. Από τότε όμως οι φίλες της, έχουν κάνει περιουσίες και μεγάλες καριέρες. Όλη η οικογένεια της Χαρούλας, πλην της ίδιας, τις θεωρεί ψωνισμένες.</desc>
+    <icon src="https://www.ishow.gr/files/images/2014/10/6/ec48510f-3dd7-4cad-a490-77258a789365.jpg"/>
   </programme>
   <programme start="20251205003000 +0200" stop="20251205030000 +0200" channel="star.gr">
     <title lang="el">Mad Max: Ο δρόμος της οργής</title>
@@ -9687,61 +9726,44 @@
     <desc lang="el">Ό,τι συμβαίνει στο προσκήνιο και στο παρασκήνιο. Ο φακός της εκπομπής καταγράφει κάθε γεγονός, τη στιγμή που συμβαίνει, με απευθείας συνδέσεις και ανταποκρίσεις.</desc>
     <icon src="https://www.ishow.gr/files/images/2025/2/be9eda64-49fa-447b-82fe-bf366a960e49.jpg"/>
   </programme>
-  <programme start="20251206095000 +0200" stop="20251206105000 +0200" channel="epsilontv.gr">
-    <title lang="el">Open Kitchen</title>
-    <desc lang="el">Η Ντίνα Νικολάου ανανεωμένη, με φρέσκες ιδέες και αστείρευτη διάθεση, μπαίνει στην ολοκαίνουργια κουζίνα της και μας κρατάει συντροφιά με τα πιο απλά, αλλά και τα πιο νόστιμα καθημερινά μαγειρέματα.</desc>
-    <icon src="https://www.ishow.gr/files/images/2025/2/2d1f9a98-9250-4665-8216-4ee7dd72943c.jpg"/>
+  <programme start="20251206095000 +0200" stop="20251206130000 +0200" channel="epsilontv.gr">
+    <title lang="el">Ραντεβού το ΣΚ</title>
+    <desc lang="el">Ο Λάμπρος και η Ιωάννα επιστρέφουν με ενέργεια και χιούμορ στο 'Ραντεβού το ΣΚ'. Μαζί με Τσόλκα, Σκρομπόλα, Αρτσίτα, Μητρομάρα και Βόσνου, φέρνουν κέφι, γέλιο, ρεπορτάζ και gossip για ξέγνοιαστα σαββατοκύριακα!</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
   </programme>
-  <programme start="20251206105000 +0200" stop="20251206130000 +0200" channel="epsilontv.gr">
-    <title lang="el">Η δική μας οικογένεια</title>
-    <desc lang="el">Ο Δημήτρης είναι ένας περιζήτητος, γοητευτικός εργένης, πρώην οδηγός αγώνων μότο κρος που σήμερα είναι ιδιοκτήτης μια εταιρείας που ασχολείται με events, αγώνες μότο κρος και αξεσουάρ μηχανών. Ο συνέταιρος του, και πρώην ομόσταβλός του, Σέργιος αντίθετα είναι ένας οικογενειάρχης, παντρεμένος με τη Μαργαρίτα και έχουν μαζί 4 παιδιά. Η Αγγελική είναι μια δημοσιογράφος που αρθρογραφεί σε ένα site γυναικείου περιεχομένου, αλλά παράλληλα η μεγαλύτερη έρευνα της έχει επικεντρωθεί στο να βρει την κόρη που γέννησε πριν από 17 χρόνια αλλά αναγκάστηκε να τη δώσει για υιοθεσία. Αυτό που θα αποκαλύψει σύντομα είναι πως η κόρη αυτή, είναι η Νεφέλη, η μεγάλη κόρη του Σέργιου που έχουν υιοθετήσει με τη Μαργαρίτα πριν κάνουν τα δικά τους παιδιά.Η Αγγελική εντοπίζει την κόρη της και προσεγγίζει τη Μαργαρίτα ώστε να κανονίσει να τη γνωρίσει επιτέλους από κοντά. Όμως η μοίρα έχει άλλα σχέδια…Ένα τραγικό αεροπορικό δυστύχημα, όπου στο αεροπλάνο επέβαιναν ο Σέργιος και η Μαργαρίτα θα ανατρέψει τις ζωές όλων. Η Αγγελική θα πρέπει να βρει τον τρόπο να βάλει στη ζωή της την κόρη της, Νεφέλη, και ο Δημήτρης, ο μποέμ εργένης θα βρεθεί να είναι κηδεμόνας των τεσσάρων παιδιών του φίλου του, Σέργιου…Τίποτα δεν θα είναι εύκολο όμως, ούτε για την Αγγελική ούτε για τον Δημήτρη. Η Αγγελική θα πρέπει να αλλάξει άρδην συνήθειες και τρόπο ζωής για να κρατήσει μυστική την ταυτότητά της, από τη στιγμή που θα προσληφθεί ως οικιακή βοηθός από τον Δημήτρη ώστε να έχει μια βοήθεια και στο μεγάλωμα των 4 παιδιών του φίλου του. Και ο Δημήτρης θα πρέπει να εκπαιδευτεί γρήγορα στο πώς να είναι ένας υπεύθυνος ενήλικας, και να ξεχάσει την εργένικη ζωή για χάρη της νέας οικογενειακής του κατάστασης! Σύμμαχοι και εχθροί άλλοτε θα βοηθήσουν και άλλοτε θα φέρουν εμπόδια στην προσπάθεια των δύο πρωταγωνιστών της ιστορίας να πετύχουν τους στόχους τους.</desc>
-    <credits>
-      <director>Βασίλης Θωμόπουλος</director>
-      <actor>Μάριος Αθανασίου</actor>
-      <actor>Υρώ Μανέ</actor>
-      <actor>Ελένη Βαΐτσου</actor>
-      <actor>Νίκος Πουρσανίδης</actor>
-      <actor>Απόστολος Γκλέτσος</actor>
-      <actor>Ελίνα Μάλαμα</actor>
-      <actor>Ρένος Ρώτας</actor>
-      <actor>Ελένη Κρίτα</actor>
-      <actor>Χριστίνα Τσάφου</actor>
-      <actor>Πάρης Θωμόπουλος</actor>
-      <writer>Άγγελος Χασάπογλου</writer>
-      <producer>Νίκος Κάλης - Ludo Poppe</producer>
-    </credits>
-    <date>2022</date>
-    <category lang="el">Σειρά</category>
-    <icon src="https://www.ishow.gr/files/images/2022/9/7d156241-b63a-4404-932d-c371d834b0d7.jpg"/>
-  </programme>
-  <programme start="20251206130000 +0200" stop="20251206134500 +0200" channel="epsilontv.gr">
+  <programme start="20251206130000 +0200" stop="20251206134000 +0200" channel="epsilontv.gr">
     <title lang="el">Open News - Μεσημεριανό Δελτίο</title>
     <desc lang="el">Ενημερώνουμε τον τηλεθεατή με σοβαρότητα, νηφαλιότητα και ψύχραιμη ματιά συγκεντρώνοντας τα θέματα της ημέρας σ' ένα γρήγορο, σαφές και περιεκτικό δελτίο με όσα χρειάζεται να γνωρίζει ο πολίτης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
   </programme>
-  <programme start="20251206134500 +0200" stop="20251206150000 +0200" channel="epsilontv.gr">
+  <programme start="20251206134000 +0200" stop="20251206144500 +0200" channel="epsilontv.gr">
+    <title lang="el">Limit Up</title>
+    <desc lang="el">Ζωντανή εκπομπή για τα θέματα της οικονομίας.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
+  </programme>
+  <programme start="20251206144500 +0200" stop="20251206154500 +0200" channel="epsilontv.gr">
     <title lang="el">Chef στην κουζίνα σας</title>
     <desc lang="el">Ο Βαγγέλης Δρίσκας γεμίζει γεύσεις και αρώματα τα Σαββατοκύριακά μας. Μας υποδέχεται στο ολοκαίνουργιο εργαστήριό του και μοιράζεται μαζί μας απλόχερα τα μυστικά του.</desc>
     <icon src="https://www.ishow.gr/files/images/2023/9/3775d6df-0417-4bc7-8d13-6be6efa13d52.jpg"/>
   </programme>
-  <programme start="20251206150000 +0200" stop="20251206151500 +0200" channel="epsilontv.gr">
+  <programme start="20251206154500 +0200" stop="20251206160000 +0200" channel="epsilontv.gr">
     <title lang="el">Open News στη Νοηματική</title>
     <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας, σε ένα δελτίο που απευθύνεται σε άτομα με προβλήματα ακοής και ομιλίας.</desc>
     <category lang="el">Ειδήσεις</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
   </programme>
-  <programme start="20251206151500 +0200" stop="20251206153000 +0200" channel="epsilontv.gr">
+  <programme start="20251206160000 +0200" stop="20251206172000 +0200" channel="epsilontv.gr">
+    <title lang="el">Εδώ TV!</title>
+    <desc lang="el">Μια ξεχωριστή εκπομπή με πλούσιο τηλεοπτικό ρεπορτάζ, αποκλειστικά θέματα και μια νέα συνήθεια για τα Σαββατοκύριακα μας.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
+  </programme>
+  <programme start="20251206172000 +0200" stop="20251206174500 +0200" channel="epsilontv.gr">
     <title lang="el">Θυρίδα Τηλεπώλησης</title>
     <icon src="https://www.ishow.gr/files/images/2021/3/35a7a70c-bf83-4340-b4ef-6bb11367dafd.jpg"/>
   </programme>
-  <programme start="20251206153000 +0200" stop="20251206174500 +0200" channel="epsilontv.gr">
-    <title lang="el">Ταινία</title>
-    <desc lang="el">Ταινία. (130').</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
-  </programme>
   <programme start="20251206174500 +0200" stop="20251206184500 +0200" channel="epsilontv.gr">
-    <title lang="el">The Life Manifesto</title>
-    <desc lang="el">Μία ανατρεπτική και αντισυμβατική εβδομαδιαία εκπομπή, με άξονα ιστορίες, εικόνες και εμπειρίες για τη χαρά της ζωής! Στόχος της να μας ξεσηκώσει με ενθουσιασμό, χρώματα, γνώση, δημιουργικότητα και αισθητική!</desc>
+    <title lang="el">Happy Hours</title>
+    <desc lang="el">Προτάσεις ελεύθερου χρόνου για όλη την οικογένεια. Έμφαση στις αυθόρμητες στιγμές χαράς, στις νέες αφίξεις και στις μικρές αποδράσεις. Ένα τηλεοπτικό πρόγραμμα γεμάτο ένταση, ρυθμό και εικόνες από τα πιο εμβληματικά και cool σημεία.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
   </programme>
   <programme start="20251206184500 +0200" stop="20251206200000 +0200" channel="epsilontv.gr">
@@ -10102,17 +10124,22 @@
     <desc lang="el">Πορτρέτα μεγάλων Ελλήνων αθλητών που έγραψαν ιστορία. Μεγάλες προσωπικότητες του ελληνικού αθλητισμού μιλούν για τα όνειρά τους, τη σταδιοδρομία τους, καθώς και τη φύση του επαγγέλματός τους.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
   </programme>
-  <programme start="20251205160000 +0200" stop="20251205173000 +0200" channel="ert2.gr">
+  <programme start="20251205160000 +0200" stop="20251205164500 +0200" channel="ert2.gr">
     <title lang="el">Ο Κόσμος των Σπορ</title>
     <desc lang="el">H εκπομπή μας μεταφέρει τον παλμό της αθλητικής επικαιρότητας με τις πιο φρέσκες ειδήσεις, σχολιασμό της ειδησεογραφίας, αναλύσεις, καλεσμένους στο στούντιο και απευθείας συνδέσεις.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
   </programme>
-  <programme start="20251205173000 +0200" stop="20251205200000 +0200" channel="ert2.gr">
+  <programme start="20251205164500 +0200" stop="20251205190000 +0200" channel="ert2.gr">
     <title lang="el">Βόλεϊ: League Cup</title>
     <desc lang="el">Final 8. Τελικός. Και φέτος, το Volley League Cup Νίκος Σαμαράς είναι στην ΕΡΤ. Οι κορυφαίες ομάδες διεκδικούν στο παρκέ το κύπελλο της φετινής χρονιάς. Η δράση κορυφώνεται και τα σετ κρίνονται στον πόντο.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
   </programme>
-  <programme start="20251205200000 +0200" stop="20251205220000 +0200" channel="ert2.gr">
+  <programme start="20251205190000 +0200" stop="20251205204500 +0200" channel="ert2.gr">
+    <title lang="el">Πάγκοσμιο Κύπελλο Ποδοσφαίρου 2026 - Κλήρωση</title>
+    <desc lang="el">Ο δρόμος προς την απόλυτη ποδοσφαιρική δόξα του Παγκόσμιου Κυπέλλου Ποδοσφαίρου 2026, που θα διεξαχθεί το ερχόμενο καλοκαίρι σε Ηνωμένες Πολιτείες, Καναδά και Μεξικό, αρχίζει από την κλήρωση που μεταδίδει απευθείας η ΕΡΤ2 ΣΠΟΡ.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
+  </programme>
+  <programme start="20251205204500 +0200" stop="20251205220000 +0200" channel="ert2.gr">
     <title lang="el">Ευρωπαϊκό Πρωτάθλημα Κολύμβησης 25μ.</title>
     <desc lang="el">Παρακολουθήστε το Ευρωπαϊκό Πρωτάθλημα Κολύμβησης 25μ. 2025, που διεξάγεται στο Λούμπλιν της Πολωνίας.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
@@ -11561,16 +11588,34 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
     <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20251205020000 +0200" stop="20251205060000 +0200" channel="cosmotesport6.gr">
+  <programme start="20251205020000 +0200" stop="20251205051500 +0200" channel="cosmotesport6.gr">
     <title lang="el">Fight Sports: UFC Fight Night 2025</title>
     <desc lang="el">322: Τζακ Ντέλα Μανταλένα - Ισλάμ Μαχάτσεφ. ΗΠΑ, Νέα Υόρκη. Το καράτε ανταγωνίζεται το κουνγκ φου και το μποξ το ζίου ζίτσου. Το κικ μποξ έρχεται αντιμέτωπο με το τζούντο και η πάλη με το μάι τάι. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια COSMOTE SPORT.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
     <episode-num system="onscreen">S2 E44</episode-num>
   </programme>
-  <programme start="20251205060000 +0200" stop="20251205083000 +0200" channel="cosmotesport6.gr">
+  <programme start="20251205051500 +0200" stop="20251205053000 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Sports Classics: Worldies</title>
+    <desc lang="el">Από τη F1 έως την υψηλή κατάδυση και ένα σωρό άλλα extreme sports, κάθε εκπομπή παρουσιάζει και αναδεικνύει μέσα από 5 βίντεο μερικές από τις πιο απίστευτες στιγμές, διοργανώσεις και αθλητές σε όλα τα σπορ δράσης.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+    <episode-num system="onscreen">S2 E14</episode-num>
+  </programme>
+  <programme start="20251205053000 +0200" stop="20251205060000 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Sports Classics: The Outdoor Sports Show 2025</title>
+    <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων αθλημάτων, παρουσιάζοντας τους αθλητές που αγωνίζονται. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+    <episode-num system="onscreen">S2 E12</episode-num>
+  </programme>
+  <programme start="20251205060000 +0200" stop="20251205075500 +0200" channel="cosmotesport6.gr">
     <title lang="el">Premier Padel Tour 2025</title>
     <desc lang="el">Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20251205075500 +0200" stop="20251205083000 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Sports Classics: The Outdoor Sports Show 2025</title>
+    <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων αθλημάτων, παρουσιάζοντας τους αθλητές που αγωνίζονται. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+    <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
   <programme start="20251205083000 +0200" stop="20251205093000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Beach Volley: FIVB Beach Volleyball World Championships 2025</title>
@@ -11607,38 +11652,43 @@
     <desc lang="el">DAIKIN Bundesliga 2025-26. 15η Αγωνιστική. Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20251205173000 +0200" stop="20251205200000 +0200" channel="cosmotesport6.gr">
-    <title lang="el">Βόλεϊ: Ολυμπιακός - Εξατσίμπασι</title>
-    <desc lang="el">CEV Champions League 2026. Φάση Ομίλων, 2η Αγωνιστική Γυναικών. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
-  </programme>
-  <programme start="20251205200000 +0200" stop="20251205210000 +0200" channel="cosmotesport6.gr">
+  <programme start="20251205173000 +0200" stop="20251205183000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Nitto ATP Finals 2025 - Στιγμιότυπα</title>
     <desc lang="el">Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των Nitto ATP Finals.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20251205210000 +0200" stop="20251205213000 +0200" channel="cosmotesport6.gr">
+  <programme start="20251205183000 +0200" stop="20251205212500 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Βόλεϊ: Ολυμπιακός - Εξατσίμπασι</title>
+    <desc lang="el">CEV Champions League 2026. Φάση Ομίλων, 2η Αγωνιστική Γυναικών. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20251205212500 +0200" stop="20251205215500 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Premier Padel Tour 2025 - Στιγμιότυπα</title>
+    <desc lang="el">Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20251205215500 +0200" stop="20251205222500 +0200" channel="cosmotesport6.gr">
     <title lang="el">Sports Classics: The Outdoor Sports Show 2024</title>
     <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων σπορ καθώς και τους αθλητές που αγωνίζονται σε αυτά. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20251205213000 +0200" stop="20251205223500 +0200" channel="cosmotesport6.gr">
+  <programme start="20251205222500 +0200" stop="20251205232500 +0200" channel="cosmotesport6.gr">
     <title lang="el">Beach Volley: FIVB Beach Volleyball World Championships 2025</title>
     <desc lang="el">{Τελικός Ανδρών). Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20251205223500 +0200" stop="20251206000000 +0200" channel="cosmotesport6.gr">
+  <programme start="20251205232500 +0200" stop="20251206004500 +0200" channel="cosmotesport6.gr">
     <title lang="el">Beach Volley: FIVB Beach Volleyball World Championships 2025</title>
     <desc lang="el">(Τελικός Γυναικών). Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20251206000000 +0200" stop="20251206023000 +0200" channel="cosmotesport6.gr">
+  <programme start="20251206004500 +0200" stop="20251206024000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Premier Padel Tour 2025</title>
     <desc lang="el">Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20251206023000 +0200" stop="20251206053000 +0200" channel="cosmotesport6.gr">
+  <programme start="20251206024000 +0200" stop="20251206053000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Fight Sports: UFC Fight Night 2025</title>
     <desc lang="el">Κατάρ, Ντόχα. Το καράτε ανταγωνίζεται το κουνγκ φου και το μποξ το ζίου ζίτσου. Το κικ μποξ έρχεται αντιμέτωπο με το τζούντο και η πάλη με το μάι τάι. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια COSMOTE SPORT.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
