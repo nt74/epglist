@@ -13365,11 +13365,11 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_i_h8_ab.jpg"/>
   </programme>
   <programme start="20260103090000 +0100" stop="20260103110000 +0100" channel="espn.us">
-    <title lang="en">Playoff Quarterfinal at the Allstate Sugar Bowl</title>
-    <desc lang="en">From Caesars Superdome in New Orleans.</desc>
+    <title lang="en">CFP Quarterfinal at the Allstate Sugar Bowl</title>
+    <sub-title lang="en">Ole Miss vs. Georgia</sub-title>
+    <desc lang="en">No. 3 Georgia (12-1) faces No. 6 Ole Miss (12-1) at the Caesars Superdome for a SEC Conference matchup. The Bulldogs are on a nine-game win streak, but Rebels quarterback Trinidad Chambliss stands in the way after scoring three TDs to beat Tulane.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28578194_b_s4_aa.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260103110000 +0100" stop="20260103130000 +0100" channel="espn.us">
@@ -13762,12 +13762,11 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191260_i_s4_aa.jpg"/>
   </programme>
   <programme start="20260104010000 +0100" stop="20260104013000 +0100" channel="espn2.us">
-    <title lang="en">ESPN Films</title>
-    <desc lang="en">Series of documentaries looking back through the history of sports.</desc>
+    <title lang="en">Live: College Basketball Live Scoreboard</title>
+    <desc lang="en">All the latest scores and highlights from college basketball.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7953014_b_v11_ag.jpg"/>
-    <previously-shown/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9147788_i_h10_ab.jpg"/>
   </programme>
   <programme start="20260104013000 +0100" stop="20260104015000 +0100" channel="espn2.us">
     <title lang="en">Live: NFL Countdown Special Edition</title>
@@ -16761,6 +16760,13 @@
     <desc lang="sr">Setite se vrhunskih svetskih tenisera koji su svojim sjajnim rezultatima i veštinom na terenu ostavili trag u istoriji belog sporta.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/06/28/04076491-ff62-41a8-8d70-091b5f4ecc1e_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260104223000 +0000" stop="20260105010000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Auckland</title>
+    <desc lang="sr">Mnogi igrači i igračice više vole Novi Zeland da se pripreme za Melburn. Uvek su zvučna imena i dobar tenis na ovom turniru. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/8adbdcad-0314-4d69-b315-6a1eb66dde6d_stb_fhd.jpg"/>
+    <premiere/>
   </programme>
   <programme start="20260103003500 +0000" stop="20260103023000 +0000" channel="sportklub3.rs">
     <title lang="sr">LoL - Worlds</title>
