@@ -16921,18 +16921,53 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/b1e696d2-5a18-4dd4-b756-42a3b75ea771_s.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20260113003000 +0000" stop="20260113050000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: WTA 500 + ATP 250 Adelaide &amp; WTA 250 Hobart &amp; ATP 250 Auckland</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20260113003000 +0000" stop="20260113021500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 250 Auckland: Bautista-Agut - Mpetshi-Perricard</title>
+    <desc lang="sr">Poslednji pripremni turnir za muškarce je na Novom Zelandu. Obično, ko osvoji ovaj turnir, ode daleko u Melburnu. Da li će tako biti i ove godine? (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/b1e696d2-5a18-4dd4-b756-42a3b75ea771_s.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/53c82e20-9844-47da-bf3f-1626ec8d52db_s.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20260113050000 +0000" stop="20260113114500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP 250 Auckland &amp; WTA 500 + ATP 250 Adelaide &amp; WTA 250 Hobart</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20260113021500 +0000" stop="20260113024500 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Hobart: Stearns - Krejcikova (UKLJUČENJE)</title>
+    <desc lang="sr">Turnir sa velikom tradicijom privukao je mnogo zvučnih imena. Ovo je poslednja šansa za brušenje forme pred Australian Open. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/b1e696d2-5a18-4dd4-b756-42a3b75ea771_s.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/8adbdcad-0314-4d69-b315-6a1eb66dde6d_stb_fhd.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260113024500 +0000" stop="20260113050000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Hobart: Maria - V. Williams</title>
+    <desc lang="sr">Turnir sa velikom tradicijom privukao je mnogo zvučnih imena. Ovo je poslednja šansa za brušenje forme pred Australian Open. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/8adbdcad-0314-4d69-b315-6a1eb66dde6d_stb_fhd.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260113050000 +0000" stop="20260113070000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 250 Auckland: Marozsan - Monfils</title>
+    <desc lang="sr">Poslednji pripremni turnir za muškarce je na Novom Zelandu. Obično, ko osvoji ovaj turnir, ode daleko u Melburnu. Da li će tako biti i ove godine? (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/53c82e20-9844-47da-bf3f-1626ec8d52db_s.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260113070000 +0000" stop="20260113084500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 250 Auckland: Borges - Etcheverry</title>
+    <desc lang="sr">Poslednji pripremni turnir za muškarce je na Novom Zelandu. Obično, ko osvoji ovaj turnir, ode daleko u Melburnu. Da li će tako biti i ove godine? (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/53c82e20-9844-47da-bf3f-1626ec8d52db_s.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260113084500 +0000" stop="20260113093000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Hobart: Raducanu - Osorio (UKLJUČENJE)</title>
+    <desc lang="sr">Turnir sa velikom tradicijom privukao je mnogo zvučnih imena. Ovo je poslednja šansa za brušenje forme pred Australian Open. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/8adbdcad-0314-4d69-b315-6a1eb66dde6d_stb_fhd.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260113093000 +0000" stop="20260113114500 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Hobart: Selekhmeteva - Linette</title>
+    <desc lang="sr">Turnir sa velikom tradicijom privukao je mnogo zvučnih imena. Ovo je poslednja šansa za brušenje forme pred Australian Open. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/8adbdcad-0314-4d69-b315-6a1eb66dde6d_stb_fhd.jpg"/>
     <premiere/>
   </programme>
   <programme start="20260113114500 +0000" stop="20260113124500 +0000" channel="sportklub2.rs">
@@ -16947,11 +16982,17 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/09/05/1272eb04-5318-4442-929d-c20ef2bdf7b8_stb_xl.jpg"/>
   </programme>
-  <programme start="20260113134000 +0000" stop="20260113154000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP 250 Auckland &amp; WTA 500 + ATP 250 Adelaide &amp; WTA 250 Hobart</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  <programme start="20260113134000 +0000" stop="20260113144000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 250 Adelaide: Tsitsipas - Vukic</title>
+    <desc lang="sr">Posle više od mesec dana čekanja kreće nova sezona. Na ovom turniru učešće je prijavio i Novak Đoković, tako da će biti nikad interesantnije.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/b1e696d2-5a18-4dd4-b756-42a3b75ea771_s.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/53c82e20-9844-47da-bf3f-1626ec8d52db_s.jpg"/>
+  </programme>
+  <programme start="20260113144000 +0000" stop="20260113154000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 500 Adelaide: M. Andreeva - Bouzkova</title>
+    <desc lang="sr">Sezona za dame počinje turnirom iz kategorije 500. Blizu je Australian Open i sada treba pokazati sve što su radile na pripremama.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/8adbdcad-0314-4d69-b315-6a1eb66dde6d_stb_fhd.jpg"/>
   </programme>
   <programme start="20260113154000 +0000" stop="20260113173000 +0000" channel="sportklub2.rs">
     <title lang="sr">Košarka - NBA liga: Indiana - Boston</title>
