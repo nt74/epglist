@@ -7919,7 +7919,7 @@
     <desc lang="el">Παρακολουθήστε τα κυριότερα γεγονότα από την ελληνική και διεθνή ειδησεογραφία.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
   </programme>
-  <programme start="20260131200000 +0200" stop="20260131230000 +0200" channel="action24.gr">
+  <programme start="20260131200000 +0200" stop="20260131210000 +0200" channel="action24.gr">
     <title lang="el">Info Wars</title>
     <credits>
       <director>Sebastian J.F.</director>
@@ -7939,6 +7939,28 @@
     <date>2004</date>
     <category lang="el">Ταινία</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
+  </programme>
+  <programme start="20260131210000 +0200" stop="20260131230000 +0200" channel="action24.gr">
+    <title lang="el">Γέτι: Η Μεγάλη Περιπέτεια στα Χιόνια</title>
+    <desc lang="el">Κεμπέκ, 1956. Μια ιδιωτική ντετέκτιβ και ένας βοηθός ερευνητή ενώνουν τις δυνάμεις τους για να αποδείξουν την ύπαρξη των Γέτι. Για να επιτύχουν τον στόχο τους, όμως, θα πρέπει να φτάσουν μέχρι τις αφιλόξενες κορυφές των Ιμαλαΐων.</desc>
+    <credits>
+      <director>Pierre Greco</director>
+      <actor role="Nelly Maloye">Sylvie Moreau</actor>
+      <actor role="Simon Picard">Guillaume Lemay-Thivierge</actor>
+      <actor role="Tensing Gombu">Rachid Badouri</actor>
+      <actor role="Jasmin">Alexandrine Warren</actor>
+      <actor>Stéphane Crête</actor>
+      <actor>Έντγκαρ Fruitier</actor>
+      <actor>Sébastien Benoit</actor>
+      <actor>Bertrand Alain</actor>
+      <actor>Simon-Pierre Gariépy</actor>
+      <actor>Martin Boily</actor>
+      <writer>Pierre Greco</writer>
+      <composer>Olivier Auriol</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr/files/images/2022/4/eaa729de-8c75-4691-9164-4eb9b856554a.jpg"/>
   </programme>
   <programme start="20260130004000 +0200" stop="20260130011000 +0200" channel="mega.gr">
     <title lang="el">Μια Νύχτα Μόνο</title>
@@ -8312,24 +8334,10 @@
     <desc lang="el">Δύο γυναίκες πολεμούν μέχρι τέλους για τη ζωή που τους έκλεψαν: τη ζωή των παιδιών τους. Σε αυτή τη μάχη όμως, δεν υπάρχει βέβαιος νικητής… Θα καταλάβουν ότι η αληθινή εκδίκηση, είναι η συγχώρεση;.</desc>
     <icon src="https://www.ishow.gr/files/images/2018/11/2/701a659a-4306-4463-b09c-f52f33cb1b1b.jpg"/>
   </programme>
-  <programme start="20260130034500 +0200" stop="20260130060000 +0200" channel="ant1.gr">
+  <programme start="20260130034500 +0200" stop="20260130090000 +0200" channel="ant1.gr">
     <title lang="el">Αποκαλύψεις</title>
     <desc lang="el">Θέματα από την επικαιρότητα, σημαίνουσες προσωπικότητες της χώρας και πληρέστατο, αποκλειστικό πρωτογενές ρεπορτάζ, συνθέτουν τη δομή της εκπομπής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/2.png"/>
-  </programme>
-  <programme start="20260130060000 +0200" stop="20260130090000 +0200" channel="ant1.gr">
-    <title lang="el">Καλημέρα Ελλάδα</title>
-    <desc lang="el">Η μακροβιότερη και πιο επιτυχημένη ενημερωτική εκπομπή της ελληνικής τηλεόρασης έρχεται στους δέκτες μας με την πιο έγκυρη και έγκαιρη ενημέρωση. Με ρεπορτάζ και ειδήσεις από όλες τις γωνιές της χώρας, ο Γιώργος Παπαδάκης βρίσκεται καθημερινά, κοντά στον Έλληνα πολίτη.</desc>
-    <credits>
-      <director>Γιάννης Ντόνας</director>
-      <actor role="Παρουσίαση">Γιώργος Παπαδάκης</actor>
-      <actor>Μαρία Αναστασοπούλου</actor>
-      <actor>Γιώργος Γρηγοριάδης</actor>
-      <actor>Δημήτρης Χριστούλιας</actor>
-      <actor>Αλεξάνδρα Χατζηγεωργίου</actor>
-    </credits>
-    <category lang="el">Ενημ. εκπομπή</category>
-    <icon src="https://www.ishow.gr/files/images/2015/9/8/da46b121-19f2-4905-b6ce-eda49408bd47.jpg"/>
   </programme>
   <programme start="20260130090000 +0200" stop="20260130123000 +0200" channel="ant1.gr">
     <title lang="el">Το Πρωινό</title>
@@ -9813,9 +9821,12 @@ O Άγγελος μαθαίνει ότι ο ξενώνας κινδυνεύει 
     <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
   </programme>
   <programme start="20260130141500 +0200" stop="20260130154500 +0200" channel="epsilontv.gr">
-    <title lang="el">Ώρα για Ψυχαγωγία</title>
-    <desc lang="el">Ο Θανάσης Πάτρας μαζί με την Άννα Ζηρδέλη και τον Γιώργο Κρικοριάν έρχονται με το πλατύ τους χαμόγελο για να ζωντανέψουν τα μεσημέρια μας και να μας παρασύρουν στον δικό τους όμορφο, ανέμελο και φωτεινό κόσμο.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
+    <title lang="el">Εικόνες</title>
+    <desc lang="el">Η αγαπημένη ταξιδιωτική εκπομπή συνεχίζει τις περιπλανήσεις της στην Ελλάδα και το εξωτερικό και μας δείχνει τις πιο όμορφες Εικόνες, με τον Τάσο Δούση. Ο παρουσιαστής και δημοσιογράφος Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες». Με μήνυμα «Δεν ταξιδεύουμε για εμάς αλλά ταξιδεύουμε για εσάς», ο Τάσος Δούσης κάνει τους τηλεθεατές συνταξιδιώτες του, «ταξιδεύοντας» το κοινό μέσα από ένα οδοιπορικό στους πιο συναρπαστικούς προορισμούς.Από την Καππαδοκία της Τουρκίας μέχρι το πολύβουο Λος Άντζελες και το Λας Βέγκας της Αμερικής, από τις εξωτικές Μαλδίβες μέχρι και την απροσπέλαστη Νότια Κορέα, από το Ουζμπεκιστάν και τον πανάρχαιο πολιτισμό μέχρι το Ντουμπάι -τη δύση της Ανατολής-, ο Τάσος Δούσης αναδεικνύει τις ιδιαίτερες ιστορίες του κάθε πολιτισμού και της κάθε χώρας. Συναντά ντόπιους, αναζητά την παράδοση, τα αξιοθέατα, τις εμπειρίες που προσφέρει ο κάθε προορισμός και δοκιμάζει τα τοπικά φαγητά.</desc>
+    <credits>
+      <actor>Τάσος Δούσης</actor>
+    </credits>
+    <icon src="https://www.ishow.gr/files/images/2022/11/7692d92d-a16b-4a17-80f6-62fec9925964.jpg"/>
   </programme>
   <programme start="20260130154500 +0200" stop="20260130184500 +0200" channel="epsilontv.gr">
     <title lang="el">Καθαρές Κουβέντες</title>
@@ -9835,22 +9846,12 @@ O Άγγελος μαθαίνει ότι ο ξενώνας κινδυνεύει 
     <icon src="https://www.ishow.gr/files/images/2022/7/0247936c-436f-448f-a1d1-79a3a4da6925.jpg"/>
   </programme>
   <programme start="20260130200000 +0200" stop="20260130210000 +0200" channel="epsilontv.gr">
-    <title lang="el">Η απλή μέθοδος των τριών</title>
-    <desc lang="el">Πρόκειται για ένα θεώρημα όπου ο γνωστός Κωνσταντίνος ισούται με τη ρομαντική Ρίτα συν την εκκεντρική Έλσα. Αναζητείται πάντα ο άγνωστος Χ, ο έρωτας που συνδέει τα τρία πρόσωπα. Το κλάσμα ανεστραμμένο είναι οι συγγενείς και φίλοι που δε θέλουν να δουν άνθρωπο να προκόβει. Και ενώ ο Κωνσταντίνος έχει ρυθμίσει τα πάντα, έρχονται οι εξωγενείς αστάθμιτοι παράγοντες για να κάνουν το θεώρημα μπάχαλο! Βέβαια κανείς δεν μπορεί να αναγνωρίσει τις καλές προθέσεις στον Κωνσταντίνο όταν όλα τα στοιχεία είναι εναντίον του. Ίσως μόνο ο μικρός φτερωτός θεός μπορεί να του δώσει ελαφρυντικά γιατί αυτός ξέρει την αλήθεια και οι τηλεθεατές που ξέρουν ότι δεν είναι ο θύτης, αλλά το θύμα που υπέκυψε στις επιθυμίες των γυναικών που αγάπησε!</desc>
+    <title lang="el">Εικόνες</title>
+    <desc lang="el">Η αγαπημένη ταξιδιωτική εκπομπή συνεχίζει τις περιπλανήσεις της στην Ελλάδα και το εξωτερικό και μας δείχνει τις πιο όμορφες Εικόνες, με τον Τάσο Δούση. Ο παρουσιαστής και δημοσιογράφος Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες». Με μήνυμα «Δεν ταξιδεύουμε για εμάς αλλά ταξιδεύουμε για εσάς», ο Τάσος Δούσης κάνει τους τηλεθεατές συνταξιδιώτες του, «ταξιδεύοντας» το κοινό μέσα από ένα οδοιπορικό στους πιο συναρπαστικούς προορισμούς.Από την Καππαδοκία της Τουρκίας μέχρι το πολύβουο Λος Άντζελες και το Λας Βέγκας της Αμερικής, από τις εξωτικές Μαλδίβες μέχρι και την απροσπέλαστη Νότια Κορέα, από το Ουζμπεκιστάν και τον πανάρχαιο πολιτισμό μέχρι το Ντουμπάι -τη δύση της Ανατολής-, ο Τάσος Δούσης αναδεικνύει τις ιδιαίτερες ιστορίες του κάθε πολιτισμού και της κάθε χώρας. Συναντά ντόπιους, αναζητά την παράδοση, τα αξιοθέατα, τις εμπειρίες που προσφέρει ο κάθε προορισμός και δοκιμάζει τα τοπικά φαγητά.</desc>
     <credits>
-      <director>Γρηγόρης Καραντινάκης</director>
-      <actor>Σπύρος Παπαδόπουλος</actor>
-      <actor>Κατερίνα Παπουτσάκη</actor>
-      <actor>Σταύρος Νικολαΐδης</actor>
-      <actor>Στεφανί Καπετανίδη</actor>
-      <actor>Ζωή Ρηγοπούλου</actor>
-      <actor>Μισέλ Βάλεϊ</actor>
-      <actor>Θωμαΐς Ανδρούτσου</actor>
-      <writer>Λευτέρης Καπώνης</writer>
+      <actor>Τάσος Δούσης</actor>
     </credits>
-    <date>2004</date>
-    <category lang="el">Σειρά</category>
-    <icon src="https://www.ishow.gr/files/images/2022/11/08898058-5939-48af-a339-c49449e98a03.jpg"/>
+    <icon src="https://www.ishow.gr/files/images/2022/11/7692d92d-a16b-4a17-80f6-62fec9925964.jpg"/>
   </programme>
   <programme start="20260130210000 +0200" stop="20260130224500 +0200" channel="epsilontv.gr">
     <title lang="el">Real View</title>
@@ -10475,9 +10476,14 @@ O Άγγελος μαθαίνει ότι ο ξενώνας κινδυνεύει 
     <desc lang="el">Α1 Basketball League Γυναικών. 17η Αγωνιστική. Με τον ανταγωνισμό να έχει μεγαλώσει, η 28η σεζόν στην Basket League γυναικών αποτελείται από 11 ομάδες, 22 αγωνιστικές κανονικής περιόδου και τα πλέι οφ.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
   </programme>
-  <programme start="20260131134500 +0200" stop="20260131160000 +0200" channel="ert2.gr">
-    <title lang="el">Ποδόσφαιρο: Οδυσσέας Μοσχάτου - ΑΕΚ</title>
-    <desc lang="el">Α' Εθνική Ποδοσφαίρου Γυναικών. 16η αγωνιστική. Το νέο πρωτάθλημα της Α' Εθνικής ποδοσφαίρου γυναικών διεξάγεται με 14 ομάδες, όπου πρωταθλήτρια αναδεικνύεται εκείνη που θα τερματίσει πρώτη μετά το πέρας των 26 αγωνιστικών, χωρίς πλέι οφ και ομίλους.</desc>
+  <programme start="20260131134500 +0200" stop="20260131150000 +0200" channel="ert2.gr">
+    <title lang="el">Pre Game</title>
+    <desc lang="el">Πριν από τους αγώνες, το Pre Game μας βάζει στον αγωνιστικό χώρο, πλάι στους πρωταγωνιστές και μας αποκαλύπτει καρέ-καρέ τα σχέδια των προπονητών λίγο πριν από τις μάχες των ομάδων.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
+  </programme>
+  <programme start="20260131150000 +0200" stop="20260131160000 +0200" channel="ert2.gr">
+    <title lang="el">Πόλο: Ελλάδα - Ιταλία</title>
+    <desc lang="el">Ευρωπαϊκό Πρωτάθλημα Γυναικών. Παρακολουθήστε τους αγώνες Ευρωπαϊκού πρωταθλήματος Πόλο Γυναικών, που διεξάγεται στην πόλη Φούντσαλ της Μαδέιρα στην Πορτογαλίας.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
   </programme>
   <programme start="20260131160000 +0200" stop="20260131160000 +0200" channel="ert2.gr">
@@ -10485,7 +10491,12 @@ O Άγγελος μαθαίνει ότι ο ξενώνας κινδυνεύει 
     <desc lang="el">Basket League 2025-26. 17η Αγωνιστική. Με 13 ομάδες και 26 αγωνιστικές στην κανονική περίοδο διεξάγεται η Basket League 2025-26. Οι 8 πρώτοι της τελικής κατάταξης προκρίνονται απευθείας στα playoffs. Η τελευταία θέση οδηγεί στην Elite league.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
   </programme>
-  <programme start="20260131160000 +0200" stop="20260131181500 +0200" channel="ert2.gr">
+  <programme start="20260131160000 +0200" stop="20260131161500 +0200" channel="ert2.gr">
+    <title lang="el">Μπάσκετ: ΠΑΟΚ - ΑΟ Μυκόνου</title>
+    <desc lang="el">Basket League 2025-26. 17η Αγωνιστική. Με 13 ομάδες και 26 αγωνιστικές στην κανονική περίοδο διεξάγεται η Basket League 2025-26. Οι 8 πρώτοι της τελικής κατάταξης προκρίνονται απευθείας στα playoffs. Η τελευταία θέση οδηγεί στην Elite league.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
+  </programme>
+  <programme start="20260131161500 +0200" stop="20260131181500 +0200" channel="ert2.gr">
     <title lang="el">Μπάσκετ: Ηρακλής - Καρδίτσα</title>
     <desc lang="el">Basket League 2025-26. 17η Αγωνιστική. Με 13 ομάδες και 26 αγωνιστικές στην κανονική περίοδο διεξάγεται η Basket League 2025-26. Οι 8 πρώτοι της τελικής κατάταξης προκρίνονται απευθείας στα playoffs. Η τελευταία θέση οδηγεί στην Elite league.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
@@ -12066,10 +12077,16 @@ O Άγγελος μαθαίνει ότι ο ξενώνας κινδυνεύει 
     <desc lang="el">Το FIP World Cup θεωρείται ένα από τα σημαντικότερα τουρνουά, με χρηματικά έπαθλα που ξεπερνούν το 1 εκατομμύριο ευρώ και 2.000 βαθμούς κατάταξης για τους νικητές τόσο στην κατηγορία ανδρών όσο και γυναικών. Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20260130210000 +0200" stop="20260130233000 +0200" channel="cosmotesport6.gr">
+  <programme start="20260130210000 +0200" stop="20260130225000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Βόλεϊ: Παναθηναϊκός - Ερυθρός Αστέρας</title>
     <desc lang="el">CEV Challenge Cup 2026. Προημιτελική Φάση, 1η Αγωνιστική Γυναικών. Περιγραφή: Πάνος Λούτας.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260130225000 +0200" stop="20260130233000 +0200" channel="cosmotesport6.gr">
+    <title lang="el">HYROX - The World of Fitness Racing</title>
+    <desc lang="el">Κατάλληλο τόσο για επαγγελματίες αθλητές όσο και για τους λάτρεις της καθημερινής γυμναστικής που επιθυμούν να ανεβάσουν το επίπεδο της προπόνησής τους, το HYROX είναι το άθλημα για όλους.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+    <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
   <programme start="20260130233000 +0200" stop="20260131020000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Βόλεϊ: Ολυμπιακός - Μιλάνο</title>
@@ -12109,25 +12126,30 @@ O Άγγελος μαθαίνει ότι ο ξενώνας κινδυνεύει 
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20260131091000 +0200" stop="20260131114000 +0200" channel="cosmotesport6.gr">
+  <programme start="20260131091000 +0200" stop="20260131113000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Βόλεϊ: Ολυμπιακός - Μιλάνο</title>
     <desc lang="el">CEV Champions League 2026. Φάση Ομίλων, 5η Αγωνιστική Γυναικών. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20260131114000 +0200" stop="20260131140000 +0200" channel="cosmotesport6.gr">
+  <programme start="20260131113000 +0200" stop="20260131135000 +0200" channel="cosmotesport6.gr">
     <title lang="el">CEV Beach Volleyball European Cup 2025</title>
     <desc lang="el">Παρακολουθήστε συναρπαστικούς αγώνες στα πλαίσια του CEV Beach Volleyball European Cup. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20260131140000 +0200" stop="20260131143500 +0200" channel="cosmotesport6.gr">
+  <programme start="20260131135000 +0200" stop="20260131142000 +0200" channel="cosmotesport6.gr">
     <title lang="el">HYROX - The World of Fitness Racing</title>
     <desc lang="el">Κατάλληλο τόσο για επαγγελματίες αθλητές όσο και για τους λάτρεις της καθημερινής γυμναστικής που επιθυμούν να ανεβάσουν το επίπεδο της προπόνησής τους, το HYROX είναι το άθλημα για όλους.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20260131143500 +0200" stop="20260131170500 +0200" channel="cosmotesport6.gr">
+  <programme start="20260131142000 +0200" stop="20260131160500 +0200" channel="cosmotesport6.gr">
     <title lang="el">Βόλεϊ: Παναθηναϊκός - Ερυθρός Αστέρας</title>
     <desc lang="el">CEV Challenge Cup 2026. Προημιτελική Φάση, 1η Αγωνιστική Γυναικών. Περιγραφή: Πάνος Λούτας.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260131160500 +0200" stop="20260131170500 +0200" channel="cosmotesport6.gr">
+    <title lang="el">ATP 2025 - Ανασκόπηση</title>
+    <desc lang="el">Μια ματιά στους σημαντικότερους αγώνες, τους αθλητές και τις αθλήτριες που σημάδεψαν τα τουρνουά ATP μέσα στο 2025.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
   <programme start="20260131170500 +0200" stop="20260131203000 +0200" channel="cosmotesport6.gr">
