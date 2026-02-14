@@ -12863,7 +12863,7 @@ Guests: Πηνελόπη Ακτύπη (Νόνη Παναγοπούλου), Μι�
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260215093000 +0100" stop="20260215100000 +0100" channel="espn.us">
+  <programme start="20260215093000 +0100" stop="20260215103000 +0100" channel="espn.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
@@ -12871,7 +12871,7 @@ Guests: Πηνελόπη Ακτύπη (Νόνη Παναγοπούλου), Μι�
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260215100000 +0100" stop="20260215110000 +0100" channel="espn.us">
+  <programme start="20260215103000 +0100" stop="20260215110000 +0100" channel="espn.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
