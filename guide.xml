@@ -802,36 +802,37 @@
     <country lang="sv">FIN</country>
     <episode-num system="onscreen">S3 E1/8</episode-num>
   </programme>
-  <programme start="20260302115500 +0000" stop="20260302122000 +0000" channel="svt2.se">
+  <programme start="20260302115500 +0000" stop="20260302120000 +0000" channel="svt2.se">
     <title lang="sv">Jägaren</title>
     <desc lang="sv">Amelie är en 22-årig jägare med skinn på näsan. Hon är uppväxt i skog och mark i en släkt där mycket handlar om viltvård.. Familjens gård har långa anor och Amelie är fast besluten om att hon ska föra både arvet och jaktintresset vidare till nästa generation.. Amelie och hennes sambo Andreas har tydliga planer på hur framtiden ska se ut, de ska gifta sig, skaffa barn och gården ska rustas upp. Men när Amelie får veta att hon inte kan få barn faller allt samman.</desc>
     <date>2023</date>
     <country lang="sv">FIN</country>
   </programme>
-  <programme start="20260302122000 +0000" stop="20260302125000 +0000" channel="svt2.se">
+  <programme start="20260302120000 +0000" stop="20260302122000 +0000" channel="svt2.se">
+    <title lang="sv">Så påverkas ekonomin av attackerna i Mellanöstern</title>
+    <desc lang="sv">Oljepriset rusar och börsen går ned efter USA:s och Israels anfall emot Iran i helgen.. Vilka konsekvenser har det här fått och vad kan på sikt hända med såväl den svenska som den globala ekonomin. SVT Nyheter sänder direkt.. Medverkande: Alexander Atarodi, mellanöstern expert, Alexander Norén ekonomikommentator på SVT.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">S2026 E75/76</episode-num>
+  </programme>
+  <programme start="20260302122000 +0000" stop="20260302123000 +0000" channel="svt2.se">
     <title lang="sv">Hundra procent bonde</title>
     <desc lang="sv">Traktorns rostangripna stegbräda är en säkerhetsrisk och måste bytas innan våren kommer.. I fönsterkarmarna spirar de första plantorna, men för att få mer plats bygger Frank ett förkultiveringsbord.</desc>
     <date>2025</date>
     <country lang="sv">DNK</country>
     <episode-num system="onscreen">S34 E4/9</episode-num>
   </programme>
-  <programme start="20260302125000 +0000" stop="20260302132000 +0000" channel="svt2.se">
+  <programme start="20260302123000 +0000" stop="20260302130000 +0000" channel="svt2.se">
     <title lang="sv">Pappa, pappa, barn</title>
     <desc lang="sv">Morten och Frederik har en stark önskan om att bli föräldrar. Nanna från Helsingör kontaktar dem via Instagram och erbjuder sig att bära deras barn.. Eftersom fertilitetsbehandling inte är tillåten för dem i Danmark försöker de i stället bli godkända i USA, där Nanna kan bli gravid med ägg från en amerikansk äggdonator.</desc>
     <date>2025</date>
     <country lang="sv">DNK</country>
     <episode-num system="onscreen">S1 E1/5</episode-num>
   </programme>
-  <programme start="20260302132000 +0000" stop="20260302134500 +0000" channel="svt2.se">
-    <title lang="sv">Dancing pigeons</title>
-    <desc lang="sv">I en skånsk småstad får ett danskt andligt medium sin storseans avbruten när en kvinna i publiken vägrar låta honom avsluta showen.. Hon vill få kontakt med sin bortgångne ex-make.</desc>
-    <credits>
-      <actor>Olof Bendz</actor>
-      <actor>Anette Lindbäck</actor>
-      <actor>Thomas Guldberg Madsen</actor>
-    </credits>
-    <date>2025</date>
-    <country lang="sv">SWE</country>
+  <programme start="20260302130000 +0000" stop="20260302134500 +0000" channel="svt2.se">
+    <title lang="sv">Det senaste om Iran-konflikten</title>
+    <desc lang="sv">USA:s krigsminister Pete Hegseth ska hålla en presskonferens om USA:s attacker om Iran, samtidigt som konflikten fortsätter i Mellanöstern.. I studion: SVT:s mellanöstern kommentator Samir Abu Eid och Alexander Atarodi, mellanöstern-expert.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">S2026 E76/76</episode-num>
   </programme>
   <programme start="20260302134500 +0000" stop="20260302144500 +0000" channel="svt2.se">
     <title lang="sv">Jan Håfström – den långa resan hem</title>
@@ -944,11 +945,9 @@
     <episode-num system="onscreen">S2024 E7/8</episode-num>
   </programme>
   <programme start="20260302223000 +0000" stop="20260302231500 +0000" channel="svt2.se">
-    <title lang="sv">Agenda</title>
-    <desc lang="sv">Finlands president Alexander Stubb i exklusiv intervju om varför det är viktigt att säga att Ukraina håller på att vinna kriget, relationen till Trump och varför han inte ringer Putin.. Hur påverkas ryssarna av fyra års krig mot Ukraina? Hör författaren Åsne Seierstad och Fredrik Löjdquist, chef för Centrum för Östeuropastudier. Centerpartiet och Vänsterpartiet vill båda byta regering, men står långt från varandra i den ekonomiska politiken. Debatt mellan Martin Ådahl (C) och Ida Gabrielsson (V) om skatter, höga priser och möjligt samarbete.</desc>
+    <title lang="sv">Attackerna i Mellanöstern – publikens frågor</title>
+    <desc lang="sv">Anfallen mot Iran och Irans motattacker fortsätter. Varför händer det här just nu? Kommer fler länder dras in i kriget?. I en extrainsatt livesändning svarar SVT:s korrespondenter och reportrar på dina frågor, direkt från redaktionsgolvet.</desc>
     <date>2026</date>
-    <country lang="sv">SWE</country>
-    <episode-num system="onscreen">S2026 E7/20</episode-num>
   </programme>
   <programme start="20260302231500 +0000" stop="20260302234500 +0000" channel="svt2.se">
     <title lang="sv">30 minuter</title>
@@ -957,14 +956,14 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S11 E7/14</episode-num>
   </programme>
-  <programme start="20260302234500 +0000" stop="20260303004000 +0000" channel="svt2.se">
+  <programme start="20260303002000 +0000" stop="20260303011500 +0000" channel="svt2.se">
     <title lang="sv">This is not a murder mystery</title>
     <desc lang="sv">West Dean skakas av en ny händelse. Samtidigt som surrealisterna börjar misstänka varandra, fokuserar Scotland Yard på en av gästerna.. Paranoian sprider sig, lögner avslöjas och nya uppgifter om Sheilas förflutna kommer i dagen.</desc>
     <date>2025</date>
     <country lang="sv">BEL</country>
     <episode-num system="onscreen">S1 E2/6</episode-num>
   </programme>
-  <programme start="20260303004000 +0000" stop="20260303090000 +0000" channel="svt2.se">
+  <programme start="20260303011500 +0000" stop="20260303090000 +0000" channel="svt2.se">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
   <programme start="20260303090000 +0000" stop="20260303100000 +0000" channel="svt2.se">
@@ -9148,7 +9147,7 @@
     <desc lang="el">Ό,τι συμβαίνει την στιγμή που συμβαίνει, ό,τι προβληματίζει την κοινωνία, είναι LIVE YOU και είναι στον ΣΚΑΪ. Με ρεπορτάζ, έρευνες και συνεντεύξεις, το LIVE YOU θα συνομιλεί ζωντανά με τους τηλεθεατές και θα αναζητά καθημερινά λύσεις και απαντήσεις.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/9.png"/>
   </programme>
-  <programme start="20260302135000 +0200" stop="20260302144000 +0200" channel="skai.gr">
+  <programme start="20260302135000 +0200" stop="20260302153000 +0200" channel="skai.gr">
     <title lang="el">Οι ειδήσεις του ΣΚΑΪ</title>
     <desc lang="el">Δελτίο ειδήσεων με την Εύα Αντωνοπούλου. Όλες οι όψεις της επικαιρότητας, με τη δύναμη και την σφραγίδα της δημοσιογραφικής ομάδας του ΣΚΑΪ. Όλες οι πολιτικές, οικονομικές, διεθνείς, αλλά και αθλητικές ειδήσεις σε πρώτο πλάνο την ώρα που διαμορφώνεται η ατζέντα της ημέρας.</desc>
     <credits>
@@ -9156,11 +9155,6 @@
     </credits>
     <category lang="el">Ειδήσεις</category>
     <icon src="https://www.ishow.gr/files/images/2021/3/c2ffa509-f0de-4a3e-af20-622cab035cf3.jpg"/>
-  </programme>
-  <programme start="20260302144000 +0200" stop="20260302153000 +0200" channel="skai.gr">
-    <title lang="el">Όπου Υπάρχει Ελλάδα</title>
-    <desc lang="el">Το καθημερινό ενημερωτικό ταξίδι του ΣΚΑΪ, που αναδεικνύει την αυθεντική ψυχή της Ελλάδας - τις όμορφες, αλλά και τις δύσκολες όψεις της. Πρωταγωνιστές οι άνθρωποι και στούντιο η Ελλάδα!</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/9.png"/>
   </programme>
   <programme start="20260302153000 +0200" stop="20260302164000 +0200" channel="skai.gr">
     <title lang="el">Το 'χουμε!</title>
@@ -9406,19 +9400,9 @@
     <desc lang="el">Ενημερώνουμε τον τηλεθεατή με σοβαρότητα, νηφαλιότητα και ψύχραιμη ματιά συγκεντρώνοντας τα θέματα της ημέρας σ' ένα γρήγορο, σαφές και περιεκτικό δελτίο με όσα χρειάζεται να γνωρίζει ο πολίτης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
   </programme>
-  <programme start="20260302135000 +0200" stop="20260302140500 +0200" channel="epsilontv.gr">
-    <title lang="el">Θυρίδα Τηλεπώλησης</title>
-    <icon src="https://www.ishow.gr/files/images/2021/3/35a7a70c-bf83-4340-b4ef-6bb11367dafd.jpg"/>
-  </programme>
-  <programme start="20260302140500 +0200" stop="20260302141500 +0200" channel="epsilontv.gr">
-    <title lang="el">Open News στη Νοηματική</title>
-    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας, σε ένα δελτίο που απευθύνεται σε άτομα με προβλήματα ακοής και ομιλίας.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
-  </programme>
-  <programme start="20260302141500 +0200" stop="20260302154500 +0200" channel="epsilontv.gr">
-    <title lang="el">Ώρα για Ψυχαγωγία</title>
-    <desc lang="el">Ο Θανάσης Πάτρας μαζί με την Άννα Ζηρδέλη και τον Γιώργο Κρικοριάν έρχονται με το πλατύ τους χαμόγελο για να ζωντανέψουν τα μεσημέρια μας και να μας παρασύρουν στον δικό τους όμορφο, ανέμελο και φωτεινό κόσμο.</desc>
+  <programme start="20260302135000 +0200" stop="20260302154500 +0200" channel="epsilontv.gr">
+    <title lang="el">Έκτακτη Επικαιρότητα</title>
+    <desc lang="el">Ενημερωτική εκπομπή και Open News στη Νοηματική.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
   </programme>
   <programme start="20260302154500 +0200" stop="20260302184500 +0200" channel="epsilontv.gr">
@@ -10616,23 +10600,17 @@
     <desc lang="el">UEFA Europa League 2025-26. Knockout Phase Play-offs, 2η Αγωνιστική. Στο ΟΑΚΑ, Παναθηναϊκός και Πλζεν έμειναν στο 2-2 και η πρόκριση στους '16' θα κριθεί στην Τσεχία. Περιγραφή: Κώστας Ψάρρας.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
-  <programme start="20260302144500 +0200" stop="20260302170500 +0200" channel="cosmotesport1.gr">
+  <programme start="20260302144500 +0200" stop="20260302173000 +0200" channel="cosmotesport1.gr">
     <title lang="el">SportShow</title>
     <desc lang="el">Η εκπομπή SPORTSHOW σας προσφέρει μια διαφορετική οπτική γωνία με κύριο άξονα την αγωνιστική δράση της εβδομάδας. Η εκπομπή περιλαμβάνει θέματα από όλα τα αθλητικά γεγονότα που έχουν θέση στο τηλεοπτικό πρόγραμμα της COSMOTE TV.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
-  <programme start="20260302170500 +0200" stop="20260302173500 +0200" channel="cosmotesport1.gr">
-    <title lang="el">UEFA Champions League - Στιγμιότυπα 2025-26</title>
-    <desc lang="el">Knock-out Play-offs, 10η Αγωνιστική 25.02. Τα καλύτερα στιγμιότυπα της αγωνιστικής του UEFA Champions League. Στιγμές γεμάτες πάθος, δυνατές μάχες και τα καλύτερα γκολ που ξεχώρισαν ανά αγωνιστική ημέρα αφιερωμένα στην κορυφαία διοργάνωση.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
-    <episode-num system="onscreen">S2 E15</episode-num>
-  </programme>
-  <programme start="20260302173500 +0200" stop="20260302201500 +0200" channel="cosmotesport1.gr">
+  <programme start="20260302173000 +0200" stop="20260302201000 +0200" channel="cosmotesport1.gr">
     <title lang="el">Ποδόσφαιρο: Φιορεντίνα - Γιαγκελόνια</title>
     <desc lang="el">UEFA Conference League 2025-26. Knockout Phase Play-offs, 2η Αγωνιστική. Περιγραφή: Μάνος Σπανόπουλος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
-  <programme start="20260302201500 +0200" stop="20260302221500 +0200" channel="cosmotesport1.gr">
+  <programme start="20260302201000 +0200" stop="20260302221500 +0200" channel="cosmotesport1.gr">
     <title lang="el">Ποδόσφαιρο: Λεβερκούζεν - Ολυμπιακός</title>
     <desc lang="el">UEFA Champions League 2025-26. Knockout Phase Play-offs, 2η Αγωνιστική. Ο Ολυμπιακός καλείται να ανατρέψει το εις βάρος του 2-0 του 'Γ. Καραϊσκάκης' κόντρα στη Λεβερκούζεν, για να προκριθεί στους '16'. Περιγραφή: Γιώργος Θαναηλάκης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
@@ -11200,12 +11178,12 @@
     <desc lang="el">Το Παγκόσμιο Πρωτάθλημα FIM Moto3 του 2025 συγκεντρώνει 13 ομάδες από 2 κατασκευαστές, αλλά και 27 αναβάτες, οι οποίοι διαγωνίζονται σε 22 Γκραν Πρι. Περιγραφή: Δήμητρα Λαδά, Χριστόφορος Ζουλινάκης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20260302175000 +0200" stop="20260302191000 +0200" channel="cosmotesport5.gr">
+  <programme start="20260302175000 +0200" stop="20260302192000 +0200" channel="cosmotesport5.gr">
     <title lang="el">Motorsports: Moto2 2026</title>
     <desc lang="el">Το Παγκόσμιο Πρωτάθλημα FIM Moto2 2025 περιλαμβάνει 15 ομάδες από 3 κατασκευαστές και συνολικά 30 αναβάτες. Ο τελικός νικητής θα κριθεί μέσα από 22 συναρπαστικά Γκραν Πρι. Περιγραφή: Δήμητρα Λαδά, Χριστόφορος Ζουλινάκης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20260302191000 +0200" stop="20260302210000 +0200" channel="cosmotesport5.gr">
+  <programme start="20260302192000 +0200" stop="20260302210000 +0200" channel="cosmotesport5.gr">
     <title lang="el">Motorsports: MotoGP 2026</title>
     <desc lang="el">Το Παγκόσμιο Πρωτάθλημα FIM MotoGP 2025 περιλαμβάνει 11 ομάδες και συνολικά 22 αναβάτες, που διεκδικούν τον τίτλο μέσα από 22 Γκραν Πρι. Περιγραφή: Δημήτρης Διατσίδης.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
@@ -17374,10 +17352,10 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/51b24a89-493b-46ab-aceb-3dff69365c5d_xl.jpg"/>
   </programme>
   <programme start="20260303225000 +0000" stop="20260304002000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Košarka - Euroleague: Hapoel Tel Aviv - Paris</title>
-    <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+    <title lang="sr">Koledž košarka: Tennessee - Alabama</title>
+    <desc lang="sr">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proleća pratite ko će biti najbolja univerzitetska ekipa u SAD-u i koje će možda buduće NBA zvezde zablistati.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/29/332535f6-acc4-4faf-8017-dd771173c00b_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/29/99381836-fe72-4a83-955c-c5ff6367fe0d_xl.jpg"/>
   </programme>
   <programme start="20260302000000 +0000" stop="20260302010000 +0000" channel="sportklub4.rs">
     <title lang="sr">Sport Klub 11 Promo</title>
@@ -18034,11 +18012,10 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/03/10/e72798e4-6e39-4968-ac5b-3097c6ad1353_stb_xl.jpg"/>
   </programme>
   <programme start="20260303181500 +0000" stop="20260303201500 +0000" channel="sportklub6.rs">
-    <title lang="sr">Fudbal: LŠ Azije - TWO: 1/4 Finale (1st leg): Ahli Qatar - Hussein</title>
-    <desc lang="sr">Što je Liga Evrope nama, to je AFC Champions League Two na najvećem kontinentu. Ima ovde mnogo kvalitetnih igrača i mnogo onih za koje ste se pitali "gde su i šta rade"... (LIVE).</desc>
+    <title lang="sr">Košarka - Kup Nemačke: FINALE: Brose - Alba</title>
+    <desc lang="sr">BBL Kup je godišnje kup takmičenje 16 najboljih nemačkih košarkaških klubova koje se održava od 1966. godine.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/4237e656-1cc3-40ff-ae33-d3ec03ab37f2_stb_xl.jpg"/>
-    <premiere/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/7747d5d8-c66c-468e-a28f-cfabe7e1f905_stb_xl.jpg"/>
   </programme>
   <programme start="20260303201500 +0000" stop="20260303214500 +0000" channel="sportklub6.rs">
     <title lang="sr">Jedrenje - GP Sydney: 2. DAN</title>
