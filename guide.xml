@@ -369,21 +369,14 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S4 E8/40</episode-num>
   </programme>
-  <programme start="20260304092000 +0000" stop="20260304095000 +0000" channel="svt1.se">
+  <programme start="20260304092000 +0000" stop="20260304092500 +0000" channel="svt1.se">
     <title lang="sv">Under stjärnorna med Markus Torgeby</title>
     <desc lang="sv">Markus Torgeby åker rullskridskor ut från Stockholms innerstad och möter skådespelaren Helena Bergström i en galopp.. Hon tar sig ut och upplever naturen genom sina djur, och de delar solnedgången nära stadens puls. Markus är nyfiken på hennes brinn - har hon en mission?</desc>
     <date>2026</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E2/6</episode-num>
   </programme>
-  <programme start="20260304095000 +0000" stop="20260304095500 +0000" channel="svt1.se">
-    <title lang="sv">Världens natur: På tre minuter</title>
-    <desc lang="sv">En skicklig jägare som vi sällan ser - Lodjuret har varit nära att utrotas i Sverige.. Trots att det är ett av våra största rovdjur, högst upp i näringskedjan. Så vad kan hota denna tofsörade ikon?</desc>
-    <date>2025</date>
-    <country lang="sv">SWE</country>
-    <episode-num system="onscreen">S1 E2/10</episode-num>
-  </programme>
-  <programme start="20260304095500 +0000" stop="20260304105500 +0000" channel="svt1.se">
+  <programme start="20260304092500 +0000" stop="20260304105500 +0000" channel="svt1.se">
     <title lang="sv">Skidskytte: Junior-VM</title>
     <desc lang="sv">Arber, Tyskland. Junior-VM i skidskytte från tyska Arber. På programmet står damernas sprint i klassen yngre juniorer.</desc>
     <date>2026</date>
@@ -1635,14 +1628,14 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S1 E5/9</episode-num>
   </programme>
-  <programme start="20260305025000 +0000" stop="20260305035700 +0000" channel="tv4.se">
+  <programme start="20260305025000 +0000" stop="20260305040900 +0000" channel="tv4.se">
     <title lang="sv">Blue lights</title>
     <desc lang="sv">Efter ett uppmärksammat mord är det kaotiskt på polisstationen, där David ”Jonty” Johnstons återkomst också ökar spänningen.. Annie ifrågasätter Shanes hårdföra taktik, medan Grace och Stevie plockas bort från Mount Eden för att utreda ett dödsfall.</desc>
     <date>2024</date>
     <country lang="sv">GBR</country>
     <episode-num system="onscreen">S2 E3/6</episode-num>
   </programme>
-  <programme start="20260305035700 +0000" stop="20260305041000 +0000" channel="tv4.se">
+  <programme start="20260305040900 +0000" stop="20260305041000 +0000" channel="tv4.se">
     <title lang="sv">To Be Announced</title>
   </programme>
   <programme start="20260305041000 +0000" stop="20260305043500 +0000" channel="tv4.se">
@@ -1738,14 +1731,14 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S7 E1/18</episode-num>
   </programme>
-  <programme start="20260305234500 +0000" stop="20260306005600 +0000" channel="tv4.se">
+  <programme start="20260305234500 +0000" stop="20260306005500 +0000" channel="tv4.se">
     <title lang="sv">Blue lights</title>
     <desc lang="sv">Canning är fast besluten att hitta ett sätt att knyta Lee till drogerna. Shane försöker på sitt sätt få info om Mount Eden-gänget.. Grace och Annie är trötta på att inte komma någonvart i sin utredning och bestämmer sig för att försöka göra skillnad.</desc>
     <date>2024</date>
     <country lang="sv">GBR</country>
     <episode-num system="onscreen">S2 E4/6</episode-num>
   </programme>
-  <programme start="20260306005600 +0000" stop="20260306015000 +0000" channel="tv4.se">
+  <programme start="20260306005500 +0000" stop="20260306015000 +0000" channel="tv4.se">
     <title lang="sv">The rookie</title>
     <desc lang="sv">Officer Nolan och Celina tar sig an ett speciellt fall, samtidigt ställer Monica upp för att hjälpa till att identifiera de män som attackerade henne.. Lopez och Harper upptäcker en koppling till en rad brott.</desc>
     <date>2023</date>
@@ -1759,14 +1752,14 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S1 E6/9</episode-num>
   </programme>
-  <programme start="20260306024500 +0000" stop="20260306035200 +0000" channel="tv4.se">
+  <programme start="20260306024500 +0000" stop="20260306040800 +0000" channel="tv4.se">
     <title lang="sv">Blue lights</title>
     <desc lang="sv">Canning är fast besluten att hitta ett sätt att knyta Lee till drogerna. Shane försöker på sitt sätt få info om Mount Eden-gänget.. Grace och Annie är trötta på att inte komma någonvart i sin utredning och bestämmer sig för att försöka göra skillnad.</desc>
     <date>2024</date>
     <country lang="sv">GBR</country>
     <episode-num system="onscreen">S2 E4/6</episode-num>
   </programme>
-  <programme start="20260306035200 +0000" stop="20260306041000 +0000" channel="tv4.se">
+  <programme start="20260306040800 +0000" stop="20260306041000 +0000" channel="tv4.se">
     <title lang="sv">To Be Announced</title>
   </programme>
   <programme start="20260306041000 +0000" stop="20260306043500 +0000" channel="tv4.se">
@@ -2860,14 +2853,14 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S16 E7/12</episode-num>
   </programme>
-  <programme start="20260305030000 +0000" stop="20260305040000 +0000" channel="sjuan.se">
+  <programme start="20260305030000 +0000" stop="20260305040400 +0000" channel="sjuan.se">
     <title lang="sv">Love it or list it Australien</title>
     <desc lang="sv">Jackie tycker att familjens hus i Sandringham är ett hopplöst fall och hoppas att Andrew kan hitta deras drömhus i Melbourne.. Maken Peter har ingen lust att flytta och är övertygad om att Neale kan göra underverk för familjens nuvarande bostad.</desc>
     <date>2018</date>
     <country lang="sv">AUS</country>
     <episode-num system="onscreen">S2 E12/13</episode-num>
   </programme>
-  <programme start="20260305040000 +0000" stop="20260305040500 +0000" channel="sjuan.se">
+  <programme start="20260305040400 +0000" stop="20260305040500 +0000" channel="sjuan.se">
     <title lang="sv">To Be Announced</title>
   </programme>
   <programme start="20260305040500 +0000" stop="20260305050000 +0000" channel="sjuan.se">
@@ -3041,7 +3034,7 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S16 E9/12</episode-num>
   </programme>
-  <programme start="20260306030000 +0000" stop="20260306040300 +0000" channel="sjuan.se">
+  <programme start="20260306030000 +0000" stop="20260306040500 +0000" channel="sjuan.se">
     <title lang="sv">Love it or list it Australien</title>
     <desc lang="sv">I Brunswick ligger en charmig liten stuga som Brendan och James köpte för 20 år sedan. Brendan jobbar hemifrån och tycker att huset är för trångt.. James älskar stugan och hoppas att Neals renovering kan få Brendan att ändra sig.</desc>
     <date>2018</date>
@@ -3968,84 +3961,84 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S3 E19/30</episode-num>
   </programme>
-  <programme start="20260304093000 +0000" stop="20260304100000 +0000" channel="tv10.se">
+  <programme start="20260304093000 +0000" stop="20260304095500 +0000" channel="tv10.se">
     <title lang="sv">Det stora fyndkriget</title>
     <desc lang="sv">Köparna beger sig till auktionerna i Costa Mesa. Darrel köper det största förrådet i Det stora fyndkrigets historia.. Men frågan är om han också kommer att kamma hem den högsta vinsten.</desc>
     <date>2012</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S3 E20/30</episode-num>
   </programme>
-  <programme start="20260304100000 +0000" stop="20260304103000 +0000" channel="tv10.se">
+  <programme start="20260304095500 +0000" stop="20260304103000 +0000" channel="tv10.se">
     <title lang="sv">Ricks antikhandel</title>
     <desc lang="sv">Rick ska restaurera en elektrisk poängtavla från 50-talet åt en kund och en annan kund kommer in med en urandetektor som behöver lagas och fixas till.</desc>
     <date>2014</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S5 E6/21</episode-num>
   </programme>
-  <programme start="20260304103000 +0000" stop="20260304110000 +0000" channel="tv10.se">
+  <programme start="20260304103000 +0000" stop="20260304105500 +0000" channel="tv10.se">
     <title lang="sv">Ricks antikhandel</title>
     <desc lang="sv">En kund kommer in med en dryckeskylare från 50-talet som behöver fixas till. Rick får också uppgiften att fixa en dammsugare från 40-talet.</desc>
     <date>2014</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S5 E7/21</episode-num>
   </programme>
-  <programme start="20260304110000 +0000" stop="20260304120000 +0000" channel="tv10.se">
+  <programme start="20260304105500 +0000" stop="20260304115500 +0000" channel="tv10.se">
     <title lang="sv">American pickers</title>
     <desc lang="sv">Killarna får sitt livs chans bakom kulisserna på en berömd turistattraktion.. En samlare i Cape Cod avbryter den ena dealen efter den andra tills hans fru träder in.</desc>
     <date>2015</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S11 E16</episode-num>
   </programme>
-  <programme start="20260304120000 +0000" stop="20260304130000 +0000" channel="tv10.se">
+  <programme start="20260304115500 +0000" stop="20260304125500 +0000" channel="tv10.se">
     <title lang="sv">American pickers</title>
     <desc lang="sv">Killarna har fullt upp med ett enormt gods med fler skräddarsydda 32-tals-Fordar än de någonsin har sett samlade tidigare.. Samtidigt är Danielle på ett hjärtevärmande uppdrag.</desc>
     <date>2015</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S11 E17</episode-num>
   </programme>
-  <programme start="20260304130000 +0000" stop="20260304140000 +0000" channel="tv10.se">
+  <programme start="20260304125500 +0000" stop="20260304135500 +0000" channel="tv10.se">
     <title lang="sv">Svenska truckers</title>
     <desc lang="sv">Tove täcker för sommarlediga vikarier och jobbar därför dagtid.. Den nya arbetstiden i somriga Småland innebär helt andra problem än vanligtvis, tex vilsna cyklister. Kelly har en mardrömsdag med massa stopp inplanerade och när hon hamnar i köer så brister det.. Peo har 6 containrar i Åre att hantera, med en ny bil som han inte är van vid och nya adresser att så dagen blir svårare än vanligt. Micke har precis hämtat en bro som är 21 meter lång och kör fel i en rondell som ställer det rejält. Väl ute på vägen igen blir det stopp då vägen visar sig vara för smal.</desc>
     <date>2023</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S7 E5/8</episode-num>
   </programme>
-  <programme start="20260304140000 +0000" stop="20260304143000 +0000" channel="tv10.se">
+  <programme start="20260304135500 +0000" stop="20260304143000 +0000" channel="tv10.se">
     <title lang="sv">Det stora fyndkriget</title>
     <desc lang="sv">Spänningen stiger i Santa Ana där Jarrod betalar stora summor för ett lager fullt av elektronikprylar. Barry fiskar fram ett värdefullt tågsett.</desc>
     <date>2012</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S3 E19/30</episode-num>
   </programme>
-  <programme start="20260304143000 +0000" stop="20260304150000 +0000" channel="tv10.se">
+  <programme start="20260304143000 +0000" stop="20260304145500 +0000" channel="tv10.se">
     <title lang="sv">Det stora fyndkriget</title>
     <desc lang="sv">Köparna beger sig till auktionerna i Costa Mesa. Darrel köper det största förrådet i Det stora fyndkrigets historia.. Men frågan är om han också kommer att kamma hem den högsta vinsten.</desc>
     <date>2012</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S3 E20/30</episode-num>
   </programme>
-  <programme start="20260304150000 +0000" stop="20260304153000 +0000" channel="tv10.se">
+  <programme start="20260304145500 +0000" stop="20260304153000 +0000" channel="tv10.se">
     <title lang="sv">Det stora fyndkriget – Texas</title>
     <desc lang="sv">I Waxahachie hittar Ricky och Bubba ett konstigt vapen. Moe och Mary kommer över en ovanlig trästol och ber en expert om en värdering.. Jenny hittar ett utsmyckat skåp men frågan är om det är värdefullt.</desc>
     <date>2013</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S4 E1/12</episode-num>
   </programme>
-  <programme start="20260304153000 +0000" stop="20260304160000 +0000" channel="tv10.se">
+  <programme start="20260304153000 +0000" stop="20260304155500 +0000" channel="tv10.se">
     <title lang="sv">Det stora fyndkriget – Texas</title>
     <desc lang="sv">Köparna befinner sig i den välbärgade stadsdelen Las Colinas i Irving och förhoppningarna är höga.. Ricky och Bubba kommer över en chokladmaskin, Jenny får en inblick i sportbilsvärlden och Mary och Moe hittar en bomb.</desc>
     <date>2013</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S4 E2/12</episode-num>
   </programme>
-  <programme start="20260304160000 +0000" stop="20260304170000 +0000" channel="tv10.se">
+  <programme start="20260304155500 +0000" stop="20260304165500 +0000" channel="tv10.se">
     <title lang="sv">Rock solid builds</title>
     <desc lang="sv">Teamet har bråttom att påbörja renoveringen av en 100 år gammal ladugård innan den historiska byggnaden går förlorad för alltid.. Ett jobb till lands och till sjöss kallar Randy in en enorm kran och ett dykarteam för att installera en flytande brygga.</desc>
     <date>2021</date>
     <country lang="sv">CAN</country>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20260304170000 +0000" stop="20260304180000 +0000" channel="tv10.se">
+  <programme start="20260304165500 +0000" stop="20260304180000 +0000" channel="tv10.se">
     <title lang="sv">Rock solid builds</title>
     <desc lang="sv">Teamet arbetar hårt på en historisk ladugård som får nytt liv.. Efter ett års arbete är Randy och teamet lättade över att kunna avsluta ett stort projekt med en känslomässig avslöjande och en fest för hela samhället.</desc>
     <date>2021</date>
@@ -4136,15 +4129,12 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S7 E3/8</episode-num>
   </programme>
-  <programme start="20260305040000 +0000" stop="20260305044900 +0000" channel="tv10.se">
+  <programme start="20260305040000 +0000" stop="20260305050000 +0000" channel="tv10.se">
     <title lang="sv">Aussie pickers</title>
     <desc lang="sv">Rykten om en guldgruva av en pick tar Adam och Lucas till Sydön i Nya Zeeland.. Kommer killarna hitta några internationella guldkorn, eller kommer de att bli lurade av lokalbefolkningen?</desc>
     <date>2014</date>
     <country lang="sv">AUS</country>
     <episode-num system="onscreen">S2 E5</episode-num>
-  </programme>
-  <programme start="20260305044900 +0000" stop="20260305050000 +0000" channel="tv10.se">
-    <title lang="sv">To Be Announced</title>
   </programme>
   <programme start="20260305050000 +0000" stop="20260305060000 +0000" channel="tv10.se">
     <title lang="sv">Guldjägarna i Australien</title>
@@ -4181,63 +4171,63 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S3 E21/30</episode-num>
   </programme>
-  <programme start="20260305093000 +0000" stop="20260305100000 +0000" channel="tv10.se">
+  <programme start="20260305093000 +0000" stop="20260305095500 +0000" channel="tv10.se">
     <title lang="sv">Det stora fyndkriget</title>
     <desc lang="sv">Det är första gången som Dave Hester är i ökenstaden Murietta och han hoppas kunna göra ett intryck.. Ett övergivet förråd visar sig innehålla porslinsfigurer från Tyskland och julprylar med samlarvärde. Jeff hittar en randig träpåle som en gång i tiden förgyllt framsidan på en barberarsalong.</desc>
     <date>2012</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S3 E22/30</episode-num>
   </programme>
-  <programme start="20260305100000 +0000" stop="20260305103000 +0000" channel="tv10.se">
+  <programme start="20260305095500 +0000" stop="20260305103000 +0000" channel="tv10.se">
     <title lang="sv">Ricks antikhandel</title>
     <desc lang="sv">En bowlingutrustningsautomat från femtiotalet kommer in för restaurering. Det kommer även en skadedjurs spruta i koppar  för reparation.</desc>
     <date>2014</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S5 E8/21</episode-num>
   </programme>
-  <programme start="20260305103000 +0000" stop="20260305110000 +0000" channel="tv10.se">
+  <programme start="20260305103000 +0000" stop="20260305105500 +0000" channel="tv10.se">
     <title lang="sv">Ricks antikhandel</title>
     <desc lang="sv">En kund kommer in med en unik tågsignal från 20-talet som han vill ska restaureras och fixas till.</desc>
     <date>2014</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S5 E9/21</episode-num>
   </programme>
-  <programme start="20260305110000 +0000" stop="20260305120000 +0000" channel="tv10.se">
+  <programme start="20260305105500 +0000" stop="20260305115500 +0000" channel="tv10.se">
     <title lang="sv">American pickers</title>
     <desc lang="sv">Killarna har fullt upp med ett enormt gods med fler skräddarsydda 32-tals-Fordar än de någonsin har sett samlade tidigare.. Samtidigt är Danielle på ett hjärtevärmande uppdrag.</desc>
     <date>2015</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S11 E17</episode-num>
   </programme>
-  <programme start="20260305120000 +0000" stop="20260305130000 +0000" channel="tv10.se">
+  <programme start="20260305115500 +0000" stop="20260305125500 +0000" channel="tv10.se">
     <title lang="sv">American pickers</title>
     <desc lang="sv">Killarna besöker La Crosse, Wisconsin, hemvist för Franks älskade Oktoberfest, där han träffar en gammal vän.. Dessutom förbereder killarna i hemlighet ett överraskningsbygge för Danielle.</desc>
     <date>2015</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S11 E18</episode-num>
   </programme>
-  <programme start="20260305130000 +0000" stop="20260305140000 +0000" channel="tv10.se">
+  <programme start="20260305125500 +0000" stop="20260305135500 +0000" channel="tv10.se">
     <title lang="sv">Svenska truckers</title>
     <desc lang="sv">Kranföraren Carl har fått uppdraget att flytta en hamnkran som väger nära 200 ton och är 33 meter hög.. Men arbetet måste abrupt avbrytas då det finns risk för att kranen ska tippa när det fattas en del. Tidig morgon i Stockholm och Linda leverera dryck där det visar sig vara svårtillgängligt.. Det blir inte heller lättare när bilens baklyft låser sig. Anton ska hämta en bandtraktor i Finland som ska till Aitikgruvan. Resan går till Karpinvaara och in i skogen, där oväntad motgång väntar i form av bla getingar. Orhan börjar dagen med att få problem med sin bakgavellyft och blir rejält försenad. Sen fortsätter motgångarna med hissar som stannat, rusningstrafik och igenbommade vägar. Max har fullt schema idag men hamnar mitt i en trafikolycka och blir stående.</desc>
     <date>2023</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S7 E6/8</episode-num>
   </programme>
-  <programme start="20260305140000 +0000" stop="20260305143000 +0000" channel="tv10.se">
+  <programme start="20260305135500 +0000" stop="20260305143000 +0000" channel="tv10.se">
     <title lang="sv">Det stora fyndkriget</title>
     <desc lang="sv">Övergivna förråd i Compton ska auktioneras ut och köparna står beredda. De hittar bland annat en juicemaskin och delar till en motorcykel.. Barry kammar hem ett gammalt GPS-system.</desc>
     <date>2012</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S3 E21/30</episode-num>
   </programme>
-  <programme start="20260305143000 +0000" stop="20260305150000 +0000" channel="tv10.se">
+  <programme start="20260305143000 +0000" stop="20260305145500 +0000" channel="tv10.se">
     <title lang="sv">Det stora fyndkriget</title>
     <desc lang="sv">Det är första gången som Dave Hester är i ökenstaden Murietta och han hoppas kunna göra ett intryck.. Ett övergivet förråd visar sig innehålla porslinsfigurer från Tyskland och julprylar med samlarvärde. Jeff hittar en randig träpåle som en gång i tiden förgyllt framsidan på en barberarsalong.</desc>
     <date>2012</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S3 E22/30</episode-num>
   </programme>
-  <programme start="20260305150000 +0000" stop="20260305153000 +0000" channel="tv10.se">
+  <programme start="20260305145500 +0000" stop="20260305153000 +0000" channel="tv10.se">
     <title lang="sv">Det stora fyndkriget – Texas</title>
     <desc lang="sv">Köparna beger sig till Waxahachie och Victor hoppas bli kvitt sin långvariga otur.. Moe och Mary hittar ett antikt instrument som Moe tror kan vara värdefullt. Jenny försöker använda sin charm.</desc>
     <date>2013</date>
@@ -4300,14 +4290,14 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S7 E5/13</episode-num>
   </programme>
-  <programme start="20260305213000 +0000" stop="20260305220000 +0000" channel="tv10.se">
+  <programme start="20260305213000 +0000" stop="20260305215500 +0000" channel="tv10.se">
     <title lang="sv">Ricks antikhandel</title>
     <desc lang="sv">En Lotus Esprit ubåtsbil från en James Bond–film hittas av en kund och tas med till affären för renovering.</desc>
     <date>2016</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S7 E6/13</episode-num>
   </programme>
-  <programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="tv10.se">
+  <programme start="20260305215500 +0000" stop="20260305230000 +0000" channel="tv10.se">
     <title lang="sv">Salvage kings</title>
     <desc lang="sv">Vic tar med Julien och Ted på en bilresa till norra Ontario för att hämta två gamla bensinpumpar som han vill lägga till sin personliga samling.</desc>
     <date>2019</date>
@@ -4349,7 +4339,7 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S7 E5/8</episode-num>
   </programme>
-  <programme start="20260306035500 +0000" stop="20260306044700 +0000" channel="tv10.se">
+  <programme start="20260306035500 +0000" stop="20260306050000 +0000" channel="tv10.se">
     <title lang="sv">Aussie pickers</title>
     <desc lang="sv">Adam och Lucas besöker Max och Jennys privata värld där de har byggt en hel stad för att visa upp sin fantastiska samling.. Med så mycket arbete investerat, kommer något vara till salu?</desc>
     <date>2014</date>
@@ -4965,14 +4955,14 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S5 E9/22</episode-num>
   </programme>
-  <programme start="20260305025500 +0000" stop="20260305035100 +0000" channel="tv12.se">
+  <programme start="20260305025500 +0000" stop="20260305040300 +0000" channel="tv12.se">
     <title lang="sv">The rookie</title>
     <desc lang="sv">Nyla Harper och James hamnar mitt i ett bankrån, vilket leder till att hela teamet beger sig ut på ett sökuppdrag.. Samtidigt går Tim och Lucy på sin första dejt, men saker och ting går inte helt smärtfritt.</desc>
     <date>2023</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S5 E10/22</episode-num>
   </programme>
-  <programme start="20260305035100 +0000" stop="20260305050500 +0000" channel="tv12.se">
+  <programme start="20260305040300 +0000" stop="20260305050500 +0000" channel="tv12.se">
     <title lang="sv">To Be Announced</title>
   </programme>
   <programme start="20260305050500 +0000" stop="20260305060500 +0000" channel="tv12.se">
@@ -5052,14 +5042,14 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S5 E12/22</episode-num>
   </programme>
-  <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="tv12.se">
+  <programme start="20260305160000 +0000" stop="20260305165500 +0000" channel="tv12.se">
     <title lang="sv">112 – på liv och död</title>
     <desc lang="sv">Brandmannen Janne tampas med en omfattande markbrand. Poliserna Magnus och Calle får larm om att en kvinna blir hotad.. Brandmannen Rikard rycker ut till en trafikolycka.</desc>
     <date>2014</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S10 E12/35</episode-num>
   </programme>
-  <programme start="20260305170000 +0000" stop="20260305173000 +0000" channel="tv12.se">
+  <programme start="20260305165500 +0000" stop="20260305173000 +0000" channel="tv12.se">
     <title lang="sv">Drömmen om medalj: Framtiden på två kontinenter</title>
     <desc lang="sv">OS-truppen ska tas ut – och spänningen stiger. Uffe gör sin sista resa med laget innan de avgörande besluten.. Förlägret i Schweiz ger de sista finjusteringarna inför OS och träning, matcher och fördjupande samtal formar bilden av ett fokuserat lag.</desc>
     <date>2026</date>
@@ -5120,7 +5110,7 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S5 E11/22</episode-num>
   </programme>
-  <programme start="20260306025000 +0000" stop="20260306034600 +0000" channel="tv12.se">
+  <programme start="20260306025000 +0000" stop="20260306040400 +0000" channel="tv12.se">
     <title lang="sv">The rookie</title>
     <desc lang="sv">En farlig fånge ska opereras på sjukhuset och John och Celina får ansvaret att vakta det hela.. Samtidigt får Aaron med sig Lopez och Harper i en utredning av rån. Tim och Lucy diskuterar hur deras nya relation kommer att påverka arbetet.</desc>
     <date>2023</date>
@@ -6175,16 +6165,16 @@
     <date>2026</date>
     <country lang="sv">SWE</country>
   </programme>
-  <programme start="20260304102000 +0000" stop="20260304104000 +0000" channel="kunskapskanalen.se">
+  <programme start="20260304102000 +0000" stop="20260304112500 +0000" channel="kunskapskanalen.se">
     <title lang="sv">To Be Announced</title>
   </programme>
-  <programme start="20260304104000 +0000" stop="20260304120500 +0000" channel="kunskapskanalen.se">
+  <programme start="20260304112500 +0000" stop="20260304125000 +0000" channel="kunskapskanalen.se">
     <title lang="sv">Längdskidor: Junior-VM</title>
     <desc lang="sv">Lillehammer. Junior-VM i längdskidor från norska Lillehammer. Denna gång: 20 km masstart för herrarna i klassen yngre juniorer.</desc>
     <date>2026</date>
     <country lang="sv">SWE</country>
   </programme>
-  <programme start="20260304120500 +0000" stop="20260304160000 +0000" channel="kunskapskanalen.se">
+  <programme start="20260304125000 +0000" stop="20260304160000 +0000" channel="kunskapskanalen.se">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
   <programme start="20260304160000 +0000" stop="20260304163000 +0000" channel="kunskapskanalen.se">
@@ -6263,16 +6253,16 @@
     <date>2026</date>
     <country lang="sv">SWE</country>
   </programme>
-  <programme start="20260305102000 +0000" stop="20260305104000 +0000" channel="kunskapskanalen.se">
+  <programme start="20260305102000 +0000" stop="20260305112500 +0000" channel="kunskapskanalen.se">
     <title lang="sv">To Be Announced</title>
   </programme>
-  <programme start="20260305104000 +0000" stop="20260305120500 +0000" channel="kunskapskanalen.se">
+  <programme start="20260305112500 +0000" stop="20260305125000 +0000" channel="kunskapskanalen.se">
     <title lang="sv">Längdskidor: Junior-VM</title>
     <desc lang="sv">Lillehammer. Junior-VM i längdskidor från norska Lillehammer. Denna gång: 20 km masstart för herrarna i klassen äldre juniorer.</desc>
     <date>2026</date>
     <country lang="sv">SWE</country>
   </programme>
-  <programme start="20260305120500 +0000" stop="20260305150000 +0000" channel="kunskapskanalen.se">
+  <programme start="20260305125000 +0000" stop="20260305150000 +0000" channel="kunskapskanalen.se">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
   <programme start="20260305150000 +0000" stop="20260305170000 +0000" channel="kunskapskanalen.se">
@@ -6387,13 +6377,13 @@
     <date>2025</date>
     <country lang="sv">ESP</country>
   </programme>
-  <programme start="20260304230000 +0000" stop="20260305005700 +0000" channel="tv4fotboll.se">
+  <programme start="20260304230000 +0000" stop="20260305040000 +0000" channel="tv4fotboll.se">
     <title lang="sv">Serie A: Inter - Genoa</title>
     <desc lang="sv">Stadio Giuseppe Meazza. Fotboll från Stadio Giuseppe Meazza där Inter ställs mot Genoa i omgång 27 av Serie A.</desc>
     <date>2025</date>
     <country lang="sv">ITA</country>
   </programme>
-  <programme start="20260305005700 +0000" stop="20260305070000 +0000" channel="tv4fotboll.se">
+  <programme start="20260305040000 +0000" stop="20260305070000 +0000" channel="tv4fotboll.se">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
   <programme start="20260305070000 +0000" stop="20260305092000 +0000" channel="tv4fotboll.se">
@@ -6438,7 +6428,7 @@
     <date>2025</date>
     <country lang="sv">ESP</country>
   </programme>
-  <programme start="20260305230000 +0000" stop="20260306005000 +0000" channel="tv4fotboll.se">
+  <programme start="20260305230000 +0000" stop="20260306040000 +0000" channel="tv4fotboll.se">
     <title lang="sv">La Liga: Elche - Espanyol</title>
     <desc lang="sv">Estadio Martínez Valero. Fotboll från Estadio Martínez Valero där Elche ställs mot Espanyol i omgång 26 av LaLiga. Engelsk kommentering.</desc>
     <date>2025</date>
@@ -6449,118 +6439,121 @@
     <desc lang="sv">Se höjdpunkter från SHL, Hockeyallsvenskan, LaLiga, Serie A och mycket mer.</desc>
     <date>2024</date>
   </programme>
-  <programme start="20260304035900 +0000" stop="20260304103500 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">Sändningsuppehåll</title>
-  </programme>
-  <programme start="20260304103500 +0000" stop="20260304112000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304103000 +0000" stop="20260304111500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Svenska äventyr</title>
     <desc lang="sv">Följ med på en episk bikepacking-resa med mountainbike runt Mälaren tillsammans med OS-medaljören Jenny Rissveds och Sarah Swallow.. Under denna äventyrsfyllda tur utforskar de den varierande naturen och den vackra omgivningen.</desc>
     <date>2024</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E3/5</episode-num>
   </programme>
-  <programme start="20260304112000 +0000" stop="20260304121500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304111500 +0000" stop="20260304120500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">SailGP highlights</title>
     <date>2026</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2026 E3/14</episode-num>
   </programme>
-  <programme start="20260304121500 +0000" stop="20260304123500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304120500 +0000" stop="20260304123000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Wikegård vs</title>
     <desc lang="sv">Niklas Wikegård träffar Hockeyförbundets generalsekreterare, Tommy Boustedt.. Han pratar bland annat om sin uppväxt i förorten och vad som fick honom att lyckas, som yngste tränare genom tiderna, att föra upp ett lag i SHL.</desc>
     <date>2018</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E4/6</episode-num>
   </programme>
-  <programme start="20260304123500 +0000" stop="20260304130000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304123000 +0000" stop="20260304125000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedestination</title>
     <desc lang="sv">Johan Broman är i jämtländska Bergs kommun och börjar med att testa gäddfisket i Galvattnet och Handsjön.. Dessutom tar han en avstickare till en liten bäck med bäcköring, och det blir en närmare titt på den lokala gäddfisketävlingen Gäddraget.</desc>
     <date>2015</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E1/10</episode-num>
   </programme>
-  <programme start="20260304130000 +0000" stop="20260304132000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304125000 +0000" stop="20260304131500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedestination</title>
     <desc lang="sv">Johan Broman åker vidare i jämtländska Bergs kommun, närmare bestämt till Svenstavik.. Där besöker han först Storsjöodjurscentret och sedan blir det lunch på Höglunda Gård.. Efteråt blir det öringtrolling i Storsjön och rödingtrolling i Näkten, med bryggmiddag lagad av en känd tv-kock som avslutning.</desc>
     <date>2015</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E2/10</episode-num>
   </programme>
-  <programme start="20260304132000 +0000" stop="20260304134500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304131500 +0000" stop="20260304133500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedestination</title>
     <desc lang="sv">Guidekollegan Tomas Edenfeldt sluter upp med Johan Broman och de besöker först Klövsjö Gårdsbryggeri och restaurangen Humleliret.. Sedan åker de två männen vidare till Storsjö Fiskecamp och testfiskar olika delar av Ljungan.</desc>
     <date>2015</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E3/10</episode-num>
   </programme>
-  <programme start="20260304134500 +0000" stop="20260304140500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304133500 +0000" stop="20260304140000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedestination</title>
     <desc lang="sv">Avslutningen på Johan Bromans roadtrip i Bergs kommun blir i samebyn Glen.. Där tar Thomas, Niklas och Peder Johansson med honom upp till Glensjön och Svarttjärn för lite traditionellt fjällfiske på öring och röding.. Besöket avslutas med en middag på restaurangen Hävvi i Glen.</desc>
     <date>2015</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E4/10</episode-num>
   </programme>
-  <programme start="20260304140500 +0000" stop="20260304145000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304140000 +0000" stop="20260304144500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Stjärnkusken</title>
     <desc lang="sv">En överraskning väntar deltagarna, något vissa bävat för.. Det är dags att möta varmblodstravarna och de tävlande ska inte bara lära sig att köra hästarna utan måste också klara av andra utmaningar.</desc>
     <date>2015</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E3/6</episode-num>
   </programme>
-  <programme start="20260304145000 +0000" stop="20260304153500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304144500 +0000" stop="20260304153000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Svenska äventyr</title>
     <desc lang="sv">Följ med på en episk bikepacking-resa med mountainbike runt Mälaren tillsammans med OS-medaljören Jenny Rissveds och Sarah Swallow.. Under denna äventyrsfyllda tur utforskar de den varierande naturen och den vackra omgivningen.</desc>
     <date>2024</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E3/5</episode-num>
   </programme>
-  <programme start="20260304153500 +0000" stop="20260304160000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304153000 +0000" stop="20260304155500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Wikegård vs</title>
     <desc lang="sv">Niklas Wikegård träffar Hockeyförbundets generalsekreterare, Tommy Boustedt.. Han pratar bland annat om sin uppväxt i förorten och vad som fick honom att lyckas, som yngste tränare genom tiderna, att föra upp ett lag i SHL.</desc>
     <date>2018</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E4/6</episode-num>
   </programme>
-  <programme start="20260304160000 +0000" stop="20260304162500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304155500 +0000" stop="20260304161500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedestination</title>
     <desc lang="sv">Johan Broman är i jämtländska Bergs kommun och börjar med att testa gäddfisket i Galvattnet och Handsjön.. Dessutom tar han en avstickare till en liten bäck med bäcköring, och det blir en närmare titt på den lokala gäddfisketävlingen Gäddraget.</desc>
     <date>2015</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E1/10</episode-num>
   </programme>
-  <programme start="20260304162500 +0000" stop="20260304165000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304161500 +0000" stop="20260304164000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedestination</title>
     <desc lang="sv">Johan Broman åker vidare i jämtländska Bergs kommun, närmare bestämt till Svenstavik.. Där besöker han först Storsjöodjurscentret och sedan blir det lunch på Höglunda Gård.. Efteråt blir det öringtrolling i Storsjön och rödingtrolling i Näkten, med bryggmiddag lagad av en känd tv-kock som avslutning.</desc>
     <date>2015</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E2/10</episode-num>
   </programme>
-  <programme start="20260304165000 +0000" stop="20260304171000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304164000 +0000" stop="20260304170000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedestination</title>
     <desc lang="sv">Guidekollegan Tomas Edenfeldt sluter upp med Johan Broman och de besöker först Klövsjö Gårdsbryggeri och restaurangen Humleliret.. Sedan åker de två männen vidare till Storsjö Fiskecamp och testfiskar olika delar av Ljungan.</desc>
     <date>2015</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E3/10</episode-num>
   </programme>
-  <programme start="20260304171000 +0000" stop="20260304173500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304170000 +0000" stop="20260304172000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedestination</title>
     <desc lang="sv">Avslutningen på Johan Bromans roadtrip i Bergs kommun blir i samebyn Glen.. Där tar Thomas, Niklas och Peder Johansson med honom upp till Glensjön och Svarttjärn för lite traditionellt fjällfiske på öring och röding.. Besöket avslutas med en middag på restaurangen Hävvi i Glen.</desc>
     <date>2015</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E4/10</episode-num>
   </programme>
-  <programme start="20260304173500 +0000" stop="20260304203000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304172000 +0000" stop="20260304175500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Serie A full impact</title>
     <date>2025</date>
     <country lang="sv">ITA</country>
     <episode-num system="onscreen">S2025 E26/41</episode-num>
   </programme>
-  <programme start="20260304203000 +0000" stop="20260304205500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304175500 +0000" stop="20260304203000 +0000" channel="tv4sportkanalen.se">
+    <title lang="sv">Modo - Oskarshamn HockeyAllsvenskan</title>
+    <desc lang="sv">Hägglunds Arena. Ishockey från Hägglunds Arena där MoDo ställs mot IK Oskarshamn, som slåss om en kvartsfinalplats, i omgång 51 i Hockeyallsvenskan.</desc>
+    <date>2025</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20260304203000 +0000" stop="20260304210000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">ATP Tour this week</title>
     <date>2026</date>
     <episode-num system="onscreen">S2026 E8/49</episode-num>
   </programme>
-  <programme start="20260304205500 +0000" stop="20260304215000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304210000 +0000" stop="20260304215000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">SailGP highlights</title>
     <date>2026</date>
     <country lang="sv">SWE</country>
@@ -6573,30 +6566,30 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E3/5</episode-num>
   </programme>
-  <programme start="20260304223500 +0000" stop="20260304230000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304223500 +0000" stop="20260304230500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Serie A full impact</title>
     <date>2025</date>
     <country lang="sv">ITA</country>
     <episode-num system="onscreen">S2025 E26/41</episode-num>
   </programme>
-  <programme start="20260304230000 +0000" stop="20260304232500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304230500 +0000" stop="20260304233000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">ATP Tour this week</title>
     <date>2026</date>
     <episode-num system="onscreen">S2026 E8/49</episode-num>
   </programme>
-  <programme start="20260304232500 +0000" stop="20260305001500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260304233000 +0000" stop="20260305001500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Stjärnkusken</title>
     <desc lang="sv">En överraskning väntar deltagarna, något vissa bävat för.. Det är dags att möta varmblodstravarna och de tävlande ska inte bara lära sig att köra hästarna utan måste också klara av andra utmaningar.</desc>
     <date>2015</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E3/6</episode-num>
   </programme>
-  <programme start="20260305001500 +0000" stop="20260305002000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260305001500 +0000" stop="20260305035800 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Se höjdpunkter från SHL, Hockeyallsvenskan, LaLiga, Serie A och mycket mer.</desc>
     <date>2024</date>
   </programme>
-  <programme start="20260305002000 +0000" stop="20260305111500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260305035800 +0000" stop="20260305111500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
   <programme start="20260305111500 +0000" stop="20260305120000 +0000" channel="tv4sportkanalen.se">
@@ -6766,7 +6759,7 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E4/6</episode-num>
   </programme>
-  <programme start="20260305235500 +0000" stop="20260306000000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260305235500 +0000" stop="20260306040000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Se höjdpunkter från SHL, Hockeyallsvenskan, LaLiga, Serie A och mycket mer.</desc>
     <date>2024</date>
@@ -7273,14 +7266,14 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2025 E28</episode-num>
   </programme>
-  <programme start="20260305183000 +0000" stop="20260305192500 +0000" channel="viasatsportpremium.se">
+  <programme start="20260305183000 +0000" stop="20260305192400 +0000" channel="viasatsportpremium.se">
     <title lang="sv">Bundesliga highlights</title>
     <desc lang="sv">Höjdpunkter från den senaste omgången av Bundesliga.</desc>
     <date>2025</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2025 E26</episode-num>
   </programme>
-  <programme start="20260305192500 +0000" stop="20260305195500 +0000" channel="viasatsportpremium.se">
+  <programme start="20260305192400 +0000" stop="20260305195500 +0000" channel="viasatsportpremium.se">
     <title lang="sv">Ligue 1 highlights</title>
     <desc lang="sv">Fotbollsmagasin med höjdpunkter från Ligue 1.</desc>
     <date>2025</date>
@@ -7634,7 +7627,7 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2025 E1/1</episode-num>
   </programme>
-  <programme start="20260305210000 +0000" stop="20260305232800 +0000" channel="tv4sportlive2.se">
+  <programme start="20260305210000 +0000" stop="20260306040000 +0000" channel="tv4sportlive2.se">
     <title lang="sv">Växjö - Skellefteå SHL</title>
     <desc lang="sv">Vida Arena. Ishockey från Vida Arena där Växjö Lakers ställs mot Skellefteå AIK i omgång 48 i SHL.</desc>
     <date>2025</date>
@@ -7671,7 +7664,7 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2025 E1/1</episode-num>
   </programme>
-  <programme start="20260305210000 +0000" stop="20260305232800 +0000" channel="tv4sportlive3.se">
+  <programme start="20260305210000 +0000" stop="20260306040000 +0000" channel="tv4sportlive3.se">
     <title lang="sv">Timrå - Brynäs SHL</title>
     <desc lang="sv">SCA Arena. Ishockey från SCA Arena där Timrå IK ställs mot Brynäs IF i omgång 48 i SHL.</desc>
     <date>2025</date>
@@ -7708,7 +7701,7 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2025 E1/1</episode-num>
   </programme>
-  <programme start="20260305210000 +0000" stop="20260305232800 +0000" channel="tv4sportlive4.se">
+  <programme start="20260305210000 +0000" stop="20260306040000 +0000" channel="tv4sportlive4.se">
     <title lang="sv">Örebro - Djurgården SHL</title>
     <desc lang="sv">Behrn Arena. Ishockey från Behrn Arena där Örebro ställs mot Djurgården i omgång 48 i SHL.</desc>
     <date>2025</date>
