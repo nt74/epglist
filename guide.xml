@@ -12657,11 +12657,46 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/01/24/c193e83c-b0fc-444e-8efe-0668186e08b1_stb_xl.jpg"/>
   </programme>
-  <programme start="20260305190000 +0000" stop="20260306055500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Indian Wells</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20260305190000 +0000" stop="20260305210000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 1000 Indian Wells: Siegemund - Marcinko</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju WTA 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniseri 1989. godine. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305230000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 1000 Indian Wells: Vekic - Valentova</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju WTA 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniseri 1989. godine. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260306010000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 1000 Indian Wells: Gracheva - Tagger</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju WTA 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniseri 1989. godine. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260306010000 +0000" stop="20260306020000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Indian Wells: Borges - Nava</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju ATP 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniserke 1989. godine. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/849f9607-a52d-4a1a-bd68-2ea2dc18d230_stb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260306020000 +0000" stop="20260306040000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 1000 Indian Wells: Ruzic - Brady</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju WTA 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniseri 1989. godine. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260306040000 +0000" stop="20260306055500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Indian Wells: Zheng - Kopriva</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju ATP 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniserke 1989. godine. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/849f9607-a52d-4a1a-bd68-2ea2dc18d230_stb_xl.jpg"/>
     <premiere/>
   </programme>
   <programme start="20260306055500 +0000" stop="20260306075000 +0000" channel="sportklub2.rs">
@@ -12670,11 +12705,17 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/15/73ed90e2_3ed7_4765_b439_13f3e3bed6e7_stb_xl.jpg"/>
   </programme>
-  <programme start="20260306075000 +0000" stop="20260306095000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Indian Wells</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  <programme start="20260306075000 +0000" stop="20260306085000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Indian Wells: Marozsan - Agut</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju ATP 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniserke 1989. godine.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/849f9607-a52d-4a1a-bd68-2ea2dc18d230_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260306085000 +0000" stop="20260306095000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 1000 Indian Wells: Vekic - Valentova</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju WTA 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniseri 1989. godine.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
   </programme>
   <programme start="20260306095000 +0000" stop="20260306101500 +0000" channel="sportklub2.rs">
     <title lang="sr">Ekstremni svet sporta</title>
@@ -12720,10 +12761,10 @@
     <premiere/>
   </programme>
   <programme start="20260306180000 +0000" stop="20260306190000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Indian Wells</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+    <title lang="sr">ATP Masters Indian Wells: Fearnley - Dzumhur</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju ATP 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniserke 1989. godine.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/849f9607-a52d-4a1a-bd68-2ea2dc18d230_stb_xl.jpg"/>
   </programme>
   <programme start="20260306190000 +0000" stop="20260307055500 +0000" channel="sportklub2.rs">
     <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Indian Wells</title>
@@ -12874,10 +12915,10 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/19/14aa3706-6624-4ad7-adf0-fd5c672ef4b7_stb_xl.jpg"/>
   </programme>
   <programme start="20260306050000 +0000" stop="20260306063000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Košarka - Euroleague: Partizan - Dubai</title>
-    <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+    <title lang="sr">Francuska košarka - Liga kup: Finale: Monaco - Le Mans</title>
+    <desc lang="sr">'Kup lidera' ili 'Liga kup' je prestižna francuska košarkaška liga koja svake godine okuplja najbolje francuske klubove u borbi za pobednički pehar. Pratite fantastične utakmice i uživajte u sjajnoj...</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/29/332535f6-acc4-4faf-8017-dd771173c00b_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/15/0dd74770-bfbe-4af4-bb5e-1bda5ddbbbfa_stb_xl.jpg"/>
   </programme>
   <programme start="20260306063000 +0000" stop="20260306080000 +0000" channel="sportklub3.rs">
     <title lang="sr">Rukomet - Nemačka liga: Gummersbach - Lemgo</title>
@@ -13045,22 +13086,33 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
   </programme>
-  <programme start="20260305190000 +0000" stop="20260306010000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Tenis: WTA 1000 &amp; ATP Masters Indian Wells</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20260305190000 +0000" stop="20260305210000 +0000" channel="sportklub4.rs">
+    <title lang="sr">WTA 1000 Indian Wells: Bouzkova - Townsend</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju WTA 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniseri 1989. godine. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20260306010000 +0000" stop="20260306020000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Sport Klub 11 Promo</title>
+  <programme start="20260305210000 +0000" stop="20260305230000 +0000" channel="sportklub4.rs">
+    <title lang="sr">WTA 1000 Indian Wells: Jacquemot - Bondar</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju WTA 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniseri 1989. godine. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
+    <premiere/>
   </programme>
-  <programme start="20260306020000 +0000" stop="20260306030000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Sport Klub 11 Promo</title>
+  <programme start="20260305230000 +0000" stop="20260306010000 +0000" channel="sportklub4.rs">
+    <title lang="sr">WTA 1000 Indian Wells: Hunter - Frech</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju WTA 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniseri 1989. godine. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260306010000 +0000" stop="20260306030000 +0000" channel="sportklub4.rs">
+    <title lang="sr">WTA 1000 Indian Wells: parovi: Chan/Tjen - Klepac/Piter</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju WTA 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniseri 1989. godine. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
+    <premiere/>
   </programme>
   <programme start="20260306030000 +0000" stop="20260306040000 +0000" channel="sportklub4.rs">
     <title lang="sr">Sport Klub 11 Promo</title>
