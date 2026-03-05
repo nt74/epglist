@@ -106,132 +106,106 @@
   </channel>
   <channel id="action24.gr">
     <display-name lang="el">Action 24</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="mega.gr">
     <display-name lang="el">Mega</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="ant1.gr">
     <display-name lang="el">Ant 1 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/2.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="alpha.gr">
     <display-name lang="el">A HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="star.gr">
     <display-name lang="el">Star</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/4.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="skai.gr">
     <display-name lang="el">ΣΚΑΙ</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/9.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="epsilontv.gr">
     <display-name lang="el">Open Beyond</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/122.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="ert1.gr">
     <display-name lang="el">ERT1</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/123.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="ert2.gr">
     <display-name lang="el">ERT2</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="ert3.gr">
     <display-name lang="el">ERT3</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="makedoniatv.gr">
     <display-name lang="el">Μακεδονία TV</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/43.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport1.gr">
     <display-name lang="el">Cosmote Sport 1 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport2.gr">
     <display-name lang="el">Cosmote Sport 2 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/68.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport3.gr">
     <display-name lang="el">Cosmote Sport 3 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport4.gr">
     <display-name lang="el">Cosmote Sport 4 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport5.gr">
     <display-name lang="el">Cosmote Sport 5 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport6.gr">
     <display-name lang="el">Cosmote Sport 6 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport7.gr">
     <display-name lang="el">Cosmote Sport 7</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport8.gr">
     <display-name lang="el">Cosmote Sport 8</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/132.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="novasportsprime.gr">
     <display-name lang="el">Nova Sports Prime</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/158.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="novasports1.gr">
     <display-name lang="el">Nova Sports 1 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/34.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="novasports2.gr">
     <display-name lang="el">Nova Sports 2 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/37.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="novasports3.gr">
     <display-name lang="el">Nova Sports 3 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/38.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="novasports4.gr">
     <display-name lang="el">Nova Sports 4 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/39.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="novasports5hd.gr">
     <display-name lang="el">Nova Sports 5 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/148.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="novasports6.gr">
     <display-name lang="el">Nova Sports 6 HD</display-name>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/41.png"/>
     <url>http://www.ishow.gr</url>
   </channel>
   <channel id="abc.us">
