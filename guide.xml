@@ -14247,10 +14247,21 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
   </programme>
-  <programme start="20260308190000 +0200" stop="20260308221500 +0200" channel="cosmotesport8.gr">
-    <title lang="el">Μπάσκετ: Μανίσα - Αναντολού Εφές</title>
+  <programme start="20260308160000 +0200" stop="20260308200000 +0200" channel="cosmotesport8.gr">
+    <title lang="el">Ποδόσφαιρο: Μπολόνια - Ελλάς Βερόνα</title>
     <category lang="el">"</category>
-    <category lang="el">onclick="location.href='/show?guid=607D9468-8574-4F57-9012-A68A08E20A2E'"&gt;</category>
+    <category lang="el">onclick="location.href='/show?guid=022C531D-BFED-4A79-8EF1-2CF0E991066C'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/132.png"/>
+  </programme>
+  <programme start="20260308200000 +0200" stop="20260308223000 +0200" channel="cosmotesport8.gr">
+    <title lang="el">Ποδόσφαιρο: Μπενφίκα - Πόρτο</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=5F944FCA-7A45-4E68-897B-8DBAD7890A42'"&gt;</category>
     <category lang="el">&lt;td</category>
     <category lang="el">class="progTd</category>
     <category lang="el">progTdicon"</category>
