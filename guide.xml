@@ -13306,17 +13306,6 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
   </programme>
-  <programme start="20260311194500 +0200" stop="20260311220000 +0200" channel="cosmotesport8.gr">
-    <title lang="el">Ποδόσφαιρο: Λιλ - Άστον Βίλα</title>
-    <category lang="el">"</category>
-    <category lang="el">onclick="location.href='/show?guid=1F6696A4-BE7A-408B-B75F-76CE9132B0C4'"&gt;</category>
-    <category lang="el">&lt;td</category>
-    <category lang="el">class="progTd</category>
-    <category lang="el">progTdicon"</category>
-    <category lang="el">width="64"</category>
-    <category lang="el">align="center</category>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/132.png"/>
-  </programme>
   <programme start="20260311180000 +0200" stop="20260311220000 +0200" channel="cosmotesport8.gr">
     <title lang="el">Βόλεϊ: Εξατσίμπασι - Ρεζόφ</title>
     <category lang="el">"</category>
@@ -15648,35 +15637,35 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15158780_b_v8_ag.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260312170000 +0100" stop="20260312173000 +0100" channel="espn2.us">
-    <title lang="en">Live: College Basketball Live Scoreboard</title>
-    <desc lang="en">All the latest scores and highlights from college basketball.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9147788_b_v8_ad.jpg"/>
-  </programme>
-  <programme start="20260312173000 +0100" stop="20260312193000 +0100" channel="espn2.us">
+  <programme start="20260312170000 +0100" stop="20260312190000 +0100" channel="espn2.us">
     <title lang="en">Live: College Basketball</title>
-    <sub-title lang="en">Big 12 Tournament: TBA vs. Texas Tech</sub-title>
+    <sub-title lang="en">ACC Tournament: TBA vs. Virginia</sub-title>
     <desc lang="en">First Quarterfinal.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191260_b_v8_az.jpg"/>
   </programme>
-  <programme start="20260312193000 +0100" stop="20260312200000 +0100" channel="espn2.us">
+  <programme start="20260312190000 +0100" stop="20260312193000 +0100" channel="espn2.us">
     <title lang="en">Live: College Basketball Live Scoreboard</title>
     <desc lang="en">All the latest scores and highlights from college basketball.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9147788_b_v8_ad.jpg"/>
   </programme>
-  <programme start="20260312200000 +0100" stop="20260312220000 +0100" channel="espn2.us">
+  <programme start="20260312193000 +0100" stop="20260312213000 +0100" channel="espn2.us">
     <title lang="en">Live: College Basketball</title>
-    <sub-title lang="en">Big 12 Tournament: TBA vs. Arizona</sub-title>
+    <sub-title lang="en">ACC Tournament: TBA vs. Miami</sub-title>
     <desc lang="en">Second Quarterfinal.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191260_b_v8_az.jpg"/>
+  </programme>
+  <programme start="20260312213000 +0100" stop="20260312220000 +0100" channel="espn2.us">
+    <title lang="en">Live: College Basketball Live Scoreboard</title>
+    <desc lang="en">All the latest scores and highlights from college basketball.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9147788_b_v8_ad.jpg"/>
   </programme>
   <programme start="20260312220000 +0100" stop="20260312230000 +0100" channel="espn2.us">
     <title lang="en">The Mina Kimes Show Featuring Lenny</title>
@@ -19115,11 +19104,25 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2019/11/06/8d7ccbde-b9f2-4821-8bf3-219be49c615a_stb_xl.jpg"/>
   </programme>
-  <programme start="20260311180000 +0000" stop="20260312000500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Indian Wells</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20260311180000 +0000" stop="20260311200000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 1000 Indian Wells: Muchova - Swiatek</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju WTA 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniseri 1989. godine. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260311200000 +0000" stop="20260311220000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 1000 Indian Wells: Pegula - Benčić</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju WTA 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniseri 1989. godine. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260311220000 +0000" stop="20260312000500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Indian Wells: Alcaraz - Ruud</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju ATP 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniserke 1989. godine. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/849f9607-a52d-4a1a-bd68-2ea2dc18d230_stb_xl.jpg"/>
     <premiere/>
   </programme>
   <programme start="20260312000500 +0000" stop="20260312010000 +0000" channel="sportklub2.rs">
@@ -19179,10 +19182,10 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/b87d8adc-c96a-4ea8-bace-b2be4c7ce16d_stb_xl.jpg"/>
   </programme>
   <programme start="20260312130000 +0000" stop="20260312142000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Indian Wells</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+    <title lang="sr">ATP Masters Indian Wells: Medvedev - Michelsen</title>
+    <desc lang="sr">Turnir u Indijan Velsu jedan je od najprestižnijih teniskih turnira i spada u kategoriju ATP 1000. Teniseri su se na ovom turniru prvi put takmičili 1987. godine, a teniserke 1989. godine.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/849f9607-a52d-4a1a-bd68-2ea2dc18d230_stb_xl.jpg"/>
   </programme>
   <programme start="20260312142000 +0000" stop="20260312155000 +0000" channel="sportklub2.rs">
     <title lang="sr">Košarka - Eurocup: baraž: Turk Telekom - Manresa</title>
