@@ -13338,16 +13338,28 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20260313112000 +0200" stop="20260313123500 +0200" channel="cosmotesport5.gr">
-    <title lang="el">WRC 2026</title>
+  <programme start="20260313112000 +0200" stop="20260313121000 +0200" channel="cosmotesport5.gr">
+    <title lang="el">GT World Challenge Europe 2025</title>
     <category lang="el">"</category>
-    <category lang="el">onclick="location.href='/show?guid=B976B74E-26DD-45C5-9479-8156AC9F2023'"&gt;</category>
+    <category lang="el">onclick="location.href='/show?guid=9C17DB6C-E24A-45FB-94B9-21CBFCE74EB5'"&gt;</category>
     <category lang="el">&lt;td</category>
     <category lang="el">class="progTd</category>
     <category lang="el">progTdicon"</category>
     <category lang="el">width="64"</category>
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
+  </programme>
+  <programme start="20260313121000 +0200" stop="20260313123500 +0200" channel="cosmotesport5.gr">
+    <title lang="el">Sports Classics: Worldies</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=EA673A6C-D662-4EEC-90C7-1304E70E9F02'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
+    <episode-num system="onscreen">S2 E28</episode-num>
   </programme>
   <programme start="20260313123500 +0200" stop="20260313134000 +0200" channel="cosmotesport5.gr">
     <title lang="el">WRC 2026</title>
@@ -13405,16 +13417,28 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
   </programme>
-  <programme start="20260313173500 +0200" stop="20260313185000 +0200" channel="cosmotesport5.gr">
-    <title lang="el">WRC 2026</title>
+  <programme start="20260313173500 +0200" stop="20260313182000 +0200" channel="cosmotesport5.gr">
+    <title lang="el">DTM 2025 - Στιγμιότυπα</title>
     <category lang="el">"</category>
-    <category lang="el">onclick="location.href='/show?guid=B976B74E-26DD-45C5-9479-8156AC9F2023'"&gt;</category>
+    <category lang="el">onclick="location.href='/show?guid=44D70399-B3EF-45F2-B999-3E8E2CBA621F'"&gt;</category>
     <category lang="el">&lt;td</category>
     <category lang="el">class="progTd</category>
     <category lang="el">progTdicon"</category>
     <category lang="el">width="64"</category>
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
+  </programme>
+  <programme start="20260313182000 +0200" stop="20260313185000 +0200" channel="cosmotesport5.gr">
+    <title lang="el">Sports Classics: Gearing Up 2026</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=E0DCD239-8427-498F-A219-752F567A3872'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/121.png"/>
+    <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
   <programme start="20260313185000 +0200" stop="20260313195500 +0200" channel="cosmotesport5.gr">
     <title lang="el">WRC 2026</title>
@@ -13808,10 +13832,32 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20260313135500 +0200" stop="20260313175500 +0200" channel="cosmotesport6.gr">
-    <title lang="el">Τένις: ATP Masters 1000 2026</title>
+  <programme start="20260313135500 +0200" stop="20260313143000 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Τζακ Ντρέιπερ - Ντανιίλ Μεντβέντεφ</title>
     <category lang="el">"</category>
-    <category lang="el">onclick="location.href='/show?guid=12E01026-FED5-4AF4-8F4D-220894F4A4D4'"&gt;</category>
+    <category lang="el">onclick="location.href='/show?guid=98579057-D80F-489D-A879-A4E2D3ABB6F9'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260313143000 +0200" stop="20260313162000 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Κάρλος Αλκαράθ - Κάμερον Νόρι</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=CC5F9928-D492-430E-88AC-0CCDE221DE03'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260313162000 +0200" stop="20260313175500 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Αρτούρ Φις - Αλεξάντερ Ζβέρεφ</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=7CEC0EC6-1262-424E-8078-94D113E408AC'"&gt;</category>
     <category lang="el">&lt;td</category>
     <category lang="el">class="progTd</category>
     <category lang="el">progTdicon"</category>
