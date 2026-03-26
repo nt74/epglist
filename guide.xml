@@ -12756,7 +12756,7 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20260326200000 +0200" stop="20260326223000 +0200" channel="cosmotesport4.gr">
+  <programme start="20260326200000 +0200" stop="20260326222500 +0200" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Ντιτρόιτ Πίστονς - Ατλάντα Χοκς</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=B8C1D780-3359-4938-ADFC-CE23D25B6B68'"&gt;</category>
@@ -12767,7 +12767,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260326223000 +0200" stop="20260327010000 +0200" channel="cosmotesport4.gr">
+  <programme start="20260326222500 +0200" stop="20260327010000 +0200" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Μινεσότα Τίμπεργουλβς - Χιούστον Ρόκετς</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=17928A17-E59C-431D-9631-FC0C0AB4C857'"&gt;</category>
@@ -13480,7 +13480,18 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20260326123000 +0200" stop="20260326150000 +0200" channel="cosmotesport6.gr">
+  <programme start="20260326123000 +0200" stop="20260326134500 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Τόμι Πολ - Αρτούρ Φις</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=7F39442A-04B3-4080-940F-BB8E29E341F0'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260326134500 +0200" stop="20260326153000 +0200" channel="cosmotesport6.gr">
     <title lang="el">Βόλεϊ: Άαλστ - Μιλάνο</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=521038E9-A8FD-4C8C-BBA2-228931736DA5'"&gt;</category>
@@ -13491,10 +13502,33 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20260326150000 +0200" stop="20260326190000 +0200" channel="cosmotesport6.gr">
-    <title lang="el">Τένις: ATP Masters 1000 2026</title>
+  <programme start="20260326153000 +0200" stop="20260326174500 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Μαρτίν Λανταλούθε - Γίρι Λεχέτσκα</title>
     <category lang="el">"</category>
-    <category lang="el">onclick="location.href='/show?guid=52D3B67E-309A-4238-81E3-311CFD3170C8'"&gt;</category>
+    <category lang="el">onclick="location.href='/show?guid=9BF1341A-4F2D-4968-A209-1E6719313CDE'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260326174500 +0200" stop="20260326180500 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Sports Classics: Worldies</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=DCD2BE7D-866C-47EF-8B51-288C4D232940'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+    <episode-num system="onscreen">S2 E18</episode-num>
+  </programme>
+  <programme start="20260326180500 +0200" stop="20260326190000 +0200" channel="cosmotesport6.gr">
+    <title lang="el">Beach Volley: Pro Tour Elite 16 2026</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=61DBEB09-0A43-4278-A80C-7CE49B925C0D'"&gt;</category>
     <category lang="el">&lt;td</category>
     <category lang="el">class="progTd</category>
     <category lang="el">progTdicon"</category>
