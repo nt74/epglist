@@ -10540,7 +10540,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
   </programme>
-  <programme start="20260402200000 +0300" stop="20260402223000 +0300" channel="ert2.gr">
+  <programme start="20260402200000 +0300" stop="20260402203000 +0300" channel="ert2.gr">
     <title lang="el">Ηρωίδες</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=3D3EB419-93E2-4F61-8D93-0737E20C9A2D'"&gt;</category>
@@ -10550,6 +10550,17 @@
     <category lang="el">width="64"</category>
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/files/images/2015/1/7/4b2409b8-0efa-4a4b-b7a3-556ce2be135e.jpg"/>
+  </programme>
+  <programme start="20260402203000 +0300" stop="20260402223000 +0300" channel="ert2.gr">
+    <title lang="el">Βόλεϊ: Πανιώνιος ΓΣΣ - ΑΕΚ</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=34ED8E77-EC61-4B2E-9C07-07A27810CD4D'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
   </programme>
   <programme start="20260402223000 +0300" stop="20260403001500 +0300" channel="ert2.gr">
     <title lang="el">The Bromley Boys</title>
@@ -12881,7 +12892,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260402170000 +0300" stop="20260402190000 +0300" channel="cosmotesport4.gr">
+  <programme start="20260402170000 +0300" stop="20260402192000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: ΑΕΚ - Μπανταλόνα</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=113B90E2-A83A-4A47-B2FC-8594A8B5ECF0'"&gt;</category>
@@ -12892,7 +12903,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260402190000 +0300" stop="20260402210000 +0300" channel="cosmotesport4.gr">
+  <programme start="20260402192000 +0300" stop="20260402212000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Τζιρόνα - Ρεάλ Μαδρίτης</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=8FF76FAF-2A2A-4A60-A573-4AC3774FC822'"&gt;</category>
@@ -12903,7 +12914,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260402210000 +0300" stop="20260402233000 +0300" channel="cosmotesport4.gr">
+  <programme start="20260402212000 +0300" stop="20260402235000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Μαϊάμι Χιτ - Μπόστον Σέλτικς</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=D165D304-56CF-4343-8949-BA950222AC4B'"&gt;</category>
@@ -12914,7 +12925,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260402233000 +0300" stop="20260403020000 +0300" channel="cosmotesport4.gr">
+  <programme start="20260402235000 +0300" stop="20260403021500 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Γκόλντεν Στέιτ Ουόριορς - Σαν Αντόνιο Σπερς</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=194589F6-8DD3-4E9F-AB4C-B5C2FDF14D56'"&gt;</category>
@@ -12925,7 +12936,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260403020000 +0300" stop="20260403040000 +0300" channel="cosmotesport4.gr">
+  <programme start="20260403021500 +0300" stop="20260403041000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Αναντολού Εφές - Τόφας</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=CA839090-66C8-4AD3-AC02-8350D01657F1'"&gt;</category>
@@ -12936,7 +12947,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260403040000 +0300" stop="20260403060000 +0300" channel="cosmotesport4.gr">
+  <programme start="20260403041000 +0300" stop="20260403061000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Τενερίφη - Γαλατασαράι</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=1C65A45A-A8E9-4748-B161-1B3BF8DB4E87'"&gt;</category>
@@ -12947,7 +12958,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260403060000 +0300" stop="20260403080000 +0300" channel="cosmotesport4.gr">
+  <programme start="20260403061000 +0300" stop="20260403080000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Μπαρτσελόνα - Μάλαγα</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=BF066196-2312-4547-AE49-05CA2E4AF7BC'"&gt;</category>
@@ -12980,7 +12991,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260403121500 +0300" stop="20260403142500 +0300" channel="cosmotesport4.gr">
+  <programme start="20260403121500 +0300" stop="20260403144000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: ΑΕΚ - Μπανταλόνα</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=113B90E2-A83A-4A47-B2FC-8594A8B5ECF0'"&gt;</category>
@@ -12991,7 +13002,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260403142500 +0300" stop="20260403162500 +0300" channel="cosmotesport4.gr">
+  <programme start="20260403144000 +0300" stop="20260403164000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Τζιρόνα - Ρεάλ Μαδρίτης</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=8FF76FAF-2A2A-4A60-A573-4AC3774FC822'"&gt;</category>
@@ -13002,7 +13013,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260403162500 +0300" stop="20260403182500 +0300" channel="cosmotesport4.gr">
+  <programme start="20260403164000 +0300" stop="20260403184000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Αναντολού Εφές - Τόφας</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=CA839090-66C8-4AD3-AC02-8350D01657F1'"&gt;</category>
@@ -13013,7 +13024,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260403182500 +0300" stop="20260403191000 +0300" channel="cosmotesport4.gr">
+  <programme start="20260403184000 +0300" stop="20260403192500 +0300" channel="cosmotesport4.gr">
     <title lang="el">NBA Specials</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=4D391CF5-67DA-4B33-8AD3-48B522E2A3AA'"&gt;</category>
@@ -13024,7 +13035,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260403191000 +0300" stop="20260403205500 +0300" channel="cosmotesport4.gr">
+  <programme start="20260403192500 +0300" stop="20260403205500 +0300" channel="cosmotesport4.gr">
     <title lang="el">Pick n&amp;#039; Roll</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=7FCBD48B-6F4F-45FE-92CE-7A4704443ABF'"&gt;</category>
@@ -13559,32 +13570,43 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20260402160000 +0300" stop="20260402170000 +0300" channel="cosmotesport6.gr">
+  <programme start="20260402160000 +0300" stop="20260402190000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Στέφανος Σακελλαρίδης - Φαμπιάν Μαροζάν</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=FB085D20-04D4-4BF1-8188-29273523890E'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260402190000 +0300" stop="20260402190000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Λούκα Βαν Άσε - Τάλον Γκρίκσπουρ</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=02127E56-05A4-4D79-B86C-38B3B0F82926'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260402190000 +0300" stop="20260402203000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Στέφανος Σακελλαρίδης - Φαμπιάν Μαροζάν</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=D1E8DC05-9A0E-4A56-9B7E-3914F5BB8787'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260402203000 +0300" stop="20260402213000 +0300" channel="cosmotesport6.gr">
     <title lang="el">ATP Masters 1000 2026 - Στιγμιότυπα</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=76C1EEE5-84CF-466F-B016-7A9513221D5F'"&gt;</category>
-    <category lang="el">&lt;td</category>
-    <category lang="el">class="progTd</category>
-    <category lang="el">progTdicon"</category>
-    <category lang="el">width="64"</category>
-    <category lang="el">align="center</category>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
-  </programme>
-  <programme start="20260402170000 +0300" stop="20260402190000 +0300" channel="cosmotesport6.gr">
-    <title lang="el">Τένις: ATP 250 2026</title>
-    <category lang="el">"</category>
-    <category lang="el">onclick="location.href='/show?guid=AB205B57-762F-4788-B342-0A62C5860B81'"&gt;</category>
-    <category lang="el">&lt;td</category>
-    <category lang="el">class="progTd</category>
-    <category lang="el">progTdicon"</category>
-    <category lang="el">width="64"</category>
-    <category lang="el">align="center</category>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
-  </programme>
-  <programme start="20260402190000 +0300" stop="20260402213000 +0300" channel="cosmotesport6.gr">
-    <title lang="el">Τένις: ATP 250 2026</title>
-    <category lang="el">"</category>
-    <category lang="el">onclick="location.href='/show?guid=AB205B57-762F-4788-B342-0A62C5860B81'"&gt;</category>
     <category lang="el">&lt;td</category>
     <category lang="el">class="progTd</category>
     <category lang="el">progTdicon"</category>
@@ -13614,10 +13636,21 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20260403010000 +0300" stop="20260403034000 +0300" channel="cosmotesport6.gr">
-    <title lang="el">Βόλεϊ: Κιέρι - Γαλατασαράι</title>
+  <programme start="20260403010000 +0300" stop="20260403024000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Βόλεϊ: Ζιράτ - Ρεζόφ</title>
     <category lang="el">"</category>
-    <category lang="el">onclick="location.href='/show?guid=48429A5E-37E3-47E7-B526-EC9B707A7266'"&gt;</category>
+    <category lang="el">onclick="location.href='/show?guid=2421D985-4A04-439F-99F2-67CB8A196E4C'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260403024000 +0300" stop="20260403034000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">ATP Masters 1000 2026 - Στιγμιότυπα</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=76C1EEE5-84CF-466F-B016-7A9513221D5F'"&gt;</category>
     <category lang="el">&lt;td</category>
     <category lang="el">class="progTd</category>
     <category lang="el">progTdicon"</category>
@@ -13735,7 +13768,29 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
   </programme>
-  <programme start="20260403153000 +0300" stop="20260403163000 +0300" channel="cosmotesport7.gr">
+  <programme start="20260403153000 +0300" stop="20260403164000 +0300" channel="cosmotesport7.gr">
+    <title lang="el">Τένις: Φελίξ Οζέ-Αλιασίμ - Γκριγκόρ Ντιμιτρόφ</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=0D1971EB-87C3-42B6-A30A-7D8BF7F50883'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
+  </programme>
+  <programme start="20260403164000 +0300" stop="20260403174000 +0300" channel="cosmotesport7.gr">
+    <title lang="el">Τένις: Αλεξάντερ Μπουμπλίκ - Ουγκό Ουμπέρ</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=FC50238C-DDB4-4A8B-A915-B8B54F636660'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
+  </programme>
+  <programme start="20260403174000 +0300" stop="20260403220000 +0300" channel="cosmotesport7.gr">
     <title lang="el">Τένις: Αντρέι Ρούμπλεφ - Στέφανος Τσιτσιπάς</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=31A16E1F-BEB6-47BF-A7B7-A62D9BA69142'"&gt;</category>
@@ -13746,27 +13801,16 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
   </programme>
-  <programme start="20260403163000 +0300" stop="20260403173000 +0300" channel="cosmotesport7.gr">
-    <title lang="el">Τένις: Κάσπερ Ρουντ - Ουγκό Ουμπέρ</title>
+  <programme start="20260402190000 +0300" stop="20260402200000 +0300" channel="cosmotesport8.gr">
+    <title lang="el">Τένις: Λούκα Βαν Άσε - Τάλον Γκρίκσπουρ</title>
     <category lang="el">"</category>
-    <category lang="el">onclick="location.href='/show?guid=DB358F45-E8A9-4981-AB88-A53406ED4556'"&gt;</category>
+    <category lang="el">onclick="location.href='/show?guid=02127E56-05A4-4D79-B86C-38B3B0F82926'"&gt;</category>
     <category lang="el">&lt;td</category>
     <category lang="el">class="progTd</category>
     <category lang="el">progTdicon"</category>
     <category lang="el">width="64"</category>
     <category lang="el">align="center</category>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
-  </programme>
-  <programme start="20260403173000 +0300" stop="20260403220000 +0300" channel="cosmotesport7.gr">
-    <title lang="el">Τένις: Αλεξάντερ Μπουμπλίκ - Κάρεν Κατσάνοφ</title>
-    <category lang="el">"</category>
-    <category lang="el">onclick="location.href='/show?guid=C47BF3E7-9DEB-4F84-83D7-516ADF264D9C'"&gt;</category>
-    <category lang="el">&lt;td</category>
-    <category lang="el">class="progTd</category>
-    <category lang="el">progTdicon"</category>
-    <category lang="el">width="64"</category>
-    <category lang="el">align="center</category>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/132.png"/>
   </programme>
   <programme start="20260402001500 +0300" stop="20260402021500 +0300" channel="novasportsprime.gr">
     <title lang="el">Κολωνία - Γκλάντμπαχ : Bundesliga 2025/26</title>
