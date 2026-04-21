@@ -1752,14 +1752,14 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S4 E4/10</episode-num>
   </programme>
-  <programme start="20260423014500 +0000" stop="20260423023800 +0000" channel="tv4.se">
+  <programme start="20260423014500 +0000" stop="20260423030700 +0000" channel="tv4.se">
     <title lang="sv">The rainmaker</title>
     <desc lang="sv">Lyman ifrågasätter Bruisers hantering av Dots mål.. Rudy och Deck inser att Prince och Lyman inte är vad de utger sig för, vilket leder till ett svårt beslut. Spänningen tätnar när Sarah får mer ansvar på Tinley Britt.</desc>
     <date>2025</date>
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S1 E8/10</episode-num>
   </programme>
-  <programme start="20260423023800 +0000" stop="20260423031000 +0000" channel="tv4.se">
+  <programme start="20260423030700 +0000" stop="20260423031000 +0000" channel="tv4.se">
     <title lang="sv">To Be Announced</title>
   </programme>
   <programme start="20260423031000 +0000" stop="20260423033500 +0000" channel="tv4.se">
@@ -5156,7 +5156,7 @@
     <country lang="sv">USA</country>
     <episode-num system="onscreen">S3 E7/14</episode-num>
   </programme>
-  <programme start="20260423014500 +0000" stop="20260423024100 +0000" channel="tv12.se">
+  <programme start="20260423014500 +0000" stop="20260423024000 +0000" channel="tv12.se">
     <title lang="sv">The rookie</title>
     <desc lang="sv">Sonen till en domare blir kidnappad och Nolan, Harper och Lopez får fallet på sitt bord.. Det blir en tuff nöt att knäcka då listan på potentiella gärningspersoner kan göras lång.</desc>
     <date>2021</date>
@@ -6453,7 +6453,7 @@
     <date>2026</date>
     <country lang="sv">SWE</country>
   </programme>
-  <programme start="20260422194500 +0000" stop="20260422221500 +0000" channel="tv4fotboll.se">
+  <programme start="20260422194500 +0000" stop="20260423030000 +0000" channel="tv4fotboll.se">
     <title lang="sv">Allsvenskan: Elfsborg - Djurgården</title>
     <desc lang="sv">Borås Arena. Fotboll från Borås Arena där IF Elfsborg ställs mot Djurgårdens IF i omgång 4 av Allsvenskan. I studion på plats finns Lasse Granqvist, Alexander Axén och Nordin Gerzic.</desc>
     <date>2026</date>
@@ -6615,10 +6615,10 @@
     <desc lang="sv">Se höjdpunkter från SHL, Hockeyallsvenskan, LaLiga, Serie A och mycket mer.</desc>
     <date>2024</date>
   </programme>
-  <programme start="20260422025800 +0000" stop="20260422092000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422025800 +0000" stop="20260422092500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20260422092000 +0000" stop="20260422100500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422092500 +0000" stop="20260422100500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Matti Nykänen - Livet är livet</title>
     <desc lang="sv">Matti förlorade flera tävlingar i början av sin karriär, men hoppade sig in i människors hjärtan och nådde toppen av världen senast i Oslo under dimman på Holmenkollens stora backe 1982.. Vi får höra bland annat idrottsvännernas åsikter.</desc>
     <date>2023</date>
@@ -6667,14 +6667,14 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E6/8</episode-num>
   </programme>
-  <programme start="20260422123000 +0000" stop="20260422132000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422123000 +0000" stop="20260422131500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Stjärnkusken</title>
     <desc lang="sv">Sex tävlande återstår och för att få dem att inse allvaret och riskerna med sporten tar tränarna Erik och Jennifer till tuffa metoder.. En av deltagarnas häst blir sjuk och för duellanterna väntar ett lerigt lopp.</desc>
     <date>2015</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E4/6</episode-num>
   </programme>
-  <programme start="20260422132000 +0000" stop="20260422140000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422131500 +0000" stop="20260422140000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Matti Nykänen - Livet är livet</title>
     <desc lang="sv">Matti förlorade flera tävlingar i början av sin karriär, men hoppade sig in i människors hjärtan och nådde toppen av världen senast i Oslo under dimman på Holmenkollens stora backe 1982.. Vi får höra bland annat idrottsvännernas åsikter.</desc>
     <date>2023</date>
@@ -6688,30 +6688,30 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S6 E5/6</episode-num>
   </programme>
-  <programme start="20260422142500 +0000" stop="20260422145000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422142500 +0000" stop="20260422145500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Wikegård vs Leif Boork</title>
     <desc lang="sv">Leif Boork brukar omnämnas som Sveriges mest intressanta hockeytränare någonsin. Det blir ett samtal om Boorks 40 år som tränare på elitnivå.. Därtill en bowlingmatch och så ett gammalt brev som får Wikegård att börja gråta.</desc>
     <date>2021</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S6 E6/6</episode-num>
   </programme>
-  <programme start="20260422145000 +0000" stop="20260422151500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422145500 +0000" stop="20260422151500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedrag</title>
-    <desc lang="sv">Mikael Odell och Johan Broman besöker både Kenya och Bergeforsen utanför Sundsvall.. De försöker sig på så kallat big game-fiske i Pembakanalen utanför Kenyas kust och laxfiske i Sverige. Dessutom blir det tips om både metoder och teknik, samt en god middag.</desc>
+    <desc lang="sv">De försöker sig på så kallat big game-fiske i Pembakanalen utanför Kenyas kust och laxfiske i Sverige.. Dessutom blir det tips om både metoder och teknik, samt en god middag.</desc>
     <date>2006</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E3/8</episode-num>
   </programme>
-  <programme start="20260422151500 +0000" stop="20260422153500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422151500 +0000" stop="20260422154000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedrag</title>
     <desc lang="sv">Mikael Odell och Johan Broman befinner sig på ön Fayal i ögruppen Azorerna för att försöka fånga stora blå marlin.. Tillbaka i Sverige beger de sig ut i Stockholms skärgård för att fiska abborre och en abborrmiddag avslutar dagen.</desc>
     <date>2006</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E4/8</episode-num>
   </programme>
-  <programme start="20260422153500 +0000" stop="20260422160000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422154000 +0000" stop="20260422160000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedrag</title>
-    <desc lang="sv">Premiärfisket i slutet av mars varje år i svenska Mörrumsån är känt för sitt goda havsöringsfiske med en rad såväl svenska som internationella rekord.. Micke Odell och Johan Broman besöker som vanligt premiären. De fiskar även havsöring med fiskeguiden Fredrik i Stockholms skärgård.</desc>
+    <desc lang="sv">Premiärfisket i slutet av mars varje år i svenska Mörrumsån är känt för sitt goda havsöringsfiske med en rad såväl svenska som internationella rekord.. Micke Odell och Johan Broman besöker som vanligt premiären.</desc>
     <date>2006</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E5/8</episode-num>
@@ -6743,63 +6743,63 @@
     <date>2026</date>
     <country lang="sv">SWE</country>
   </programme>
-  <programme start="20260422200000 +0000" stop="20260422203000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422200000 +0000" stop="20260422202500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Wikegård vs Jonathan Hedström</title>
     <desc lang="sv">Han väckte känslor och skapade rubriker under karriären. Men bakom kulisserna gick Jonathan Hedström en kamp mot ätstörningar.. Niklas Wikegård tog sig norröver för att träffa spelaren som väckte känslor både på och utanför rinken.</desc>
     <date>2021</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S6 E5/6</episode-num>
   </programme>
-  <programme start="20260422203000 +0000" stop="20260422205500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422202500 +0000" stop="20260422205500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Wikegård vs Leif Boork</title>
     <desc lang="sv">Leif Boork brukar omnämnas som Sveriges mest intressanta hockeytränare någonsin. Det blir ett samtal om Boorks 40 år som tränare på elitnivå.. Därtill en bowlingmatch och så ett gammalt brev som får Wikegård att börja gråta.</desc>
     <date>2021</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S6 E6/6</episode-num>
   </programme>
-  <programme start="20260422205500 +0000" stop="20260422212000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422205500 +0000" stop="20260422211500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedrag</title>
-    <desc lang="sv">Mikael Odell och Johan Broman besöker både Kenya och Bergeforsen utanför Sundsvall.. De försöker sig på så kallat big game-fiske i Pembakanalen utanför Kenyas kust och laxfiske i Sverige. Dessutom blir det tips om både metoder och teknik, samt en god middag.</desc>
+    <desc lang="sv">De försöker sig på så kallat big game-fiske i Pembakanalen utanför Kenyas kust och laxfiske i Sverige.. Dessutom blir det tips om både metoder och teknik, samt en god middag.</desc>
     <date>2006</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E3/8</episode-num>
   </programme>
-  <programme start="20260422212000 +0000" stop="20260422214500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422211500 +0000" stop="20260422214000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedrag</title>
     <desc lang="sv">Mikael Odell och Johan Broman befinner sig på ön Fayal i ögruppen Azorerna för att försöka fånga stora blå marlin.. Tillbaka i Sverige beger de sig ut i Stockholms skärgård för att fiska abborre och en abborrmiddag avslutar dagen.</desc>
     <date>2006</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E4/8</episode-num>
   </programme>
-  <programme start="20260422214500 +0000" stop="20260422221000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422214000 +0000" stop="20260422220500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedrag</title>
-    <desc lang="sv">Premiärfisket i slutet av mars varje år i svenska Mörrumsån är känt för sitt goda havsöringsfiske med en rad såväl svenska som internationella rekord.. Micke Odell och Johan Broman besöker som vanligt premiären. De fiskar även havsöring med fiskeguiden Fredrik i Stockholms skärgård.</desc>
+    <desc lang="sv">Premiärfisket i slutet av mars varje år i svenska Mörrumsån är känt för sitt goda havsöringsfiske med en rad såväl svenska som internationella rekord.. Micke Odell och Johan Broman besöker som vanligt premiären.</desc>
     <date>2006</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E5/8</episode-num>
   </programme>
-  <programme start="20260422221000 +0000" stop="20260422223500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422220500 +0000" stop="20260422222500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Fiskedrag</title>
-    <desc lang="sv">Mikael Odell och Johan Broman rapporterar från flugfiske-VM i Lycksele.. Dessutom ägnar de sig åt harrfiske i en liten norrländsk insjö och fiskar storöring i Vindelälven vid Ammarnäs.. Vindelälven har under de senaste åren mer och mer kommit att likna ett Sveriges Nya Zeeland.</desc>
+    <desc lang="sv">Mikael Odell och Johan Broman rapporterar från flugfiske-VM i Lycksele.. Dessutom ägnar de sig åt harrfiske i en liten norrländsk insjö och fiskar storöring i Vindelälven vid Ammarnäs.</desc>
     <date>2006</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S2 E6/8</episode-num>
   </programme>
-  <programme start="20260422223500 +0000" stop="20260422232000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422222500 +0000" stop="20260422231000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Matti Nykänen - Livet är livet</title>
     <desc lang="sv">Matti förlorade flera tävlingar i början av sin karriär, men hoppade sig in i människors hjärtan och nådde toppen av världen senast i Oslo under dimman på Holmenkollens stora backe 1982.. Vi får höra bland annat idrottsvännernas åsikter.</desc>
     <date>2023</date>
     <country lang="sv">FIN</country>
     <episode-num system="onscreen">S1 E1/6</episode-num>
   </programme>
-  <programme start="20260422232000 +0000" stop="20260423001000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422231000 +0000" stop="20260422235500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Stjärnkusken</title>
     <desc lang="sv">Sex tävlande återstår och för att få dem att inse allvaret och riskerna med sporten tar tränarna Erik och Jennifer till tuffa metoder.. En av deltagarnas häst blir sjuk och för duellanterna väntar ett lerigt lopp.</desc>
     <date>2015</date>
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S1 E4/6</episode-num>
   </programme>
-  <programme start="20260423001000 +0000" stop="20260423001500 +0000" channel="tv4sportkanalen.se">
+  <programme start="20260422235500 +0000" stop="20260423025800 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Se höjdpunkter från SHL, Hockeyallsvenskan, LaLiga, Serie A och mycket mer.</desc>
     <date>2024</date>
@@ -7639,8 +7639,14 @@
     <date>2025</date>
     <country lang="sv">SWE</country>
   </programme>
-  <programme start="20260422230000 +0000" stop="20260422233500 +0000" channel="viasatsportvinter.se">
+  <programme start="20260422230000 +0000" stop="20260422230500 +0000" channel="viasatsportvinter.se">
     <title lang="sv">To Be Announced</title>
+  </programme>
+  <programme start="20260422230500 +0000" stop="20260422233500 +0000" channel="viasatsportvinter.se">
+    <title lang="sv">NHL</title>
+    <desc lang="sv">Xfinity Mobile Arena, Philadelphia. Stanley Cup-slutspelet. Från Xfinity Mobile Arena, Philadelphia. (22/4-26).</desc>
+    <date>2025</date>
+    <country lang="sv">SWE</country>
   </programme>
   <programme start="20260422233500 +0000" stop="20260423023000 +0000" channel="viasatsportvinter.se">
     <title lang="sv">Sport: TBA</title>
@@ -7677,7 +7683,7 @@
     <date>2025</date>
     <country lang="sv">ESP</country>
   </programme>
-  <programme start="20260422192000 +0000" stop="20260422213100 +0000" channel="tv4sportlive.se">
+  <programme start="20260422192000 +0000" stop="20260423030000 +0000" channel="tv4sportlive.se">
     <title lang="sv">La Liga: Barcelona - Celta Vigo</title>
     <desc lang="sv">Camp Nou. Fotboll från Camp Nou där Barcelona ställs mot Celta i omgång 33 av LaLiga.</desc>
     <date>2025</date>
@@ -7694,7 +7700,7 @@
     <date>2026</date>
     <country lang="sv">SWE</country>
   </programme>
-  <programme start="20260422193000 +0000" stop="20260422220000 +0000" channel="tv4sportlive2.se">
+  <programme start="20260422193000 +0000" stop="20260422220300 +0000" channel="tv4sportlive2.se">
     <title lang="sv">Allsvenskan: Hammarby - Halmstad</title>
     <desc lang="sv">3Arena. Fotboll från 3Arena där Hammarby IF ställs mot Halmstads BK i omgång 4 av Allsvenskan.</desc>
     <date>2026</date>
@@ -7711,7 +7717,7 @@
     <date>2026</date>
     <country lang="sv">SWE</country>
   </programme>
-  <programme start="20260422193000 +0000" stop="20260422220000 +0000" channel="tv4sportlive3.se">
+  <programme start="20260422193000 +0000" stop="20260422220300 +0000" channel="tv4sportlive3.se">
     <title lang="sv">Allsvenskan: Örgryte - Brommapojkarna</title>
     <desc lang="sv">Gamla Ullevi. Fotboll från Gamla Ullevi där Örgryte IS ställs mot IF Brommapojkarna i omgång 4 av Allsvenskan.</desc>
     <date>2026</date>
@@ -7728,7 +7734,7 @@
     <date>2026</date>
     <country lang="sv">SWE</country>
   </programme>
-  <programme start="20260422193000 +0000" stop="20260422220000 +0000" channel="tv4sportlive4.se">
+  <programme start="20260422193000 +0000" stop="20260423030000 +0000" channel="tv4sportlive4.se">
     <title lang="sv">Allsvenskan: Västerås - Häcken</title>
     <desc lang="sv">Hitachi Energy Arena. Fotboll från Hitachi Energy Arena där Västerås SK ställs mot BK Häcken i omgång 4 av Allsvenskan.</desc>
     <date>2026</date>
@@ -13196,7 +13202,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260421143500 +0300" stop="20260421170000 +0300" channel="cosmotesport4.gr">
+  <programme start="20260421143500 +0300" stop="20260421171000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Ντένβερ Νάγκετς - Μινεσότα Τίμπεργουλβς</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=DFDC019E-A684-4938-8807-2FD6EB2D8E7D'"&gt;</category>
@@ -13207,7 +13213,7 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260421170000 +0300" stop="20260421185500 +0300" channel="cosmotesport4.gr">
+  <programme start="20260421171000 +0300" stop="20260421190500 +0300" channel="cosmotesport4.gr">
     <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Νάπολι</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=AF2F59DB-0656-4725-A50B-EA79A3AE2139'"&gt;</category>
@@ -13218,17 +13224,16 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
   </programme>
-  <programme start="20260421185500 +0300" stop="20260421193000 +0300" channel="cosmotesport4.gr">
-    <title lang="el">NBA Action 2025-26</title>
+  <programme start="20260421190500 +0300" stop="20260421193000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials</title>
     <category lang="el">"</category>
-    <category lang="el">onclick="location.href='/show?guid=2143A25F-E066-4685-B614-8D50CA1C010B'"&gt;</category>
+    <category lang="el">onclick="location.href='/show?guid=C80A4E0C-2578-4B52-9E14-9818C0A4834F'"&gt;</category>
     <category lang="el">&lt;td</category>
     <category lang="el">class="progTd</category>
     <category lang="el">progTdicon"</category>
     <category lang="el">width="64"</category>
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/70.png"/>
-    <episode-num system="onscreen">S2 E3527</episode-num>
   </programme>
   <programme start="20260421193000 +0300" stop="20260421210000 +0300" channel="cosmotesport4.gr">
     <title lang="el">Pick n&amp;#039; Roll</title>
@@ -21356,12 +21361,17 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
   </programme>
-  <programme start="20260422090000 +0000" stop="20260422210000 +0000" channel="sportklub5.rs">
+  <programme start="20260422090000 +0000" stop="20260422190000 +0000" channel="sportklub5.rs">
     <title lang="sr">Tenis: WTA 1000 &amp; ATP Masters Madrid</title>
     <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
     <premiere/>
+  </programme>
+  <programme start="20260422190000 +0000" stop="20260422210000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 12 Promo</title>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
   </programme>
   <programme start="20260422210000 +0000" stop="20260422220000 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 12 Promo</title>
