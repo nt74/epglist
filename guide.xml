@@ -14217,7 +14217,18 @@
     <category lang="el">align="center</category>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20260423160000 +0300" stop="20260423200000 +0300" channel="cosmotesport6.gr">
+  <programme start="20260423160000 +0300" stop="20260423183000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Πάτρικ Κίπσον - Στέφανος Τσιτσιπάς</title>
+    <category lang="el">"</category>
+    <category lang="el">onclick="location.href='/show?guid=A63C6DC8-C518-47F4-9959-E3F186187A3D'"&gt;</category>
+    <category lang="el">&lt;td</category>
+    <category lang="el">class="progTd</category>
+    <category lang="el">progTdicon"</category>
+    <category lang="el">width="64"</category>
+    <category lang="el">align="center</category>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260423183000 +0300" stop="20260423200000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ATP Masters 1000 2026</title>
     <category lang="el">"</category>
     <category lang="el">onclick="location.href='/show?guid=0D2F0507-D0EC-4886-99EB-A58323DA7424'"&gt;</category>
@@ -21390,8 +21401,8 @@
     <previously-shown/>
   </programme>
   <programme start="20260422060000 +0200" stop="20260422080000 +0200" channel="arenasport1.rs">
-    <title lang="sr">Portsmouth - Leicester</title>
-    <category lang="sr">Championship</category>
+    <title lang="sr">Brentford - Fulham</title>
+    <category lang="sr">Engleska Liga</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
@@ -21434,8 +21445,13 @@
     <category lang="sr">Aba U19</category>
     <category lang="sr">Košarka</category>
   </programme>
-  <programme start="20260422193000 +0200" stop="20260422201500 +0200" channel="arenasport1.rs">
+  <programme start="20260422193000 +0200" stop="20260422200000 +0200" channel="arenasport1.rs">
     <title lang="sr">Emisija: Dobre Sportske Priče ep. 30</title>
+    <previously-shown/>
+  </programme>
+  <programme start="20260422200000 +0200" stop="20260422201500 +0200" channel="arenasport1.rs">
+    <title lang="sr">PL Moments</title>
+    <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
   <programme start="20260422201500 +0200" stop="20260422221500 +0200" channel="arenasport1.rs">
@@ -21473,8 +21489,8 @@
     <previously-shown/>
   </programme>
   <programme start="20260423080000 +0200" stop="20260423100000 +0200" channel="arenasport1.rs">
-    <title lang="sr">Dunfermline - Falkirk</title>
-    <category lang="sr">Škotski Kup</category>
+    <title lang="sr">Leicester - Hull</title>
+    <category lang="sr">Championship</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
@@ -21528,7 +21544,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260423223000 +0200" stop="20260423230000 +0200" channel="arenasport1.rs">
-    <title lang="sr">Mi živimo za košarku ep. 70</title>
+    <title lang="sr">Mi živimo za košarku ep. 70 - KK Radnički Valjevo, treći deo</title>
     <previously-shown/>
   </programme>
   <programme start="20260423230000 +0200" stop="20260424010000 +0200" channel="arenasport1.rs">
@@ -21544,7 +21560,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260422020000 +0200" stop="20260422040000 +0200" channel="arenasport2.rs">
-    <title lang="sr">Zaragoza - Ceuta</title>
+    <title lang="sr">Almeria - Malaga</title>
     <category lang="sr">Španska 2. Liga</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
@@ -21561,15 +21577,9 @@
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
-  <programme start="20260422080000 +0200" stop="20260422100000 +0200" channel="arenasport2.rs">
+  <programme start="20260422080000 +0200" stop="20260422103000 +0200" channel="arenasport2.rs">
     <title lang="sr">Atletico - Real Sociedad, finale</title>
     <category lang="sr">Španski Kup</category>
-    <category lang="sr">Fudbal</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260422100000 +0200" stop="20260422103000 +0200" channel="arenasport2.rs">
-    <title lang="sr">LaLiga Best11 ep. 6 - Luis Garcia</title>
-    <category lang="sr">Španska Liga</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
@@ -21601,12 +21611,13 @@
     <category lang="sr">Vtb Liga</category>
     <category lang="sr">Košarka</category>
   </programme>
-  <programme start="20260422203000 +0200" stop="20260422220000 +0200" channel="arenasport2.rs">
-    <title lang="sr">Uživo: Olympiacos - Novi Beograd</title>
-    <category lang="sr">Liga Šampiona</category>
-    <category lang="sr">Vaterpolo</category>
+  <programme start="20260422203000 +0200" stop="20260422221500 +0200" channel="arenasport2.rs">
+    <title lang="sr">Juventus - Bologna</title>
+    <category lang="sr">Italijanska Liga</category>
+    <category lang="sr">Fudbal</category>
+    <previously-shown/>
   </programme>
-  <programme start="20260422220000 +0200" stop="20260423000000 +0200" channel="arenasport2.rs">
+  <programme start="20260422221500 +0200" stop="20260423000000 +0200" channel="arenasport2.rs">
     <title lang="sr">Lecce - Fiorentina</title>
     <category lang="sr">Italijanska Liga</category>
     <category lang="sr">Fudbal</category>
@@ -21918,10 +21929,9 @@
     <previously-shown/>
   </programme>
   <programme start="20260422150000 +0200" stop="20260422170000 +0200" channel="arenasport4.rs">
-    <title lang="sr">Real Madrid - Bayern</title>
-    <category lang="sr">Uefa Liga Šampiona</category>
-    <category lang="sr">Fudbal</category>
-    <previously-shown/>
+    <title lang="sr">Uživo: Sonego - Lajović</title>
+    <category lang="sr">Atp/wta 1000 Madrid</category>
+    <category lang="sr">Tenis</category>
   </programme>
   <programme start="20260422170000 +0200" stop="20260422180000 +0200" channel="arenasport4.rs">
     <title lang="sr">Liga Šampiona: Pregled dana 17.03.</title>
@@ -21929,11 +21939,16 @@
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
-  <programme start="20260422180000 +0200" stop="20260422200000 +0200" channel="arenasport4.rs">
-    <title lang="sr">AZ Alkmaar - Shakhtar</title>
-    <category lang="sr">Uefa Liga Konferencija</category>
+  <programme start="20260422180000 +0200" stop="20260422183000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Liga Šampiona: Magazin ep. 29</title>
+    <category lang="sr">Uefa Liga Šampiona</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
+  </programme>
+  <programme start="20260422183000 +0200" stop="20260422200000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Uživo: Olympiacos - Novi Beograd</title>
+    <category lang="sr">Liga Šampiona</category>
+    <category lang="sr">Vaterpolo</category>
   </programme>
   <programme start="20260422200000 +0200" stop="20260422220000 +0200" channel="arenasport4.rs">
     <title lang="sr">Uživo: Piacenza - Luneburg, finale G2</title>
@@ -21998,21 +22013,22 @@
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
-  <programme start="20260423164500 +0200" stop="20260423184500 +0200" channel="arenasport4.rs">
+  <programme start="20260423164500 +0200" stop="20260423190000 +0200" channel="arenasport4.rs">
     <title lang="sr">AZ Alkmaar - Shakhtar</title>
     <category lang="sr">Uefa Liga Konferencija</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
-  <programme start="20260423184500 +0200" stop="20260423210000 +0200" channel="arenasport4.rs">
-    <title lang="sr">Uživo: GA Eagles - AZ Alkmaar</title>
-    <category lang="sr">Holandska Liga</category>
-    <category lang="sr">Fudbal</category>
+  <programme start="20260423190000 +0200" stop="20260423210000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Uživo: Ub - Tent, finale G2</title>
+    <category lang="sr">Superliga (ž)</category>
+    <category lang="sr">Odbojka</category>
   </programme>
   <programme start="20260423210000 +0200" stop="20260423230000 +0200" channel="arenasport4.rs">
-    <title lang="sr">Uživo: PSV - Zwolle</title>
-    <category lang="sr">Holandska Liga</category>
+    <title lang="sr">Bayern - Real Madrid</title>
+    <category lang="sr">Uefa Liga Šampiona</category>
     <category lang="sr">Fudbal</category>
+    <previously-shown/>
   </programme>
   <programme start="20260423230000 +0200" stop="20260424000000 +0200" channel="arenasport4.rs">
     <title lang="sr">Pregled 3. kola</title>
@@ -22204,11 +22220,11 @@
     <previously-shown/>
   </programme>
   <programme start="20260422093000 +0200" stop="20260422100000 +0200" channel="arenasport6.rs">
-    <title lang="sr">Priča o svemu (pa i o sportu) ep. 14</title>
+    <title lang="sr">Priča o svemu (pa i o sportu) - Tijana Bogdanović</title>
     <previously-shown/>
   </programme>
   <programme start="20260422100000 +0200" stop="20260422111500 +0200" channel="arenasport6.rs">
-    <title lang="sr">Finale</title>
+    <title lang="sr">Radnički - Primorac, finale</title>
     <category lang="sr">Regionalna Vaterpolo Liga</category>
     <category lang="sr">Vaterpolo</category>
     <previously-shown/>
@@ -22236,7 +22252,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260422170000 +0200" stop="20260422183000 +0200" channel="arenasport6.rs">
-    <title lang="sr">FINALE</title>
+    <title lang="sr">Fuchse Berlin - Bergischer, finale</title>
     <category lang="sr">Nemački Kup</category>
     <category lang="sr">Rukomet</category>
     <previously-shown/>
@@ -22270,7 +22286,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260423020000 +0200" stop="20260423040000 +0200" channel="arenasport6.rs">
-    <title lang="sr">Polufinale, G2</title>
+    <title lang="sr">Karađorđe - Radnički, polufinale G2</title>
     <category lang="sr">Superliga</category>
     <category lang="sr">Odbojka</category>
     <previously-shown/>
@@ -22292,13 +22308,13 @@
     <previously-shown/>
   </programme>
   <programme start="20260423080000 +0200" stop="20260423093000 +0200" channel="arenasport6.rs">
-    <title lang="sr">FINALE</title>
+    <title lang="sr">Fuchse Berlin - Bergischer, finale</title>
     <category lang="sr">Nemački Kup</category>
     <category lang="sr">Rukomet</category>
     <previously-shown/>
   </programme>
   <programme start="20260423093000 +0200" stop="20260423100000 +0200" channel="arenasport6.rs">
-    <title lang="sr">Buduće zvezde Arene ep. 83</title>
+    <title lang="sr">Buduće zvezde Arene</title>
     <previously-shown/>
   </programme>
   <programme start="20260423100000 +0200" stop="20260423111500 +0200" channel="arenasport6.rs">
@@ -22336,7 +22352,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260423183000 +0200" stop="20260423190000 +0200" channel="arenasport6.rs">
-    <title lang="sr">Oni vole Srbiju ep. 80</title>
+    <title lang="sr">Oni vole Srbiju - Julija Savčenko</title>
     <previously-shown/>
   </programme>
   <programme start="20260423190000 +0200" stop="20260423210000 +0200" channel="arenasport6.rs">
@@ -22395,7 +22411,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260422120000 +0200" stop="20260422123000 +0200" channel="arenasport7.rs">
-    <title lang="sr">Buduće zvezde Arene ep. 83</title>
+    <title lang="sr">Buduće zvezde Arene</title>
     <previously-shown/>
   </programme>
   <programme start="20260422123000 +0200" stop="20260422143000 +0200" channel="arenasport7.rs">
