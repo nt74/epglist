@@ -19965,11 +19965,25 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/fad90534-b4d5-4341-bb39-1a6b189750de_xl.jpg"/>
   </programme>
-  <programme start="20260425090000 +0000" stop="20260425214500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Madrid</title>
+  <programme start="20260425154500 +0000" stop="20260425180000 +0000" channel="sportklub2.rs">
+    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Madrid (UKLJUČENJE)</title>
     <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425194500 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 1000 Madrid: Sabalenka - Cristian</title>
+    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/2bcd0da3-8bc2-4414-8dd2-a05ff419b0fc_stb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260425194500 +0000" stop="20260425214500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Madrid: Bublik - Tsitsipas</title>
+    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
     <premiere/>
   </programme>
   <programme start="20260425214500 +0000" stop="20260425221500 +0000" channel="sportklub2.rs">
@@ -19984,11 +19998,23 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/fad90534-b4d5-4341-bb39-1a6b189750de_xl.jpg"/>
   </programme>
-  <programme start="20260426000000 +0000" stop="20260426031500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Madrid</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  <programme start="20260426000000 +0000" stop="20260426010500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Madrid: Gaubas - Auger-Aliassime</title>
+    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260426010500 +0000" stop="20260426021000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Madrid: Medvedev - Marozsan</title>
+    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260426021000 +0000" stop="20260426031500 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 1000 Madrid: Kalinina - Osaka</title>
+    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/2bcd0da3-8bc2-4414-8dd2-a05ff419b0fc_stb_xl.jpg"/>
   </programme>
   <programme start="20260426031500 +0000" stop="20260426045000 +0000" channel="sportklub2.rs">
     <title lang="sr">Košarka - Grčka liga: AEK - Olympiacos</title>
@@ -20586,20 +20612,12 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
   </programme>
-  <programme start="20260425140000 +0000" stop="20260425150000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 12 Promo</title>
+  <programme start="20260425143000 +0000" stop="20260425170000 +0000" channel="sportklub5.rs">
+    <title lang="sr">ATP Masters Madrid: Tien - Vallejo</title>
+    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260425150000 +0000" stop="20260425160000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 12 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260425160000 +0000" stop="20260425170000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 12 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
+    <premiere/>
   </programme>
   <programme start="20260425170000 +0000" stop="20260425180000 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 12 Promo</title>
