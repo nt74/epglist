@@ -9822,7 +9822,7 @@
     <icon src="https://www.ishow.gr/files/images/2015/1/7/4b2409b8-0efa-4a4b-b7a3-556ce2be135e.jpg"/>
   </programme>
   <programme start="20260427130000 +0300" stop="20260427150000 +0300" channel="ert2.gr">
-    <title lang="el">Ποδόσφαιρο: Αγία Παρασκευή - Ρέα</title>
+    <title lang="el">Manchester City TV</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/124.png"/>
   </programme>
   <programme start="20260427150000 +0300" stop="20260427160000 +0300" channel="ert2.gr">
@@ -11089,7 +11089,15 @@
     <title lang="el">Τένις: ATP Masters 1000 2026</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20260426163000 +0300" stop="20260426210000 +0300" channel="cosmotesport6.gr">
+  <programme start="20260426163000 +0300" stop="20260426170000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: ATP Masters 1000 2026</title>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260426170000 +0300" stop="20260426193000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: Γιανίκ Σίνερ - Έλμερ Μόλερ</title>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
+  </programme>
+  <programme start="20260426193000 +0300" stop="20260426210000 +0300" channel="cosmotesport6.gr">
     <title lang="el">Τένις: ATP Masters 1000 2026</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
@@ -15481,24 +15489,6 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20260426140000 +0000" stop="20260426160000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Sport Klub 1</title>
-    <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/10/21/52cb50cf-9701-4ffb-90a7-5f3b7d7d7cc8_stb_xl.jpg"/>
-  </programme>
-  <programme start="20260426160000 +0000" stop="20260426180000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Sport Klub 1</title>
-    <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/10/21/52cb50cf-9701-4ffb-90a7-5f3b7d7d7cc8_stb_xl.jpg"/>
-  </programme>
-  <programme start="20260426180000 +0000" stop="20260426200000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Sport Klub 1</title>
-    <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/10/21/52cb50cf-9701-4ffb-90a7-5f3b7d7d7cc8_stb_xl.jpg"/>
-  </programme>
   <programme start="20260426200000 +0000" stop="20260427040000 +0000" channel="sportklub1.rs">
     <title lang="sr">Sport Klub 1</title>
     <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
@@ -15558,27 +15548,6 @@
     <desc lang="sr">Uživajte u sportskim minutama našeg programa!</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/10/21/52cb50cf-9701-4ffb-90a7-5f3b7d7d7cc8_stb_xl.jpg"/>
-  </programme>
-  <programme start="20260426140000 +0000" stop="20260426154500 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Masters Madrid: Sinner - Moller</title>
-    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20260426154500 +0000" stop="20260426180000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Madrid (parovi) (UKLJUČENJE)</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20260426180000 +0000" stop="20260426194500 +0000" channel="sportklub2.rs">
-    <title lang="sr">WTA 1000 Madrid: Zheng - Rybakina</title>
-    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/2bcd0da3-8bc2-4414-8dd2-a05ff419b0fc_stb_xl.jpg"/>
-    <premiere/>
   </programme>
   <programme start="20260426194500 +0000" stop="20260426214500 +0000" channel="sportklub2.rs">
     <title lang="sr">ATP Masters Madrid: Fonseca - Jodar</title>
@@ -15665,39 +15634,6 @@
     <desc lang="sr">Turska Superliga je najviša profesionalna liga Turske u fudbalu. Ova liga osnovana je 1957. godine.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/08/12/e24466db-35ff-466d-8338-6dd6877a0680_stb_xl.jpg"/>
-  </programme>
-  <programme start="20260426133000 +0000" stop="20260426153000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Fudbal - Nemačka liga: Stuttgart - Werder</title>
-    <desc lang="sr">Fudbalska Bundesliga najviši je rang takmičenje u Nemačkoj koja od 1963. godine i svog osnutka visokom kvalitetom igre oduševljava sve fudbalske poklonike širom sveta. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/fad90534-b4d5-4341-bb39-1a6b189750de_xl.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20260426153000 +0000" stop="20260426173000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Fudbal - Nemačka liga: Dortmund - Freiburg</title>
-    <desc lang="sr">Fudbalska Bundesliga najviši je rang takmičenje u Nemačkoj koja od 1963. godine i svog osnutka visokom kvalitetom igre oduševljava sve fudbalske poklonike širom sveta. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/fad90534-b4d5-4341-bb39-1a6b189750de_xl.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20260426173000 +0000" stop="20260426180000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Ekstremni svet sporta</title>
-    <desc lang="sr">Sve o ekstremnim sportovima, takmičenjima u izdržljivosti i istinskim takmičarskim maratonima. Ovi ljudi svaki dan pomeraju granice onoga što je moguće.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cdc39aa0-906e-4e0a-a5fe-9cc0b5c31ec2_stb_xl.jpg"/>
-  </programme>
-  <programme start="20260426180000 +0000" stop="20260426200000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Fudbal - Danska liga: Aarhus - Midtjylland</title>
-    <desc lang="sr">Brondbi je uzeo neočekivanu titulu prošle sezone, ali Mitjilend i FC Kopenhagen smatraju da mogu da premeste pehar u svoje vitrine. Čini se da nas očekuje neizvesna i uzbudljiva trka. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/4dcf4a68-3de7-4568-a5d5-65967336b75d_xl.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20260426200000 +0000" stop="20260426210000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Moto Sport: WRC - Islas Canarias: Etapa 4</title>
-    <desc lang="sr">Veliki automobilistički događaj, FIA Svetsko prvenstvo u reliju na Kanarskim ostrvima, postao je neizbežan za sve ljubitelje ovog uzbudljivog sporta. Pratite adrenalinske trke sa zagrejanog asfalta...</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/23/82014030-ea66-4624-934d-7636fcbc419c_xl.jpg"/>
   </programme>
   <programme start="20260426210000 +0000" stop="20260426223000 +0000" channel="sportklub3.rs">
     <title lang="sr">Moto Sport: WRC - Islas Canarias: Etapa 5</title>
@@ -15813,40 +15749,6 @@
     <desc lang="sr">Osnovana 1934. kao probni projekat, portugalska liga je četiri godine kasnije dobila i svoju službenu verziju nazvanu Primeira. U današnjem sistemu liga broji 18 ekipa gde svaka ekipa igra po jednu...</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/15/086928d5-a8cf-43a7-8c86-525b0041338b_stb_xl.jpg"/>
-  </programme>
-  <programme start="20260426133000 +0000" stop="20260426153000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Fudbal - Bugarska liga: Lokomotiv Plovdiv - Cherno More</title>
-    <desc lang="sr">Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/1f670022-0f35-4e64-aa6e-83127cc8f84f_stb_xl.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20260426153000 +0000" stop="20260426160000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Sport Klub 11 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260426160000 +0000" stop="20260426180000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Fudbal - Bugarska liga: Arda - Botev Plovdiv</title>
-    <desc lang="sr">Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/1f670022-0f35-4e64-aa6e-83127cc8f84f_stb_xl.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20260426180000 +0000" stop="20260426190000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Sport Klub 11 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260426190000 +0000" stop="20260426200000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Sport Klub 11 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260426200000 +0000" stop="20260426210000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Sport Klub 11 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
   </programme>
   <programme start="20260426210000 +0000" stop="20260426220000 +0000" channel="sportklub4.rs">
     <title lang="sr">Sport Klub 11 Promo</title>
@@ -15980,38 +15882,6 @@
   </programme>
   <programme start="20260427230000 +0000" stop="20260428000000 +0000" channel="sportklub4.rs">
     <title lang="sr">Sport Klub 11 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260426143000 +0000" stop="20260426163000 +0000" channel="sportklub5.rs">
-    <title lang="sr">ATP Masters Madrid: F. Cerundolo/Etcheverry - Cabral/Salisbury (parovi)</title>
-    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20260426163000 +0000" stop="20260426170000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 12 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260426170000 +0000" stop="20260426180000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 12 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260426180000 +0000" stop="20260426190000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 12 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260426190000 +0000" stop="20260426200000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 12 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260426200000 +0000" stop="20260426210000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 12 Promo</title>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
   </programme>
@@ -16149,33 +16019,6 @@
     <title lang="sr">Sport Klub 12 Promo</title>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260426150000 +0000" stop="20260426170000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Košarka - Španska liga: Manresa - Burgos</title>
-    <desc lang="sr">Španska košarkaška ACB liga osnovana je 1957. godine kao "Liga National". U ligi sudeluje 18 ekipa prema dvokružnom sistemu takmičenja. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/984eb5fc-6238-4619-af62-5b9d621c52a9_xl.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20260426170000 +0000" stop="20260426190000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Fudbal - Portugalska liga: Estrela Amadora - Porto</title>
-    <desc lang="sr">Prvi liga portugalskog fudbala, Primeira liga, osnovana je 1934. i broji 18 klubova. Najviše osvojenih titula prvaka ima lisabonski gigant Benfika. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/ee6dac8e-f0ab-4d09-b9d7-40fa69a08b41_xl.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20260426190000 +0000" stop="20260426193000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Idealna putanja</title>
-    <desc lang="sr">Ceo život, vozači Formule 1 traže tu "idealnu putanju". Kako doći do nje i kako napraviti savršeni set-ap bolida i koliko vremena oduzima sve to, saznaćete u ovoj emisiji.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/11/07/99ba3b4c-9542-416b-b9db-97214f4d2edc_stb_xl.jpg"/>
-  </programme>
-  <programme start="20260426193000 +0000" stop="20260426213000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Fudbal - Portugalska liga: AFS - Sporting</title>
-    <desc lang="sr">Prvi liga portugalskog fudbala, Primeira liga, osnovana je 1934. i broji 18 klubova. Najviše osvojenih titula prvaka ima lisabonski gigant Benfika. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/ee6dac8e-f0ab-4d09-b9d7-40fa69a08b41_xl.jpg"/>
-    <premiere/>
   </programme>
   <programme start="20260426213000 +0000" stop="20260426231500 +0000" channel="sportklub6.rs">
     <title lang="sr">Fudbal - Nemačka liga: Dortmund - Freiburg</title>
