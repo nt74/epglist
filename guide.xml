@@ -7469,7 +7469,7 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
   </programme>
   <programme start="20260426150000 +0300" stop="20260426171500 +0300" channel="action24.gr">
-    <title lang="el">Ποδόσφαιρο: ΠΑΟΚ Β&amp;#039; - Μακεδονικός Νεάπολης</title>
+    <title lang="el">Ποδόσφαιρο: ΠΑΟΚ Β' - Μακεδονικός Νεάπολης</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/104.png"/>
   </programme>
   <programme start="20260426171500 +0300" stop="20260426175000 +0300" channel="action24.gr">
@@ -7749,7 +7749,7 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
   </programme>
   <programme start="20260426205000 +0300" stop="20260426215000 +0300" channel="mega.gr">
-    <title lang="el">Συμπέθεροι απ&amp;#039; τα Τίρανα</title>
+    <title lang="el">Συμπέθεροι απ' τα Τίρανα</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/1.png"/>
   </programme>
   <programme start="20260426215000 +0300" stop="20260427001000 +0300" channel="mega.gr">
@@ -8336,7 +8336,7 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
   </programme>
   <programme start="20260426200000 +0300" stop="20260426211500 +0300" channel="alpha.gr">
-    <title lang="el">Akis&amp;#039; Food Tour</title>
+    <title lang="el">Akis' Food Tour</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
   </programme>
   <programme start="20260426211500 +0300" stop="20260426232000 +0300" channel="alpha.gr">
@@ -8501,12 +8501,12 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
   </programme>
   <programme start="20260427200000 +0300" stop="20260427210000 +0300" channel="alpha.gr">
-    <title lang="el">Να Μ&amp;#039; Αγαπάς</title>
+    <title lang="el">Να Μ' Αγαπάς</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
     <episode-num system="onscreen">S2 E102</episode-num>
   </programme>
   <programme start="20260427210000 +0300" stop="20260427220000 +0300" channel="alpha.gr">
-    <title lang="el">Μπαμπά, Σ&amp;#039; Αγαπώ</title>
+    <title lang="el">Μπαμπά, Σ' Αγαπώ</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/3.png"/>
   </programme>
   <programme start="20260427220000 +0300" stop="20260427233000 +0300" channel="alpha.gr">
@@ -9134,7 +9134,7 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/9.png"/>
   </programme>
   <programme start="20260427160000 +0300" stop="20260427172000 +0300" channel="skai.gr">
-    <title lang="el">Το &amp;#039;χουμε!</title>
+    <title lang="el">Το 'χουμε!</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/9.png"/>
   </programme>
   <programme start="20260427172000 +0300" stop="20260427173500 +0300" channel="skai.gr">
@@ -9912,7 +9912,7 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
   </programme>
   <programme start="20260426094500 +0300" stop="20260426113000 +0300" channel="ert3.gr">
-    <title lang="el">20ός Μαραθώνιος Μέγας Αλέξανδρος &amp;amp; 11ος Μαραθώνιος Ρόδου</title>
+    <title lang="el">20ός Μαραθώνιος Μέγας Αλέξανδρος &amp; 11ος Μαραθώνιος Ρόδου</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/155.png"/>
   </programme>
   <programme start="20260426113000 +0300" stop="20260426120000 +0300" channel="ert3.gr">
@@ -10175,7 +10175,7 @@
     <episode-num system="onscreen">S3 E1000</episode-num>
   </programme>
   <programme start="20260426031500 +0300" stop="20260426040000 +0300" channel="makedoniatv.gr">
-    <title lang="el">Grey&amp;#039;s Anatomy</title>
+    <title lang="el">Grey's Anatomy</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/43.png"/>
     <episode-num system="onscreen">S19 E1000</episode-num>
   </programme>
@@ -10247,7 +10247,7 @@
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
   <programme start="20260426210000 +0300" stop="20260426220000 +0300" channel="makedoniatv.gr">
-    <title lang="el">Grey&amp;#039;s Anatomy</title>
+    <title lang="el">Grey's Anatomy</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/43.png"/>
   </programme>
   <programme start="20260426220000 +0300" stop="20260426230000 +0300" channel="makedoniatv.gr">
@@ -10279,7 +10279,7 @@
     <episode-num system="onscreen">S3 E1000</episode-num>
   </programme>
   <programme start="20260427031500 +0300" stop="20260427040000 +0300" channel="makedoniatv.gr">
-    <title lang="el">Grey&amp;#039;s Anatomy</title>
+    <title lang="el">Grey's Anatomy</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/43.png"/>
     <episode-num system="onscreen">S19 E1000</episode-num>
   </programme>
@@ -10356,7 +10356,7 @@
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
   <programme start="20260427210000 +0300" stop="20260427220000 +0300" channel="makedoniatv.gr">
-    <title lang="el">Grey&amp;#039;s Anatomy</title>
+    <title lang="el">Grey's Anatomy</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/43.png"/>
   </programme>
   <programme start="20260427220000 +0300" stop="20260427230000 +0300" channel="makedoniatv.gr">
@@ -10368,7 +10368,7 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
   <programme start="20260426030000 +0300" stop="20260426040000 +0300" channel="cosmotesport1.gr">
-    <title lang="el">UEL &amp;amp; UECL Μαγκαζίνο 2025-26</title>
+    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2025-26</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
     <episode-num system="onscreen">S2 E19</episode-num>
   </programme>
@@ -10419,7 +10419,7 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
   <programme start="20260426183000 +0300" stop="20260426193000 +0300" channel="cosmotesport1.gr">
-    <title lang="el">UEL &amp;amp; UECL Μαγκαζίνο 2025-26</title>
+    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2025-26</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
     <episode-num system="onscreen">S2 E19</episode-num>
   </programme>
@@ -10707,7 +10707,7 @@
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
   </programme>
   <programme start="20260427003000 +0300" stop="20260427013000 +0300" channel="cosmotesport3.gr">
-    <title lang="el">UEL &amp;amp; UECL Μαγκαζίνο 2025-26</title>
+    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2025-26</title>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/69.png"/>
     <episode-num system="onscreen">S2 E19</episode-num>
   </programme>
@@ -15549,19 +15549,6 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/10/21/52cb50cf-9701-4ffb-90a7-5f3b7d7d7cc8_stb_xl.jpg"/>
   </programme>
-  <programme start="20260426194500 +0000" stop="20260426214500 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Masters Madrid: Fonseca - Jodar</title>
-    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20260426214500 +0000" stop="20260426221000 +0000" channel="sportklub2.rs">
-    <title lang="sr">WTA All Access</title>
-    <desc lang="sr">Pogledajte najbolje teniserke sveta u nekom drugom izdanju. Saznajte i nešto više o njihovom životu van terena.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/644335ae-9bb4-4a6a-a567-831f64b8396c_stb_xl.jpg"/>
-  </programme>
   <programme start="20260426221000 +0000" stop="20260427000000 +0000" channel="sportklub2.rs">
     <title lang="sr">Fudbal - Turska liga: Galatasaray - Fenerbahce</title>
     <desc lang="sr">Turska Superliga je najviša profesionalna liga Turske u fudbalu. Ova liga osnovana je 1957. godine.</desc>
@@ -15750,11 +15737,6 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/15/086928d5-a8cf-43a7-8c86-525b0041338b_stb_xl.jpg"/>
   </programme>
-  <programme start="20260426210000 +0000" stop="20260426220000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Sport Klub 11 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
   <programme start="20260426220000 +0000" stop="20260426230000 +0000" channel="sportklub4.rs">
     <title lang="sr">Sport Klub 11 Promo</title>
     <category lang="sr">Sports</category>
@@ -15882,11 +15864,6 @@
   </programme>
   <programme start="20260427230000 +0000" stop="20260428000000 +0000" channel="sportklub4.rs">
     <title lang="sr">Sport Klub 11 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260426210000 +0000" stop="20260426220000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 12 Promo</title>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
   </programme>
