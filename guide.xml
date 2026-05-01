@@ -18483,17 +18483,27 @@
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
-  <programme start="20260502180000 +0200" stop="20260502201500 +0200" channel="arenasport3.rs">
+  <programme start="20260502180000 +0200" stop="20260502200000 +0200" channel="arenasport3.rs">
     <title lang="sr">Uživo: CSKA - Zenit</title>
     <category lang="sr">Ruska Liga</category>
     <category lang="sr">Fudbal</category>
   </programme>
-  <programme start="20260502201500 +0200" stop="20260502221500 +0200" channel="arenasport3.rs">
-    <title lang="sr">Uživo: Motor - Lech</title>
-    <category lang="sr">Poljska Liga</category>
+  <programme start="20260502200000 +0200" stop="20260502204500 +0200" channel="arenasport3.rs">
+    <title lang="sr">SPORT BROTHERS LEAGUE S03E03</title>
+    <previously-shown/>
+  </programme>
+  <programme start="20260502204500 +0200" stop="20260502211500 +0200" channel="arenasport3.rs">
+    <title lang="sr">Ligue 1 Show ep. 32</title>
+    <category lang="sr">Francuska Liga</category>
+    <category lang="sr">Fudbal</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260502211500 +0200" stop="20260502231500 +0200" channel="arenasport3.rs">
+    <title lang="sr">Uživo: Central Cordoba - Boca Juniors</title>
+    <category lang="sr">Argentinska Liga</category>
     <category lang="sr">Fudbal</category>
   </programme>
-  <programme start="20260502221500 +0200" stop="20260503001500 +0200" channel="arenasport3.rs">
+  <programme start="20260502231500 +0200" stop="20260503011500 +0200" channel="arenasport3.rs">
     <title lang="sr">Frankfurt - HSV</title>
     <category lang="sr">Nemačka Liga</category>
     <category lang="sr">Fudbal</category>
@@ -19153,7 +19163,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260502133000 +0200" stop="20260502153000 +0200" channel="arenasport7.rs">
-    <title lang="sr">AK Bars - Metallurg, PF2 G4</title>
+    <title lang="sr">Metallurg - AK Bars, PF2 G4</title>
     <category lang="sr">Khl</category>
     <category lang="sr">Hokej</category>
     <previously-shown/>
@@ -19182,12 +19192,13 @@
     <category lang="sr">Turska Liga</category>
     <category lang="sr">Fudbal</category>
   </programme>
-  <programme start="20260502210000 +0200" stop="20260502233000 +0200" channel="arenasport7.rs">
-    <title lang="sr">Uživo: Rim - Round 1</title>
-    <category lang="sr">Drift Masters</category>
-    <category lang="sr">Moto Sport</category>
+  <programme start="20260502210000 +0200" stop="20260502230000 +0200" channel="arenasport7.rs">
+    <title lang="sr">MBA - Unics, G3</title>
+    <category lang="sr">Vtb Liga</category>
+    <category lang="sr">Košarka</category>
+    <previously-shown/>
   </programme>
-  <programme start="20260502233000 +0200" stop="20260503013000 +0200" channel="arenasport7.rs">
+  <programme start="20260502230000 +0200" stop="20260503010000 +0200" channel="arenasport7.rs">
     <title lang="sr">CSKA - Zenit</title>
     <category lang="sr">Ruska Liga</category>
     <category lang="sr">Fudbal</category>
