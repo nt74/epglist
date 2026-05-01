@@ -3080,10 +3080,10 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">S3 E6/12</episode-num>
   </programme>
-  <programme start="20260503024400 +0000" stop="20260503030100 +0000" channel="sjuan.se">
+  <programme start="20260503024400 +0000" stop="20260503030000 +0000" channel="sjuan.se">
     <title lang="sv">To Be Announced</title>
   </programme>
-  <programme start="20260503030100 +0000" stop="20260503040000 +0000" channel="sjuan.se">
+  <programme start="20260503030000 +0000" stop="20260503040000 +0000" channel="sjuan.se">
     <title lang="sv">The Spencer sisters</title>
     <desc lang="sv">Darby och Victoria låter Darbys före detta pojkvän flytta in hos dem tillsammans med sin fästmö Lindsay.</desc>
     <date>2023</date>
@@ -7372,6 +7372,15 @@
   <programme start="20260502210500 +0000" stop="20260502230500 +0000" channel="viasatsportpremium.se">
     <title lang="sv">Premier League</title>
     <desc lang="sv">St James' Park, Newcastle. Omgång 35. Från St James' Park, Newcastle. (2/5-26).</desc>
+    <date>2025</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20260502230500 +0000" stop="20260502233500 +0000" channel="viasatsportpremium.se">
+    <title lang="sv">To Be Announced</title>
+  </programme>
+  <programme start="20260502233500 +0000" stop="20260503023000 +0000" channel="viasatsportpremium.se">
+    <title lang="sv">Sport: TBA</title>
+    <desc lang="sv">TBA: Program meddelas senare.</desc>
     <date>2025</date>
     <country lang="sv">SWE</country>
   </programme>
@@ -15819,28 +15828,48 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260502060000 +0200" stop="20260502080000 +0200" channel="nbatv.us">
+  <programme start="20260502060000 +0200" stop="20260502070000 +0200" channel="nbatv.us">
     <title lang="en">Live: The Association: Postgame</title>
+    <sub-title lang="en">Los Angeles Lakers vs. Houston: Game 6</sub-title>
     <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
   </programme>
-  <programme start="20260502080000 +0200" stop="20260502090000 +0200" channel="nbatv.us">
+  <programme start="20260502070000 +0200" stop="20260502080000 +0200" channel="nbatv.us">
     <title lang="en">The Association: Postgame</title>
+    <sub-title lang="en">Los Angeles Lakers vs. Houston: Game 6</sub-title>
     <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260502090000 +0200" stop="20260502093000 +0200" channel="nbatv.us">
+  <programme start="20260502080000 +0200" stop="20260502083000 +0200" channel="nbatv.us">
     <title lang="en">Live: The Association: Post Up</title>
     <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31406976_b_v8_ab.jpg"/>
     <episode-num system="onscreen">E165</episode-num>
+  </programme>
+  <programme start="20260502083000 +0200" stop="20260502090000 +0200" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31406976_b_v8_ab.jpg"/>
+    <episode-num system="onscreen">E165</episode-num>
+    <previously-shown/>
+  </programme>
+  <programme start="20260502090000 +0200" stop="20260502093000 +0200" channel="nbatv.us">
+    <title lang="en">The Association: Post Up</title>
+    <desc lang="en">The Association Post Up looks back at the NBA highlights and news of the day.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31406976_b_v8_ab.jpg"/>
+    <episode-num system="onscreen">E165</episode-num>
+    <previously-shown/>
   </programme>
   <programme start="20260502093000 +0200" stop="20260502100000 +0200" channel="nbatv.us">
     <title lang="en">The Association: Post Up</title>
@@ -15981,26 +16010,45 @@
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18045765_b_v12_ac.jpg"/>
   </programme>
-  <programme start="20260502210000 +0200" stop="20260502213000 +0200" channel="nbatv.us">
-    <title lang="en">NBA Action</title>
-    <desc lang="en">Featuring weekly highlights from the basketball league; all the stars, all the games and everything you need to know about the NBA.</desc>
+  <programme start="20260502210000 +0200" stop="20260502220000 +0200" channel="nbatv.us">
+    <title lang="en">NBA Shot Clock: Games of the Night</title>
+    <desc lang="en">Exciting action from the best NBA games of the night.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p448615_b_v11_an.jpg"/>
-    <episode-num system="onscreen">E252628</episode-num>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32875991_b_v12_ab.jpg"/>
     <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
-  <programme start="20260502213000 +0200" stop="20260502223000 +0200" channel="nbatv.us">
+  <programme start="20260502220000 +0200" stop="20260502230000 +0200" channel="nbatv.us">
+    <title lang="en">Live: Postgame: Open Mic</title>
+    <desc lang="en">Postgame reactions from the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32867442_b_v8_aa.jpg"/>
+  </programme>
+  <programme start="20260502230000 +0200" stop="20260503000000 +0200" channel="nbatv.us">
+    <title lang="en">Postgame: Open Mic</title>
+    <desc lang="en">Postgame reactions from the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32867442_b_v8_aa.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260503000000 +0200" stop="20260503003000 +0200" channel="nbatv.us">
+    <title lang="en">Postgame: Open Mic</title>
+    <desc lang="en">Postgame reactions from the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32867442_b_v8_aa.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260503003000 +0200" stop="20260503013000 +0200" channel="nbatv.us">
     <title lang="en">Live: The Association: Postgame</title>
     <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
   </programme>
-  <programme start="20260502223000 +0200" stop="20260502233000 +0200" channel="nbatv.us">
+  <programme start="20260503013000 +0200" stop="20260503023000 +0200" channel="nbatv.us">
     <title lang="en">The Association: Postgame</title>
     <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
     <category lang="en">Sports</category>
@@ -16008,7 +16056,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260502233000 +0200" stop="20260503000000 +0200" channel="nbatv.us">
+  <programme start="20260503023000 +0200" stop="20260503033000 +0200" channel="nbatv.us">
     <title lang="en">The Association: Postgame</title>
     <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
     <category lang="en">Sports</category>
@@ -16016,30 +16064,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260503000000 +0200" stop="20260503010000 +0200" channel="nbatv.us">
-    <title lang="en">Live: The Association: Postgame</title>
-    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
-  </programme>
-  <programme start="20260503010000 +0200" stop="20260503020000 +0200" channel="nbatv.us">
-    <title lang="en">The Association: Postgame</title>
-    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260503020000 +0200" stop="20260503030000 +0200" channel="nbatv.us">
-    <title lang="en">The Association: Postgame</title>
-    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260503030000 +0200" stop="20260503040000 +0200" channel="nbatv.us">
+  <programme start="20260503033000 +0200" stop="20260503040000 +0200" channel="nbatv.us">
     <title lang="en">The Association: Postgame</title>
     <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
     <category lang="en">Sports</category>
