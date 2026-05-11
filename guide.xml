@@ -10276,27 +10276,27 @@
     <desc lang="el">UEFA Futsal Champions League 2025-26. 1ος Ημιτελικός. Περιγραφή: Χρήστος Κυριαζής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
-  <programme start="20260511113000 +0300" stop="20260511133000 +0300" channel="cosmotesport1.gr">
+  <programme start="20260511113000 +0300" stop="20260511124000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο Σάλας: Καρταχένα - Σπόρτινγκ Λισαβόνας</title>
+    <desc lang="el">UEFA Futsal Champions League 2025-26. 1ος Ημιτελικός. Δείτε τους αγώνες του UEFA Futsal Champions League. Περιγραφή: Χρήστος Κυριαζής.</desc>
+    <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
+  </programme>
+  <programme start="20260511124000 +0300" stop="20260511144000 +0300" channel="cosmotesport1.gr">
     <title lang="el">Ποδόσφαιρο: Άστον Βίλα - Νότιγχαμ Φόρεστ</title>
     <desc lang="el">UEFA Europa League 2025-26. Ημιτελική Φάση, 2η Αγωνιστική. Περιγραφή: Δημήτρης Σπηλιόπουλος.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
-  <programme start="20260511133000 +0300" stop="20260511153000 +0300" channel="cosmotesport1.gr">
-    <title lang="el">Ποδόσφαιρο: Φράιμπουργκ - Μπράγκα</title>
-    <desc lang="el">UEFA Europa League 2025-26. Ημιτελική Φάση, 2η Αγωνιστική. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
+  <programme start="20260511144000 +0300" stop="20260511151000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Στιγμιότυπα: UEFA Youth League 2025-26</title>
+    <desc lang="el">Ανασκόπηση.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
-  <programme start="20260511153000 +0300" stop="20260511160000 +0300" channel="cosmotesport1.gr">
-    <title lang="el">UEFA Youth League Show</title>
-    <desc lang="el">Δείτε όλη τη δράση των αγώνων του UEFA Youth League.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
-  </programme>
-  <programme start="20260511160000 +0300" stop="20260511183000 +0300" channel="cosmotesport1.gr">
+  <programme start="20260511151000 +0300" stop="20260511183500 +0300" channel="cosmotesport1.gr">
     <title lang="el">SportShow</title>
     <desc lang="el">Η εκπομπή SPORTSHOW σας προσφέρει μια διαφορετική οπτική γωνία με κύριο άξονα την αγωνιστική δράση της εβδομάδας. Η εκπομπή περιλαμβάνει θέματα από όλα τα αθλητικά γεγονότα που έχουν θέση στο τηλεοπτικό πρόγραμμα της COSMOTE TV.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
   </programme>
-  <programme start="20260511183000 +0300" stop="20260511190500 +0300" channel="cosmotesport1.gr">
+  <programme start="20260511183500 +0300" stop="20260511190500 +0300" channel="cosmotesport1.gr">
     <title lang="el">Στιγμιότυπα: UEL &amp; UECL 2025-26</title>
     <desc lang="el">Πριν από τη σέντρα στους αγώνες του Europa και του Conference League, παρακολουθήστε την ειδική εκπομπή που παρουσιάζει όλα τα τελευταία νέα των ομάδων που συμμετέχουν στις δύο διοργανώσεις.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/67.png"/>
