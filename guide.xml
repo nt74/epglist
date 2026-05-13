@@ -12275,21 +12275,28 @@
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg"/>
   </programme>
-  <programme start="20260513233000 +0200" stop="20260514003000 +0200" channel="espn.us">
+  <programme start="20260513233000 +0200" stop="20260514000000 +0200" channel="espn.us">
     <title lang="en">Live: Pardon the Interruption</title>
     <desc lang="en">Opinions regarding the day's top sports stories.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186288_b_v12_ag.jpg"/>
   </programme>
-  <programme start="20260514003000 +0200" stop="20260514020000 +0200" channel="espn.us">
+  <programme start="20260514000000 +0200" stop="20260514010000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg"/>
+  </programme>
+  <programme start="20260514010000 +0200" stop="20260514020000 +0200" channel="espn.us">
     <title lang="en">Live: NBA Tip-Off</title>
     <desc lang="en">Ernie Johnson, Shaquille O'Neal, Charles Barkley and Kenny Smith readies viewers for NBA action.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267533_b_v12_aa.jpg"/>
   </programme>
-  <programme start="20260514020000 +0200" stop="20260514040000 +0200" channel="espn.us">
+  <programme start="20260514020000 +0200" stop="20260514043000 +0200" channel="espn.us">
     <title lang="en">Live: NBA Basketball</title>
     <sub-title lang="en">Cleveland Cavaliers at Detroit Pistons</sub-title>
     <desc lang="en">Pistons host the Cavaliers for Game 5 of the Eastern Conference semifinals with the series tied 2-2.Detroit look to Cade Cunningham (23.9 PPG) to regain lead, while Cleveland relies on Donovan Mitchell following his 43-point performance in Game 4.</desc>
@@ -12297,17 +12304,19 @@
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191276_b_v12_ak.jpg"/>
   </programme>
-  <programme start="20260514040000 +0200" stop="20260514063000 +0200" channel="espn.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">TBA</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
+  <programme start="20260514043000 +0200" stop="20260514053000 +0200" channel="espn.us">
+    <title lang="en">Live: Inside the NBA</title>
+    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O'Neal discuss and give analysis of tonight's games, including highlights and interviews.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p248610_b_v12_ac.jpg"/>
+  </programme>
+  <programme start="20260514053000 +0200" stop="20260514063000 +0200" channel="espn.us">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg"/>
   </programme>
   <programme start="20260514063000 +0200" stop="20260514073000 +0200" channel="espn.us">
     <title lang="en">Live: Inside the NBA</title>
@@ -12324,11 +12333,12 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg"/>
   </programme>
   <programme start="20260514083000 +0200" stop="20260514093000 +0200" channel="espn.us">
-    <title lang="en">Live: SportsCenter</title>
+    <title lang="en">SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg"/>
+    <previously-shown/>
   </programme>
   <programme start="20260514093000 +0200" stop="20260514100000 +0200" channel="espn.us">
     <title lang="en">SportsCenter</title>
@@ -12571,11 +12581,12 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32737705_b_v12_aa.jpg"/>
   </programme>
   <programme start="20260514000000 +0200" stop="20260514010000 +0200" channel="espn2.us">
-    <title lang="en">Live: SportsCenter</title>
-    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <title lang="en">NBA Today</title>
+    <desc lang="en">In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg"/>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20706981_b_v12_ab.jpg"/>
+    <previously-shown/>
   </programme>
   <programme start="20260514010000 +0200" stop="20260514020000 +0200" channel="espn2.us">
     <title lang="en">Game On: Journey to the NCAA Championship</title>
@@ -12617,12 +12628,20 @@
     <category lang="en">Soccer</category>
     <previously-shown/>
   </programme>
-  <programme start="20260514063000 +0200" stop="20260514073000 +0200" channel="espn2.us">
-    <title lang="en">NFL Live</title>
-    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+  <programme start="20260514063000 +0200" stop="20260514070000 +0200" channel="espn2.us">
+    <title lang="en">Hey Rookie, Welcome to the NFL</title>
+    <desc lang="en">NFL rookies get their first taste of professional football at training camp.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267723_b_v11_af.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11865120_b_v8_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260514070000 +0200" stop="20260514073000 +0200" channel="espn2.us">
+    <title lang="en">Hey Rookie, Welcome to the NFL</title>
+    <desc lang="en">NFL rookies get their first taste of professional football at training camp.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11865120_b_v8_ab.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260514073000 +0200" stop="20260514080000 +0200" channel="espn2.us">
@@ -16431,11 +16450,23 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/08/29/e73f2d7f-1c82-4a75-8b63-a6387f5be14c_stb_xl.jpg"/>
   </programme>
-  <programme start="20260514061000 +0000" stop="20260514093500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Rome - 1/4 Finala</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  <programme start="20260514061000 +0000" stop="20260514072500 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 1000 Rome: 1/4 Finale: Pegula - Swiatek</title>
+    <desc lang="sr">Na teniskim terenima večnoga grada teniserke će se nadmetati na turniru WTA 1000 i testirati svoju spremnost neposredno pre Roland Garosa.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/18/dc759be5-1873-4889-8fcc-a155792aa76b_xl.jpg"/>
+  </programme>
+  <programme start="20260514072500 +0000" stop="20260514083000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Rome: Goransson/King - Bolelli/Vavassori (parovi)</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/23/d7e221ba-68b3-4caf-a3b8-f0986f30d0a0_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260514083000 +0000" stop="20260514093500 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 1000 Rome: (Parovi) 1/4 Finale: Noskova/Valentova - Hunter/Pegula</title>
+    <desc lang="sr">Na teniskim terenima večnoga grada teniserke će se nadmetati na turniru WTA 1000 i testirati svoju spremnost neposredno pre Roland Garosa.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/18/dc759be5-1873-4889-8fcc-a155792aa76b_xl.jpg"/>
   </programme>
   <programme start="20260514093500 +0000" stop="20260514103000 +0000" channel="sportklub2.rs">
     <title lang="sr">WRC Pregled: Portugal</title>
@@ -18269,7 +18300,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260514110000 +0200" stop="20260514130000 +0200" channel="arenasport5.rs">
-    <title lang="sr">Bilbao - Real Madrid</title>
+    <title lang="sr">Murcia - Girona</title>
     <category lang="sr">Španska Liga</category>
     <category lang="sr">Košarka</category>
     <previously-shown/>
@@ -18617,42 +18648,34 @@
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
-  <programme start="20260514060000 +0200" stop="20260514080000 +0200" channel="arenasport7.rs">
+  <programme start="20260514060000 +0200" stop="20260514090000 +0200" channel="arenasport7.rs">
     <title lang="sr">Lokomotiv - Avangard, PF1 G7</title>
     <category lang="sr">Khl</category>
     <category lang="sr">Hokej</category>
     <previously-shown/>
   </programme>
-  <programme start="20260514080000 +0200" stop="20260514100000 +0200" channel="arenasport7.rs">
+  <programme start="20260514090000 +0200" stop="20260514110000 +0200" channel="arenasport7.rs">
     <title lang="sr">Nizhny Novgorod - CSKA</title>
     <category lang="sr">Ruska Liga</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
-  <programme start="20260514100000 +0200" stop="20260514120000 +0200" channel="arenasport7.rs">
+  <programme start="20260514110000 +0200" stop="20260514130000 +0200" channel="arenasport7.rs">
     <title lang="sr">CSKA - Lokomotiv, G1</title>
     <category lang="sr">Vtb Liga</category>
     <category lang="sr">Košarka</category>
     <previously-shown/>
   </programme>
-  <programme start="20260514120000 +0200" stop="20260514123000 +0200" channel="arenasport7.rs">
-    <title lang="sr">Emisija: Zona zdravog sporta - Planinarsko društvo Maljen, Požega</title>
-    <previously-shown/>
-  </programme>
-  <programme start="20260514123000 +0200" stop="20260514143000 +0200" channel="arenasport7.rs">
+  <programme start="20260514130000 +0200" stop="20260514150000 +0200" channel="arenasport7.rs">
     <title lang="sr">Dinamo - Krasnodar</title>
     <category lang="sr">Ruska Liga</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
-  <programme start="20260514143000 +0200" stop="20260514163000 +0200" channel="arenasport7.rs">
+  <programme start="20260514150000 +0200" stop="20260514170000 +0200" channel="arenasport7.rs">
     <title lang="sr">UNICS - Zenit, G2</title>
     <category lang="sr">Vtb Liga</category>
     <category lang="sr">Košarka</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260514163000 +0200" stop="20260514170000 +0200" channel="arenasport7.rs">
-    <title lang="sr">Priča o svemu (pa i o sportu) - Branko Kokir</title>
     <previously-shown/>
   </programme>
   <programme start="20260514170000 +0200" stop="20260514190000 +0200" channel="arenasport7.rs">
