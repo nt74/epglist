@@ -16371,18 +16371,17 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/01/24/c193e83c-b0fc-444e-8efe-0668186e08b1_stb_xl.jpg"/>
   </programme>
-  <programme start="20260515063000 +0000" stop="20260515080000 +0000" channel="sportklub2.rs">
+  <programme start="20260515063000 +0000" stop="20260515080500 +0000" channel="sportklub2.rs">
     <title lang="sr">Košarka - Euroleague: Playoffs (G5): Valencia - Panathinaikos</title>
     <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/29/332535f6-acc4-4faf-8017-dd771173c00b_xl.jpg"/>
   </programme>
-  <programme start="20260515080000 +0000" stop="20260515090000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Sportske igre mladih Slovenije - otvorenje: Maribor</title>
-    <desc lang="sr">Oni su ukras sveta i naša budućnost. Možda neće svi postati profesionalni sportisti, ali svakako će ovo biti divno iskustvo za njih. (LIVE).</desc>
+  <programme start="20260515080500 +0000" stop="20260515090000 +0000" channel="sportklub2.rs">
+    <title lang="sr">Pregled Bundeslige</title>
+    <desc lang="sr">Uz sve ono što nam je Nemačka podarila kroz istoriju ponosno stoji i Bundesliga. Najviši rang fudbalskog takmičenja osnovanog 1963. godine broji 18 ekipa koje svakog avgusta kreću u trku za popularnim...</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/80a24d9f-15a6-4fbd-9ea1-7434f402887e_stb_xl.jpg"/>
-    <premiere/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/09/05/1272eb04-5318-4442-929d-c20ef2bdf7b8_stb_xl.jpg"/>
   </programme>
   <programme start="20260515090000 +0000" stop="20260515103000 +0000" channel="sportklub2.rs">
     <title lang="sr">Košarka - Španska liga: Burgos - Unicaja</title>
@@ -16466,10 +16465,10 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/682f633c-6073-495b-8e41-71419d358a43_stb_xl.jpg"/>
   </programme>
   <programme start="20260515235000 +0000" stop="20260516014000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Fudbal - Portugalska liga</title>
-    <desc lang="sr">Prvi liga portugalskog fudbala, Primeira liga, osnovana je 1934. i broji 18 klubova. Najviše osvojenih titula prvaka ima lisabonski gigant Benfika.</desc>
+    <title lang="sr">Fudbal - Turska liga: Rize - Besiktas</title>
+    <desc lang="sr">Turska Superliga je najviša profesionalna liga Turske u fudbalu. Ova liga osnovana je 1957. godine.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/ee6dac8e-f0ab-4d09-b9d7-40fa69a08b41_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/09/21/46101552-d8e3-4b54-b1ba-9567b5305f0a_stb_xl.jpg"/>
   </programme>
   <programme start="20260514010000 +0000" stop="20260514023000 +0000" channel="sportklub3.rs">
     <title lang="sr">Košarka - Španska liga: Breogan - Lleida</title>
@@ -16676,22 +16675,22 @@
     <premiere/>
   </programme>
   <programme start="20260515175500 +0000" stop="20260515185500 +0000" channel="sportklub3.rs">
-    <title lang="sr">Sportske igre mladih Slovenije - otvorenje: Maribor</title>
-    <desc lang="sr">Oni su ukras sveta i naša budućnost. Možda neće svi postati profesionalni sportisti, ali svakako će ovo biti divno iskustvo za njih.</desc>
+    <title lang="sr">Moto GP Katalonija: Trening 1</title>
+    <desc lang="sr">Banjaja je pobedio u Muđelu, ali borba za titulu se potpuno rasplamsala. Kome će najviše odgovarati staza i uslovi u Kataloniji?</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/80a24d9f-15a6-4fbd-9ea1-7434f402887e_stb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/31/94f9b003-59db-493a-95ab-039745cbde7d_stb_xl.jpg"/>
   </programme>
-  <programme start="20260515185500 +0000" stop="20260515195000 +0000" channel="sportklub3.rs">
+  <programme start="20260515185500 +0000" stop="20260515195500 +0000" channel="sportklub3.rs">
     <title lang="sr">Moto GP Katalonija: Trening 2</title>
     <desc lang="sr">Banjaja je pobedio u Muđelu, ali borba za titulu se potpuno rasplamsala. Kome će najviše odgovarati staza i uslovi u Kataloniji?</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/31/94f9b003-59db-493a-95ab-039745cbde7d_stb_xl.jpg"/>
   </programme>
-  <programme start="20260515195000 +0000" stop="20260515213000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Košarka - NBA liga: Playoffs (G6):</title>
-    <desc lang="sr">NBA liga je najcenjenije svetsko košarkaško takmičenje u kojem 30 severnoameričkih ekipa svake jeseni kreće u lov na prsten namenjen NBA prvaku.</desc>
+  <programme start="20260515195500 +0000" stop="20260515213000 +0000" channel="sportklub3.rs">
+    <title lang="sr">Košarka - Izraelska liga: Rishon - Elion Galil</title>
+    <desc lang="sr">Superliga Izraela u košarci je najviši rang košarkaških takmičenja u Izraelu. Liga je osnovana 1954. godine i trenutno broji 12 klubova.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/6090c647-c398-4307-a4c4-58366fd6a896_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/07/4ad9ac10-4f12-4cdb-bffd-b992a27df0c4_xl.jpg"/>
   </programme>
   <programme start="20260515213000 +0000" stop="20260515232000 +0000" channel="sportklub3.rs">
     <title lang="sr">Fudbal - Turska 2. liga: Playoff - 1/2 Finale (2nd leg): Arca Corum - Bodrum</title>
