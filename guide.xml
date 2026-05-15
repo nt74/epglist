@@ -16372,11 +16372,17 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/23/d7e221ba-68b3-4caf-a3b8-f0986f30d0a0_stb_xl.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20260516130000 +0000" stop="20260516150000 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Masters Rome: 1/2 Finale</title>
+  <programme start="20260516130000 +0000" stop="20260516140000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Rome: 1/2 Finale: Ruud - Darderi</title>
     <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/04/15/3269e9a3-ef9b-4e54-9856-52d333f426bc_stb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/23/d7e221ba-68b3-4caf-a3b8-f0986f30d0a0_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260516140000 +0000" stop="20260516150000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Rome: 1/2 Finale: Sinner - Medvedev</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/23/d7e221ba-68b3-4caf-a3b8-f0986f30d0a0_stb_xl.jpg"/>
   </programme>
   <programme start="20260516150000 +0000" stop="20260516170000 +0000" channel="sportklub2.rs">
     <title lang="sr">WTA 1000 Rome: FINALE</title>
