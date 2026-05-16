@@ -14566,15 +14566,10 @@
     <previously-shown/>
   </programme>
   <programme start="20260516123000 +0200" stop="20260516130000 +0200" channel="syfy.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
+    <title lang="en">Sleep Deeper Tonight with DREAMCLOUD's Advanced Hybrid Mattress Today!</title>
+    <desc lang="en">Treat yourself to luxurious, award-winning comfort with the premium DreamCloud Mattress &amp; adjustable base. Enjoy restorative sleep, relax with zero gravity comfort, and wake up refreshed. Plus, save 66% with this amazing deal today!</desc>
     <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg"/>
     <previously-shown/>
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20260516130000 +0200" stop="20260516133000 +0200" channel="syfy.us">
     <title lang="en">Silver Rarities Set</title>
@@ -15394,23 +15389,20 @@
     <previously-shown/>
   </programme>
   <programme start="20260517230000 +0200" stop="20260517233000 +0200" channel="nbatv.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">TBA</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg"/>
-    <previously-shown/>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260517233000 +0200" stop="20260518000000 +0200" channel="nbatv.us">
     <title lang="en">NBA Shot Clock: Games of the Night</title>
     <desc lang="en">Exciting action from the best NBA games of the night.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32875991_b_v12_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260517233000 +0200" stop="20260518000000 +0200" channel="nbatv.us">
+    <title lang="en">Chasing History</title>
+    <sub-title lang="en">West Opening Round</sub-title>
+    <desc lang="en">An inside all-access look at the top storylines and moments including Wemby's debut, LeBron James and the resurgent Lakers, a dominant Thunder D and the riveting rivalry between the Nuggets and Wolves.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29032852_b_v12_ab.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260518000000 +0200" stop="20260518010000 +0200" channel="nbatv.us">
