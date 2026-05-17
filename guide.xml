@@ -12637,7 +12637,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260518093000 +0200" stop="20260518103000 +0200" channel="espn.us">
+  <programme start="20260518093000 +0200" stop="20260518100000 +0200" channel="espn.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <category lang="en">Sports</category>
@@ -12645,13 +12645,21 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260518103000 +0200" stop="20260518130000 +0200" channel="espn.us">
+  <programme start="20260518100000 +0200" stop="20260518120000 +0200" channel="espn.us">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Conference Semifinals: Teams TBA</sub-title>
+    <sub-title lang="en">Conference Finals: Teams TBA</sub-title>
     <desc lang="en">Professional basketball action from the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191276_b_v12_ak.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260518120000 +0200" stop="20260518130000 +0200" channel="espn.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260518130000 +0200" stop="20260518140000 +0200" channel="espn.us">
@@ -12782,13 +12790,21 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20260517080000 +0200" stop="20260517100000 +0200" channel="espn2.us">
-    <title lang="en">NHL Hockey</title>
-    <sub-title lang="en">Buffalo Sabres at Montreal Canadiens</sub-title>
-    <desc lang="en">The Canadiens play the Sabres in Game 6 of their Eastern Conference Second Round. Montreal holds a 3-2 edge after a Game 5 win, highlighted by rookie Ivan Demidov's first playoff goal. Buffalo fights to stave off elimination and force a Game 7.</desc>
+  <programme start="20260517080000 +0200" stop="20260517090000 +0200" channel="espn2.us">
+    <title lang="en">Last In, Last Out</title>
+    <desc lang="en">Celebrating the 2022 Ole Miss baseball team that won the program's first national championship despite being the last at-large team selected for the NCAA Baseball Tournament.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191278_b_v12_aa.jpg"/>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24749797_b_v12_aa.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260517090000 +0200" stop="20260517100000 +0200" channel="espn2.us">
+    <title lang="en">E60</title>
+    <sub-title lang="en">The Oklahoma Standard</sub-title>
+    <desc lang="en">Explores the Thunder's relationship with Oklahoma City.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p229472_b_v11_af.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260517100000 +0200" stop="20260517110000 +0200" channel="espn2.us">
@@ -12825,12 +12841,21 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7817579_b_v12_ap.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260517160000 +0200" stop="20260517180000 +0200" channel="espn2.us">
-    <title lang="en">AKC Events</title>
-    <desc lang="en">Assorted canine events run by the American Kennel Club.</desc>
+  <programme start="20260517160000 +0200" stop="20260517170000 +0200" channel="espn2.us">
+    <title lang="en">Game On: Journey to the NCAA Championship</title>
+    <desc lang="en">Series focused on eight different NCAA sports leading up to their respective NCAA Championships.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21742300_b_v12_aa.jpg"/>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29732098_b_v8_aa.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260517170000 +0200" stop="20260517180000 +0200" channel="espn2.us">
+    <title lang="en">Game On: Journey to the NCAA Championship</title>
+    <sub-title lang="en">Softball</sub-title>
+    <desc lang="en">Series focused on eight different NCAA sports leading up to their respective NCAA Championships.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29732098_b_v8_aa.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260517180000 +0200" stop="20260517200000 +0200" channel="espn2.us">
@@ -12999,7 +13024,15 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33030428_b_v8_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260519010000 +0200" stop="20260519013000 +0200" channel="espn2.us">
+  <programme start="20260519010000 +0200" stop="20260519020000 +0200" channel="espn2.us">
+    <title lang="en">NFL Live</title>
+    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267723_b_v11_af.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260519020000 +0200" stop="20260519023000 +0200" channel="espn2.us">
     <title lang="en">Last Train to North America</title>
     <sub-title lang="en">Toronto</sub-title>
     <desc lang="en">The journey begins aboard a train to Toronto as the series sets the stage for a continent preparing to host the world.</desc>
@@ -13009,7 +13042,7 @@
     <episode-num system="onscreen">E1</episode-num>
     <previously-shown/>
   </programme>
-  <programme start="20260519013000 +0200" stop="20260519020000 +0200" channel="espn2.us">
+  <programme start="20260519023000 +0200" stop="20260519030000 +0200" channel="espn2.us">
     <title lang="en">Last Train to North America</title>
     <sub-title lang="en">Boston &amp; New York</sub-title>
     <desc lang="en">The series travels to the United States with stops in Boston and New York, exploring two historic sports cities preparing for the global spotlight.</desc>
@@ -13017,14 +13050,6 @@
     <category lang="en">Anthology</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32737758_b_v12_ab.jpg"/>
     <episode-num system="onscreen">E2</episode-num>
-    <previously-shown/>
-  </programme>
-  <programme start="20260519020000 +0200" stop="20260519030000 +0200" channel="espn2.us">
-    <title lang="en">ESPN Films</title>
-    <desc lang="en">The most amazing, moving and exciting stories in the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8417669_b_v12_af.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260519030000 +0200" stop="20260519033000 +0200" channel="espn2.us">
@@ -15397,29 +15422,27 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260518020000 +0200" stop="20260518030000 +0200" channel="nbatv.us">
-    <title lang="en">The Association: Postgame</title>
-    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+  <programme start="20260518020000 +0200" stop="20260518040000 +0200" channel="nbatv.us">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2026 NBA Playoffs: Detroit vs. Cleveland: Game 6</sub-title>
+    <desc lang="en">Semifinal.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260518030000 +0200" stop="20260518040000 +0200" channel="nbatv.us">
-    <title lang="en">The Association: Postgame</title>
-    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31717868_b_v12_aa.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260518040000 +0200" stop="20260518043000 +0200" channel="nbatv.us">
-    <title lang="en">The Association: Postgame</title>
-    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <title lang="en">NBA Action</title>
+    <sub-title lang="en">Washington Wins the Draft Lotto</sub-title>
+    <desc lang="en">Featuring weekly highlights from the basketball league; all the stars, all the games and everything you need to know about the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p448615_b_v11_an.jpg"/>
+    <episode-num system="onscreen">E252630</episode-num>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20260518043000 +0200" stop="20260518053000 +0200" channel="nbatv.us">
     <title lang="en">Live: The Association: Postgame</title>
@@ -15428,7 +15451,7 @@
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
   </programme>
-  <programme start="20260518053000 +0200" stop="20260518060000 +0200" channel="nbatv.us">
+  <programme start="20260518053000 +0200" stop="20260518063000 +0200" channel="nbatv.us">
     <title lang="en">The Association: Postgame</title>
     <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
     <category lang="en">Sports</category>
@@ -15436,12 +15459,12 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260518060000 +0200" stop="20260518070000 +0200" channel="nbatv.us">
-    <title lang="en">The Association: Postgame</title>
-    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+  <programme start="20260518063000 +0200" stop="20260518070000 +0200" channel="nbatv.us">
+    <title lang="en">Everything You Missed: Nightly Recap</title>
+    <desc lang="en">Catch up on the night's best NBA action.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32143278_b_v12_aa.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260518070000 +0200" stop="20260518073000 +0200" channel="nbatv.us">
@@ -15573,11 +15596,11 @@
     <previously-shown/>
   </programme>
   <programme start="20260518150000 +0200" stop="20260518153000 +0200" channel="nbatv.us">
-    <title lang="en">Everything You Missed: Nightly Recap</title>
-    <desc lang="en">Catch up on the night's best NBA action.</desc>
+    <title lang="en">NBA Nightcap: Amazon</title>
+    <desc lang="en">A wrap-up of the night's NBA action.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32143278_b_v12_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31583103_b_v11_ab.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260518153000 +0200" stop="20260518160000 +0200" channel="nbatv.us">
@@ -15589,11 +15612,11 @@
     <previously-shown/>
   </programme>
   <programme start="20260518160000 +0200" stop="20260518163000 +0200" channel="nbatv.us">
-    <title lang="en">Everything You Missed: Nightly Recap</title>
-    <desc lang="en">Catch up on the night's best NBA action.</desc>
+    <title lang="en">NBA Nightcap: Amazon</title>
+    <desc lang="en">A wrap-up of the night's NBA action.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32143278_b_v12_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31583103_b_v11_ab.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260518163000 +0200" stop="20260518170000 +0200" channel="nbatv.us">
@@ -15605,11 +15628,11 @@
     <previously-shown/>
   </programme>
   <programme start="20260518170000 +0200" stop="20260518173000 +0200" channel="nbatv.us">
-    <title lang="en">Everything You Missed: Nightly Recap</title>
-    <desc lang="en">Catch up on the night's best NBA action.</desc>
+    <title lang="en">NBA Nightcap: Amazon</title>
+    <desc lang="en">A wrap-up of the night's NBA action.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32143278_b_v12_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31583103_b_v11_ab.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260518173000 +0200" stop="20260518180000 +0200" channel="nbatv.us">
@@ -15638,7 +15661,7 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31717868_b_v12_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260518210000 +0200" stop="20260518220000 +0200" channel="nbatv.us">
+  <programme start="20260518210000 +0200" stop="20260518213000 +0200" channel="nbatv.us">
     <title lang="en">NBA Shot Clock: Games of the Night</title>
     <desc lang="en">Exciting action from the best NBA games of the night.</desc>
     <category lang="en">Sports</category>
@@ -15646,33 +15669,20 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32875991_b_v12_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260518220000 +0200" stop="20260519000000 +0200" channel="nbatv.us">
-    <title lang="en">NBA Playback</title>
-    <sub-title lang="en">2026 NBA Playoffs: Teams TBA</sub-title>
-    <desc lang="en">Semifinal.</desc>
+  <programme start="20260518213000 +0200" stop="20260518220000 +0200" channel="nbatv.us">
+    <title lang="en">NBA Action</title>
+    <sub-title lang="en">Washington Wins the Draft Lotto</sub-title>
+    <desc lang="en">Featuring weekly highlights from the basketball league; all the stars, all the games and everything you need to know about the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31717868_b_v12_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p448615_b_v11_an.jpg"/>
+    <episode-num system="onscreen">E252630</episode-num>
     <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20260519000000 +0200" stop="20260519020000 +0200" channel="nbatv.us">
-    <title lang="en">NBA Playback</title>
-    <sub-title lang="en">2026 NBA Playoffs: Teams TBA</sub-title>
-    <desc lang="en">Semifinal.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31717868_b_v12_aa.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260519020000 +0200" stop="20260519030000 +0200" channel="nbatv.us">
-    <title lang="en">NBA Shot Clock: Games of the Night</title>
-    <desc lang="en">Exciting action from the best NBA games of the night.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32875991_b_v12_ab.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260519030000 +0200" stop="20260519040000 +0200" channel="nbatv.us">
+  <programme start="20260518220000 +0200" stop="20260518230000 +0200" channel="nbatv.us">
     <title lang="en">Basketcast</title>
     <desc lang="en">The best (and latest) analysis/commentary from various voices covering the league.</desc>
     <category lang="en">Sports</category>
@@ -15681,12 +15691,59 @@
     <episode-num system="onscreen">E96</episode-num>
     <previously-shown/>
   </programme>
-  <programme start="20260519040000 +0200" stop="20260519050000 +0200" channel="nbatv.us">
-    <title lang="en">Live: The Association: Postgame</title>
+  <programme start="20260518230000 +0200" stop="20260519010000 +0200" channel="nbatv.us">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2026 NBA Playoffs: Cleveland vs. Detroit: Game 7</sub-title>
+    <desc lang="en">Semifinal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31717868_b_v12_aa.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260519010000 +0200" stop="20260519013000 +0200" channel="nbatv.us">
+    <title lang="en">NBA Shot Clock: Games of the Night</title>
+    <desc lang="en">Exciting action from the best NBA games of the night.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32875991_b_v12_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260519013000 +0200" stop="20260519020000 +0200" channel="nbatv.us">
+    <title lang="en">Live: The Association: Pregame</title>
     <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31882586_b_v12_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31455862_b_v12_aa.jpg"/>
+  </programme>
+  <programme start="20260519020000 +0200" stop="20260519023000 +0200" channel="nbatv.us">
+    <title lang="en">The Association: Pregame</title>
+    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31455862_b_v12_aa.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260519023000 +0200" stop="20260519043000 +0200" channel="nbatv.us">
+    <title lang="en">WNBA Shot Clock: Games of the Week</title>
+    <sub-title lang="en">5/8-5/14</sub-title>
+    <desc lang="en">The best WNBA games of the week in a condensed format.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33009297_b_v8_ab.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260519043000 +0200" stop="20260519050000 +0200" channel="nbatv.us">
+    <title lang="en">NBA Action</title>
+    <sub-title lang="en">Washington Wins the Draft Lotto</sub-title>
+    <desc lang="en">Featuring weekly highlights from the basketball league; all the stars, all the games and everything you need to know about the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p448615_b_v11_an.jpg"/>
+    <episode-num system="onscreen">E252630</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20260517020000 +0200" stop="20260517040000 +0200" channel="tnt.us">
     <title lang="en">Live: All Elite Wrestling: Collision</title>
@@ -16505,6 +16562,12 @@
     <desc lang="sr">Očekuje se trka Ajaksa i PSV-a za titulu. Može li Fejenord da im se priključi ili će AZ Alkmar napasti iz senke?</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/51b24a89-493b-46ab-aceb-3dff69365c5d_xl.jpg"/>
+  </programme>
+  <programme start="20260518005000 +0000" stop="20260518022000 +0000" channel="sportklub2.rs">
+    <title lang="sr">Košarka - Nemačka liga: Playoffs - 1/4 Finale (G1): Bayern - Trier</title>
+    <desc lang="sr">Iz godine u godinu, Bundesliga je jača. Zna se da su Alba i Bajern uvek moćni, ali sada imaju i žestoku konkurenciju.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/1d0b5d4f-bf8f-4d68-835a-17f63cf090bf_xl.jpg"/>
   </programme>
   <programme start="20260517002000 +0000" stop="20260517015000 +0000" channel="sportklub3.rs">
     <title lang="sr">Košarka - Francuska liga: Paris - Asvel</title>
