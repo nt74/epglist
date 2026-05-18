@@ -16677,11 +16677,18 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20260518100000 +0000" stop="20260518194500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP 500 Hamburg &amp; WTA 250 Rabat &amp; WTA 500 Strasbourg &amp; ATP 250 Geneva</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20260518160000 +0000" stop="20260518174500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 250 Geneva: Brancaccio - Wawrinka</title>
+    <desc lang="sr">Ženeva je postala već tradicionalni turnir pred Rolan Garos. Ko će se pridružiti već veoma zvučnoj listi šampiona? (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260518174500 +0000" stop="20260518194500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 250 Geneva: Sonego - Butvilas</title>
+    <desc lang="sr">Ženeva je postala već tradicionalni turnir pred Rolan Garos. Ko će se pridružiti već veoma zvučnoj listi šampiona? (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
     <premiere/>
   </programme>
   <programme start="20260518194500 +0000" stop="20260518204000 +0000" channel="sportklub2.rs">
@@ -16732,11 +16739,17 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/09/05/1272eb04-5318-4442-929d-c20ef2bdf7b8_stb_xl.jpg"/>
   </programme>
-  <programme start="20260519055500 +0000" stop="20260519072500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP 500 Hamburg &amp; WTA 250 Rabat &amp; WTA 500 Strasbourg &amp; ATP 250 Geneva</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  <programme start="20260519055500 +0000" stop="20260519064000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 500 Hamburg: Davidovich-Fokina - Moutet</title>
+    <desc lang="sr">Jedan od najprestižnijih turnira iz ATP 500 serije, takmičenje sa ogromnom istorijom. Ko će trijumfovati pored čuvenog "crvenog hrasta"?</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260519064000 +0000" stop="20260519072500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 500 Hamburg: Mensik - Struff</title>
+    <desc lang="sr">Jedan od najprestižnijih turnira iz ATP 500 serije, takmičenje sa ogromnom istorijom. Ko će trijumfovati pored čuvenog "crvenog hrasta"?</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
   </programme>
   <programme start="20260519072500 +0000" stop="20260519083000 +0000" channel="sportklub2.rs">
     <title lang="sr">Fudbal: Turska liga - Pregled</title>
@@ -17033,12 +17046,17 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
   </programme>
-  <programme start="20260518100000 +0000" stop="20260518180000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Tenis: WTA 500 Strasbourg &amp; WTA 250 Rabat &amp; ATP 500 Hamburg</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20260518153000 +0000" stop="20260518173000 +0000" channel="sportklub4.rs">
+    <title lang="sr">WTA 500 Strasbourg: Bouzkova - Siniakova</title>
+    <desc lang="sr">Prelepi Strazbur je redovan domaćin poslednjeg turnira pred Rolan Garos. Šljaka i uslovi su veoma slični onome što teniserke očekuje u Parizu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
     <premiere/>
+  </programme>
+  <programme start="20260518173000 +0000" stop="20260518180000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Sport Klub 11 Promo</title>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
   </programme>
   <programme start="20260518180000 +0000" stop="20260518190000 +0000" channel="sportklub4.rs">
     <title lang="sr">Sport Klub 11 Promo</title>
@@ -17222,12 +17240,17 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
   </programme>
-  <programme start="20260518100000 +0000" stop="20260518180000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Tenis: WTA 500 Strasbourg &amp; WTA 250 Rabat &amp; ATP 500 Hamburg</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20260518153000 +0000" stop="20260518173000 +0000" channel="sportklub5.rs">
+    <title lang="sr">WTA 250 Rabat: Bhosale/Plipuech - Chong/Kempen (parovi)</title>
+    <desc lang="sr">Sjajni rezultati Ons Žaber su povećali popularnost ženskog tenisa u severnoj Africi, a posle muškog turnira u Marakešu, sada se organizuje i ženski turnir u Rabatu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/2bcd0da3-8bc2-4414-8dd2-a05ff419b0fc_stb_xl.jpg"/>
     <premiere/>
+  </programme>
+  <programme start="20260518173000 +0000" stop="20260518180000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 12 Promo</title>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
   </programme>
   <programme start="20260518180000 +0000" stop="20260518190000 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 12 Promo</title>
@@ -17631,10 +17654,14 @@
     <category lang="sr">Nemačka Liga</category>
     <category lang="sr">Košarka</category>
   </programme>
-  <programme start="20260518203000 +0200" stop="20260518230000 +0200" channel="arenasport1.rs">
+  <programme start="20260518203000 +0200" stop="20260518223000 +0200" channel="arenasport1.rs">
     <title lang="sr">Uživo: Bamberg - Ulm, G2</title>
     <category lang="sr">Nemačka Liga</category>
     <category lang="sr">Košarka</category>
+  </programme>
+  <programme start="20260518223000 +0200" stop="20260518230000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Buduće zvezde Arene - KK Sloga Požega</title>
+    <previously-shown/>
   </programme>
   <programme start="20260518230000 +0200" stop="20260519000000 +0200" channel="arenasport1.rs">
     <title lang="sr">PL Studio - Pregled 37. kola</title>
@@ -17947,8 +17974,14 @@
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
-  <programme start="20260518170000 +0200" stop="20260518210000 +0200" channel="arenasport3.rs">
+  <programme start="20260518170000 +0200" stop="20260518190000 +0200" channel="arenasport3.rs">
     <title lang="sr">Lyon - Lens</title>
+    <category lang="sr">Francuska Liga</category>
+    <category lang="sr">Fudbal</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260518190000 +0200" stop="20260518210000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Strasbourg - Monaco</title>
     <category lang="sr">Francuska Liga</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
@@ -18111,9 +18144,15 @@
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
-  <programme start="20260518193000 +0200" stop="20260518230000 +0200" channel="arenasport4.rs">
+  <programme start="20260518193000 +0200" stop="20260518200000 +0200" channel="arenasport4.rs">
     <title lang="sr">UEL/UECL magazin ep. 20</title>
     <category lang="sr">Uefa Liga Evrope</category>
+    <category lang="sr">Fudbal</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260518200000 +0200" stop="20260518230000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Juventus - Galatasaray</title>
+    <category lang="sr">Uefa Liga Šampiona</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
@@ -18249,7 +18288,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260518110000 +0200" stop="20260518130000 +0200" channel="arenasport5.rs">
-    <title lang="sr">Play-in 1</title>
+    <title lang="sr">Nanterre - Cholet</title>
     <category lang="sr">Francuska Liga</category>
     <category lang="sr">Košarka</category>
     <previously-shown/>
@@ -18339,8 +18378,8 @@
     <previously-shown/>
   </programme>
   <programme start="20260519110000 +0200" stop="20260519130000 +0200" channel="arenasport5.rs">
-    <title lang="sr">Play-in 2</title>
-    <category lang="sr">Francuska Liga</category>
+    <title lang="sr">Tenerife - Barcelona</title>
+    <category lang="sr">Španska Liga</category>
     <category lang="sr">Košarka</category>
     <previously-shown/>
   </programme>
@@ -18357,8 +18396,8 @@
     <previously-shown/>
   </programme>
   <programme start="20260519163000 +0200" stop="20260519183000 +0200" channel="arenasport5.rs">
-    <title lang="sr">Tenerife - Barcelona</title>
-    <category lang="sr">Španska Liga</category>
+    <title lang="sr">Paris - Asvel</title>
+    <category lang="sr">Francuska Liga</category>
     <category lang="sr">Košarka</category>
     <previously-shown/>
   </programme>
@@ -18435,7 +18474,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260518140000 +0200" stop="20260518160000 +0200" channel="arenasport6.rs">
-    <title lang="sr">SEIKO Golden Grand Prix</title>
+    <title lang="sr">Kip Keino Classic</title>
     <category lang="sr">World Athletics Continental Tour</category>
     <category lang="sr">Atletika</category>
     <previously-shown/>
@@ -18457,13 +18496,13 @@
     <previously-shown/>
   </programme>
   <programme start="20260518200000 +0200" stop="20260518220000 +0200" channel="arenasport6.rs">
-    <title lang="sr">FINALE</title>
+    <title lang="sr">Perugia - Zawiercie, finale</title>
     <category lang="sr">Liga Šampiona</category>
     <category lang="sr">Odbojka</category>
     <previously-shown/>
   </programme>
   <programme start="20260518220000 +0200" stop="20260518223000 +0200" channel="arenasport6.rs">
-    <title lang="sr">Oni vole Srbiju ep. 84</title>
+    <title lang="sr">Oni vole Srbiju ep. 84 - Žofri Lovernj</title>
     <previously-shown/>
   </programme>
   <programme start="20260518223000 +0200" stop="20260519000000 +0200" channel="arenasport6.rs">
@@ -18501,7 +18540,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260519080000 +0200" stop="20260519093000 +0200" channel="arenasport6.rs">
-    <title lang="sr">FINALE</title>
+    <title lang="sr">Thuringer - Dijon, finale</title>
     <category lang="sr">Ehf Liga Evrope (ž)</category>
     <category lang="sr">Rukomet</category>
     <previously-shown/>
@@ -18614,7 +18653,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260518173000 +0200" stop="20260518180000 +0200" channel="arenasport7.rs">
-    <title lang="sr">Oni vole Srbiju ep. 84</title>
+    <title lang="sr">Oni vole Srbiju ep. 84 - Žofri Lovernj</title>
     <previously-shown/>
   </programme>
   <programme start="20260518180000 +0200" stop="20260518200000 +0200" channel="arenasport7.rs">
@@ -18683,7 +18722,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260519120000 +0200" stop="20260519123000 +0200" channel="arenasport7.rs">
-    <title lang="sr">Oni vole Srbiju ep. 84</title>
+    <title lang="sr">Oni vole Srbiju ep. 84 - Žofri Lovernj</title>
     <previously-shown/>
   </programme>
   <programme start="20260519123000 +0200" stop="20260519130000 +0200" channel="arenasport7.rs">
