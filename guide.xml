@@ -12722,27 +12722,29 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267723_b_v11_af.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260520020000 +0200" stop="20260520043000 +0200" channel="espn2.us">
-    <title lang="en">ESPN Films</title>
-    <desc lang="en">Series of documentaries looking back through the history of sports.</desc>
+  <programme start="20260520020000 +0200" stop="20260520033000 +0200" channel="espn2.us">
+    <title lang="en">The Pick Is In</title>
+    <desc lang="en">Experts share opinions on football.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7953014_st_v8_aa.jpg"/>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33021569_b_v8_aa.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260520043000 +0200" stop="20260520053000 +0200" channel="espn2.us">
+  <programme start="20260520033000 +0200" stop="20260520053000 +0200" channel="espn2.us">
+    <title lang="en">30 for 30</title>
+    <sub-title lang="en">Four Falls of Buffalo</sub-title>
+    <desc lang="en">The Buffalo Bills of the early '90s made it to four straight Super Bowls, yet never brought home the coveted Vince Lombardi Trophy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7817579_b_v12_ap.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260520053000 +0200" stop="20260520063000 +0200" channel="espn2.us">
     <title lang="en">NFL Live</title>
     <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267723_b_v11_af.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260520053000 +0200" stop="20260520063000 +0200" channel="espn2.us">
-    <title lang="en">Sources Tell Jeff Passan</title>
-    <desc lang="en">Inside baseball news from MLB reporter Jeff Passan.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32753727_b_v12_ab.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260520063000 +0200" stop="20260520080000 +0200" channel="espn2.us">
@@ -15596,13 +15598,26 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33009297_b_v8_ab.jpg"/>
     <previously-shown/>
   </programme>
-  <programme start="20260519233000 +0200" stop="20260520003000 +0200" channel="nbatv.us">
-    <title lang="en">Basketcast</title>
-    <desc lang="en">The best (and latest) analysis/commentary from various voices covering the league.</desc>
+  <programme start="20260519233000 +0200" stop="20260520000000 +0200" channel="nbatv.us">
+    <title lang="en">NBA Action</title>
+    <sub-title lang="en">Washington Wins the Draft Lotto</sub-title>
+    <desc lang="en">Featuring weekly highlights from the basketball league; all the stars, all the games and everything you need to know about the NBA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31889632_b_v12_ab.jpg"/>
-    <episode-num system="onscreen">E97</episode-num>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p448615_b_v11_an.jpg"/>
+    <episode-num system="onscreen">E252630</episode-num>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20260520000000 +0200" stop="20260520003000 +0200" channel="nbatv.us">
+    <title lang="en">Chasing History</title>
+    <sub-title lang="en">Semifinals</sub-title>
+    <desc lang="en">An all-access series documenting the NBA playoffs and finals. Twenty teams, all chasing the dream of hoisting the Larry O'Brien Trophy in June.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29032852_b_v12_ab.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260520003000 +0200" stop="20260520010000 +0200" channel="nbatv.us">
@@ -15821,11 +15836,11 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31455862_b_v12_aa.jpg"/>
   </programme>
   <programme start="20260521020000 +0200" stop="20260521023000 +0200" channel="nbatv.us">
-    <title lang="en">The Association: Pregame</title>
-    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <title lang="en">NBA Shot Clock: Games of the Night</title>
+    <desc lang="en">Exciting action from the best NBA games of the night.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31455862_b_v12_aa.jpg"/>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32875991_b_v12_ab.jpg"/>
     <previously-shown/>
   </programme>
   <programme start="20260521023000 +0200" stop="20260521043000 +0200" channel="nbatv.us">
@@ -16699,11 +16714,18 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20260519100000 +0000" stop="20260519194500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: WTA 250 Rabat &amp; ATP 500 Hamburg &amp; WTA 500 Strasbourg &amp; ATP 250 Geneva</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20260519160000 +0000" stop="20260519174500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 250 Geneva: Manarino - Collignon</title>
+    <desc lang="sr">Ženeva je postala već tradicionalni turnir pred Rolan Garos. Ko će se pridružiti već veoma zvučnoj listi šampiona? (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260519174500 +0000" stop="20260519194500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 250 Geneva: Đere - J.M. Cerundolo</title>
+    <desc lang="sr">Ženeva je postala već tradicionalni turnir pred Rolan Garos. Ko će se pridružiti već veoma zvučnoj listi šampiona? (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
     <premiere/>
   </programme>
   <programme start="20260519194500 +0000" stop="20260519200000 +0000" channel="sportklub2.rs">
@@ -16742,11 +16764,17 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/05/14/3a696d56_cb2c_41fc_97a6_cb1f8847ae0f_stb_xl.jpg"/>
   </programme>
-  <programme start="20260520042000 +0000" stop="20260520070000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP 500 Hamburg &amp; WTA 250 Rabat &amp; WTA 500 Strasbourg &amp; ATP 250 Geneva</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  <programme start="20260520042000 +0000" stop="20260520054000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 500 Hamburg: Auger-Aliassime - Kopriva</title>
+    <desc lang="sr">Jedan od najprestižnijih turnira iz ATP 500 serije, takmičenje sa ogromnom istorijom. Ko će trijumfovati pored čuvenog "crvenog hrasta"?</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260520054000 +0000" stop="20260520070000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 500 Hamburg: Altmaier - Shelton</title>
+    <desc lang="sr">Jedan od najprestižnijih turnira iz ATP 500 serije, takmičenje sa ogromnom istorijom. Ko će trijumfovati pored čuvenog "crvenog hrasta"?</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
   </programme>
   <programme start="20260520070000 +0000" stop="20260520083000 +0000" channel="sportklub2.rs">
     <title lang="sr">Košarka - Nemačka liga: Playoffs - 1/4 Finale (G2): Bayern - Trier</title>
@@ -17076,15 +17104,12 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20260519150000 +0000" stop="20260519160000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Sport Klub 11 Promo</title>
+  <programme start="20260519151500 +0000" stop="20260519170000 +0000" channel="sportklub4.rs">
+    <title lang="sr">WTA 250 Rabat: Sutjiadi/Zvonareva - Huergo/Kulambayeva (parovi)</title>
+    <desc lang="sr">Sjajni rezultati Ons Žaber su povećali popularnost ženskog tenisa u severnoj Africi, a posle muškog turnira u Marakešu, sada se organizuje i ženski turnir u Rabatu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260519160000 +0000" stop="20260519170000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Sport Klub 11 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/2bcd0da3-8bc2-4414-8dd2-a05ff419b0fc_stb_xl.jpg"/>
+    <premiere/>
   </programme>
   <programme start="20260519170000 +0000" stop="20260519180000 +0000" channel="sportklub4.rs">
     <title lang="sr">Sport Klub 11 Promo</title>
@@ -17802,8 +17827,8 @@
     <category lang="sr">Vaterpolo</category>
   </programme>
   <programme start="20260520220000 +0200" stop="20260521000000 +0200" channel="arenasport1.rs">
-    <title lang="sr">Livingston - Kilmarnock</title>
-    <category lang="sr">Škotska Liga</category>
+    <title lang="sr">Bournemouth - Manchester City</title>
+    <category lang="sr">Engleska Liga</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
@@ -18370,24 +18395,23 @@
     <category lang="sr">Košarka</category>
     <previously-shown/>
   </programme>
-  <programme start="20260519183000 +0200" stop="20260519190000 +0200" channel="arenasport5.rs">
-    <title lang="sr">Mi živimo za košarku ep. 36 - KK Blokovi, Novi Beograd, 1. deo</title>
-    <previously-shown/>
-  </programme>
-  <programme start="20260519190000 +0200" stop="20260519193000 +0200" channel="arenasport5.rs">
-    <title lang="sr">Mi živimo za košarku ep. 37 - KK Blokovi, Novi Beograd, 2. deo</title>
-    <previously-shown/>
-  </programme>
-  <programme start="20260519193000 +0200" stop="20260519213000 +0200" channel="arenasport5.rs">
-    <title lang="sr">Zadar, četvrtfinala</title>
-    <category lang="sr">Fiba 3x3 World Tour</category>
-    <category lang="sr">Basket 3x3</category>
-    <previously-shown/>
-  </programme>
-  <programme start="20260519213000 +0200" stop="20260519230000 +0200" channel="arenasport5.rs">
+  <programme start="20260519183000 +0200" stop="20260519200000 +0200" channel="arenasport5.rs">
     <title lang="sr">Zadar, polufinala i finale</title>
     <category lang="sr">Fiba 3x3 World Tour</category>
     <category lang="sr">Basket 3x3</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20260519200000 +0200" stop="20260519220000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Uživo: Laslo Đere - Juan Manuel Cerundolo</title>
+    <category lang="sr">Atp 250 Geneva</category>
+    <category lang="sr">Tenis</category>
+  </programme>
+  <programme start="20260519220000 +0200" stop="20260519223000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Mi živimo za košarku ep. 36 - KK Blokovi, Novi Beograd, 1. deo</title>
+    <previously-shown/>
+  </programme>
+  <programme start="20260519223000 +0200" stop="20260519230000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Mi živimo za košarku ep. 37 - KK Blokovi, Novi Beograd, 2. deo</title>
     <previously-shown/>
   </programme>
   <programme start="20260519230000 +0200" stop="20260520010000 +0200" channel="arenasport5.rs">
