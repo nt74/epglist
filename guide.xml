@@ -16449,27 +16449,26 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20260521220000 +0200" stop="20260522013000 +0200" channel="tnt.us">
-    <title lang="en">Dune: Part Two</title>
-    <desc lang="en">Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.</desc>
+  <programme start="20260521220000 +0200" stop="20260522010000 +0200" channel="tnt.us">
+    <title lang="en">Furiosa: A Mad Max Saga</title>
+    <desc lang="en">Young Furiosa gets caught in the crossfire of two tyrannical warlords. As the tyrants fight for dominance, Furiosa soon finds herself in a nonstop battle to make her way home.</desc>
     <credits>
-      <actor>Timothée Chalamet</actor>
-      <actor>Zendaya</actor>
-      <actor>Rebecca Ferguson</actor>
+      <actor>Anya Taylor-Joy</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Tom Burke</actor>
     </credits>
     <date>2024</date>
     <category lang="en">Movies</category>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20913466_p_v12_ae.jpg"/>
+    <category lang="en">Action</category>
     <previously-shown/>
     <rating system="MPAA">
-      <value>TVG</value>
+      <value>TV14</value>
     </rating>
     <star-rating system="MPAA">
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20260522013000 +0200" stop="20260522020000 +0200" channel="tnt.us">
+  <programme start="20260522010000 +0200" stop="20260522020000 +0200" channel="tnt.us">
     <title lang="en">Live: NHL on TNT Face Off</title>
     <desc lang="en">Wayne Gretzky, Liam McHugh, Anson Carter, and Paul Bissonnette present pregame coverage.</desc>
     <category lang="en">Sports</category>
@@ -16486,6 +16485,14 @@
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191278_b_v12_aa.jpg"/>
+  </programme>
+  <programme start="20260522050000 +0200" stop="20260522053000 +0200" channel="tnt.us">
+    <title lang="en">NHL Post-Game on TNT</title>
+    <desc lang="en">Liam McHugh, Anson Carter and Paul Bissonnette recap the night in the NHL.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25755238_b_v12_aa.jpg"/>
+    <previously-shown/>
   </programme>
   <programme start="20260520040000 +0000" stop="20260520060000 +0000" channel="sportklub1.rs">
     <title lang="sr">Sport Klub 1</title>
@@ -16632,11 +16639,18 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20260520100000 +0000" stop="20260520194500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP 500 Hamburg &amp; WTA 250 Rabat &amp; WTA 500 Strasbourg &amp; ATP 250 Geneva</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20260520160000 +0000" stop="20260520180000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 250 Geneva: Wawrinka - Michelsen</title>
+    <desc lang="sr">Ženeva je postala već tradicionalni turnir pred Rolan Garos. Ko će se pridružiti već veoma zvučnoj listi šampiona? (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20260520180000 +0000" stop="20260520194500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 250 Geneva: Butvilas - Bublik</title>
+    <desc lang="sr">Ženeva je postala već tradicionalni turnir pred Rolan Garos. Ko će se pridružiti već veoma zvučnoj listi šampiona? (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
     <premiere/>
   </programme>
   <programme start="20260520194500 +0000" stop="20260520201500 +0000" channel="sportklub2.rs">
@@ -16675,11 +16689,23 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/63a50754-311e-4540-b217-d7513fc7ea6f_stb_xl.jpg"/>
   </programme>
-  <programme start="20260521041500 +0000" stop="20260521073000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: ATP 500 Hamburg &amp; WTA 250 Rabat &amp; WTA 500 Strasbourg &amp; ATP 250 Geneva</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  <programme start="20260521041500 +0000" stop="20260521052000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 500 Hamburg: Humbert - Khachanov</title>
+    <desc lang="sr">Jedan od najprestižnijih turnira iz ATP 500 serije, takmičenje sa ogromnom istorijom. Ko će trijumfovati pored čuvenog "crvenog hrasta"?</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260521052000 +0000" stop="20260521062500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 500 Hamburg: Davidovich-Fokina - De Minaur</title>
+    <desc lang="sr">Jedan od najprestižnijih turnira iz ATP 500 serije, takmičenje sa ogromnom istorijom. Ko će trijumfovati pored čuvenog "crvenog hrasta"?</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260521062500 +0000" stop="20260521073000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Rabat: (Parovi) 1/4 Finale: Karamoko/Marčinko - Detiuc/Khromacheva</title>
+    <desc lang="sr">Sjajni rezultati Ons Žaber su povećali popularnost ženskog tenisa u severnoj Africi, a posle muškog turnira u Marakešu, sada se organizuje i ženski turnir u Rabatu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/2bcd0da3-8bc2-4414-8dd2-a05ff419b0fc_stb_xl.jpg"/>
   </programme>
   <programme start="20260521073000 +0000" stop="20260521090000 +0000" channel="sportklub2.rs">
     <title lang="sr">Košarka - Francuska liga: Play-In: Chalon - Nancy</title>
@@ -17238,15 +17264,12 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20260520150000 +0000" stop="20260520160000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 12 Promo</title>
+  <programme start="20260520150000 +0000" stop="20260520170000 +0000" channel="sportklub5.rs">
+    <title lang="sr">ATP 500 Hamburg: Andreozzi/Guinard - Atmane/Etcheverry (parovi)</title>
+    <desc lang="sr">Jedan od najprestižnijih turnira iz ATP 500 serije, takmičenje sa ogromnom istorijom. Ko će trijumfovati pored čuvenog "crvenog hrasta"? (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260520160000 +0000" stop="20260520170000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 12 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
+    <premiere/>
   </programme>
   <programme start="20260520170000 +0000" stop="20260520180000 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 12 Promo</title>
@@ -17725,13 +17748,17 @@
     <category lang="sr">Liga Šampiona</category>
     <category lang="sr">Vaterpolo</category>
   </programme>
-  <programme start="20260520220000 +0200" stop="20260521000000 +0200" channel="arenasport1.rs">
+  <programme start="20260520220000 +0200" stop="20260520223000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Emisija: Dobre Sportske Priče E34: Sport u školama Sokobanje</title>
+    <previously-shown/>
+  </programme>
+  <programme start="20260520223000 +0200" stop="20260521001500 +0200" channel="arenasport1.rs">
     <title lang="sr">Bournemouth - Manchester City</title>
     <category lang="sr">Engleska Liga</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
   </programme>
-  <programme start="20260521000000 +0200" stop="20260521020000 +0200" channel="arenasport1.rs">
+  <programme start="20260521001500 +0200" stop="20260521020000 +0200" channel="arenasport1.rs">
     <title lang="sr">Everton - Sunderland</title>
     <category lang="sr">Engleska Liga</category>
     <category lang="sr">Fudbal</category>
@@ -18208,7 +18235,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260520170000 +0200" stop="20260520173000 +0200" channel="arenasport4.rs">
-    <title lang="sr">UEL/UECL magazin ep. 20</title>
+    <title lang="sr">Liga Evrope, najava finala</title>
     <category lang="sr">Uefa Liga Evrope</category>
     <category lang="sr">Fudbal</category>
     <previously-shown/>
@@ -18624,7 +18651,7 @@
     <previously-shown/>
   </programme>
   <programme start="20260521160000 +0200" stop="20260521173000 +0200" channel="arenasport6.rs">
-    <title lang="sr">Finale G1</title>
+    <title lang="sr">Crvena zvezda - Naisa, finale G1</title>
     <category lang="sr">Superliga Srbije Ž</category>
     <category lang="sr">Rukomet</category>
     <previously-shown/>
