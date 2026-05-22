@@ -332,10 +332,6 @@
     <display-name lang="sr">Sport 7</display-name>
     <url>http://www.tvarenasport.com</url>
   </channel>
-  <channel id="RT">
-    <display-name lang="es">Russia Today</display-name>
-    <url>http://www.laguiatv.com</url>
-  </channel>
   <programme start="20260522030000 +0000" stop="20260522040000 +0000" channel="svt1.se">
     <title lang="sv">Antikrundan</title>
     <desc lang="sv">Fin konst och slitna plåtskyltar, variationen var stor när Antikrundan återigen besökte Höga kustens hjärta Härnösand.. Experterna värderade bland annat 1700-tals flaskor, Swedish Grace-skåp och plåtleksaker. Och ett gammalt skrin gjort i ben, är det värt något?</desc>
@@ -12681,7 +12677,7 @@
     <category lang="en">Softball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191266_b_v8_ab.jpg"/>
   </programme>
-  <programme start="20260524010000 +0200" stop="20260524030000 +0200" channel="espn.us">
+  <programme start="20260524010000 +0200" stop="20260524020000 +0200" channel="espn.us">
     <title lang="en">Live: College Softball</title>
     <sub-title lang="en">NCAA Tournament: Arizona State at Texas</sub-title>
     <desc lang="en">Super Regional, Game 2.</desc>
@@ -12689,9 +12685,9 @@
     <category lang="en">Softball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191266_b_v8_ab.jpg"/>
   </programme>
-  <programme start="20260524030000 +0200" stop="20260524050000 +0200" channel="espn.us">
+  <programme start="20260524020000 +0200" stop="20260524040000 +0200" channel="espn.us">
     <title lang="en">Live: College Softball</title>
-    <sub-title lang="en">NCAA Tournament: UCF at UCLA</sub-title>
+    <sub-title lang="en">NCAA Tournament: Arizona State at Texas</sub-title>
     <desc lang="en">Super Regional, Game 2.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Softball</category>
@@ -16372,8 +16368,8 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/01/24/c193e83c-b0fc-444e-8efe-0668186e08b1_stb_xl.jpg"/>
   </programme>
-  <programme start="20260522133000 +0000" stop="20260522171500 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP 500 Hamburg: 1/2 Finale</title>
+  <programme start="20260522153000 +0000" stop="20260522171500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 500 Hamburg: 1/2 Finale: De Minaur - Paul</title>
     <desc lang="sr">Jedan od najprestižnijih turnira iz ATP 500 serije, takmičenje sa ogromnom istorijom. Ko će trijumfovati pored čuvenog "crvenog hrasta"? (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
@@ -16439,11 +16435,23 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/d9d15823-5a79-417f-a354-90ff75ce99f2_xl.jpg"/>
   </programme>
-  <programme start="20260523041000 +0000" stop="20260523073000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis: WTA 250 Rabat &amp; WTA 500 Strasbourg &amp; ATP 250 Geneva - 1/2 Finala</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  <programme start="20260523041000 +0000" stop="20260523051500 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Rabat: 1/2 Finale: Udvardy - Kalinina</title>
+    <desc lang="sr">Sjajni rezultati Ons Žaber su povećali popularnost ženskog tenisa u severnoj Africi, a posle muškog turnira u Marakešu, sada se organizuje i ženski turnir u Rabatu.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/c1f8a30c-282a-4de9-bddf-776f94180fcb_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/2bcd0da3-8bc2-4414-8dd2-a05ff419b0fc_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260523051500 +0000" stop="20260523062000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP 250 Geneva: 1/2 Finale: Ruud - Navone</title>
+    <desc lang="sr">Ženeva je postala već tradicionalni turnir pred Rolan Garos. Ko će se pridružiti već veoma zvučnoj listi šampiona?</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/a53c2197-ec51-4f54-a1cc-28ec1f6f9e84_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260523062000 +0000" stop="20260523073000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 250 Rabat: 1/2 Finale: Teichmann - Marčinko</title>
+    <desc lang="sr">Sjajni rezultati Ons Žaber su povećali popularnost ženskog tenisa u severnoj Africi, a posle muškog turnira u Marakešu, sada se organizuje i ženski turnir u Rabatu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/2bcd0da3-8bc2-4414-8dd2-a05ff419b0fc_stb_xl.jpg"/>
   </programme>
   <programme start="20260523073000 +0000" stop="20260523093000 +0000" channel="sportklub2.rs">
     <title lang="sr">Fudbal - Turski kup: FINALE: Trabzon - Konya</title>
@@ -16804,20 +16812,12 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
   </programme>
-  <programme start="20260522140000 +0000" stop="20260522150000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Sport Klub 11 Promo</title>
+  <programme start="20260522143000 +0000" stop="20260522170000 +0000" channel="sportklub4.rs">
+    <title lang="sr">WTA 500 Strasbourg: 1/2 Finale: Mboko - Cristian</title>
+    <desc lang="sr">Prelepi Strazbur je redovan domaćin poslednjeg turnira pred Rolan Garos. Šljaka i uslovi su veoma slični onome što teniserke očekuje u Parizu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260522150000 +0000" stop="20260522160000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Sport Klub 11 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
-  </programme>
-  <programme start="20260522160000 +0000" stop="20260522170000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Sport Klub 11 Promo</title>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/28/ebf16e4a-fe8c-41c6-92a8-3a2aa9137e71_stb_xl.jpg"/>
+    <premiere/>
   </programme>
   <programme start="20260522170000 +0000" stop="20260522190000 +0000" channel="sportklub4.rs">
     <title lang="sr">Fudbal: Kup Azije U17: Finale: China - Japan</title>
@@ -17047,17 +17047,19 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/2bcd0da3-8bc2-4414-8dd2-a05ff419b0fc_stb_xl.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20260522160000 +0000" stop="20260522180000 +0000" channel="sportklub5.rs">
-    <title lang="sr">WTA 250 Rabat: (Parovi) FINALE</title>
+  <programme start="20260522160000 +0000" stop="20260522173000 +0000" channel="sportklub5.rs">
+    <title lang="sr">WTA 250 Rabat: Finale (parovi): Sutjiadi/Zvonareva - Chong/Kempen</title>
     <desc lang="sr">Sjajni rezultati Ons Žaber su povećali popularnost ženskog tenisa u severnoj Africi, a posle muškog turnira u Marakešu, sada se organizuje i ženski turnir u Rabatu. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/2bcd0da3-8bc2-4414-8dd2-a05ff419b0fc_stb_xl.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20260522180000 +0000" stop="20260522193000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 12 Promo</title>
+  <programme start="20260522173000 +0000" stop="20260522193000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Fudbal - Bugarska liga: Slavia - Montana (UKLJUČENJE)</title>
+    <desc lang="sr">Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/642a1d56-525b-4e0a-afb7-1d2121a0bd2e_xl.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/1f670022-0f35-4e64-aa6e-83127cc8f84f_stb_xl.jpg"/>
+    <premiere/>
   </programme>
   <programme start="20260522193000 +0000" stop="20260522200000 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 12 Promo</title>
