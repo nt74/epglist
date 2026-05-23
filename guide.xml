@@ -12819,13 +12819,19 @@
     <category lang="en">Softball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191266_b_v8_ab.jpg"/>
   </programme>
-  <programme start="20260524010000 +0200" stop="20260524020000 +0200" channel="espn.us">
-    <title lang="en">Live: College Softball</title>
-    <sub-title lang="en">NCAA Tournament: Arizona State at Texas</sub-title>
-    <desc lang="en">Super Regional, Game 2.</desc>
+  <programme start="20260524010000 +0200" stop="20260524013000 +0200" channel="espn.us">
+    <title lang="en">Live: NCAA Softball Super Regional Update</title>
     <category lang="en">Sports</category>
-    <category lang="en">Softball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191266_b_v8_ab.jpg"/>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33155942_st_v8_aa.jpg"/>
+  </programme>
+  <programme start="20260524013000 +0200" stop="20260524020000 +0200" channel="espn.us">
+    <title lang="en">NBA Tip-Off</title>
+    <desc lang="en">Ernie Johnson, Shaquille O'Neal, Charles Barkley and Kenny Smith readies viewers for NBA action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267533_b_v12_aa.jpg"/>
+    <previously-shown/>
   </programme>
   <programme start="20260524020000 +0200" stop="20260524040000 +0200" channel="espn.us">
     <title lang="en">Live: College Softball</title>
@@ -16577,6 +16583,13 @@
     <desc lang="sr">U ovoj emisiji, videćemo šta se dešava na serijama koje ne prenosi Sport Klub. I ovde ima kvalitetnih i ambicioznih vozača koji žele da se probiju u sam vrh.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/05/25/10f20b53-4883-4306-beab-b11c41e439b4_stb_xl.jpg"/>
+  </programme>
+  <programme start="20260524220000 +0000" stop="20260525024500 +0000" channel="sportklub2.rs">
+    <title lang="sr">NASCAR Cup Series: Charlotte 600</title>
+    <desc lang="sr">National Association for Stock Car Auto Racing ili skraćeno NASCAR je najpoznatija automobilska organizacija pod čijom ingerencijom i strogim pravilima se organiziraju auto utrke za tzv. "stock car". (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/04/17/5e8f0cc7_0486_4cec_9889_99bf8d797040_stb_xl.jpg"/>
+    <premiere/>
   </programme>
   <programme start="20260523004500 +0000" stop="20260523024000 +0000" channel="sportklub3.rs">
     <title lang="sr">Fudbal: Kup Azije U17: Finale: China - Japan</title>
