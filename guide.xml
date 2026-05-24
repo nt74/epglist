@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="ishow.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com" date="20260524092547 +0000">
+<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="ishow.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com" date="20260524103612 +0000">
   <channel id="espn.us">
     <display-name lang="en">ESPN</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
@@ -366,35 +366,50 @@
   <channel id="sportklubesports.rs">
     <display-name lang="en">SK Esports (SI/BIH)</display-name>
   </channel>
+  <channel id="arenapremium1.rs">
+    <display-name lang="en">Arena Premium 1</display-name>
+  </channel>
+  <channel id="arenapremium2.rs">
+    <display-name lang="en">Arena Premium 2</display-name>
+  </channel>
+  <channel id="arenapremium3.rs">
+    <display-name lang="en">Arena Premium 3</display-name>
+  </channel>
+  <channel id="arenapremium4.rs">
+    <display-name lang="en">Arena Premium 4</display-name>
+  </channel>
+  <channel id="arenapremium5.rs">
+    <display-name lang="en">Arena Premium 5</display-name>
+  </channel>
   <channel id="arenasport1.rs">
-    <display-name lang="en">Arena 1</display-name>
+    <display-name lang="en">Arena Sport 1</display-name>
   </channel>
   <channel id="arenasport2.rs">
-    <display-name lang="en">Arena 2</display-name>
+    <display-name lang="en">Arena Sport 2</display-name>
   </channel>
   <channel id="arenasport3.rs">
-    <display-name lang="en">Arena 3</display-name>
+    <display-name lang="en">Arena Sport 3</display-name>
   </channel>
   <channel id="arenasport4.rs">
-    <display-name lang="en">Arena 4</display-name>
+    <display-name lang="en">Arena Sport 4</display-name>
   </channel>
   <channel id="arenasport5.rs">
-    <display-name lang="en">Arena 5</display-name>
+    <display-name lang="en">Arena Sport 5</display-name>
   </channel>
   <channel id="arenasport6.rs">
-    <display-name lang="en">Arena 6</display-name>
+    <display-name lang="en">Arena Sport 6</display-name>
   </channel>
   <channel id="arenasport7.rs">
-    <display-name lang="en">Arena 7</display-name>
+    <display-name lang="en">Arena Sport 7</display-name>
   </channel>
   <channel id="arenasport8.rs">
-    <display-name lang="en">Arena 8</display-name>
+    <display-name lang="en">Arena Sport 8</display-name>
   </channel>
   <channel id="arenasport9.rs">
-    <display-name lang="en">Arena 9</display-name>
+    <display-name lang="en">Arena Sport 9</display-name>
   </channel>
   <channel id="arenasport10.rs">
-    <display-name lang="en">Arena 10</display-name>
+    <display-name lang="en">Arena Sport 10</display-name>
   </channel>
   <channel id="arenatenis.rs">
     <display-name lang="en">Arena Tenis</display-name>
@@ -23852,7 +23867,7 @@
     <desc lang="sr">Sa velikom pažnjom, pratimo i najbolje mlade vozače na dva točka. Nemojte se iznenaditi ako ovde prvi put upoznate novog Valentina Rosija ili Marka Markesa.</desc>
   </programme>
   <programme start="20260524170000 +0200" stop="20260524181500 +0200" channel="sportklub2.rs">
-    <title lang="sr">WTA 250 Rabat: FINALE</title>
+    <title lang="sr">WTA 250 Rabat: FINALE: Kalinina - Marčinko</title>
     <desc lang="sr">Sjajni rezultati Ons Žaber su povećali popularnost ženskog tenisa u severnoj Africi, a posle muškog turnira u Marakešu, sada se organizuje i ženski turnir u Rabatu.</desc>
   </programme>
   <programme start="20260524181500 +0200" stop="20260524202500 +0200" channel="sportklub2.rs">
@@ -23887,7 +23902,7 @@
     <title lang="sr">NBA on Fire</title>
   </programme>
   <programme start="20260525064000 +0200" stop="20260525081500 +0200" channel="sportklub2.rs">
-    <title lang="sr">Košarka - Euroleague Next Gen: FINALE</title>
+    <title lang="sr">Košarka - Euroleague Next Gen: FINALE: Real Madrid - Barcelona</title>
     <desc lang="sr">Međunarodno košarkaško takmičenje na kom učestvuju najuspešniji evropski klubovi u kategoriji igrača do 18 godina.</desc>
   </programme>
   <programme start="20260525081500 +0200" stop="20260525084000 +0200" channel="sportklub2.rs">
@@ -24121,25 +24136,25 @@
     <desc lang="sr">Koja škotska ekipa će podići najstariji fudbalski trofej na svetu? Pehar škotskog FA kupa je zlatnim slovima upisan u fudbalsku istoriju kao najstariji neizmenjeni trofej od svog prvog izdanja.</desc>
   </programme>
   <programme start="20260524140000 +0200" stop="20260524150000 +0200" channel="sportklub3.rs">
-    <title lang="sr">ERC Rally: Skandinavija: Rally of Scandinavia - TV etapa 1</title>
+    <title lang="sr">ERC Rally: Skandinavija: TV etapa 1</title>
   </programme>
   <programme start="20260524150000 +0200" stop="20260524151000 +0200" channel="sportklub3.rs">
     <title lang="sr">SK Momenti</title>
     <desc lang="sr">Suze, znoj i smeh, sve je to sastavni deo sporta. A najbolji sport je uvek bio i uvek će biti na najboljem klubu...</desc>
   </programme>
   <programme start="20260524151000 +0200" stop="20260524170000 +0200" channel="sportklub3.rs">
-    <title lang="sr">Košarka - NBA liga: Cleveland - New York</title>
+    <title lang="sr">Košarka - NBA liga: East FINALS (G3): Cleveland - New York</title>
     <desc lang="sr">NBA liga je najcenjenije svetsko košarkaško takmičenje u kojem 30 severnoameričkih ekipa svake jeseni kreće u lov na prsten namenjen NBA prvaku.</desc>
   </programme>
   <programme start="20260524170000 +0200" stop="20260524180000 +0200" channel="sportklub3.rs">
-    <title lang="sr">ERC Rally: Skandinavija: Rally of Scandinavia - TV etapa 2</title>
+    <title lang="sr">ERC Rally: Skandinavija: TV etapa 2</title>
   </programme>
   <programme start="20260524180000 +0200" stop="20260524201000 +0200" channel="sportklub3.rs">
     <title lang="sr">Fudbal - Turska 2. liga: Erok - Arca Corum</title>
     <desc lang="sr">Pratite 2. tursku fudbalsku ligu, takmičenje trećeg nivoa unutar ligaškog sistema.</desc>
   </programme>
   <programme start="20260524201000 +0200" stop="20260524211000 +0200" channel="sportklub3.rs">
-    <title lang="sr">Moto-trke - FIM Junior GP: Barcelona: Catalunya - Junior GP (2. TRKA)</title>
+    <title lang="sr">Moto-trke - FIM Junior GP: Barcelona: Junior GP (2. TRKA)</title>
     <desc lang="sr">Sa velikom pažnjom, pratimo i najbolje mlade vozače na dva točka. Nemojte se iznenaditi ako ovde prvi put upoznate novog Valentina Rosija ili Marka Markesa.</desc>
   </programme>
   <programme start="20260524211000 +0200" stop="20260524214500 +0200" channel="sportklub3.rs">
@@ -24159,11 +24174,11 @@
     <desc lang="sr">Mare Nostrum je plivačko takmičenje koje se održava u tri susreta godišnje širom Mediterana.</desc>
   </programme>
   <programme start="20260525032000 +0200" stop="20260525045000 +0200" channel="sportklub3.rs">
-    <title lang="sr">Košarka - Euroleague Next Gen: Finale</title>
+    <title lang="sr">Košarka - Euroleague Next Gen: FINALE: Real Madrid - Barcelona</title>
     <desc lang="sr">Međunarodno košarkaško takmičenje na kom učestvuju najuspešniji evropski klubovi u kategoriji igrača do 18 godina.</desc>
   </programme>
   <programme start="20260525045000 +0200" stop="20260525053500 +0200" channel="sportklub3.rs">
-    <title lang="sr">Auto trke: Porsche Carrera Cup Zandvoort: Zandvoort - 2. TRKA</title>
+    <title lang="sr">Auto trke: Porsche Carrera Cup Zandvoort: 2. TRKA</title>
   </programme>
   <programme start="20260525053500 +0200" stop="20260525065000 +0200" channel="sportklub3.rs">
     <title lang="sr">Auto-trke DTM: Zandvoort: Zandvoort - 2. TRKA</title>
@@ -24178,19 +24193,19 @@
     <desc lang="sr">Iz godine u godinu, Bundesliga je jača. Zna se da su Alba i Bajern uvek moćni, ali sada imaju i žestoku konkurenciju.</desc>
   </programme>
   <programme start="20260525093500 +0200" stop="20260525103000 +0200" channel="sportklub3.rs">
-    <title lang="sr">Socca: Euro Cup: 1/4 Finale 1</title>
+    <title lang="sr">Socca: Euro Cup: 1/4 Finale: Serbia - Albania</title>
     <desc lang="sr">Ovogodišnji Socca EuroCup održaće se od 8. do 12. maja 2024. godine u Kišinjevu, glavnom gradu Moldavije.</desc>
   </programme>
   <programme start="20260525103000 +0200" stop="20260525112500 +0200" channel="sportklub3.rs">
-    <title lang="sr">Socca: Euro Cup: 1/4 Finale 2</title>
+    <title lang="sr">Socca: Euro Cup: 1/4 Finale: Kazakhstan - Poland</title>
     <desc lang="sr">Ovogodišnji Socca EuroCup održaće se od 8. do 12. maja 2024. godine u Kišinjevu, glavnom gradu Moldavije.</desc>
   </programme>
   <programme start="20260525112500 +0200" stop="20260525122000 +0200" channel="sportklub3.rs">
-    <title lang="sr">Socca: Euro Cup: 1/4 Finale 3</title>
+    <title lang="sr">Socca: Euro Cup: 1/4 Finale: Hungary - Romania</title>
     <desc lang="sr">Ovogodišnji Socca EuroCup održaće se od 8. do 12. maja 2024. godine u Kišinjevu, glavnom gradu Moldavije.</desc>
   </programme>
   <programme start="20260525122000 +0200" stop="20260525132000 +0200" channel="sportklub3.rs">
-    <title lang="sr">Socca: Euro Cup: 1/4 Finale 4</title>
+    <title lang="sr">Socca: Euro Cup: 1/4 Finale: Spain - Ukraine</title>
     <desc lang="sr">Ovogodišnji Socca EuroCup održaće se od 8. do 12. maja 2024. godine u Kišinjevu, glavnom gradu Moldavije.</desc>
   </programme>
   <programme start="20260525132000 +0200" stop="20260525145500 +0200" channel="sportklub3.rs">
@@ -25024,11 +25039,11 @@
     <desc lang="sr">Priče o najvećim fudbalskim klubovima na svetu, o tome kako su postali veliki, broju trofeja i pobeda i kako nameravaju da ostanu u evropskom i svetskom vrhu.</desc>
   </programme>
   <programme start="20260524222500 +0200" stop="20260524232000 +0200" channel="sportklub6.rs">
-    <title lang="sr">Socca: Euro Cup: 1/2 Finale A</title>
+    <title lang="sr">Socca: Euro Cup: 1/2 Finale: Kazakhstan - Hungary</title>
     <desc lang="sr">Ovogodišnji Socca EuroCup održaće se od 8. do 12. maja 2024. godine u Kišinjevu, glavnom gradu Moldavije.</desc>
   </programme>
   <programme start="20260524232000 +0200" stop="20260525001500 +0200" channel="sportklub6.rs">
-    <title lang="sr">Socca: Euro Cup: 1/2 Finale B</title>
+    <title lang="sr">Socca: Euro Cup: 1/2 Finale: Serbia - Spain</title>
     <desc lang="sr">Ovogodišnji Socca EuroCup održaće se od 8. do 12. maja 2024. godine u Kišinjevu, glavnom gradu Moldavije.</desc>
   </programme>
   <programme start="20260525001500 +0200" stop="20260525021500 +0200" channel="sportklub6.rs">
@@ -25043,71 +25058,68 @@
     <title lang="sr">Fudbal - Nemačka liga: Wolfsburg - Paderborn</title>
     <desc lang="sr">Fudbalska Bundesliga najviši je rang takmičenje u Nemačkoj koja od 1963. godine i svog osnutka visokom kvalitetom igre oduševljava sve fudbalske poklonike širom sveta.</desc>
   </programme>
-  <programme start="20260525042500 +0200" stop="20260525050000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525042500 +0200" stop="20260525061000 +0200" channel="sportklub6.rs">
+    <title lang="sr">Fudbal - Bugarska liga: Spartak Varna - Lokomotiv Sofia</title>
+    <desc lang="sr">Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona.</desc>
   </programme>
-  <programme start="20260525050000 +0200" stop="20260525060000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525061000 +0200" stop="20260525075500 +0200" channel="sportklub6.rs">
+    <title lang="sr">Fudbal - Bugarska 2. liga: Yantra - Belasitsa</title>
+    <desc lang="sr">Pratite Drugu bugarsku ligu u kojoj se takmiči šesnaest klubova. Reč je o drugom nivou fudbalskog takmičenja u bugarskom ligaškom sistemu.</desc>
   </programme>
-  <programme start="20260525060000 +0200" stop="20260525070000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525075500 +0200" stop="20260525094000 +0200" channel="sportklub6.rs">
+    <title lang="sr">Fudbal - Slovenačka 1. liga: Radomlje - Mura</title>
+    <desc lang="sr">Prethodnih sezona gledali smo veoma zanimljiva prvenstva u Sloveniji i dobijali iznenađujuće ishode. Da li će tako biti i ove sezone?</desc>
   </programme>
-  <programme start="20260525070000 +0200" stop="20260525080000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525094000 +0200" stop="20260525112500 +0200" channel="sportklub6.rs">
+    <title lang="sr">Fudbal - Bugarska liga: Botev Vratsa - Beroe</title>
+    <desc lang="sr">Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona.</desc>
   </programme>
-  <programme start="20260525080000 +0200" stop="20260525090000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525112500 +0200" stop="20260525131000 +0200" channel="sportklub6.rs">
+    <title lang="sr">Fudbal - Nemačka liga: Wolfsburg - Paderborn</title>
+    <desc lang="sr">Fudbalska Bundesliga najviši je rang takmičenje u Nemačkoj koja od 1963. godine i svog osnutka visokom kvalitetom igre oduševljava sve fudbalske poklonike širom sveta.</desc>
   </programme>
-  <programme start="20260525090000 +0200" stop="20260525100000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525131000 +0200" stop="20260525133500 +0200" channel="sportklub6.rs">
+    <title lang="sr">Najbolji svih vremena</title>
+    <desc lang="sr">Moderno je da se sada u svim sportovima raspravlja o najboljem svih vremena, takozvanom "GOAT". Evo kandidata u svim disciplinama i argumenata zašto zaslužuju tu titulu...</desc>
   </programme>
-  <programme start="20260525100000 +0200" stop="20260525110000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525133500 +0200" stop="20260525153500 +0200" channel="sportklub6.rs">
+    <title lang="sr">Fudbal - Liga šampiona Azije (Ž): FINALE: Tokyo Beleza - Naegohyang</title>
   </programme>
-  <programme start="20260525110000 +0200" stop="20260525120000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525153500 +0200" stop="20260525170500 +0200" channel="sportklub6.rs">
+    <title lang="sr">Košarka - Španska liga: Granada - Tenerife</title>
+    <desc lang="sr">Španska košarkaška ACB liga osnovana je 1957. godine kao "Liga National". U ligi sudeluje 18 ekipa prema dvokružnom sistemu takmičenja.</desc>
   </programme>
-  <programme start="20260525120000 +0200" stop="20260525130000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525170500 +0200" stop="20260525173500 +0200" channel="sportklub6.rs">
+    <title lang="sr">Pregled saudijske lige</title>
+    <desc lang="sr">Donosimo pregled mečeva saudijske fudbalske lige, najbolji golovi, potezi i analize.</desc>
   </programme>
-  <programme start="20260525130000 +0200" stop="20260525140000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525173500 +0200" stop="20260525183000 +0200" channel="sportklub6.rs">
+    <title lang="sr">Maraton: Pariz - Pregled</title>
+    <desc lang="sr">Pariški maraton je jedan od najprestižnijih maratona na svetu, čiji počeci datiraju iz 1896. godine. Danas na ovom takmičenju učestvuje na desetine hiljada takmičara iz celog sveta.</desc>
   </programme>
-  <programme start="20260525140000 +0200" stop="20260525150000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260525150000 +0200" stop="20260525160000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260525160000 +0200" stop="20260525170000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260525170000 +0200" stop="20260525180000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260525180000 +0200" stop="20260525190000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260525190000 +0200" stop="20260525200000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525183000 +0200" stop="20260525200000 +0200" channel="sportklub6.rs">
+    <title lang="sr">Košarka - Slovenačka liga (M): Playoff - 1/2 Finale (G2): Šenčur - Olimpija</title>
+    <desc lang="sr">Olimpija je favorit u Sloveniji, ali plasmani njihove reprezentacije pokazuju da imaju veoma široku bazu igrača. Možda budemo svedoci nekog iznenađenja?</desc>
   </programme>
   <programme start="20260525200000 +0200" stop="20260525210000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+    <title lang="sr">Socca: Euro Cup: za 3. mjesto</title>
+    <desc lang="sr">Ovogodišnji Socca EuroCup održaće se od 8. do 12. maja 2024. godine u Kišinjevu, glavnom gradu Moldavije.</desc>
   </programme>
-  <programme start="20260525210000 +0200" stop="20260525220000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525210000 +0200" stop="20260525221500 +0200" channel="sportklub6.rs">
+    <title lang="sr">Socca: Euro Cup: FINALE</title>
+    <desc lang="sr">Ovogodišnji Socca EuroCup održaće se od 8. do 12. maja 2024. godine u Kišinjevu, glavnom gradu Moldavije.</desc>
   </programme>
-  <programme start="20260525220000 +0200" stop="20260525230000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525221500 +0200" stop="20260525224000 +0200" channel="sportklub6.rs">
+    <title lang="sr">Clubland</title>
+    <desc lang="sr">Priče o najvećim fudbalskim klubovima na svetu, o tome kako su postali veliki, broju trofeja i pobeda i kako nameravaju da ostanu u evropskom i svetskom vrhu.</desc>
   </programme>
-  <programme start="20260525230000 +0200" stop="20260526000000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525224000 +0200" stop="20260526011000 +0200" channel="sportklub6.rs">
+    <title lang="sr">Basket 3x3 Pro Tour: Trogir</title>
+    <desc lang="sr">Pratite Pro 3x3 Tour, seriju turnira u basketu 3x3. Ovaj košarkaški karavan održava se u više hrvatskih gradova i traje od sredine maja. Pobednička ekipa ide na završni turnir 26.-27. avgusta 2023....</desc>
   </programme>
-  <programme start="20260526000000 +0200" stop="20260526010000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260526010000 +0200" stop="20260526020000 +0200" channel="sportklub6.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260526011000 +0200" stop="20260526030000 +0200" channel="sportklub6.rs">
+    <title lang="sr">Fudbal - Nemačka liga: Playoff (2nd leg): Paderborn - Wolfsburg</title>
+    <desc lang="sr">Fudbalska Bundesliga najviši je rang takmičenje u Nemačkoj koja od 1963. godine i svog osnutka visokom kvalitetom igre oduševljava sve fudbalske poklonike širom sveta.</desc>
   </programme>
   <programme start="20260525001500 +0200" stop="20260525021500 +0200" channel="sportklub6.rs">
     <title lang="sr">Fudbal - Portugalski kup: Sporting - Torreense</title>
@@ -25679,15 +25691,15 @@
     <title lang="sr">Sport Klub 8 Promo</title>
     <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
   </programme>
-  <programme start="20260524120000 +0200" stop="20260524130000 +0200" channel="sportklub8.rs">
+  <programme start="20260524120000 +0200" stop="20260524121500 +0200" channel="sportklub8.rs">
     <title lang="sr">Sport Klub 8 Promo</title>
     <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
   </programme>
-  <programme start="20260524130000 +0200" stop="20260524140000 +0200" channel="sportklub8.rs">
-    <title lang="sr">Sport Klub 8 Promo</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+  <programme start="20260524121500 +0200" stop="20260524141500 +0200" channel="sportklub8.rs">
+    <title lang="sr">Fudbal - Holandska liga: Playoff - FINALE: Ajax - Utrecht</title>
+    <desc lang="sr">Očekuje se trka Ajaksa i PSV-a za titulu. Može li Fejenord da im se priključi ili će AZ Alkmar napasti iz senke?</desc>
   </programme>
-  <programme start="20260524140000 +0200" stop="20260524150000 +0200" channel="sportklub8.rs">
+  <programme start="20260524141500 +0200" stop="20260524150000 +0200" channel="sportklub8.rs">
     <title lang="sr">Sport Klub 8 Promo</title>
     <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
   </programme>
@@ -26816,11 +26828,11 @@
     <desc lang="sr">Premijer liga u fudbalu za žene igra se od 2011. godine. Pratite pregled nedavno završenog kola i saznajte ko je opravdao ulogu favorita, a ko je zahvaljujući odličnoj igri napravio veliko...</desc>
   </programme>
   <programme start="20260524110000 +0200" stop="20260524121500 +0200" channel="sportklub11.rs">
-    <title lang="sr">Socca: Euro Cup: 1/2 Finale A</title>
+    <title lang="sr">Socca: Euro Cup: 1/2 Finale: Kazakhstan - Hungary</title>
     <desc lang="sr">Ovogodišnji Socca EuroCup održaće se od 8. do 12. maja 2024. godine u Kišinjevu, glavnom gradu Moldavije.</desc>
   </programme>
   <programme start="20260524121500 +0200" stop="20260524133000 +0200" channel="sportklub11.rs">
-    <title lang="sr">Socca: Euro Cup: 1/2 Finale B</title>
+    <title lang="sr">Socca: Euro Cup: 1/2 Finale: Serbia - Spain</title>
     <desc lang="sr">Ovogodišnji Socca EuroCup održaće se od 8. do 12. maja 2024. godine u Kišinjevu, glavnom gradu Moldavije.</desc>
   </programme>
   <programme start="20260524133000 +0200" stop="20260524150000 +0200" channel="sportklub11.rs">
@@ -26836,94 +26848,87 @@
     <desc lang="sr">Iz godine u godinu, Bundesliga je jača. Zna se da su Alba i Bajern uvek moćni, ali sada imaju i žestoku konkurenciju.</desc>
   </programme>
   <programme start="20260524183000 +0200" stop="20260524200000 +0200" channel="sportklub11.rs">
-    <title lang="sr">Socca: Euro Cup: za 3. mjesto</title>
+    <title lang="sr">Socca: Euro Cup: za 3. mjesto: Kazakhstan/Hungary - Serbia/Spain</title>
     <desc lang="sr">Ovogodišnji Socca EuroCup održaće se od 8. do 12. maja 2024. godine u Kišinjevu, glavnom gradu Moldavije.</desc>
   </programme>
   <programme start="20260524200000 +0200" stop="20260524213000 +0200" channel="sportklub11.rs">
-    <title lang="sr">Socca: Euro Cup: FINALE</title>
+    <title lang="sr">Socca: Euro Cup: FINALE: Kazakhstan/Hungary - Serbia/Spain</title>
     <desc lang="sr">Ovogodišnji Socca EuroCup održaće se od 8. do 12. maja 2024. godine u Kišinjevu, glavnom gradu Moldavije.</desc>
   </programme>
   <programme start="20260524213000 +0200" stop="20260524231500 +0200" channel="sportklub11.rs">
-    <title lang="sr">ATP 250 Geneva: FINALE</title>
+    <title lang="sr">ATP 250 Geneva: FINALE: Navone - Tien</title>
     <desc lang="sr">Ženeva je postala već tradicionalni turnir pred Rolan Garos. Ko će se pridružiti već veoma zvučnoj listi šampiona?</desc>
   </programme>
   <programme start="20260524231500 +0200" stop="20260525010000 +0200" channel="sportklub11.rs">
-    <title lang="sr">WTA 500 Strasbourg: FINALE</title>
+    <title lang="sr">WTA 500 Strasbourg: FINALE: Mboko - Navarro</title>
     <desc lang="sr">Prelepi Strazbur je redovan domaćin poslednjeg turnira pred Rolan Garos. Šljaka i uslovi su veoma slični onome što teniserke očekuje u Parizu.</desc>
   </programme>
   <programme start="20260525010000 +0200" stop="20260525021500 +0200" channel="sportklub11.rs">
-    <title lang="sr">WTA 500 Strasbourg: (Parovi) FINALE</title>
+    <title lang="sr">WTA 500 Strasbourg: (parovi) FINALE: Dabrowski/Stefani - Eikeri/Gleason</title>
     <desc lang="sr">Prelepi Strazbur je redovan domaćin poslednjeg turnira pred Rolan Garos. Šljaka i uslovi su veoma slični onome što teniserke očekuje u Parizu.</desc>
   </programme>
   <programme start="20260525021500 +0200" stop="20260525040000 +0200" channel="sportklub11.rs">
-    <title lang="sr">WTA 250 Rabat: FINALE</title>
+    <title lang="sr">WTA 250 Rabat: FINALE: Kalinina - Marčinko</title>
     <desc lang="sr">Sjajni rezultati Ons Žaber su povećali popularnost ženskog tenisa u severnoj Africi, a posle muškog turnira u Marakešu, sada se organizuje i ženski turnir u Rabatu.</desc>
   </programme>
-  <programme start="20260525040000 +0200" stop="20260525050000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525040000 +0200" stop="20260525060000 +0200" channel="sportklub11.rs">
+    <title lang="sr">Fudbal: Azijska Liga šampiona (Ž): Finale: Tokyo Beleza - Naegohyang</title>
   </programme>
-  <programme start="20260525050000 +0200" stop="20260525060000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525060000 +0200" stop="20260525073000 +0200" channel="sportklub11.rs">
+    <title lang="sr">Košarka - Španska liga: Lleida - Andorra</title>
+    <desc lang="sr">Španska košarkaška ACB liga osnovana je 1957. godine kao "Liga National". U ligi sudeluje 18 ekipa prema dvokružnom sistemu takmičenja.</desc>
   </programme>
-  <programme start="20260525060000 +0200" stop="20260525070000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525073000 +0200" stop="20260525091500 +0200" channel="sportklub11.rs">
+    <title lang="sr">Fudbal - Bugarska liga: Spartak Varna - Lokomotiv Sofia</title>
+    <desc lang="sr">Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona.</desc>
   </programme>
-  <programme start="20260525070000 +0200" stop="20260525080000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525091500 +0200" stop="20260525110000 +0200" channel="sportklub11.rs">
+    <title lang="sr">Košarka - NBA liga: East FINALS (G3): Cleveland - New York</title>
+    <desc lang="sr">NBA liga je najcenjenije svetsko košarkaško takmičenje u kojem 30 severnoameričkih ekipa svake jeseni kreće u lov na prsten namenjen NBA prvaku.</desc>
   </programme>
-  <programme start="20260525080000 +0200" stop="20260525090000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525110000 +0200" stop="20260525130000 +0200" channel="sportklub11.rs">
+    <title lang="sr">Fudbal - Turski kup: FINALE: Trabzon - Konya</title>
+    <desc lang="sr">Turski kup je fudbalsko takmičenje 156 najboljih profesionalnih i amaterskih turskih ekipa koje svake sezone kreću u lov na laskavu titulu osvajača kupa.</desc>
   </programme>
-  <programme start="20260525090000 +0200" stop="20260525100000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525130000 +0200" stop="20260525145000 +0200" channel="sportklub11.rs">
+    <title lang="sr">Fudbal - Saudijska liga: Nassr - Damac</title>
+    <desc lang="sr">Pratite Saudijsku profesionalnu ligu, najvišu fudbalsku ligu u ligaškom sistemu Saudijske Arabije. Osnovana je 1976. godine kao prva profesionalna fudbalska liga Kraljevine Saudijske Arabije.</desc>
   </programme>
-  <programme start="20260525100000 +0200" stop="20260525110000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525145000 +0200" stop="20260525163500 +0200" channel="sportklub11.rs">
+    <title lang="sr">Fudbal - Bugarska liga: Septemvri - Dobrudzha</title>
+    <desc lang="sr">Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona.</desc>
   </programme>
-  <programme start="20260525110000 +0200" stop="20260525120000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525163500 +0200" stop="20260525164500 +0200" channel="sportklub11.rs">
+    <title lang="sr">SK Mix</title>
+    <desc lang="sr">Najbolji, najsmešniji, najčudniji, sve što ima veze sa superlativima videćete u ovom specijalnom kolažu. I verujte, neće vam biti dovoljno da ga odgledate samo jednom...</desc>
   </programme>
-  <programme start="20260525120000 +0200" stop="20260525130000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525164500 +0200" stop="20260525184500 +0200" channel="sportklub11.rs">
+    <title lang="sr">Fudbal - Bugarska liga: Cherno More - Arda</title>
+    <desc lang="sr">Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona.</desc>
   </programme>
-  <programme start="20260525130000 +0200" stop="20260525140000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525184500 +0200" stop="20260525191500 +0200" channel="sportklub11.rs">
+    <title lang="sr">Pregled saudijske lige</title>
+    <desc lang="sr">Donosimo pregled mečeva saudijske fudbalske lige, najbolji golovi, potezi i analize.</desc>
   </programme>
-  <programme start="20260525140000 +0200" stop="20260525150000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525191500 +0200" stop="20260525193000 +0200" channel="sportklub11.rs">
+    <title lang="sr">Zlatni golovi YU sporta</title>
+    <desc lang="sr">Mnogo je velikih momenata u istoriji jugoslovenskog fudbala, a mi smo izdvojili samo najbolje od najboljeg. Uvek je lepo setiti se tih lepih trenutaka.</desc>
   </programme>
-  <programme start="20260525150000 +0200" stop="20260525160000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525193000 +0200" stop="20260525213000 +0200" channel="sportklub11.rs">
+    <title lang="sr">Fudbal - Bugarska liga: Ludogorets - CSKA</title>
+    <desc lang="sr">Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona.</desc>
   </programme>
-  <programme start="20260525160000 +0200" stop="20260525170000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525213000 +0200" stop="20260525230000 +0200" channel="sportklub11.rs">
+    <title lang="sr">Košarka - Euroleague Next Gen: FINALE: Real Madrid - Barcelona</title>
+    <desc lang="sr">Međunarodno košarkaško takmičenje na kom učestvuju najuspešniji evropski klubovi u kategoriji igrača do 18 godina.</desc>
   </programme>
-  <programme start="20260525170000 +0200" stop="20260525180000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260525230000 +0200" stop="20260526003000 +0200" channel="sportklub11.rs">
+    <title lang="sr">Košarka - Nemačka liga: Playoffs - 1/4 Finale (G3): Trier - Bayern</title>
+    <desc lang="sr">Iz godine u godinu, Bundesliga je jača. Zna se da su Alba i Bajern uvek moćni, ali sada imaju i žestoku konkurenciju.</desc>
   </programme>
-  <programme start="20260525180000 +0200" stop="20260525190000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260525190000 +0200" stop="20260525200000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260525200000 +0200" stop="20260525210000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260525210000 +0200" stop="20260525220000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260525220000 +0200" stop="20260525230000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260525230000 +0200" stop="20260526000000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260526000000 +0200" stop="20260526010000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
-  </programme>
-  <programme start="20260526010000 +0200" stop="20260526020000 +0200" channel="sportklub11.rs">
-    <title lang="sr">No information</title>
+  <programme start="20260526003000 +0200" stop="20260526021500 +0200" channel="sportklub11.rs">
+    <title lang="sr">Fudbal - Bugarska liga: CSKA 1948 - Levski</title>
+    <desc lang="sr">Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona.</desc>
   </programme>
   <programme start="20260525010000 +0200" stop="20260525021500 +0200" channel="sportklub11.rs">
     <title lang="sr">WTA 500 Strasbourg: (Parovi) FINALE</title>
@@ -27816,672 +27821,1372 @@
   <programme start="20260527010000 +0200" stop="20260527020000 +0200" channel="sportklubesports.rs">
     <title lang="sr">No information</title>
   </programme>
-  <programme start="20260524024500 +0200" stop="20260524030000 +0200" channel="arenasport1.rs">
+  <programme start="20260524024500 +0200" stop="20260524030000 +0200" channel="arenapremium1.rs">
     <title lang="sr">NBA Daily</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524030000 +0200" stop="20260524053000 +0200" channel="arenasport1.rs">
+  <programme start="20260524030000 +0200" stop="20260524053000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Cleveland - New York, G3</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524053000 +0200" stop="20260524070000 +0200" channel="arenasport1.rs">
+  <programme start="20260524053000 +0200" stop="20260524070000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Partizan - Vojvodina, finale G1</title>
     <desc lang="sr">Rukomet</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524070000 +0200" stop="20260524080000 +0200" channel="arenasport1.rs">
+  <programme start="20260524070000 +0200" stop="20260524080000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Liga Evrope, pregled finala</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524080000 +0200" stop="20260524100000 +0200" channel="arenasport1.rs">
+  <programme start="20260524080000 +0200" stop="20260524100000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Partizan - Radnik</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524100000 +0200" stop="20260524130000 +0200" channel="arenasport1.rs">
+  <programme start="20260524100000 +0200" stop="20260524130000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Arenino Svetsko Prvenstvo</title>
     <desc lang="sr">Mali fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524130000 +0200" stop="20260524151500 +0200" channel="arenasport1.rs">
+  <programme start="20260524130000 +0200" stop="20260524151500 +0200" channel="arenapremium1.rs">
     <title lang="sr">Cleveland - New York, G3</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524151500 +0200" stop="20260524153000 +0200" channel="arenasport1.rs">
+  <programme start="20260524151500 +0200" stop="20260524153000 +0200" channel="arenapremium1.rs">
     <title lang="sr">NBA Daily</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524153000 +0200" stop="20260524160000 +0200" channel="arenasport1.rs">
+  <programme start="20260524153000 +0200" stop="20260524160000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Liga Koneferencija, najava finala</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524160000 +0200" stop="20260524170000 +0200" channel="arenasport1.rs">
+  <programme start="20260524160000 +0200" stop="20260524170000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Pregled 37. kola</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524170000 +0200" stop="20260524180000 +0200" channel="arenasport1.rs">
+  <programme start="20260524170000 +0200" stop="20260524180000 +0200" channel="arenapremium1.rs">
     <title lang="sr">PL Studio - Najava 38. kola</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenasport1.rs">
+  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Crystal Palace - Arsenal</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524200000 +0200" stop="20260524203000 +0200" channel="arenasport1.rs">
+  <programme start="20260524200000 +0200" stop="20260524203000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Najava 38. kola</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524203000 +0200" stop="20260524210000 +0200" channel="arenasport1.rs">
+  <programme start="20260524203000 +0200" stop="20260524210000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Evroliga: Studio</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524210000 +0200" stop="20260524230000 +0200" channel="arenasport1.rs">
+  <programme start="20260524210000 +0200" stop="20260524230000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Final 4: Finale</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524230000 +0200" stop="20260525000000 +0200" channel="arenasport1.rs">
+  <programme start="20260524230000 +0200" stop="20260525000000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Evroliga: Studio</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525000000 +0200" stop="20260525003000 +0200" channel="arenasport1.rs">
+  <programme start="20260525000000 +0200" stop="20260525003000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Liga Šampiona: Magazin ep. 34</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525003000 +0200" stop="20260525003000 +0200" channel="arenasport1.rs">
+  <programme start="20260525003000 +0200" stop="20260525003000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Corinthians - Atletico MG</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525023000 +0200" stop="20260525030000 +0200" channel="arenasport1.rs">
+  <programme start="20260525023000 +0200" stop="20260525030000 +0200" channel="arenapremium1.rs">
     <title lang="sr">NBA Action</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525030000 +0200" stop="20260525053000 +0200" channel="arenasport1.rs">
+  <programme start="20260525030000 +0200" stop="20260525053000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Vegas Golden Knights - Colorado Avalanche, G3</title>
     <desc lang="sr">Hokej</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525053000 +0200" stop="20260525070000 +0200" channel="arenasport1.rs">
+  <programme start="20260525053000 +0200" stop="20260525070000 +0200" channel="arenapremium1.rs">
     <title lang="sr">RNL - Magdeburg</title>
     <desc lang="sr">Rukomet</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525070000 +0200" stop="20260525090000 +0200" channel="arenasport1.rs">
+  <programme start="20260525070000 +0200" stop="20260525090000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Crystal Palace - Arsenal</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525090000 +0200" stop="20260525130000 +0200" channel="arenasport1.rs">
+  <programme start="20260525090000 +0200" stop="20260525130000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Valencia - Barcelona</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525130000 +0200" stop="20260525151500 +0200" channel="arenasport1.rs">
+  <programme start="20260525130000 +0200" stop="20260525151500 +0200" channel="arenapremium1.rs">
     <title lang="sr">San Antonio - Oklahoma, G4</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525151500 +0200" stop="20260525153000 +0200" channel="arenasport1.rs">
+  <programme start="20260525151500 +0200" stop="20260525153000 +0200" channel="arenapremium1.rs">
     <title lang="sr">NBA Daily</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525153000 +0200" stop="20260525183000 +0200" channel="arenasport1.rs">
+  <programme start="20260525153000 +0200" stop="20260525183000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Final 4: Finale</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525183000 +0200" stop="20260525190000 +0200" channel="arenasport1.rs">
+  <programme start="20260525183000 +0200" stop="20260525190000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Sve prolazi, Zvezda traje: Šeki tvist</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525190000 +0200" stop="20260525200000 +0200" channel="arenasport1.rs">
+  <programme start="20260525190000 +0200" stop="20260525200000 +0200" channel="arenapremium1.rs">
     <title lang="sr">PL Studio - Pregled 38. kola</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525200000 +0200" stop="20260525220000 +0200" channel="arenasport1.rs">
+  <programme start="20260525200000 +0200" stop="20260525220000 +0200" channel="arenapremium1.rs">
     <title lang="sr">Budućnost - Dubai, G2</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525220000 +0200" stop="20260525231500 +0200" channel="arenasport1.rs">
+  <programme start="20260525220000 +0200" stop="20260525231500 +0200" channel="arenapremium1.rs">
     <title lang="sr">Pregled 37. kola</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525231500 +0200" stop="20260525234500 +0200" channel="arenasport1.rs">
+  <programme start="20260525231500 +0200" stop="20260525234500 +0200" channel="arenapremium1.rs">
     <title lang="sr">Pregled 38. kola</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525234500 +0200" stop="20260526004500 +0200" channel="arenasport1.rs">
+  <programme start="20260525234500 +0200" stop="20260526004500 +0200" channel="arenapremium1.rs">
     <title lang="sr">Pregled 38. kola</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260526004500 +0200" stop="20260526004500 +0200" channel="arenasport1.rs">
+  <programme start="20260526004500 +0200" stop="20260526004500 +0200" channel="arenapremium1.rs">
     <title lang="sr">San Antonio - Oklahoma, G4</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524020000 +0200" stop="20260524043000 +0200" channel="arenasport2.rs">
+  <programme start="20260524020000 +0200" stop="20260524043000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Carolina Hurricanes - Montreal Canadiens, G2</title>
     <desc lang="sr">Hokej</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524043000 +0200" stop="20260524070000 +0200" channel="arenasport2.rs">
+  <programme start="20260524043000 +0200" stop="20260524070000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Valencia - Real Madrid, polufinale</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524070000 +0200" stop="20260524093000 +0200" channel="arenasport2.rs">
+  <programme start="20260524070000 +0200" stop="20260524093000 +0200" channel="arenapremium2.rs">
     <title lang="sr">San Antonio - Oklahoma, G3</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524093000 +0200" stop="20260524100000 +0200" channel="arenasport2.rs">
+  <programme start="20260524093000 +0200" stop="20260524100000 +0200" channel="arenapremium2.rs">
     <title lang="sr">NBA Action</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524100000 +0200" stop="20260524130000 +0200" channel="arenasport2.rs">
+  <programme start="20260524100000 +0200" stop="20260524130000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Šangaj, četvrtfinala</title>
     <desc lang="sr">Basket 3x3</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524130000 +0200" stop="20260524150000 +0200" channel="arenasport2.rs">
+  <programme start="20260524130000 +0200" stop="20260524150000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Šangaj, polufinala i finale</title>
     <desc lang="sr">Basket 3x3</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524150000 +0200" stop="20260524173000 +0200" channel="arenasport2.rs">
+  <programme start="20260524150000 +0200" stop="20260524173000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Bolton - Stockport, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524173000 +0200" stop="20260524180000 +0200" channel="arenasport2.rs">
+  <programme start="20260524173000 +0200" stop="20260524180000 +0200" channel="arenapremium2.rs">
     <title lang="sr">PL Stories - Leicester City 5000/1</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenasport2.rs">
+  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Manchester City - Aston Villa</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524200000 +0200" stop="20260524213000 +0200" channel="arenasport2.rs">
+  <programme start="20260524200000 +0200" stop="20260524213000 +0200" channel="arenapremium2.rs">
     <title lang="sr">RNL - Magdeburg</title>
     <desc lang="sr">Rukomet</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524213000 +0200" stop="20260524220000 +0200" channel="arenasport2.rs">
+  <programme start="20260524213000 +0200" stop="20260524220000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Liga Koneferencija, najava finala</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524220000 +0200" stop="20260525000000 +0200" channel="arenasport2.rs">
+  <programme start="20260524220000 +0200" stop="20260525000000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Villarreal - Atletico</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525000000 +0200" stop="20260525003000 +0200" channel="arenasport2.rs">
+  <programme start="20260525000000 +0200" stop="20260525003000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Plan igre</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525003000 +0200" stop="20260525003000 +0200" channel="arenasport2.rs">
+  <programme start="20260525003000 +0200" stop="20260525003000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Final 4: Finale</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525030000 +0200" stop="20260525050000 +0200" channel="arenasport2.rs">
+  <programme start="20260525030000 +0200" stop="20260525050000 +0200" channel="arenapremium2.rs">
     <title lang="sr">CSKA - Lokomotiv, G5</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525050000 +0200" stop="20260525070000 +0200" channel="arenasport2.rs">
+  <programme start="20260525050000 +0200" stop="20260525070000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Cleveland - New York, G3</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525070000 +0200" stop="20260525093000 +0200" channel="arenasport2.rs">
+  <programme start="20260525070000 +0200" stop="20260525093000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Final 4: Finale</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525093000 +0200" stop="20260525140000 +0200" channel="arenasport2.rs">
+  <programme start="20260525093000 +0200" stop="20260525140000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Finale</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525140000 +0200" stop="20260525153000 +0200" channel="arenasport2.rs">
+  <programme start="20260525140000 +0200" stop="20260525153000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Naisa - Crvena zvezda, finale G2</title>
     <desc lang="sr">Rukomet</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525153000 +0200" stop="20260525170000 +0200" channel="arenasport2.rs">
+  <programme start="20260525153000 +0200" stop="20260525170000 +0200" channel="arenapremium2.rs">
     <title lang="sr">RNL - Magdeburg</title>
     <desc lang="sr">Rukomet</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525170000 +0200" stop="20260525193000 +0200" channel="arenasport2.rs">
+  <programme start="20260525170000 +0200" stop="20260525193000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Notts County - Salford City, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525193000 +0200" stop="20260525213000 +0200" channel="arenasport2.rs">
+  <programme start="20260525193000 +0200" stop="20260525213000 +0200" channel="arenapremium2.rs">
     <title lang="sr">San Antonio - Oklahoma, G4</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525213000 +0200" stop="20260525233000 +0200" channel="arenasport2.rs">
+  <programme start="20260525213000 +0200" stop="20260525233000 +0200" channel="arenapremium2.rs">
     <title lang="sr">Paderborn - Wolfsburg, G2</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525233000 +0200" stop="20260526004500 +0200" channel="arenasport2.rs">
+  <programme start="20260525233000 +0200" stop="20260526004500 +0200" channel="arenapremium2.rs">
     <title lang="sr">Novi Beograd - Radnički</title>
     <desc lang="sr">Vaterpolo</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260526004500 +0200" stop="20260526004500 +0200" channel="arenasport2.rs">
+  <programme start="20260526004500 +0200" stop="20260526004500 +0200" channel="arenapremium2.rs">
     <title lang="sr">Final 4: Finale</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524010000 +0200" stop="20260524030000 +0200" channel="arenasport3.rs">
+  <programme start="20260524010000 +0200" stop="20260524030000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Mirassol - Fluminense</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524030000 +0200" stop="20260524050000 +0200" channel="arenasport3.rs">
+  <programme start="20260524030000 +0200" stop="20260524050000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Bayern - Stuttgart, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524050000 +0200" stop="20260524070000 +0200" channel="arenasport3.rs">
+  <programme start="20260524050000 +0200" stop="20260524070000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Vojvodina - Novi Pazar</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524070000 +0200" stop="20260524090000 +0200" channel="arenasport3.rs">
+  <programme start="20260524070000 +0200" stop="20260524090000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Celtic - Dunfermline, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524090000 +0200" stop="20260524091500 +0200" channel="arenasport3.rs">
+  <programme start="20260524090000 +0200" stop="20260524091500 +0200" channel="arenapremium3.rs">
     <title lang="sr">La Liga Moments ep. 37</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524091500 +0200" stop="20260524111500 +0200" channel="arenasport3.rs">
+  <programme start="20260524091500 +0200" stop="20260524111500 +0200" channel="arenapremium3.rs">
     <title lang="sr">Real Madrid - Athletic</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524111500 +0200" stop="20260524131500 +0200" channel="arenasport3.rs">
+  <programme start="20260524111500 +0200" stop="20260524131500 +0200" channel="arenapremium3.rs">
     <title lang="sr">Bologna - Inter</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524131500 +0200" stop="20260524153000 +0200" channel="arenasport3.rs">
+  <programme start="20260524131500 +0200" stop="20260524153000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Ajax - Utrecht</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524153000 +0200" stop="20260524160000 +0200" channel="arenasport3.rs">
+  <programme start="20260524153000 +0200" stop="20260524160000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Full Impact ep. 37</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524160000 +0200" stop="20260524180000 +0200" channel="arenasport3.rs">
+  <programme start="20260524160000 +0200" stop="20260524180000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Parma - Sassuolo</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenasport3.rs">
+  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenapremium3.rs">
     <title lang="sr">West Ham - Leeds</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524200000 +0200" stop="20260524203000 +0200" channel="arenasport3.rs">
+  <programme start="20260524200000 +0200" stop="20260524203000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Liga Šampiona: Magazin ep. 34</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524203000 +0200" stop="20260524213000 +0200" channel="arenasport3.rs">
+  <programme start="20260524203000 +0200" stop="20260524213000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Liga Evrope, pregled finala</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524213000 +0200" stop="20260525000000 +0200" channel="arenasport3.rs">
+  <programme start="20260524213000 +0200" stop="20260525000000 +0200" channel="arenapremium3.rs">
     <title lang="sr">River Plate - Belgrano, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525000000 +0200" stop="20260525000000 +0200" channel="arenasport3.rs">
+  <programme start="20260525000000 +0200" stop="20260525000000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Crystal Palace - Arsenal</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525020000 +0200" stop="20260525040000 +0200" channel="arenasport3.rs">
+  <programme start="20260525020000 +0200" stop="20260525040000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Manchester City - Aston Villa</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525040000 +0200" stop="20260525043000 +0200" channel="arenasport3.rs">
+  <programme start="20260525040000 +0200" stop="20260525043000 +0200" channel="arenapremium3.rs">
     <title lang="sr">PL Stories - Leicester City 5000/1</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525043000 +0200" stop="20260525063000 +0200" channel="arenasport3.rs">
+  <programme start="20260525043000 +0200" stop="20260525063000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Torino - Juventus</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525063000 +0200" stop="20260525073000 +0200" channel="arenasport3.rs">
+  <programme start="20260525063000 +0200" stop="20260525073000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Priče iz gradova: Dalas</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525073000 +0200" stop="20260525093000 +0200" channel="arenasport3.rs">
+  <programme start="20260525073000 +0200" stop="20260525093000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Bayern - Stuttgart, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525093000 +0200" stop="20260525120000 +0200" channel="arenasport3.rs">
+  <programme start="20260525093000 +0200" stop="20260525120000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Manchester City - Aston Villa</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525120000 +0200" stop="20260525140000 +0200" channel="arenasport3.rs">
+  <programme start="20260525120000 +0200" stop="20260525140000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Bologna - Inter</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525140000 +0200" stop="20260525172000 +0200" channel="arenasport3.rs">
+  <programme start="20260525140000 +0200" stop="20260525172000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Crvena zvezda - OFK Beograd</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525172000 +0200" stop="20260525200000 +0200" channel="arenasport3.rs">
+  <programme start="20260525172000 +0200" stop="20260525200000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Češka - Norveška</title>
     <desc lang="sr">Hokej</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525200000 +0200" stop="20260525210000 +0200" channel="arenasport3.rs">
+  <programme start="20260525200000 +0200" stop="20260525210000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Pregled 38. kola</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525210000 +0200" stop="20260526000000 +0200" channel="arenasport3.rs">
+  <programme start="20260525210000 +0200" stop="20260526000000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Novi Beograd - Radnički</title>
     <desc lang="sr">Vaterpolo</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260526000000 +0200" stop="20260526000000 +0200" channel="arenasport3.rs">
+  <programme start="20260526000000 +0200" stop="20260526000000 +0200" channel="arenapremium3.rs">
     <title lang="sr">Notts County - Salford City, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524020000 +0200" stop="20260524040000 +0200" channel="arenasport4.rs">
+  <programme start="20260524020000 +0200" stop="20260524040000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Trier - Bayern, G3</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524040000 +0200" stop="20260524070000 +0200" channel="arenasport4.rs">
+  <programme start="20260524040000 +0200" stop="20260524070000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Emisija: Mobil Auto ep. 20</title>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524070000 +0200" stop="20260524090000 +0200" channel="arenasport4.rs">
+  <programme start="20260524070000 +0200" stop="20260524090000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Strasbourg - Chalon</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524090000 +0200" stop="20260524110000 +0200" channel="arenasport4.rs">
+  <programme start="20260524090000 +0200" stop="20260524110000 +0200" channel="arenapremium4.rs">
     <title lang="sr">CSKA - Lokomotiv, G5</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524110000 +0200" stop="20260524113000 +0200" channel="arenasport4.rs">
+  <programme start="20260524110000 +0200" stop="20260524113000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Priča o svemu (pa i o sportu) ep. 19</title>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524113000 +0200" stop="20260524134500 +0200" channel="arenasport4.rs">
+  <programme start="20260524113000 +0200" stop="20260524134500 +0200" channel="arenapremium4.rs">
     <title lang="sr">Olympiacos - Fenerbahce, polufinale</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524134500 +0200" stop="20260524160000 +0200" channel="arenasport4.rs">
+  <programme start="20260524134500 +0200" stop="20260524160000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Valencia - Real Madrid, polufinale</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524160000 +0200" stop="20260524180000 +0200" channel="arenasport4.rs">
+  <programme start="20260524160000 +0200" stop="20260524180000 +0200" channel="arenapremium4.rs">
     <title lang="sr">RNL - Magdeburg</title>
     <desc lang="sr">Rukomet</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenasport4.rs">
+  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Tottenham - Everton</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524200000 +0200" stop="20260524203000 +0200" channel="arenasport4.rs">
+  <programme start="20260524200000 +0200" stop="20260524203000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Oni vole Srbiju - Žofri Lovernj, drugi deo</title>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524203000 +0200" stop="20260524223000 +0200" channel="arenasport4.rs">
+  <programme start="20260524203000 +0200" stop="20260524223000 +0200" channel="arenapremium4.rs">
     <title lang="sr">IMT - TSC</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524223000 +0200" stop="20260525003000 +0200" channel="arenasport4.rs">
+  <programme start="20260524223000 +0200" stop="20260525003000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Cleveland - New York, G3</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525003000 +0200" stop="20260525003000 +0200" channel="arenasport4.rs">
+  <programme start="20260525003000 +0200" stop="20260525003000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Teme do Arene - Radomir Koković</title>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525010000 +0200" stop="20260525030000 +0200" channel="arenasport4.rs">
+  <programme start="20260525010000 +0200" stop="20260525030000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Šangaj, četvrtfinala</title>
     <desc lang="sr">Basket 3x3</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525030000 +0200" stop="20260525043000 +0200" channel="arenasport4.rs">
+  <programme start="20260525030000 +0200" stop="20260525043000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Šangaj, polufinala i finale</title>
     <desc lang="sr">Basket 3x3</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525043000 +0200" stop="20260525063000 +0200" channel="arenasport4.rs">
+  <programme start="20260525043000 +0200" stop="20260525063000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Crvena zvezda - Partizan, G2</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525063000 +0200" stop="20260525080000 +0200" channel="arenasport4.rs">
+  <programme start="20260525063000 +0200" stop="20260525080000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Košarkaška pravila - Aleksa Avramović</title>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525080000 +0200" stop="20260525093000 +0200" channel="arenasport4.rs">
+  <programme start="20260525080000 +0200" stop="20260525093000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Naisa - Crvena zvezda, finale G2</title>
     <desc lang="sr">Rukomet</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525093000 +0200" stop="20260525110000 +0200" channel="arenasport4.rs">
+  <programme start="20260525093000 +0200" stop="20260525110000 +0200" channel="arenapremium4.rs">
     <title lang="sr">RNL - Magdeburg</title>
     <desc lang="sr">Rukomet</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525110000 +0200" stop="20260525130000 +0200" channel="arenasport4.rs">
+  <programme start="20260525110000 +0200" stop="20260525130000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Tatabanya - Ohrid, finale</title>
     <desc lang="sr">Rukomet</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525130000 +0200" stop="20260525150000 +0200" channel="arenasport4.rs">
+  <programme start="20260525130000 +0200" stop="20260525150000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Četvrtfinale 3 G4*</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525150000 +0200" stop="20260525173000 +0200" channel="arenasport4.rs">
+  <programme start="20260525150000 +0200" stop="20260525173000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Četvrtfinale 4 G4*</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525173000 +0200" stop="20260525200000 +0200" channel="arenasport4.rs">
+  <programme start="20260525173000 +0200" stop="20260525200000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Ulm - Bamberg, G4</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525200000 +0200" stop="20260525220000 +0200" channel="arenasport4.rs">
+  <programme start="20260525200000 +0200" stop="20260525220000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Nanterre - Le Mans, G1</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525220000 +0200" stop="20260526000000 +0200" channel="arenasport4.rs">
+  <programme start="20260525220000 +0200" stop="20260526000000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Monaco - Bourg, G1</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260526000000 +0200" stop="20260526000000 +0200" channel="arenasport4.rs">
+  <programme start="20260526000000 +0200" stop="20260526000000 +0200" channel="arenapremium4.rs">
     <title lang="sr">Budućnost - Dubai, G2</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524020000 +0200" stop="20260524040000 +0200" channel="arenasport5.rs">
+  <programme start="20260524020000 +0200" stop="20260524040000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Valencia - Barcelona</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524040000 +0200" stop="20260524063000 +0200" channel="arenasport5.rs">
+  <programme start="20260524040000 +0200" stop="20260524063000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Hull - Middlesbrough, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524063000 +0200" stop="20260524070000 +0200" channel="arenasport5.rs">
+  <programme start="20260524063000 +0200" stop="20260524070000 +0200" channel="arenapremium5.rs">
     <title lang="sr">PL Stories - Leicester City 5000/1</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524070000 +0200" stop="20260524090000 +0200" channel="arenasport5.rs">
+  <programme start="20260524070000 +0200" stop="20260524090000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Espanyol - Real Sociedad</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524090000 +0200" stop="20260524110000 +0200" channel="arenasport5.rs">
+  <programme start="20260524090000 +0200" stop="20260524110000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Lazio - Pisa</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524110000 +0200" stop="20260524130000 +0200" channel="arenasport5.rs">
+  <programme start="20260524110000 +0200" stop="20260524130000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Vojvodina - Novi Pazar</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524130000 +0200" stop="20260524150000 +0200" channel="arenasport5.rs">
+  <programme start="20260524130000 +0200" stop="20260524150000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Bayern - Stuttgart, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524150000 +0200" stop="20260524170000 +0200" channel="arenasport5.rs">
+  <programme start="20260524150000 +0200" stop="20260524170000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Indonezija: Bali</title>
     <desc lang="sr">Skokovi u vodu</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524170000 +0200" stop="20260524180000 +0200" channel="arenasport5.rs">
+  <programme start="20260524170000 +0200" stop="20260524180000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Liga Evrope, pregled finala</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenasport5.rs">
+  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Liverpool - Brentford</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524200000 +0200" stop="20260524203000 +0200" channel="arenasport5.rs">
+  <programme start="20260524200000 +0200" stop="20260524203000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Legends Interview - Robert Fauler</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260524203000 +0200" stop="20260524223000 +0200" channel="arenasport5.rs">
+  <programme start="20260524203000 +0200" stop="20260524223000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Radnički 1923 - Javor</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260524223000 +0200" stop="20260525003000 +0200" channel="arenasport5.rs">
+  <programme start="20260524223000 +0200" stop="20260525003000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Crvena zvezda - OFK Beograd</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525003000 +0200" stop="20260525003000 +0200" channel="arenasport5.rs">
+  <programme start="20260525003000 +0200" stop="20260525003000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Emisija: Mobil Auto ep. 20</title>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525010000 +0200" stop="20260525043000 +0200" channel="arenasport5.rs">
+  <programme start="20260525010000 +0200" stop="20260525043000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Charlotte</title>
     <desc lang="sr">Moto Sport</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260525043000 +0200" stop="20260525070000 +0200" channel="arenasport5.rs">
+  <programme start="20260525043000 +0200" stop="20260525070000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Bolton - Stockport, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525070000 +0200" stop="20260525090000 +0200" channel="arenasport5.rs">
+  <programme start="20260525070000 +0200" stop="20260525090000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Napoli - Udinese</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525090000 +0200" stop="20260525113000 +0200" channel="arenasport5.rs">
+  <programme start="20260525090000 +0200" stop="20260525113000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Hull - Middlesbrough, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525113000 +0200" stop="20260525133000 +0200" channel="arenasport5.rs">
+  <programme start="20260525113000 +0200" stop="20260525133000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Bolton - Stockport, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525133000 +0200" stop="20260525153000 +0200" channel="arenasport5.rs">
+  <programme start="20260525133000 +0200" stop="20260525153000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Celtic - Dunfermline, finale</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525153000 +0200" stop="20260525190000 +0200" channel="arenasport5.rs">
+  <programme start="20260525153000 +0200" stop="20260525190000 +0200" channel="arenapremium5.rs">
     <title lang="sr">West Ham - Leeds</title>
     <desc lang="sr">Fudbal</desc>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525190000 +0200" stop="20260525193000 +0200" channel="arenasport5.rs">
+  <programme start="20260525190000 +0200" stop="20260525193000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Košarkaška pravila - Sonja Vasić</title>
     <category lang="sr">Snimak</category>
   </programme>
-  <programme start="20260525193000 +0200" stop="20260526000000 +0200" channel="arenasport5.rs">
+  <programme start="20260525193000 +0200" stop="20260526000000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Zenit - UNICS, G6</title>
     <desc lang="sr">Košarka</desc>
     <category lang="sr">Uzivo</category>
   </programme>
-  <programme start="20260526000000 +0200" stop="20260526000000 +0200" channel="arenasport5.rs">
+  <programme start="20260526000000 +0200" stop="20260526000000 +0200" channel="arenapremium5.rs">
     <title lang="sr">Milan - Cagliari</title>
     <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524020000 +0200" stop="20260524023000 +0200" channel="arenasport1.rs">
+    <title lang="sr">The Big Interview - Amad Diallo</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524023000 +0200" stop="20260524030000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Fudbalsko lice nacije: Tbilisi</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524030000 +0200" stop="20260524050000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Bournemouth - Manchester City</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524050000 +0200" stop="20260524070000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Arsenal - Burnley</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524070000 +0200" stop="20260524090000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Wolverhampton - Fulham</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524090000 +0200" stop="20260524110000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Brentford - Crystal Palace</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524110000 +0200" stop="20260524120000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Pregled 37. kola</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524120000 +0200" stop="20260524140000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Hull - Middlesbrough, finale</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524140000 +0200" stop="20260524160000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Chelsea - Tottenham</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524160000 +0200" stop="20260524180000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Manchester United - Nottingham Forest</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Brighton - Manchester United</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260524200000 +0200" stop="20260524203000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Fudbal: Klasici Premijer Lige: Brighton - Man. UTD, 2017/18</title>
+  </programme>
+  <programme start="20260524203000 +0200" stop="20260524223000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Radnički Niš - Spartak</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260524223000 +0200" stop="20260525003000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Burnley - Wolverhampton</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525003000 +0200" stop="20260525003000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Emisija: Zona zdravog sporta ep. 100</title>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525010000 +0200" stop="20260525030000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Bolton - Stockport, finale</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525030000 +0200" stop="20260525050000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Fulham - Newcastle</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525050000 +0200" stop="20260525070000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Nottingham Forest - Bournemouth</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525070000 +0200" stop="20260525090000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Celtic - Dunfermline, finale</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525090000 +0200" stop="20260525110000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Sunderland - Chelsea</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525110000 +0200" stop="20260525113000 +0200" channel="arenasport1.rs">
+    <title lang="sr">PL Stories - Leicester City 5000/1</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525113000 +0200" stop="20260525133000 +0200" channel="arenasport1.rs">
+    <title lang="sr">West Ham - Leeds</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525133000 +0200" stop="20260525153000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Hull - Middlesbrough, finale</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525153000 +0200" stop="20260525160000 +0200" channel="arenasport1.rs">
+    <title lang="sr">The Big Interview - Amad Diallo</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525160000 +0200" stop="20260525180000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Crystal Palace - Arsenal</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525180000 +0200" stop="20260525203000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Rapid - Ried</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260525203000 +0200" stop="20260525230000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Notts County - Salford City, finale</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525230000 +0200" stop="20260525230000 +0200" channel="arenasport1.rs">
+    <title lang="sr">Brighton - Manchester United</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524020000 +0200" stop="20260524040000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Fiorentina - Atalanta</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524040000 +0200" stop="20260524044500 +0200" channel="arenasport2.rs">
+    <title lang="sr">SPORT BROTHERS LEAGUE S03E06</title>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524044500 +0200" stop="20260524064500 +0200" channel="arenasport2.rs">
+    <title lang="sr">Mallorca - Oviedo</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524064500 +0200" stop="20260524070000 +0200" channel="arenasport2.rs">
+    <title lang="sr">La Liga Moments ep. 37</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524070000 +0200" stop="20260524090000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Roma - Lazio</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524090000 +0200" stop="20260524093000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Full Impact ep. 37</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524093000 +0200" stop="20260524113000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Sudtirol - Bari, G2</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524113000 +0200" stop="20260524133000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Celta - Sevilla</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524133000 +0200" stop="20260524153000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Fiorentina - Atalanta</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524153000 +0200" stop="20260524160000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Pregled 37. kola</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524160000 +0200" stop="20260524180000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Betis - Levante</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Sunderland - Chelsea</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260524200000 +0200" stop="20260524203000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Buduće zvezde Arene - OKK Sokobanja</title>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524203000 +0200" stop="20260524223000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Mladost - Napredak</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260524223000 +0200" stop="20260525003000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Malaga - Racing</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525003000 +0200" stop="20260525003000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Bologna - Inter</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525023000 +0200" stop="20260525043000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Lazio - Pisa</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525043000 +0200" stop="20260525063000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Real Madrid - Athletic</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525063000 +0200" stop="20260525070000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Priča o svemu (pa i o sportu) ep. 19</title>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525070000 +0200" stop="20260525090000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Girona - Elche</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525090000 +0200" stop="20260525110000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Parma - Sassuolo</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525110000 +0200" stop="20260525130000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Sudtirol - Bari, G2</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525130000 +0200" stop="20260525150000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Mallorca - Oviedo</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525150000 +0200" stop="20260525170000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Valencia - Barcelona</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525170000 +0200" stop="20260525190000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Fiorentina - Atalanta</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525190000 +0200" stop="20260525193000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Fudbalsko lice nacije: Tbilisi</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525193000 +0200" stop="20260525213000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Trier - Bayern, G4</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260525213000 +0200" stop="20260525220000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Priča o svemu (pa i o sportu) ep. 19</title>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525220000 +0200" stop="20260526000000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Bologna - Inter</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260526000000 +0200" stop="20260526000000 +0200" channel="arenasport2.rs">
+    <title lang="sr">Espanyol - Real Sociedad</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524020000 +0200" stop="20260524040000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Utrecht - Heerenveen</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524040000 +0200" stop="20260524050000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Pregled 34. kola</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524050000 +0200" stop="20260524070000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Heidenheim - Mainz</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524070000 +0200" stop="20260524090000 +0200" channel="arenasport3.rs">
+    <title lang="sr">St. Pauli - Wolfsburg</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524090000 +0200" stop="20260524100000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Pregled 34. kola</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524100000 +0200" stop="20260524120000 +0200" channel="arenasport3.rs">
+    <title lang="sr">B. Monchengladbach - Hoffenheim</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524120000 +0200" stop="20260524140000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Utrecht - Heerenveen</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524140000 +0200" stop="20260524160000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Ajax - Groningen</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524160000 +0200" stop="20260524180000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Bayern - Stuttgart, finale</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Nottingham Forest - Bournemouth</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260524200000 +0200" stop="20260524203000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Bundesliga specijal</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524203000 +0200" stop="20260524210000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Classic specijal: PSG Jerseys</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524210000 +0200" stop="20260524214500 +0200" channel="arenasport3.rs">
+    <title lang="sr">SPORT BROTHERS LEAGUE S03E06</title>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524214500 +0200" stop="20260525000000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Torino - Juventus</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260525000000 +0200" stop="20260525000000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Pregled 34. kola</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525010000 +0200" stop="20260525030000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Ajax - Utrecht</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525030000 +0200" stop="20260525050000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Sporting - Torreense, finale</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525050000 +0200" stop="20260525070000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Bayer Leverkusen - HSV</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525070000 +0200" stop="20260525090000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Basel - St.Gallen</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525090000 +0200" stop="20260525100000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Pregled 34. kola</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525100000 +0200" stop="20260525120000 +0200" channel="arenasport3.rs">
+    <title lang="sr">PSV - Twente</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525120000 +0200" stop="20260525140000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Darmstadt - Paderborn</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525140000 +0200" stop="20260525160000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Heidenheim - Mainz</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525160000 +0200" stop="20260525180000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Paris - PSG</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525180000 +0200" stop="20260525200000 +0200" channel="arenasport3.rs">
+    <title lang="sr">St. Pauli - Wolfsburg</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525200000 +0200" stop="20260525210000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Pregled 34. kola</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525210000 +0200" stop="20260525212000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Sport bez granica S01E20: Paraplivanje</title>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525212000 +0200" stop="20260526000000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Slovenija - Italija</title>
+    <desc lang="sr">Hokej</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260526000000 +0200" stop="20260526000000 +0200" channel="arenasport3.rs">
+    <title lang="sr">Wolfsburg - Paderborn, G1</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524010000 +0200" stop="20260524030000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Celta - Lyon</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524030000 +0200" stop="20260524050000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Celje - AEK</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524050000 +0200" stop="20260524070000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Brann - Midtjylland</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524070000 +0200" stop="20260524090000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Celtic - Sturm</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524090000 +0200" stop="20260524110000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Real Madrid - Marseille</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524110000 +0200" stop="20260524130000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Dynamo Kyiv - Crystal Palace</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524130000 +0200" stop="20260524133000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Emisija: Zona zdravog sporta - Planinarsko društvo Oštra Čuka Sokobanja</title>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524133000 +0200" stop="20260524140000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Fudbalsko lice nacije: Tbilisi</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524140000 +0200" stop="20260524160000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Aston Villa - Young Boys</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524160000 +0200" stop="20260524180000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Porto - Nottingham Forest</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524180000 +0200" stop="20260524190000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Pregled plejofa 2</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524190000 +0200" stop="20260524210000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Napoli - Udinese</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260524210000 +0200" stop="20260524214500 +0200" channel="arenasport4.rs">
+    <title lang="sr">Liga Šampiona: Magazin ep. 34</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524214500 +0200" stop="20260525000000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Milan - Cagliari</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260525000000 +0200" stop="20260525000000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Liga Evrope, pregled finala</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525010000 +0200" stop="20260525030000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Tottenham - Atletico</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525030000 +0200" stop="20260525050000 +0200" channel="arenasport4.rs">
+    <title lang="sr">AEK - Aberdeen</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525050000 +0200" stop="20260525070000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Zrinjski - Lincoln</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525070000 +0200" stop="20260525090000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Aston Villa - Bologna</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525090000 +0200" stop="20260525110000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Celta - PAOK</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525110000 +0200" stop="20260525130000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Bayern - Chelsea</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525130000 +0200" stop="20260525134500 +0200" channel="arenasport4.rs">
+    <title lang="sr">Liga Šampiona: Pregled dana 17.02.</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525134500 +0200" stop="20260525163000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Juventus - Galatasaray</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525163000 +0200" stop="20260525183000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Lille - Crvena zvezda</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525183000 +0200" stop="20260525203000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Noah - AZ Alkmaar</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525203000 +0200" stop="20260525210000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Fudbalsko lice nacije: Tbilisi</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525210000 +0200" stop="20260525230000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Jagiellonia - Fiorentina</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525230000 +0200" stop="20260525230000 +0200" channel="arenasport4.rs">
+    <title lang="sr">Monaco - PSG</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524020000 +0200" stop="20260524053000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Šangaj, grupna faza</title>
+    <desc lang="sr">Basket 3x3</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524053000 +0200" stop="20260524070000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Emisija: Sa Draganom Jakovljevićem ep. 36</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524070000 +0200" stop="20260524071500 +0200" channel="arenasport5.rs">
+    <title lang="sr">Pregled 32. kola</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524071500 +0200" stop="20260524093000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Olympiacos - Fenerbahce, polufinale</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524093000 +0200" stop="20260524113000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Valencia - Real Madrid, polufinale</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524113000 +0200" stop="20260524133000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Trentino - Virtus Bologna, G3</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524133000 +0200" stop="20260524153000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Trieste - Brescia, G4</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524153000 +0200" stop="20260524160000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Pregled četvrtfinala 3</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524160000 +0200" stop="20260524180000 +0200" channel="arenasport5.rs">
+    <title lang="sr">CSKA - Lokomotiv, G5</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260524180000 +0200" stop="20260524200000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Tatabanya - Ohrid, finale</title>
+    <desc lang="sr">Rukomet</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260524200000 +0200" stop="20260524214500 +0200" channel="arenasport5.rs">
+    <title lang="sr">Guardes - Mihalovce, finale G2</title>
+    <desc lang="sr">Rukomet</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260524214500 +0200" stop="20260524234500 +0200" channel="arenasport5.rs">
+    <title lang="sr">Verona - Roma</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260524234500 +0200" stop="20260524234500 +0200" channel="arenasport5.rs">
+    <title lang="sr">Finale</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525020000 +0200" stop="20260525034500 +0200" channel="arenasport5.rs">
+    <title lang="sr">Trier - Bayern, G3</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525034500 +0200" stop="20260525053000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Ulm - Bamberg, G3</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525053000 +0200" stop="20260525070000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Utsunomiya, polufinala i finale</title>
+    <desc lang="sr">Basket 3x3</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525070000 +0200" stop="20260525090000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Finale</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525090000 +0200" stop="20260525110000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Valencia - Real Madrid, polufinale</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525110000 +0200" stop="20260525130000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Trieste - Brescia, G4</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525130000 +0200" stop="20260525150000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Strasbourg - Chalon</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525150000 +0200" stop="20260525170000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Šangaj, četvrtfinala</title>
+    <desc lang="sr">Basket 3x3</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525170000 +0200" stop="20260525190000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Šangaj, polufinala i finale</title>
+    <desc lang="sr">Basket 3x3</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525190000 +0200" stop="20260525210000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Zrinjski - Velež</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260525210000 +0200" stop="20260525213000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Oni žive za fudbal ep. 229 - FK JASENICA, prvi deo</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260525213000 +0200" stop="20260525233000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Sarajevo - Željezničar</title>
+    <desc lang="sr">Fudbal</desc>
+    <category lang="sr">Uzivo</category>
+  </programme>
+  <programme start="20260525233000 +0200" stop="20260526000000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Pregled četvrtfinala 3</title>
+    <desc lang="sr">Košarka</desc>
+    <category lang="sr">Snimak</category>
+  </programme>
+  <programme start="20260526000000 +0200" stop="20260526000000 +0200" channel="arenasport5.rs">
+    <title lang="sr">Tortona - Venezia, G3</title>
+    <desc lang="sr">Košarka</desc>
     <category lang="sr">Snimak</category>
   </programme>
   <programme start="20260524013000 +0200" stop="20260524020000 +0200" channel="arenasport6.rs">
