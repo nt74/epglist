@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="ishow.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com" date="20260529221529 +0000">
+<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="ishow.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com" date="20260530101638 +0000">
   <channel id="espn.us">
     <display-name lang="en">ESPN</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" />
   </channel>
   <channel id="espn2.us">
     <display-name lang="en">ESPN2</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png" />
   </channel>
   <channel id="tnt.us">
     <display-name lang="en">TNT</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
   </channel>
   <channel id="syfy.us">
     <display-name lang="en">Syfy</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
   </channel>
   <channel id="hallmark.us">
     <display-name lang="en">Hallmark</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11221_h15_aa.png" />
   </channel>
   <channel id="hallmarkmystery.us">
     <display-name lang="en">Hallmark Mystery</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s61522_h15_ab.png" />
   </channel>
   <channel id="nbatv.us">
     <display-name lang="en">NBA TV</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png" />
   </channel>
   <channel id="abc.us">
     <display-name lang="en">ABC</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" />
   </channel>
   <channel id="cbs.us">
     <display-name lang="en">CBS</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png" />
   </channel>
   <channel id="nbc.us">
     <display-name lang="en">NBC</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png" />
   </channel>
   <channel id="fox.us">
     <display-name lang="en">FOX</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" />
   </channel>
   <channel id="pbs.us">
     <display-name lang="en">PBS</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s33453_h15_ad.png" />
   </channel>
   <channel id="cnn.us">
     <display-name lang="en">CNN</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10142_h15_aa.png" />
   </channel>
   <channel id="nflnetwork.us">
     <display-name lang="en">NFL Network</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/whatever.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s34710_h15_aa.png" />
   </channel>
   <channel id="kanal11.se">
     <display-name lang="en">Kanal 11</display-name>
@@ -202,195 +202,199 @@
   </channel>
   <channel id="action24.gr">
     <display-name lang="en">Action 24</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2022/12/15/0923ad17-c0ff-4731-88a3-53dbb631b537_xl.png" />
   </channel>
   <channel id="alpha.gr">
     <display-name lang="en">Alpha</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/73e34a44-d713-4530-985b-de5e1805cd1c_xl.png" />
   </channel>
   <channel id="animalplanet.gr">
     <display-name lang="en">Animal Planet</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/11/06/68fa427d-cc13-4550-9e87-33737e441e6c_xl.png" />
+  </channel>
+  <channel id="ant1.gr">
+    <display-name lang="en">ANT1</display-name>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/01/23/207bd3b0_44d6_4f7a_8161_9a32084b1235.png" />
   </channel>
   <channel id="cosmotesport1.gr">
     <display-name lang="en">Cosmote Sport 1</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/a1580f3d-1526-4d05-813f-5906a39a05c9_xl.png" />
   </channel>
   <channel id="cosmotesport2.gr">
     <display-name lang="en">Cosmote Sport 2</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/e5d8c95f-4f02-44b6-bae3-b8c0f992f881_xl.png" />
   </channel>
   <channel id="cosmotesport3.gr">
     <display-name lang="en">Cosmote Sport 3</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/7b37ab3b-6dba-4f7c-8a87-3c93d915db25_xl.png" />
   </channel>
   <channel id="cosmotesport4.gr">
     <display-name lang="en">Cosmote Sport 4</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/1fd57498-1bc3-4c42-9bdc-1acf3e346e8c_xl.png" />
   </channel>
   <channel id="cosmotesport5.gr">
     <display-name lang="en">Cosmote Sport 5</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/2997528a-e57e-4d5c-8aa4-9bb43f13c309_xl.png" />
   </channel>
   <channel id="cosmotesport6.gr">
     <display-name lang="en">Cosmote Sport 6</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/c1692434-76c4-495f-a481-672accd54b30_xl.png" />
   </channel>
   <channel id="cosmotesport7.gr">
     <display-name lang="en">Cosmote Sport 7</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/5959b3f2-dda1-4810-9158-037f541cf9cf_xl.png" />
   </channel>
   <channel id="cosmotesport8.gr">
     <display-name lang="en">Cosmote Sport 8</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/80407bc5-3e95-4fc2-95b2-a70dc6ebf047_xl.png" />
   </channel>
   <channel id="discoverychannel.gr">
     <display-name lang="en">Discovery</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/11/06/5debda74-dd1c-4d70-9508-05c6e5cc0a89_xl.png" />
   </channel>
   <channel id="disneyjunior.gr">
     <display-name lang="en">Disney Junior</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2024/11/05/dde08e44-9bf3-4cdb-aad2-e6fa1f8f19a1_xl.png" />
   </channel>
   <channel id="epsilontv.gr">
     <display-name lang="en">Open Beyond</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/10/14/a4352414-6f57-4dd5-a45f-28754537e35e_xl.png" />
   </channel>
   <channel id="ert1.gr">
     <display-name lang="en">ΕΡΤ1</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/c8c125f1-4643-4222-a233-bf51ee62a555_xl.png" />
   </channel>
   <channel id="ert2.gr">
     <display-name lang="en">ΕΡΤ2</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/10/07/6e1873e8-960d-421c-83d2-f25a1a8cb492_xl.png" />
   </channel>
   <channel id="ert3.gr">
     <display-name lang="en">ΕΡΤ3</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/0b064ef2-1d15-489e-a5a9-30733e277598_xl.png" />
   </channel>
   <channel id="ertnews.gr">
     <display-name lang="en">ΕΡΤ News</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/09/05/2d1aef6e-243c-4a07-9c9d-b22275eb417f_xl.png" />
   </channel>
   <channel id="ertworld.gr">
     <display-name lang="en">ERT World</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/05/07/3b12d3e4_6b69_48bc_854f_5b3aaf68bdf5_xl.png" />
   </channel>
   <channel id="eurosport1.gr">
     <display-name lang="en">Eurosport 1</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/48585e9c-0f5b-4fa6-86e4-519c75513b67_xl.png" />
   </channel>
   <channel id="eurosport2.gr">
     <display-name lang="en">Eurosport 2</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/fc9853ae-b906-4331-92cb-50f8362dabae_xl.png" />
   </channel>
   <channel id="foxlife.gr">
     <display-name lang="en">FX Life</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2023/03/15/8ad4db0c-dbe4-4675-8bde-71a175193f1c_xl.png" />
   </channel>
-  <channel id="kontrachannel.gr">
+  <channel id="kontra.gr">
     <display-name lang="en">Kontra</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2024/03/27/d6fcd4d6-8fd4-4d4c-b18d-2adc434a6074_xl.png" />
   </channel>
   <channel id="mad.gr">
     <display-name lang="en">MAD TV</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2023/09/26/e4fb2b7d-e865-4675-b439-e48b55893d0d_xl.png" />
   </channel>
   <channel id="makedoniatv.gr">
     <display-name lang="en">Μακεδονία TV</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2022/12/15/0923ad17-c0ff-4731-88a3-53dbb631b537_xl.png" />
   </channel>
   <channel id="mega.gr">
     <display-name lang="en">MEGA</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/10/02/8b3051fc-3e4f-47ed-a945-1cc636b85581_xl.png" />
   </channel>
   <channel id="natgeo.gr">
     <display-name lang="en">National Geographic</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/cfc5d666-6dfc-4ab0-a22b-66e7b868fe9f_xl.png" />
   </channel>
   <channel id="natgeowild.gr">
     <display-name lang="en">Nat Geo Wild</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/8ad9bd18-087c-4dd9-91da-bc356b547605_xl.png" />
   </channel>
   <channel id="novacinema1.gr">
     <display-name lang="en">Nova Cinema 1</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/ea06ad1f-e724-4fa3-b666-5748a673be86_xl.png" />
   </channel>
   <channel id="novacinema2.gr">
     <display-name lang="en">Nova Cinema 2</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/2747c4b2-1fe6-4d83-ab4e-9a991f7674bd_xl.png" />
   </channel>
   <channel id="novacinema3.gr">
     <display-name lang="en">Nova Cinema 3</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/f53f0cd0-7b0c-4547-887d-4cc9600f0595_xl.png" />
   </channel>
   <channel id="novacinema4.gr">
     <display-name lang="en">Nova Cinema 4</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/4993b92a-de57-4188-b191-5c3ca42b12ec_xl.png" />
   </channel>
   <channel id="novalife.gr">
     <display-name lang="en">Nova Life</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/10/22/072f9163-140f-4a32-a647-fd5f2d2eab23_xl.png" />
   </channel>
   <channel id="novasports1.gr">
     <display-name lang="en">Novasports 1</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/fd7c8e0e-53a7-44ed-a46c-efaa4bd07a8d_xl.png" />
   </channel>
   <channel id="novasports2.gr">
     <display-name lang="en">Novasports 2</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/6ea1ff92-16fe-4826-8c75-09ce79281239_xl.png" />
   </channel>
   <channel id="novasports3.gr">
     <display-name lang="en">Novasports 3</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/5872b52e-96c0-4c4b-980c-7dd7f5610a35_xl.png" />
   </channel>
   <channel id="novasports4.gr">
     <display-name lang="en">Novasports 4</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/f3c5ca86-ae02-44c2-8c78-413dd21e141e_xl.png" />
   </channel>
   <channel id="novasports5hd.gr">
     <display-name lang="en">Novasports 5</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/d7f171d2-7dbe-435b-9b11-280594bae88e_xl.png" />
   </channel>
   <channel id="novasports6.gr">
     <display-name lang="en">Novasports 6</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/41504905-d1c6-497c-94bf-548870812fae_xl.png" />
   </channel>
   <channel id="novasportsprime.gr">
     <display-name lang="en">Novasports Prime</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/db006fdb-0811-4b72-b3db-62b9fb691a52_xl.png" />
   </channel>
   <channel id="novasportstart.gr">
     <display-name lang="en">Novasports Start</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2023/09/11/eb5c0314-480d-406f-9b0a-87a991413d80_xl.png" />
   </channel>
   <channel id="skai.gr">
     <display-name lang="en">ΣΚΑΪ</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/10/14/a820e2c2-d7f6-4fd4-8fa7-1a3487a4c7b8_xl.png" />
   </channel>
   <channel id="smile.gr">
     <display-name lang="en">Smile TV</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/cadd8bc0-b048-419b-bea9-3a3950d51e01_xl.png" />
   </channel>
   <channel id="star.gr">
     <display-name lang="en">Star</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/bab849e4-a96d-4f8f-9b6c-82597a79a93b_xl.png" />
   </channel>
   <channel id="tlc.gr">
     <display-name lang="en">TLC</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/10/19/dc2a3443-336b-4a53-b240-09fd382dc031_xl.png" />
   </channel>
   <channel id="viasatexplore.gr">
     <display-name lang="en">Viasat Explore</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/05/20/c6e472c7_08ae_4ad1_8123_b35764180964_xl.png" />
   </channel>
   <channel id="viasathistory.gr">
     <display-name lang="en">Viasat History</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/05/20/7556c5de_0927_4333_9e01_87edb9c047b0_xl.png" />
   </channel>
   <channel id="viasatnature.gr">
     <display-name lang="en">Viasat Nature</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/placeholder_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/05/20/6753fadf_3fd8_4f9d_9fb2_6b615fb73d9f_xl.png" />
   </channel>
   <programme start="20260530073000 +0200" stop="20260530083000 +0200" channel="espn.us">
     <title lang="en">SportsCenter With Scott Van Pelt</title>
@@ -19083,6 +19087,760 @@
       <quality>HDTV</quality>
     </video>
   </programme>
+  <programme start="20260529234500 +0200" stop="20260530010000 +0200" channel="ant1.gr">
+    <title lang="el">MCP Warrior</title>
+    <desc lang="el">Πολεμικές τέχνες - Επ. 12. Το MCP Warrior μπαίνει στην τελική ευθεία και οι εξελίξεις είναι καταιγιστικές. Οι τέσσερις Warriors ετοιμάζονται για τη μεγάλη μάχη.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="MPAA"><value>18</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530010000 +0200" stop="20260530020000 +0200" channel="ant1.gr">
+    <title lang="el">Και οι Παντρεμένοι Εχουν Ψυχή</title>
+    <desc lang="el">Κωμική σειρά. Κωμική σειρά ελληνικής παραγωγής 1997, που καταγράφει τις ιστορίες και τις ερωτικές περιπέτειες τριών παντρεμένων ζευγαριών.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530020000 +0200" stop="20260530030000 +0200" channel="ant1.gr">
+    <title lang="el">Η Επιστροφή</title>
+    <desc lang="el">Δραματική σειρά. Μια οικογένεια ζει το χειρότερο εφιάλτη κάθε γονιού. Ο Μάνος, ο 4χρονος γιος του Ορέστη και της Ελενας, εξαφανίστηκε κάτω από αδιευκρίνιστες συνθήκες, σε μια παραλία.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530040000 +0200" channel="ant1.gr">
+    <title lang="el">Ιατρικό Απόρρητο</title>
+    <desc lang="el">Κοινωνική σειρά.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530040000 +0200" stop="20260530050000 +0200" channel="ant1.gr">
+    <title lang="el">Το Καφέ της Χαράς</title>
+    <desc lang="el">Κωμική σειρά. Η Χαρά, διαφημίστρια και ανύπαντρη μητέρα, αποφασίζει να κάνει... αποκέντρωση και να ανοίξει ένα Καφέ στο Κολοκοτρωνίτσι.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530050000 +0200" stop="20260530053000 +0200" channel="ant1.gr">
+    <title lang="el">Το πιο Γλυκό μου Ψέμα</title>
+    <desc lang="el">Κωμική σειρά. Αισθηματική κωμωδία ελληνικής παραγωγής.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530053000 +0200" stop="20260530063000 +0200" channel="ant1.gr">
+    <title lang="el">Της Ελλάδος τα Παιδιά</title>
+    <desc lang="el">Κωμική σειρά. Κωμική σειρά παραγωγής 1993-1995. Στο γραφείο ενημέρωσης της Αεροπορίας υπηρετούν τρεις σμηνίτες. Μαζί τους εργάζονται δύο κυρίες και o νέος Σμήναρχος.</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530063000 +0200" stop="20260530075000 +0200" channel="ant1.gr">
+    <title lang="el">Εγκλήματα</title>
+    <desc lang="el">Κωμική σειρά. H Φλώρα, γυναίκα του Αχιλλέα, απογοητευμένη από τη ζωή της νοσταλγεί το φλερτ της με τον Αλέκο, ο οποίος τώρα είναι παντρεμένος με τη Σωσώ.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530075000 +0200" stop="20260530113000 +0200" channel="ant1.gr">
+    <title lang="el">Σαββατοκύριακο Παρέα</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή. Ζωντανή, ψυχαγωγική εκπομπή με την Κατερίνα Καραβάτου. Τα Σαββατοκύριακα μπαίνουμε σε mood... παρέας.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530113000 +0200" stop="20260530121000 +0200" channel="ant1.gr">
+    <title lang="el">ΑΝΤ1 News</title>
+    <desc lang="el">Ειδήσεις.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530121000 +0200" stop="20260530122000 +0200" channel="ant1.gr">
+    <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική</title>
+    <desc lang="el">Ειδήσεις. Ο ANT1 παρουσιάζει το δελτίο ειδήσεων στη νοηματική γλώσσα για άτομα με προβλήματα ακοής και ομιλίας.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530122000 +0200" stop="20260530123000 +0200" channel="ant1.gr">
+    <title lang="el">Στην Κουζίνα με τον Γαβριήλ Νικολαίδη</title>
+    <desc lang="el">Μαγειρική. Η νέα εκπομπή του Ant1 γεμίζει τα πιάτα μας με γεύση και αγάπη! Το καλό φαγητό δεν έχει ώρα, έχει διάθεση!</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530123000 +0200" stop="20260530133000 +0200" channel="ant1.gr">
+    <title lang="el">Υγεία Πάνω απ' Ολα</title>
+    <desc lang="el">Υγεία - Wellbeing.</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530133000 +0200" stop="20260530153000 +0200" channel="ant1.gr">
+    <title lang="el">Ο Τζαναμπέτης</title>
+    <desc lang="el">Κωμωδία. Τρεις μεσόκοποι εργένηδες απαγορεύουν στον ανιψιό τους να παντρευτεί την αγαπημένη του Καίτη.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530153000 +0200" stop="20260530174500 +0200" channel="ant1.gr">
+    <title lang="el">Κωνσταντίνου και Ελένης</title>
+    <desc lang="el">Κωμική σειρά. Ελληνική κωμική σειρά παραγωγής 1998-2000. Μία μπερδεμένη υπόθεση που αφορά ένα νεοκλασσικό σπίτι στο Μαρούσι, αναγκάζει δύο τελείως αντίθετους χαρακτήρες να συγκατοικήσουν.</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530174500 +0200" stop="20260530184000 +0200" channel="ant1.gr">
+    <title lang="el">ANT1 News</title>
+    <desc lang="el">Ειδήσεις.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530184000 +0200" stop="20260530190000 +0200" channel="ant1.gr">
+    <title lang="el">ANT1 Sports</title>
+    <desc lang="el">Αθλητική Εκπομπή. Τα σημαντικότερα αθλητικά νέα από την Ελλάδα και όλο τον κόσμο. Παρουσιάζουν: Δημοσθένης Γεωργακόπουλος, Μανώλης Σφακάκης, Γρηγόρης Ατρείδης, Μανώλης Μανής, Αλέξανδρος Ξενικάκης.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530190000 +0200" stop="20260530210000 +0200" channel="ant1.gr">
+    <title lang="el">Καλώς Ηλθε το Δολάριο</title>
+    <desc lang="el">Κωμωδία. Ελληνική ταινία.</desc>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260530233000 +0200" channel="ant1.gr">
+    <title lang="el">Ποιος Θέλει να Γίνει Εκατομμυριούχος</title>
+    <desc lang="el">Special - Grand Prize Week. 'Best of'. Το απόλυτο τηλεπαιχνίδι γνώσεων, που έχει προβληθεί σε 120 χώρες και σε 92 διαφορετικές γλώσσες.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530233000 +0200" stop="20260531004500 +0200" channel="ant1.gr">
+    <title lang="el">Σούπερ Ηρωες</title>
+    <desc lang="el">Κωμική σειρά - Επ. 22. Ο Δημήτρης φέρνει ένα νέο πρόγραμμα για την καταγραφή των διαλειμμάτων και, φυσικά, αναστατώνει όλο το μαγαζί.</desc>
+    <category lang="el">Σειρά</category>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531004500 +0200" stop="20260531020000 +0200" channel="ant1.gr">
+    <title lang="el">Και οι Παντρεμένοι Εχουν Ψυχή</title>
+    <desc lang="el">Κωμική σειρά. Κωμική σειρά ελληνικής παραγωγής 1997, που καταγράφει τις ιστορίες και τις ερωτικές περιπέτειες τριών παντρεμένων ζευγαριών.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531020000 +0200" stop="20260531030000 +0200" channel="ant1.gr">
+    <title lang="el">Η Επιστροφή</title>
+    <desc lang="el">Δραματική σειρά. Μια οικογένεια ζει το χειρότερο εφιάλτη κάθε γονιού. Ο Μάνος, ο 4χρονος γιος του Ορέστη και της Ελενας, εξαφανίστηκε κάτω από αδιευκρίνιστες συνθήκες, σε μια παραλία.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531030000 +0200" stop="20260531040000 +0200" channel="ant1.gr">
+    <title lang="el">Ιατρικό Απόρρητο</title>
+    <desc lang="el">Κοινωνική σειρά.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531040000 +0200" stop="20260531050000 +0200" channel="ant1.gr">
+    <title lang="el">Το Καφέ της Χαράς</title>
+    <desc lang="el">Κωμική σειρά. Η Χαρά, διαφημίστρια και ανύπαντρη μητέρα, αποφασίζει να κάνει... αποκέντρωση και να ανοίξει ένα Καφέ στο Κολοκοτρωνίτσι.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531050000 +0200" stop="20260531053000 +0200" channel="ant1.gr">
+    <title lang="el">Το πιο Γλυκό μου Ψέμα</title>
+    <desc lang="el">Κωμική σειρά. Αισθηματική κωμωδία ελληνικής παραγωγής.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531053000 +0200" stop="20260531063000 +0200" channel="ant1.gr">
+    <title lang="el">Της Ελλάδος τα Παιδιά</title>
+    <desc lang="el">Κωμική σειρά. Κωμική σειρά παραγωγής 1993-1995. Στο γραφείο ενημέρωσης της Αεροπορίας υπηρετούν τρεις σμηνίτες. Μαζί τους εργάζονται δύο κυρίες και o νέος Σμήναρχος.</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531063000 +0200" stop="20260531075000 +0200" channel="ant1.gr">
+    <title lang="el">Εγκλήματα</title>
+    <desc lang="el">Κωμική σειρά. H Φλώρα, γυναίκα του Αχιλλέα, απογοητευμένη από τη ζωή της νοσταλγεί το φλερτ της με τον Αλέκο, ο οποίος τώρα είναι παντρεμένος με τη Σωσώ.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531075000 +0200" stop="20260531113000 +0200" channel="ant1.gr">
+    <title lang="el">Σαββατοκύριακο Παρέα</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή. Ζωντανή, ψυχαγωγική εκπομπή με την Κατερίνα Καραβάτου. Τα Σαββατοκύριακα μπαίνουμε σε mood... παρέας.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531113000 +0200" stop="20260531121000 +0200" channel="ant1.gr">
+    <title lang="el">ΑΝΤ1 News</title>
+    <desc lang="el">Ειδήσεις.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531121000 +0200" stop="20260531122000 +0200" channel="ant1.gr">
+    <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική</title>
+    <desc lang="el">Ειδήσεις. Ο ANT1 παρουσιάζει το δελτίο ειδήσεων στη νοηματική γλώσσα για άτομα με προβλήματα ακοής και ομιλίας.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531122000 +0200" stop="20260531123000 +0200" channel="ant1.gr">
+    <title lang="el">Η Επιχείρησή σου Μπορεί</title>
+    <desc lang="el">Θεματικό. By Vodafone Business.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531123000 +0200" stop="20260531133000 +0200" channel="ant1.gr">
+    <title lang="el">Υγεία Πάνω απ' Ολα</title>
+    <desc lang="el">Υγεία - Wellbeing.</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531133000 +0200" stop="20260531153000 +0200" channel="ant1.gr">
+    <title lang="el">Ο Αισιόδοξος</title>
+    <desc lang="el">Κωμωδία. Δύο φίλοι έχουν μία αντιπροσωπεία μοτοσικλετών. Ο ένας είναι αισιόδοξος, ενώ ο άλλος τα βλέπει όλα μαύρα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531153000 +0200" stop="20260531174500 +0200" channel="ant1.gr">
+    <title lang="el">Κωνσταντίνου και Ελένης</title>
+    <desc lang="el">Κωμική σειρά. Ελληνική κωμική σειρά παραγωγής 1998-2000. Μία μπερδεμένη υπόθεση που αφορά ένα νεοκλασσικό σπίτι στο Μαρούσι, αναγκάζει δύο τελείως αντίθετους χαρακτήρες να συγκατοικήσουν.</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531174500 +0200" stop="20260531184000 +0200" channel="ant1.gr">
+    <title lang="el">ANT1 News</title>
+    <desc lang="el">Ειδήσεις.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531184000 +0200" stop="20260531190000 +0200" channel="ant1.gr">
+    <title lang="el">ANT1 Sports</title>
+    <desc lang="el">Αθλητική Εκπομπή. Τα σημαντικότερα αθλητικά νέα από την Ελλάδα και όλο τον κόσμο. Παρουσιάζουν: Δημοσθένης Γεωργακόπουλος, Μανώλης Σφακάκης, Γρηγόρης Ατρείδης, Μανώλης Μανής, Αλέξανδρος Ξενικάκης.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531190000 +0200" stop="20260531200000 +0200" channel="ant1.gr">
+    <title lang="el">Ποιος Θέλει να Γίνει Εκατομμυριούχος</title>
+    <desc lang="el">Special - Grand Prize Week. 'Best of'. Το απόλυτο τηλεπαιχνίδι γνώσεων, που έχει προβληθεί σε 120 χώρες και σε 92 διαφορετικές γλώσσες.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531200000 +0200" stop="20260601000000 +0200" channel="ant1.gr">
+    <title lang="el">Your Face Sounds Familiar</title>
+    <desc lang="el">Ψυχαγωγικό σόου. Μπορούν να μοιραστούν την ίδια σκηνή ο Elvis Presley, η Madonna, ο Στέλιος Καζαντζίδης και η Νατάσσα Θεοδωρίδου; Στο κορυφαίο entertainment format, όλα μπορούν να συμβούν!</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260530233000 +0200" stop="20260531004500 +0200" channel="ant1.gr">
+    <title lang="el">Σούπερ Ηρωες</title>
+    <desc lang="el">Κωμική σειρά - Επ. 22. Ο Δημήτρης φέρνει ένα νέο πρόγραμμα για την καταγραφή των διαλειμμάτων και, φυσικά, αναστατώνει όλο το μαγαζί.</desc>
+    <category lang="el">Σειρά</category>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531004500 +0200" stop="20260531020000 +0200" channel="ant1.gr">
+    <title lang="el">Και οι Παντρεμένοι Εχουν Ψυχή</title>
+    <desc lang="el">Κωμική σειρά. Κωμική σειρά ελληνικής παραγωγής 1997, που καταγράφει τις ιστορίες και τις ερωτικές περιπέτειες τριών παντρεμένων ζευγαριών.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531020000 +0200" stop="20260531030000 +0200" channel="ant1.gr">
+    <title lang="el">Η Επιστροφή</title>
+    <desc lang="el">Δραματική σειρά. Μια οικογένεια ζει το χειρότερο εφιάλτη κάθε γονιού. Ο Μάνος, ο 4χρονος γιος του Ορέστη και της Ελενας, εξαφανίστηκε κάτω από αδιευκρίνιστες συνθήκες, σε μια παραλία.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531030000 +0200" stop="20260531040000 +0200" channel="ant1.gr">
+    <title lang="el">Ιατρικό Απόρρητο</title>
+    <desc lang="el">Κοινωνική σειρά.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531040000 +0200" stop="20260531050000 +0200" channel="ant1.gr">
+    <title lang="el">Το Καφέ της Χαράς</title>
+    <desc lang="el">Κωμική σειρά. Η Χαρά, διαφημίστρια και ανύπαντρη μητέρα, αποφασίζει να κάνει... αποκέντρωση και να ανοίξει ένα Καφέ στο Κολοκοτρωνίτσι.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531050000 +0200" stop="20260531053000 +0200" channel="ant1.gr">
+    <title lang="el">Το πιο Γλυκό μου Ψέμα</title>
+    <desc lang="el">Κωμική σειρά. Αισθηματική κωμωδία ελληνικής παραγωγής.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531053000 +0200" stop="20260531063000 +0200" channel="ant1.gr">
+    <title lang="el">Της Ελλάδος τα Παιδιά</title>
+    <desc lang="el">Κωμική σειρά. Κωμική σειρά παραγωγής 1993-1995. Στο γραφείο ενημέρωσης της Αεροπορίας υπηρετούν τρεις σμηνίτες. Μαζί τους εργάζονται δύο κυρίες και o νέος Σμήναρχος.</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531063000 +0200" stop="20260531075000 +0200" channel="ant1.gr">
+    <title lang="el">Εγκλήματα</title>
+    <desc lang="el">Κωμική σειρά. H Φλώρα, γυναίκα του Αχιλλέα, απογοητευμένη από τη ζωή της νοσταλγεί το φλερτ της με τον Αλέκο, ο οποίος τώρα είναι παντρεμένος με τη Σωσώ.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531075000 +0200" stop="20260531113000 +0200" channel="ant1.gr">
+    <title lang="el">Σαββατοκύριακο Παρέα</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή. Ζωντανή, ψυχαγωγική εκπομπή με την Κατερίνα Καραβάτου. Τα Σαββατοκύριακα μπαίνουμε σε mood... παρέας.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531113000 +0200" stop="20260531121000 +0200" channel="ant1.gr">
+    <title lang="el">ΑΝΤ1 News</title>
+    <desc lang="el">Ειδήσεις.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531121000 +0200" stop="20260531122000 +0200" channel="ant1.gr">
+    <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική</title>
+    <desc lang="el">Ειδήσεις. Ο ANT1 παρουσιάζει το δελτίο ειδήσεων στη νοηματική γλώσσα για άτομα με προβλήματα ακοής και ομιλίας.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531122000 +0200" stop="20260531123000 +0200" channel="ant1.gr">
+    <title lang="el">Η Επιχείρησή σου Μπορεί</title>
+    <desc lang="el">Θεματικό. By Vodafone Business.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531123000 +0200" stop="20260531133000 +0200" channel="ant1.gr">
+    <title lang="el">Υγεία Πάνω απ' Ολα</title>
+    <desc lang="el">Υγεία - Wellbeing.</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531133000 +0200" stop="20260531153000 +0200" channel="ant1.gr">
+    <title lang="el">Ο Αισιόδοξος</title>
+    <desc lang="el">Κωμωδία. Δύο φίλοι έχουν μία αντιπροσωπεία μοτοσικλετών. Ο ένας είναι αισιόδοξος, ενώ ο άλλος τα βλέπει όλα μαύρα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531153000 +0200" stop="20260531174500 +0200" channel="ant1.gr">
+    <title lang="el">Κωνσταντίνου και Ελένης</title>
+    <desc lang="el">Κωμική σειρά. Ελληνική κωμική σειρά παραγωγής 1998-2000. Μία μπερδεμένη υπόθεση που αφορά ένα νεοκλασσικό σπίτι στο Μαρούσι, αναγκάζει δύο τελείως αντίθετους χαρακτήρες να συγκατοικήσουν.</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531174500 +0200" stop="20260531184000 +0200" channel="ant1.gr">
+    <title lang="el">ANT1 News</title>
+    <desc lang="el">Ειδήσεις.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531184000 +0200" stop="20260531190000 +0200" channel="ant1.gr">
+    <title lang="el">ANT1 Sports</title>
+    <desc lang="el">Αθλητική Εκπομπή. Τα σημαντικότερα αθλητικά νέα από την Ελλάδα και όλο τον κόσμο. Παρουσιάζουν: Δημοσθένης Γεωργακόπουλος, Μανώλης Σφακάκης, Γρηγόρης Ατρείδης, Μανώλης Μανής, Αλέξανδρος Ξενικάκης.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531190000 +0200" stop="20260531200000 +0200" channel="ant1.gr">
+    <title lang="el">Ποιος Θέλει να Γίνει Εκατομμυριούχος</title>
+    <desc lang="el">Special - Grand Prize Week. 'Best of'. Το απόλυτο τηλεπαιχνίδι γνώσεων, που έχει προβληθεί σε 120 χώρες και σε 92 διαφορετικές γλώσσες.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260531200000 +0200" stop="20260601000000 +0200" channel="ant1.gr">
+    <title lang="el">Your Face Sounds Familiar</title>
+    <desc lang="el">Ψυχαγωγικό σόου. Μπορούν να μοιραστούν την ίδια σκηνή ο Elvis Presley, η Madonna, ο Στέλιος Καζαντζίδης και η Νατάσσα Θεοδωρίδου; Στο κορυφαίο entertainment format, όλα μπορούν να συμβούν!</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601000000 +0200" stop="20260601010000 +0200" channel="ant1.gr">
+    <title lang="el">Τhe 2night Show</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή. Το "The 2Νight Show" έχει γενέθλια και κλείνει τα 10 του χρόνια!</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601010000 +0200" stop="20260601020000 +0200" channel="ant1.gr">
+    <title lang="el">Και οι Παντρεμένοι Εχουν Ψυχή</title>
+    <desc lang="el">Κωμική σειρά. Κωμική σειρά ελληνικής παραγωγής 1997, που καταγράφει τις ιστορίες και τις ερωτικές περιπέτειες τριών παντρεμένων ζευγαριών.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601020000 +0200" stop="20260601030000 +0200" channel="ant1.gr">
+    <title lang="el">Η Επιστροφή</title>
+    <desc lang="el">Δραματική σειρά. Μια οικογένεια ζει το χειρότερο εφιάλτη κάθε γονιού. Ο Μάνος, ο 4χρονος γιος του Ορέστη και της Ελενας, εξαφανίστηκε κάτω από αδιευκρίνιστες συνθήκες, σε μια παραλία.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601030000 +0200" stop="20260601040000 +0200" channel="ant1.gr">
+    <title lang="el">Ιωάννα της Καρδιάς</title>
+    <desc lang="el">Κοινωνική σειρά. Ελληνική κοινωνική σειρά παραγωγής 2006-2007. Η Ιωάννα είναι ένα αξιαγάπητο κορίτσι.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601040000 +0200" stop="20260601050000 +0200" channel="ant1.gr">
+    <title lang="el">Νταντά για Ολες τις Δουλειές</title>
+    <desc lang="el">Κωμική σειρά. Ελληνική κωμική σειρά παραγωγής 1998. Ο Αλέξανδρος, χήρος με τρία παιδιά και αρραβωνιασμένος με τη Τζούλια, προσλαμβάνει τη Νανά ως νταντά των παιδιών του.</desc>
+    <category lang="el">Σειρά</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601050000 +0200" stop="20260601080000 +0200" channel="ant1.gr">
+    <title lang="el">Καλημέρα Ελλάδα</title>
+    <desc lang="el">Μαγκαζίνο.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601080000 +0200" stop="20260601113000 +0200" channel="ant1.gr">
+    <title lang="el">Το Πρωινό</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή.</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601113000 +0200" stop="20260601120000 +0200" channel="ant1.gr">
+    <title lang="el">ΑΝΤ1 News</title>
+    <desc lang="el">Ειδήσεις.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601120000 +0200" stop="20260601122000 +0200" channel="ant1.gr">
+    <title lang="el">Τώρα για το Μέλλον</title>
+    <desc lang="el">Μαγκαζίνο. Ενημερωτικό ένθετο με τον Γιώργο Κούρο και τη Μαρία Ανδρικάκη. Οι προκλήσεις, οι προοπτικές, αλλά και όλα όσα γίνονται ΤΩΡΑ και οδηγούν σε μια νέα ψηφιακή και "πράσινη" εποχή!</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601122000 +0200" stop="20260601123000 +0200" channel="ant1.gr">
+    <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική</title>
+    <desc lang="el">Ειδήσεις. Ο ANT1 παρουσιάζει το δελτίο ειδήσεων στη νοηματική γλώσσα για άτομα με προβλήματα ακοής και ομιλίας.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601123000 +0200" stop="20260601150000 +0200" channel="ant1.gr">
+    <title lang="el">Αποκαλύψεις</title>
+    <desc lang="el">Μαγκαζίνο. Ζωντανή, ενημερωτική εκπομπή με τον Πέτρο Κουσουλό, που έρχεται για να ανοίξει στόματα και να ξεκλειδώσει κλειστές πόρτες, με τη μαχητικότητα και την έρευνά του.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601150000 +0200" stop="20260601161500 +0200" channel="ant1.gr">
+    <title lang="el">Ρουκ Ζουκ</title>
+    <desc lang="el">Τηλεπαιχνίδι. Ενα από τα πλέον αγαπημένα τηλεπαιχνίδια στην ιστορία της ελληνικής τηλεόρασης επιστρέφει για 9η συνεχόμενη χρονιά!</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601161500 +0200" stop="20260601174500 +0200" channel="ant1.gr">
+    <title lang="el">Κάτι Ψήνεται</title>
+    <desc lang="el">Ριάλιτι.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601174500 +0200" stop="20260601184000 +0200" channel="ant1.gr">
+    <title lang="el">ANT1 News</title>
+    <desc lang="el">Ειδήσεις.</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601184000 +0200" stop="20260601190000 +0200" channel="ant1.gr">
+    <title lang="el">ANT1 Sports</title>
+    <desc lang="el">Αθλητική Εκπομπή. Τα σημαντικότερα αθλητικά νέα από την Ελλάδα και όλο τον κόσμο. Παρουσιάζουν: Δημοσθένης Γεωργακόπουλος, Μανώλης Σφακάκης, Γρηγόρης Ατρείδης, Μανώλης Μανής, Αλέξανδρος Ξενικάκης.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601190000 +0200" stop="20260601200000 +0200" channel="ant1.gr">
+    <title lang="el">Σούπερ Ηρωες</title>
+    <desc lang="el">Κωμική σειρά - Επ. 23. Είναι και επισήμως η τελευταία μέρα του Σπύρου στο μαγαζί και εκείνος αποφασίζει να μοιράσει ένα αναμνηστικό δώρο σε όλους... εκτός από την Εφη.</desc>
+    <category lang="el">Σειρά</category>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601200000 +0200" stop="20260601213000 +0200" channel="ant1.gr">
+    <title lang="el">Grand Hotel 2</title>
+    <desc lang="el">Δραματική σειρά - Επ.</desc>
+    <category lang="el">Σειρά</category>
+    <episode-num system="onscreen">S2 E122</episode-num>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601213000 +0200" stop="20260601230000 +0200" channel="ant1.gr">
+    <title lang="el">Γιατί Ρε Πατέρα;</title>
+    <desc lang="el">Κωμική σειρά - Επ. 33. Κι ενώ η Αντιγόνη αποφασίζει να δώσει τελικά μια ευκαιρία στον Ρουκάκα, ο Τάσος βρίσκεται σε απόλυτο πανικό προσπαθώντας να σώσει τον πατέρα του.</desc>
+    <category lang="el">Σειρά</category>
+    <episode-num system="onscreen">E33</episode-num>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260601230000 +0200" stop="20260602010000 +0200" channel="ant1.gr">
+    <title lang="el">Τhe 2night Show</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή. Το "The 2Νight Show" έχει γενέθλια και κλείνει τα 10 του χρόνια!</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
   <programme start="20260529233000 +0200" stop="20260530003000 +0200" channel="cosmotesport1.gr">
     <title lang="el">2026 UEFA Champions League Final : Ποδόσφαιρο</title>
     <desc lang="el">Ποδόσφαιρο. Δείτε όλη τη δράση του τελικού UEFA Champions League.</desc>
@@ -37156,7 +37914,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260530000000 +0200" stop="20260530010000 +0200" channel="kontrachannel.gr">
+  <programme start="20260530000000 +0200" stop="20260530010000 +0200" channel="kontra.gr">
     <title lang="el">Κόκκινη Ζώνη</title>
     <desc lang="el">Μαγκαζίνο. Ο Πάνος Παναγιωτόπουλος φωτίζει την επικαιρότητα με τη ματιά της εμπειρίας, τη δύναμη της πληροφορίας και την ευθύτητα του πολιτικού λόγου.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37166,7 +37924,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260530010000 +0200" stop="20260530050000 +0200" channel="kontrachannel.gr">
+  <programme start="20260530010000 +0200" stop="20260530050000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37176,7 +37934,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260530050000 +0200" stop="20260530090000 +0200" channel="kontrachannel.gr">
+  <programme start="20260530050000 +0200" stop="20260530090000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37186,7 +37944,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260530090000 +0200" stop="20260530130000 +0200" channel="kontrachannel.gr">
+  <programme start="20260530090000 +0200" stop="20260530130000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37196,7 +37954,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260530130000 +0200" stop="20260530160000 +0200" channel="kontrachannel.gr">
+  <programme start="20260530130000 +0200" stop="20260530160000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37206,7 +37964,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260530160000 +0200" stop="20260530170000 +0200" channel="kontrachannel.gr">
+  <programme start="20260530160000 +0200" stop="20260530170000 +0200" channel="kontra.gr">
     <title lang="el">Κόντρα &amp; Ρήξη</title>
     <desc lang="el">Μαγκαζίνο. Εκπομπή πολιτικής αλλά και γεωπολιτικής ανάλυσης με τον Κυριάκο Βελόπουλο.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37216,7 +37974,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260530170000 +0200" stop="20260530183000 +0200" channel="kontrachannel.gr">
+  <programme start="20260530170000 +0200" stop="20260530183000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37226,7 +37984,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260530183000 +0200" stop="20260530193000 +0200" channel="kontrachannel.gr">
+  <programme start="20260530183000 +0200" stop="20260530193000 +0200" channel="kontra.gr">
     <title lang="el">Kontra News</title>
     <desc lang="el">Ειδήσεις. Παρακολουθήστε καθημερινά τις σημαντικότερες ειδήσεις από την Ελλάδα και τον κόσμο και με αποκλειστικές συνεντεύξεις, με άποψη και σεβασμό προς τον τηλεθεατή.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37236,7 +37994,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260530193000 +0200" stop="20260530203000 +0200" channel="kontrachannel.gr">
+  <programme start="20260530193000 +0200" stop="20260530203000 +0200" channel="kontra.gr">
     <title lang="el">Κόντρα &amp; Ρήξη</title>
     <desc lang="el">Μαγκαζίνο. Εκπομπή πολιτικής αλλά και γεωπολιτικής ανάλυσης με τον Κυριάκο Βελόπουλο.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37246,7 +38004,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260530203000 +0200" stop="20260530223000 +0200" channel="kontrachannel.gr">
+  <programme start="20260530203000 +0200" stop="20260530223000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37256,7 +38014,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260530223000 +0200" stop="20260531000000 +0200" channel="kontrachannel.gr">
+  <programme start="20260530223000 +0200" stop="20260531000000 +0200" channel="kontra.gr">
     <title lang="el">Υπέρβαση</title>
     <desc lang="el">Μαγκαζίνο. Εκπομπή με τους Κυριακό Τόμπρα και Λεωνίδα Στάμο.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37266,7 +38024,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531000000 +0200" stop="20260531010000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531000000 +0200" stop="20260531010000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37276,7 +38034,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531010000 +0200" stop="20260531050000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531010000 +0200" stop="20260531050000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37286,7 +38044,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531050000 +0200" stop="20260531090000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531050000 +0200" stop="20260531090000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37296,7 +38054,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531090000 +0200" stop="20260531100000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531090000 +0200" stop="20260531100000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37306,7 +38064,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531100000 +0200" stop="20260531110000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531100000 +0200" stop="20260531110000 +0200" channel="kontra.gr">
     <title lang="el">Κόντρα &amp; Ρήξη</title>
     <desc lang="el">Μαγκαζίνο. Εκπομπή πολιτικής αλλά και γεωπολιτικής ανάλυσης με τον Κυριάκο Βελόπουλο.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37316,7 +38074,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531110000 +0200" stop="20260531160000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531110000 +0200" stop="20260531160000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37326,7 +38084,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531160000 +0200" stop="20260531170000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531160000 +0200" stop="20260531170000 +0200" channel="kontra.gr">
     <title lang="el">Κόντρα &amp; Ρήξη</title>
     <desc lang="el">Μαγκαζίνο. Εκπομπή πολιτικής αλλά και γεωπολιτικής ανάλυσης με τον Κυριάκο Βελόπουλο.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37336,7 +38094,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531170000 +0200" stop="20260531183000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531170000 +0200" stop="20260531183000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37346,7 +38104,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531183000 +0200" stop="20260531193000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531183000 +0200" stop="20260531193000 +0200" channel="kontra.gr">
     <title lang="el">Kontra News</title>
     <desc lang="el">Ειδήσεις. Παρακολουθήστε καθημερινά τις σημαντικότερες ειδήσεις από την Ελλάδα και τον κόσμο και με αποκλειστικές συνεντεύξεις, με άποψη και σεβασμό προς τον τηλεθεατή.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37356,7 +38114,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531193000 +0200" stop="20260531213000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531193000 +0200" stop="20260531213000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37366,7 +38124,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531213000 +0200" stop="20260531230000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531213000 +0200" stop="20260531230000 +0200" channel="kontra.gr">
     <title lang="el">Υπέρβαση</title>
     <desc lang="el">Μαγκαζίνο. Εκπομπή με τους Κυριακό Τόμπρα και Λεωνίδα Στάμο.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37376,7 +38134,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531230000 +0200" stop="20260601000000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531230000 +0200" stop="20260601000000 +0200" channel="kontra.gr">
     <title lang="el">"Θάνος" Συνοικέσια</title>
     <desc lang="el">Ψυχαγωγική εκπομπή. Αγγελίες γνωριμιών.</desc>
     <category lang="el">Τηλεπαιχνίδι</category>
@@ -37386,7 +38144,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531000000 +0200" stop="20260531010000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531000000 +0200" stop="20260531010000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37396,7 +38154,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531010000 +0200" stop="20260531050000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531010000 +0200" stop="20260531050000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37406,7 +38164,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531050000 +0200" stop="20260531090000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531050000 +0200" stop="20260531090000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37416,7 +38174,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531090000 +0200" stop="20260531100000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531090000 +0200" stop="20260531100000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37426,7 +38184,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531100000 +0200" stop="20260531110000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531100000 +0200" stop="20260531110000 +0200" channel="kontra.gr">
     <title lang="el">Κόντρα &amp; Ρήξη</title>
     <desc lang="el">Μαγκαζίνο. Εκπομπή πολιτικής αλλά και γεωπολιτικής ανάλυσης με τον Κυριάκο Βελόπουλο.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37436,7 +38194,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531110000 +0200" stop="20260531160000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531110000 +0200" stop="20260531160000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37446,7 +38204,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531160000 +0200" stop="20260531170000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531160000 +0200" stop="20260531170000 +0200" channel="kontra.gr">
     <title lang="el">Κόντρα &amp; Ρήξη</title>
     <desc lang="el">Μαγκαζίνο. Εκπομπή πολιτικής αλλά και γεωπολιτικής ανάλυσης με τον Κυριάκο Βελόπουλο.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37456,7 +38214,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531170000 +0200" stop="20260531183000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531170000 +0200" stop="20260531183000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37466,7 +38224,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531183000 +0200" stop="20260531193000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531183000 +0200" stop="20260531193000 +0200" channel="kontra.gr">
     <title lang="el">Kontra News</title>
     <desc lang="el">Ειδήσεις. Παρακολουθήστε καθημερινά τις σημαντικότερες ειδήσεις από την Ελλάδα και τον κόσμο και με αποκλειστικές συνεντεύξεις, με άποψη και σεβασμό προς τον τηλεθεατή.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37476,7 +38234,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531193000 +0200" stop="20260531213000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531193000 +0200" stop="20260531213000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37486,7 +38244,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531213000 +0200" stop="20260531230000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531213000 +0200" stop="20260531230000 +0200" channel="kontra.gr">
     <title lang="el">Υπέρβαση</title>
     <desc lang="el">Μαγκαζίνο. Εκπομπή με τους Κυριακό Τόμπρα και Λεωνίδα Στάμο.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37496,7 +38254,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260531230000 +0200" stop="20260601000000 +0200" channel="kontrachannel.gr">
+  <programme start="20260531230000 +0200" stop="20260601000000 +0200" channel="kontra.gr">
     <title lang="el">"Θάνος" Συνοικέσια</title>
     <desc lang="el">Ψυχαγωγική εκπομπή. Αγγελίες γνωριμιών.</desc>
     <category lang="el">Τηλεπαιχνίδι</category>
@@ -37506,7 +38264,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260601000000 +0200" stop="20260601050000 +0200" channel="kontrachannel.gr">
+  <programme start="20260601000000 +0200" stop="20260601050000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37516,7 +38274,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260601050000 +0200" stop="20260601090000 +0200" channel="kontrachannel.gr">
+  <programme start="20260601050000 +0200" stop="20260601090000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37526,7 +38284,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260601090000 +0200" stop="20260601130000 +0200" channel="kontrachannel.gr">
+  <programme start="20260601090000 +0200" stop="20260601130000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37536,7 +38294,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260601130000 +0200" stop="20260601150000 +0200" channel="kontrachannel.gr">
+  <programme start="20260601130000 +0200" stop="20260601150000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37546,7 +38304,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260601150000 +0200" stop="20260601160000 +0200" channel="kontrachannel.gr">
+  <programme start="20260601150000 +0200" stop="20260601160000 +0200" channel="kontra.gr">
     <title lang="el">Κόντρα &amp; Ρήξη</title>
     <desc lang="el">Μαγκαζίνο. Εκπομπή πολιτικής αλλά και γεωπολιτικής ανάλυσης με τον Κυριάκο Βελόπουλο.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37556,7 +38314,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260601160000 +0200" stop="20260601170000 +0200" channel="kontrachannel.gr">
+  <programme start="20260601160000 +0200" stop="20260601170000 +0200" channel="kontra.gr">
     <title lang="el">Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Τηλεαγορές. Εκπομπές Τηλεοπτικών αγορών.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37566,7 +38324,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260601170000 +0200" stop="20260601183000 +0200" channel="kontrachannel.gr">
+  <programme start="20260601170000 +0200" stop="20260601183000 +0200" channel="kontra.gr">
     <title lang="el">Kontra View</title>
     <desc lang="el">Μαγκαζίνο. Με σύγχρονη αισθητική, ρυθμό και νεανική προσέγγιση, η εκπομπή ανοίγει τον διάλογο για όσα συμβαίνουν στην πολιτική, την κοινωνία και την καθημερινότητα.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37576,7 +38334,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260601183000 +0200" stop="20260601200000 +0200" channel="kontrachannel.gr">
+  <programme start="20260601183000 +0200" stop="20260601200000 +0200" channel="kontra.gr">
     <title lang="el">Kontra News</title>
     <desc lang="el">Ειδήσεις. Παρακολουθήστε καθημερινά τις σημαντικότερες ειδήσεις από την Ελλάδα και τον κόσμο και με αποκλειστικές συνεντεύξεις, με άποψη και σεβασμό προς τον τηλεθεατή.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37586,7 +38344,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260601200000 +0200" stop="20260601210000 +0200" channel="kontrachannel.gr">
+  <programme start="20260601200000 +0200" stop="20260601210000 +0200" channel="kontra.gr">
     <title lang="el">Κόκκινη Ζώνη</title>
     <desc lang="el">Μαγκαζίνο. Ο Πάνος Παναγιωτόπουλος φωτίζει την επικαιρότητα με τη ματιά της εμπειρίας, τη δύναμη της πληροφορίας και την ευθύτητα του πολιτικού λόγου.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37596,7 +38354,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260601210000 +0200" stop="20260601224500 +0200" channel="kontrachannel.gr">
+  <programme start="20260601210000 +0200" stop="20260601224500 +0200" channel="kontra.gr">
     <title lang="el">Spotlight</title>
     <desc lang="el">Ψυχαγωγική εκπομπή. Μια εκπομπή-vidcast όπου οι καλεσμένοι - από την κοινωνία, τη δημοσιογραφία, την τέχνη και από την πολιτική - αφήνουν για λίγο τις ταμπέλες και μιλούν αληθινά.</desc>
     <category lang="el">Τηλεπαιχνίδι</category>
@@ -37606,7 +38364,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260601224500 +0200" stop="20260601234500 +0200" channel="kontrachannel.gr">
+  <programme start="20260601224500 +0200" stop="20260601234500 +0200" channel="kontra.gr">
     <title lang="el">Κόκκινη Ζώνη</title>
     <desc lang="el">Μαγκαζίνο. Ο Πάνος Παναγιωτόπουλος φωτίζει την επικαιρότητα με τη ματιά της εμπειρίας, τη δύναμη της πληροφορίας και την ευθύτητα του πολιτικού λόγου.</desc>
     <category lang="el">Μαγκαζίνο</category>
@@ -37616,7 +38374,7 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-  <programme start="20260601234500 +0200" stop="20260602004500 +0200" channel="kontrachannel.gr">
+  <programme start="20260601234500 +0200" stop="20260602004500 +0200" channel="kontra.gr">
     <title lang="el">Κόκκινη Ζώνη</title>
     <desc lang="el">Μαγκαζίνο. Ο Πάνος Παναγιωτόπουλος φωτίζει την επικαιρότητα με τη ματιά της εμπειρίας, τη δύναμη της πληροφορίας και την ευθύτητα του πολιτικού λόγου.</desc>
     <category lang="el">Μαγκαζίνο</category>
