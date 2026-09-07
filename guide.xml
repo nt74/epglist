@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20260906221105 +0000">
+<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20260907101041 +0000">
   <channel id="espn.us">
     <display-name lang="en">ESPN</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" />
@@ -218,35 +218,35 @@
   </channel>
   <channel id="cosmotesport1.gr">
     <display-name lang="en">Cosmote Sport 1</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/a1580f3d-1526-4d05-813f-5906a39a05c9_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/79164129_52a1_4410_88c2_9b6f616ef557.png" />
   </channel>
   <channel id="cosmotesport2.gr">
     <display-name lang="en">Cosmote Sport 2</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/e5d8c95f-4f02-44b6-bae3-b8c0f992f881_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/42a60a41_b4b1_4c05_9a6b_2bedee63dfaa.png" />
   </channel>
   <channel id="cosmotesport3.gr">
     <display-name lang="en">Cosmote Sport 3</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/7b37ab3b-6dba-4f7c-8a87-3c93d915db25_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/cfb2637c_6776_40ee_8d6a_f7faae9cd2ac.png" />
   </channel>
   <channel id="cosmotesport4.gr">
     <display-name lang="en">Cosmote Sport 4</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/1fd57498-1bc3-4c42-9bdc-1acf3e346e8c_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/4a46a52c_5387_4064_bddd_b86a6e88071d.png" />
   </channel>
   <channel id="cosmotesport5.gr">
     <display-name lang="en">Cosmote Sport 5</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/2997528a-e57e-4d5c-8aa4-9bb43f13c309_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/fd54cff8_b86f_43c4_96ad_98933c326672.png" />
   </channel>
   <channel id="cosmotesport6.gr">
     <display-name lang="en">Cosmote Sport 6</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/c1692434-76c4-495f-a481-672accd54b30_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/e840ea44_222c_474c_befc_a14473822c3e.png" />
   </channel>
   <channel id="cosmotesport7.gr">
     <display-name lang="en">Cosmote Sport 7</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/5959b3f2-dda1-4810-9158-037f541cf9cf_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/08a7b66f_3598_4699_b938_5d7c48e2fcc7.png" />
   </channel>
   <channel id="cosmotesport8.gr">
     <display-name lang="en">Cosmote Sport 8</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2025/06/19/80407bc5-3e95-4fc2-95b2-a70dc6ebf047_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/93e5cf7b_59af_4744_b42c_4cf558fe84a6_xl.png" />
   </channel>
   <channel id="discoverychannel.gr">
     <display-name lang="en">Discovery</display-name>
