@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20260909221052 +0000">
+<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20260910101044 +0000">
   <channel id="espn.us">
     <display-name lang="en">ESPN</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" />
@@ -230,7 +230,7 @@
   </channel>
   <channel id="cosmotesport4.gr">
     <display-name lang="en">Cosmote Sport 4</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/ca663b5a_2d53_4dbb_a237_9eb44a499756.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/4a46a52c_5387_4064_bddd_b86a6e88071d.png" />
   </channel>
   <channel id="cosmotesport5.gr">
     <display-name lang="en">Cosmote Sport 5</display-name>
@@ -314,7 +314,7 @@
   </channel>
   <channel id="natgeowild.gr">
     <display-name lang="en">Nat Geo Wild</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/08/30/e635cb16-23ea-4352-bba0-8cbce311805e_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/8ad9bd18-087c-4dd9-91da-bc356b547605_xl.png" />
   </channel>
   <channel id="novacinema1.gr">
     <display-name lang="en">Nova Cinema 1</display-name>
@@ -378,7 +378,7 @@
   </channel>
   <channel id="star.gr">
     <display-name lang="en">Star</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/f7b4cb8e-fa2b-4e7c-8a4f-94637338d8f5_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/bab849e4-a96d-4f8f-9b6c-82597a79a93b_xl.png" />
   </channel>
   <channel id="tlc.gr">
     <display-name lang="en">TLC</display-name>
