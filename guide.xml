@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20260913221054 +0000">
+<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20260914101110 +0000">
   <channel id="espn.us">
     <display-name lang="en">ESPN</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" />
@@ -230,7 +230,7 @@
   </channel>
   <channel id="cosmotesport4.gr">
     <display-name lang="en">Cosmote Sport 4</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/13/47b4e524_361b_48a5_88f3_26e1783e1436_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/6440c415_9b6f_46a8_9f53_cbddc5c34883.png" />
   </channel>
   <channel id="cosmotesport5.gr">
     <display-name lang="en">Cosmote Sport 5</display-name>
