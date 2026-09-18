@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20260917221013 +0000">
+<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20260918101051 +0000">
   <channel id="espn.us">
     <display-name lang="en">ESPN</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" />
   </channel>
   <channel id="espn2.us">
     <display-name lang="en">ESPN2</display-name>
@@ -14,11 +13,9 @@
   </channel>
   <channel id="syfy.us">
     <display-name lang="en">Syfy</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
   </channel>
   <channel id="hallmark.us">
     <display-name lang="en">Hallmark</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11221_h15_aa.png" />
   </channel>
   <channel id="hallmarkmystery.us">
     <display-name lang="en">Hallmark Mystery</display-name>
@@ -26,7 +23,6 @@
   </channel>
   <channel id="nbatv.us">
     <display-name lang="en">NBA TV</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png" />
   </channel>
   <channel id="abc.us">
     <display-name lang="en">ABC</display-name>
@@ -34,27 +30,21 @@
   </channel>
   <channel id="cbs.us">
     <display-name lang="en">CBS</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png" />
   </channel>
   <channel id="nbc.us">
     <display-name lang="en">NBC</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png" />
   </channel>
   <channel id="fox.us">
     <display-name lang="en">FOX</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" />
   </channel>
   <channel id="pbs.us">
     <display-name lang="en">PBS</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s33453_h15_ad.png" />
   </channel>
   <channel id="cnn.us">
     <display-name lang="en">CNN</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10142_h15_aa.png" />
   </channel>
   <channel id="nflnetwork.us">
     <display-name lang="en">NFL Network</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s34710_h15_aa.png" />
   </channel>
   <channel id="kanal11.se">
     <display-name lang="en">Kanal 11</display-name>
@@ -230,7 +220,7 @@
   </channel>
   <channel id="cosmotesport4.gr">
     <display-name lang="en">Cosmote Sport 4</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/6440c415_9b6f_46a8_9f53_cbddc5c34883.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/13/47b4e524_361b_48a5_88f3_26e1783e1436_xl.png" />
   </channel>
   <channel id="cosmotesport5.gr">
     <display-name lang="en">Cosmote Sport 5</display-name>
@@ -314,7 +304,7 @@
   </channel>
   <channel id="natgeowild.gr">
     <display-name lang="en">Nat Geo Wild</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/08/30/e635cb16-23ea-4352-bba0-8cbce311805e_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/8ad9bd18-087c-4dd9-91da-bc356b547605_xl.png" />
   </channel>
   <channel id="novacinema1.gr">
     <display-name lang="en">Nova Cinema 1</display-name>
@@ -378,7 +368,7 @@
   </channel>
   <channel id="star.gr">
     <display-name lang="en">Star</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/f7b4cb8e-fa2b-4e7c-8a4f-94637338d8f5_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/bab849e4-a96d-4f8f-9b6c-82597a79a93b_xl.png" />
   </channel>
   <channel id="tlc.gr">
     <display-name lang="en">TLC</display-name>
