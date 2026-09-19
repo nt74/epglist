@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20260918221051 +0000">
+<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20260919050036 +0000">
   <channel id="espn.us">
     <display-name lang="en">ESPN</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" />
   </channel>
   <channel id="espn2.us">
     <display-name lang="en">ESPN2</display-name>
@@ -13,9 +14,11 @@
   </channel>
   <channel id="syfy.us">
     <display-name lang="en">Syfy</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
   </channel>
   <channel id="hallmark.us">
     <display-name lang="en">Hallmark</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11221_h15_aa.png" />
   </channel>
   <channel id="hallmarkmystery.us">
     <display-name lang="en">Hallmark Mystery</display-name>
@@ -23,6 +26,7 @@
   </channel>
   <channel id="nbatv.us">
     <display-name lang="en">NBA TV</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png" />
   </channel>
   <channel id="abc.us">
     <display-name lang="en">ABC</display-name>
@@ -30,21 +34,27 @@
   </channel>
   <channel id="cbs.us">
     <display-name lang="en">CBS</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png" />
   </channel>
   <channel id="nbc.us">
     <display-name lang="en">NBC</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png" />
   </channel>
   <channel id="fox.us">
     <display-name lang="en">FOX</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" />
   </channel>
   <channel id="pbs.us">
     <display-name lang="en">PBS</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s33453_h15_ad.png" />
   </channel>
   <channel id="cnn.us">
     <display-name lang="en">CNN</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10142_h15_aa.png" />
   </channel>
   <channel id="nflnetwork.us">
     <display-name lang="en">NFL Network</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s34710_h15_aa.png" />
   </channel>
   <channel id="kanal11.se">
     <display-name lang="en">Kanal 11</display-name>
@@ -207,35 +217,35 @@
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/01/23/207bd3b0_44d6_4f7a_8161_9a32084b1235.png" />
   </channel>
   <channel id="cosmotesport1.gr">
-    <display-name lang="en">Cosmote Sport 1</display-name>
+    <display-name lang="en">Magenta Sport 1</display-name>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/79164129_52a1_4410_88c2_9b6f616ef557.png" />
   </channel>
   <channel id="cosmotesport2.gr">
-    <display-name lang="en">Cosmote Sport 2</display-name>
+    <display-name lang="en">Magenta Sport 2</display-name>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/42a60a41_b4b1_4c05_9a6b_2bedee63dfaa.png" />
   </channel>
   <channel id="cosmotesport3.gr">
-    <display-name lang="en">Cosmote Sport 3</display-name>
+    <display-name lang="en">Magenta Sport 3</display-name>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/cfb2637c_6776_40ee_8d6a_f7faae9cd2ac.png" />
   </channel>
   <channel id="cosmotesport4.gr">
-    <display-name lang="en">Cosmote Sport 4</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/13/47b4e524_361b_48a5_88f3_26e1783e1436_xl.png" />
+    <display-name lang="en">Magenta Sport 4</display-name>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/6440c415_9b6f_46a8_9f53_cbddc5c34883.png" />
   </channel>
   <channel id="cosmotesport5.gr">
-    <display-name lang="en">Cosmote Sport 5</display-name>
+    <display-name lang="en">Magenta Sport 5</display-name>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/fd54cff8_b86f_43c4_96ad_98933c326672.png" />
   </channel>
   <channel id="cosmotesport6.gr">
-    <display-name lang="en">Cosmote Sport 6</display-name>
+    <display-name lang="en">Magenta Sport 6</display-name>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/e840ea44_222c_474c_befc_a14473822c3e.png" />
   </channel>
   <channel id="cosmotesport7.gr">
-    <display-name lang="en">Cosmote Sport 7</display-name>
+    <display-name lang="en">Magenta Sport 7</display-name>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/08a7b66f_3598_4699_b938_5d7c48e2fcc7.png" />
   </channel>
   <channel id="cosmotesport8.gr">
-    <display-name lang="en">Cosmote Sport 8</display-name>
+    <display-name lang="en">Magenta Sport 8</display-name>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/93e5cf7b_59af_4744_b42c_4cf558fe84a6_xl.png" />
   </channel>
   <channel id="discoverychannel.gr">
@@ -304,7 +314,7 @@
   </channel>
   <channel id="natgeowild.gr">
     <display-name lang="en">Nat Geo Wild</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/8ad9bd18-087c-4dd9-91da-bc356b547605_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/08/30/e635cb16-23ea-4352-bba0-8cbce311805e_xl.png" />
   </channel>
   <channel id="novacinema1.gr">
     <display-name lang="en">Nova Cinema 1</display-name>
@@ -368,7 +378,7 @@
   </channel>
   <channel id="star.gr">
     <display-name lang="en">Star</display-name>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/bab849e4-a96d-4f8f-9b6c-82597a79a93b_xl.png" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/f7b4cb8e-fa2b-4e7c-8a4f-94637338d8f5_xl.png" />
   </channel>
   <channel id="tlc.gr">
     <display-name lang="en">TLC</display-name>
