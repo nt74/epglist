@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20260919050036 +0000">
+<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20260919050607 +0000">
   <channel id="espn.us">
     <display-name lang="en">ESPN</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" />
@@ -216,6 +216,18 @@
     <display-name lang="en">ANT1</display-name>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/01/23/207bd3b0_44d6_4f7a_8161_9a32084b1235.png" />
   </channel>
+  <channel id="cosmotecinema1.gr">
+    <display-name lang="en">Nova Cinema 1</display-name>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/ea06ad1f-e724-4fa3-b666-5748a673be86_xl.png" />
+  </channel>
+  <channel id="cosmotecinema2.gr">
+    <display-name lang="en">Nova Cinema 2</display-name>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/2747c4b2-1fe6-4d83-ab4e-9a991f7674bd_xl.png" />
+  </channel>
+  <channel id="cosmotecinema3.gr">
+    <display-name lang="en">Nova Cinema 3</display-name>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2021/09/28/f53f0cd0-7b0c-4547-887d-4cc9600f0595_xl.png" />
+  </channel>
   <channel id="cosmotesport1.gr">
     <display-name lang="en">Magenta Sport 1</display-name>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/79164129_52a1_4410_88c2_9b6f616ef557.png" />
@@ -247,6 +259,10 @@
   <channel id="cosmotesport8.gr">
     <display-name lang="en">Magenta Sport 8</display-name>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/93e5cf7b_59af_4744_b42c_4cf558fe84a6_xl.png" />
+  </channel>
+  <channel id="cosmotesport9hd.gr">
+    <display-name lang="en">Magenta Sport 9</display-name>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/8a397d12/2026/09/07/62f21158_92f5_4e94_9ec2_0679085106bf.png" />
   </channel>
   <channel id="discoverychannel.gr">
     <display-name lang="en">Discovery</display-name>
@@ -19681,6 +19697,1616 @@
       <quality>HDTV</quality>
     </video>
   </programme>
+  <programme start="20260918223500 +0200" stop="20260919000500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Worldbreaker</title>
+    <desc lang="el">Ταινία Δράσης - Επ. Φαντασίας. Χρόνια μετά την εισβολή πλασμάτων στη Γη, ένας πατέρας μαθαίνει την κόρη του να επιβιώνει, σε ένα απομονωμένο νησί.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919000500 +0200" stop="20260919015000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Oh, Hi!</title>
+    <desc lang="el">Κωμωδία. Μια αμήχανη πρώτη γνωριμία ξεφεύγει μέσα από παρεξηγήσεις, τολμηρές επιλογές και απρόσμενη ειλικρίνεια, καθώς δύο άγνωστοι πλησιάζουν ο ένας τον άλλον με χιούμορ και τρυφερό χάος.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919015000 +0200" stop="20260919034500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Η Κόρη του Βασιλιά του Βάλτου</title>
+    <desc lang="el">Θρίλερ Μυστηρίου.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919034500 +0200" stop="20260919053500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Pet Shop Days</title>
+    <desc lang="el">Αστυνομικό Θρίλερ. Ένας πλούσιος αλλά προβληματικός νεαρός γνωρίζει έναν υπάλληλο και τον παρασύρει σε ναρκωτικά, έγκλημα και χειραγώγηση.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919053500 +0200" stop="20260919071500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Saison Morte</title>
+    <desc lang="el">Αστυνομική Ταινία. Με φόντο τη χειμωνιάτικη Μήλο, μία σειρά φόνων ρίχνει φως σε μία ιστορία όπου κανείς δεν είναι αυτό που φαίνεται, και οι πάντες αλλάζουν ρόλους και θέσεις μέχρι την τελική ανατροπή.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919071500 +0200" stop="20260919081500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919081500 +0200" stop="20260919101000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Μαίρη, Μαριάννα, Μαρία:</title>
+    <desc lang="el">Tα Άγνωστα Ελληνικά Χρόνια της Κάλλας. Μέσα από σπάνιο αρχειακό υλικό, επιστολές και μαρτυρίες, φωτίζονται τα άγνωστα ελληνικά χρόνια της Μαρίας Κάλλας.</desc>
+    <category lang="el">Μουσική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919101000 +0200" stop="20260919115500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Ποντικούπολη</title>
+    <desc lang="el">Οικογενειακή Ταινία Κιν. Σχεδίων.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919115500 +0200" stop="20260919140000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Jumanji: Καλωσήρθατε στην Ζούγκλα</title>
+    <desc lang="el">Περιπέτεια. Τέσσερις μαθητές ανακαλύπτουν ένα παλιό βιντεοπαιχνίδι κι όταν ξεκινούν να παίζουν μεταφέρονται στην καρδιά της ζούγκλας.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919140000 +0200" stop="20260919153000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Ο Χαμένος Τίγρης</title>
+    <desc lang="el">Οικογενειακή Ταινία Κιν. Σχεδίων.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919153000 +0200" stop="20260919173000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Τρεις Φίλες</title>
+    <desc lang="el">Ρομαντική Κομεντί.</desc>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919173000 +0200" stop="20260919175500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Στα Παρασκήνια του Χόλιγουντ</title>
+    <desc lang="el">Τηλεοπτικό Μαγκαζίνο. Καλώς ήρθατε στη Μέκκα του κινηματογράφου!</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919175500 +0200" stop="20260919192500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Μπανέλ &amp; Άνταμα</title>
+    <desc lang="el">Δραματική Ταινία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919192500 +0200" stop="20260919210000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Σκύλος &amp; Γάτα: Μια Τρελή Καταδίωξη</title>
+    <desc lang="el">Κωμωδία. Μια διάσημη γάτα influencer ενώνει τις δυνάμεις της με έναν αδέσποτο σκύλο για να το σκάσουν από τον έλεγχο αεροδρομίου και να ανακτήσουν ένα κλεμμένο ρουμπίνι...</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919210000 +0200" stop="20260919231500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Γουλιέλμος Τέλλος</title>
+    <desc lang="el">Αληθινή Ιστορία, Πρεμιέρα. Στην Ελβετία του 14ου αιώνα, ένας φιλήσυχος κυνηγός αρνείται να υποταχθεί στην αυστριακή τυραννία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919231500 +0200" stop="20260920011500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Ο Κρυστάλλινος Πύργος</title>
+    <desc lang="el">Θρίλερ - Δράμα. Στη δεκαετία του '70, μια δεκαπεντάχρονη ορφανή κρύβεται στο κινηματογραφικό στούντιο που γυρίζεται 'Η Βασίλισσα του Χιονιού'.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920011500 +0200" stop="20260920032500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Ballerina</title>
+    <desc lang="el">Τανία Δράσης.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920032500 +0200" stop="20260920053000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">21 Γραμμάρια</title>
+    <desc lang="el">Αστυνομικό Θρίλερ.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920053000 +0200" stop="20260920071500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Sorry, Baby</title>
+    <desc lang="el">Δραματική Κομεντί. Μια καθηγήτρια προσπαθεί να ξαναχτίσει τη ζωή της μετά από ένα τραυματικό γεγονός, έχοντας στο πλευρό της τη στενότερη φίλη της.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920071500 +0200" stop="20260920090000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Πιτσιρίκια</title>
+    <desc lang="el">Δραματική Κομεντί. Δύο αγόρια σε ένα γαλλικό χωριό περνάνε την ώρα τους παίζοντας βιντεοπαιχνίδια.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920090000 +0200" stop="20260920111500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Jurassic World: Αναγέννηση</title>
+    <desc lang="el">Περιπέτεια Δράσης. Χρόνια μετά την εξάπλωση των δεινοσαύρων, μια μυστική ομάδα φτάνει σε ένα απαγορευμένο νησί για να συλλέξει γενετικό υλικό.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920111500 +0200" stop="20260920132500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Κολύμπα ή Αλλιώς Βυθίσου</title>
+    <desc lang="el">Κωμωδία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920132500 +0200" stop="20260920151000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Dirty Dancing</title>
+    <desc lang="el">Ρομαντική Ταινία. Στις αρχές της δεκαετίας του '60, μια οικογένεια πηγαίνει διακοπές σε ένα ακριβό θέρετρο, όπου η μικρότερη κόρη ερωτεύεται έναν γοητευτικό δάσκαλο χορού!</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920151000 +0200" stop="20260920170500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Τι να Περιμένεις Όταν Είσαι Έγκυος</title>
+    <desc lang="el">Ρομαντική Κομεντί. Πέντε ζευγάρια αντιμετωπίζουν με διαφορετικό τρόπο την επικείμενη άφιξη ενός... μωρού.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920170500 +0200" stop="20260920173500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Films &amp; Stars</title>
+    <desc lang="el">Αφιέρωμα.</desc>
+    <category lang="el">Παιδική</category>
+    <category lang="el">Μουσική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920173500 +0200" stop="20260920192000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Πρώτος Έρωτας</title>
+    <desc lang="el">Δραματική Ταινία. Η ζωή ενός 14χρονου αγοριού αλλάζει όταν ένας συνομήλικος μετακομίζει δίπλα. Καθώς η φιλία γίνεται πρώτος έρωτας, παλεύει να αποδεχτεί τα συναισθήματά του και να είναι ο εαυτός του.</desc>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920192000 +0200" stop="20260920210000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Hunting Grounds</title>
+    <desc lang="el">Ταινία Δράσης. Μια γυναίκα που δραπετεύει από τον σύζυγό της βρίσκει καταφύγιο σε μια απομονωμένη καλύβα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920210000 +0200" stop="20260920232500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Wicked: Μέρος Δεύτερο</title>
+    <desc lang="el">Οικογενειακή Ταινία, Πρεμιέρα. Καθώς το Οζ στρέφεται εναντίον της Ελφάμπα, εκείνη ζει κρυμμένη προσπαθώντας να αποκαλύψει τα ψέματα του Μάγου.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920232500 +0200" stop="20260921014500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Γράμματα από την Σικελία</title>
+    <desc lang="el">Αστυνομική Ταινία.</desc>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919231500 +0200" stop="20260920011500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Ο Κρυστάλλινος Πύργος</title>
+    <desc lang="el">Θρίλερ - Δράμα. Στη δεκαετία του '70, μια δεκαπεντάχρονη ορφανή κρύβεται στο κινηματογραφικό στούντιο που γυρίζεται 'Η Βασίλισσα του Χιονιού'.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920011500 +0200" stop="20260920032500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Ballerina</title>
+    <desc lang="el">Τανία Δράσης.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920032500 +0200" stop="20260920053000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">21 Γραμμάρια</title>
+    <desc lang="el">Αστυνομικό Θρίλερ.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920053000 +0200" stop="20260920071500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Sorry, Baby</title>
+    <desc lang="el">Δραματική Κομεντί. Μια καθηγήτρια προσπαθεί να ξαναχτίσει τη ζωή της μετά από ένα τραυματικό γεγονός, έχοντας στο πλευρό της τη στενότερη φίλη της.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920071500 +0200" stop="20260920090000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Πιτσιρίκια</title>
+    <desc lang="el">Δραματική Κομεντί. Δύο αγόρια σε ένα γαλλικό χωριό περνάνε την ώρα τους παίζοντας βιντεοπαιχνίδια.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920090000 +0200" stop="20260920111500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Jurassic World: Αναγέννηση</title>
+    <desc lang="el">Περιπέτεια Δράσης. Χρόνια μετά την εξάπλωση των δεινοσαύρων, μια μυστική ομάδα φτάνει σε ένα απαγορευμένο νησί για να συλλέξει γενετικό υλικό.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920111500 +0200" stop="20260920132500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Κολύμπα ή Αλλιώς Βυθίσου</title>
+    <desc lang="el">Κωμωδία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920132500 +0200" stop="20260920151000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Dirty Dancing</title>
+    <desc lang="el">Ρομαντική Ταινία. Στις αρχές της δεκαετίας του '60, μια οικογένεια πηγαίνει διακοπές σε ένα ακριβό θέρετρο, όπου η μικρότερη κόρη ερωτεύεται έναν γοητευτικό δάσκαλο χορού!</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920151000 +0200" stop="20260920170500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Τι να Περιμένεις Όταν Είσαι Έγκυος</title>
+    <desc lang="el">Ρομαντική Κομεντί. Πέντε ζευγάρια αντιμετωπίζουν με διαφορετικό τρόπο την επικείμενη άφιξη ενός... μωρού.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920170500 +0200" stop="20260920173500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Films &amp; Stars</title>
+    <desc lang="el">Αφιέρωμα.</desc>
+    <category lang="el">Παιδική</category>
+    <category lang="el">Μουσική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920173500 +0200" stop="20260920192000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Πρώτος Έρωτας</title>
+    <desc lang="el">Δραματική Ταινία. Η ζωή ενός 14χρονου αγοριού αλλάζει όταν ένας συνομήλικος μετακομίζει δίπλα. Καθώς η φιλία γίνεται πρώτος έρωτας, παλεύει να αποδεχτεί τα συναισθήματά του και να είναι ο εαυτός του.</desc>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920192000 +0200" stop="20260920210000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Hunting Grounds</title>
+    <desc lang="el">Ταινία Δράσης. Μια γυναίκα που δραπετεύει από τον σύζυγό της βρίσκει καταφύγιο σε μια απομονωμένη καλύβα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920210000 +0200" stop="20260920232500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Wicked: Μέρος Δεύτερο</title>
+    <desc lang="el">Οικογενειακή Ταινία, Πρεμιέρα. Καθώς το Οζ στρέφεται εναντίον της Ελφάμπα, εκείνη ζει κρυμμένη προσπαθώντας να αποκαλύψει τα ψέματα του Μάγου.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920232500 +0200" stop="20260921014500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Γράμματα από την Σικελία</title>
+    <desc lang="el">Αστυνομική Ταινία.</desc>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921014500 +0200" stop="20260921032000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Γραμμή Πυρός</title>
+    <desc lang="el">Ταινία Δράσης. Όταν η ανιψιά του ζητά βοήθεια, ένας πρώην πράκτορας σύρεται ξανά σε έναν βίαιο υπόκοσμο και αναγκάζεται να ξεπεράσει όρια για να τη σώσει.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921032000 +0200" stop="20260921054000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Δημόσιος Κίνδυνος</title>
+    <desc lang="el">Αληθινή Ιστορία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921054000 +0200" stop="20260921075000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Ανεμώνη</title>
+    <desc lang="el">Δραματική Ταινία. Στο Γιορκσάιρ στα τέλη της δεκαετίας του 1980, ένας άνδρας συναντά τον αδελφό που είχε εγκαταλείψει.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921075000 +0200" stop="20260921085000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921085000 +0200" stop="20260921103000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Τα Τελευταία 8 Λεπτά</title>
+    <desc lang="el">Θρίλερ. Ένας στρατιώτης ξυπνά στο σώμα ενός άλλου άντρα σε ένα τρένο.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921103000 +0200" stop="20260921125000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Our (Almost Completely True) Story</title>
+    <desc lang="el">Ρομαντική Κομεντί.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921125000 +0200" stop="20260921143000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Nouvelle Vague</title>
+    <desc lang="el">Αληθινή Ιστορία. Στο Παρίσι του 1959, ο νεαρός Ζαν Λικ Γκοντάρ γυρνά την πρώτη του ταινία με ελάχιστα μέσα και άπειρους συνεργάτες.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921143000 +0200" stop="20260921164000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Εκτός Ελέγχου</title>
+    <desc lang="el">Αστυνομική Ταινία. Μετά την απόδρασή του, ένας ληστής βάζει πλώρη για τον επόμενο στόχο του στους κόλπους του υποκόσμου.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921164000 +0200" stop="20260921172000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Action Zone</title>
+    <desc lang="el">Μαγκαζίνο. Ενα μαγκαζίνο γένους αρσενικού!</desc>
+    <category lang="el">Παιδική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921172000 +0200" stop="20260921191000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">You Gotta Believe</title>
+    <desc lang="el">Οικογενειακή Ταινία. Μια ομάδα νέων βρίσκει ελπίδα όταν η πίστη, η συνεργασία και ένας αποφασισμένος προπονητής μετατρέπουν τις ήττες σε μια συγκινητική πορεία, όπου η επιμονή νικά τα πάντα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921191000 +0200" stop="20260921210000 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">High Rollers</title>
+    <desc lang="el">Ταινία Δράσης.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921210000 +0200" stop="20260921230500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">Η Καρδιά ενός Τζογαδόρου</title>
+    <desc lang="el">Δραματική Κομεντί.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921230500 +0200" stop="20260922005500 +0200" channel="cosmotecinema1.gr">
+    <title lang="el">In the Lost Lands</title>
+    <desc lang="el">Περιπέτεια Δράσης. Ένας ατρόμητης πολεμιστής και μια καταραμένη μάγισσα διασχίζουν μια σκληρή ερημιά αναζητώντας απαγορευμένη δύναμη, ανάμεσα σε τέρατα, προδοσίες και επιθυμίες με θανάσιμο τίμημα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260918225500 +0200" stop="20260919005000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Death of a Unicorn</title>
+    <desc lang="el">Θρίλερ Τρόμου.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919005000 +0200" stop="20260919041000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Η Λίστα του Σίντλερ</title>
+    <desc lang="el">Αληθινή Ιστορία. Ενας Γερμανός εργοστασιάρχης ρισκάρει τη ζωή του και χάνει την περιουσία του για να σώσει 1.000 Πολωνοεβραίους, προσλαμβάνοντάς τους στο εργοστάσιο του.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919041000 +0200" stop="20260919070000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Μεγαλώνοντας</title>
+    <desc lang="el">Δραματική Ταινία. Η ταινία παρακολουθεί τη ζωή του Μέισον σε ένα διάστημα 12 ετών, ο οποίος μπροστά στα μάτια μας μετατρέπεται από μικρό αγόρι σε νεαρό φοιτητή.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919070000 +0200" stop="20260919080000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919080000 +0200" stop="20260919095500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Οι Πεταλούδες Είναι Ελεύθερες</title>
+    <desc lang="el">Δραματική Κομεντί.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919095500 +0200" stop="20260919114000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Broke</title>
+    <desc lang="el">Δραματική Ταινία. Ένας ταλαιπωρημένος αναβάτης ροντέο δίνει μάχη για να σώσει την καριέρα και την ψυχή του, όταν μια ξαφνική χιονοθύελλα τον παγιδεύει.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919114000 +0200" stop="20260919133500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Καθηγητής με το Ζόρι</title>
+    <desc lang="el">Ρομαντική Κομεντί.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919133500 +0200" stop="20260919142500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919142500 +0200" stop="20260919161000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Η Φύλακας των Δράκων</title>
+    <desc lang="el">Οικογενειακή Ταινία Κιν. Σχεδίων. Στην αρχαία Κίνα, ένα γενναίο κορίτσι δραπετεύει με τον τελευταίο ζωντανό δράκο.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919161000 +0200" stop="20260919175500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Ezra</title>
+    <desc lang="el">Δραματική Κομεντί.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919175500 +0200" stop="20260919193500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Έκρηξη Θυμού</title>
+    <desc lang="el">Θρίλερ Δράσης. Έπειτα από μια σύντομη λογομαχία σε φανάρι, μια γυναίκα γίνεται στόχος ενός βίαιου αγνώστου που θέλει να της δώσει ένα φονικό μάθημα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919193500 +0200" stop="20260919211000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Μήλα</title>
+    <desc lang="el">Δραματική Ταινία. Στο μέσο μιας παγκόσμιας πανδημίας που προκαλεί ξαφνική αμνησία στους ανθρώπους, ένας άνδρας γύρω στα 40 ακολουθεί ένα πρόγραμμα αποκατάστασης για να δημιουργήσει μια καινούργια ζωή.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919211000 +0200" stop="20260919225000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Ταξίδι στο Νησί της Φαντασίας</title>
+    <desc lang="el">Family Cinema.</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919225000 +0200" stop="20260920003500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Inside Llewyn Davis</title>
+    <desc lang="el">Δραματική Κομεντί.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920003500 +0200" stop="20260920025500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Limonov: The Ballad of Eddie</title>
+    <desc lang="el">Αληθινή Ιστορία. Από Σοβιετικός αντικαθεστωτικός σε ποιητή, υπηρέτη, εξόριστο και πολιτικό ταραχοποιό, ένας ασυμβίβαστος συγγραφέας μεταμορφώνεται διαρκώς.</desc>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920025500 +0200" stop="20260920051000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Το Νησί</title>
+    <desc lang="el">Αληθινή Ιστορία. Μακριά από τον πολιτισμό, ένα ριζοσπαστικό πείραμα για την επίτευξη της τέλειας ζωής γίνεται εφιάλτης. Ο αγώνας για επιβίωση οδηγεί μια ομάδα ιδεαλιστών σε πρωτόγονο χάος.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920051000 +0200" stop="20260920073000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Παρθενόπη</title>
+    <desc lang="el">Δραματική Ταινία. Γεννημένη στη Νάπολη το 1950, μια γοητευτική γυναίκα διασχίζει δεκαετίες γεμάτες έρωτα, φιλοδοξία και αναζητήσεις.</desc>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920073000 +0200" stop="20260920074500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920074500 +0200" stop="20260920093000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Ένας Νέος Γιος</title>
+    <desc lang="el">Δραματική Ταινία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920093000 +0200" stop="20260920115500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Στον Έρωτα του Παιχνιδιού</title>
+    <desc lang="el">Ρομαντική Ταινία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920115500 +0200" stop="20260920141500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Είμαι Ακόμη Εδώ</title>
+    <desc lang="el">Αληθινή Ιστορία. Στη Βραζιλία του '70, μια γυναίκα μάχεται το στρατιωτικό καθεστώς μετά την εξαφάνιση του άντρα της. Ο αγώνας της γίνεται η συγκλονιστική φωνή ενός ολόκληρου έθνους.</desc>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920141500 +0200" stop="20260920160000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Το Κουκλόσπιτο της Γκάμπι: Η Ταινία</title>
+    <desc lang="el">Οικογενειακή Ταινία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920160000 +0200" stop="20260920175000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Μάντεψε ποιος θα έρθει το Βράδυ</title>
+    <desc lang="el">Classic Cinema. Ο ήρεμος βίος του Ματ και της Κριστίνα καταρρέει, όταν η μονάκριβη κόρη τους φέρνει στο σπίτι τον αρραβωνιαστικό της!</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920175000 +0200" stop="20260920190500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920190500 +0200" stop="20260920210000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Οι Πιγκουίνοι της Μαδαγασκάρης</title>
+    <desc lang="el">Οικογενειακή Ταινία Κιν. Σχεδίων.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920210000 +0200" stop="20260920233000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Eddington</title>
+    <desc lang="el">Κωμωδία - Γουέστερν. Τον Μάιο του 2020, η σύγκρουση ενός σερίφη και ενός δημάρχου εξελίσσεται σε σκληρή προεκλογική μάχη.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920233000 +0200" stop="20260921012500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Χωρίς Διέξοδο</title>
+    <desc lang="el">Περιπέτεια. Ένας επιχειρηματίας μετακομίζει με την οικογένειά του στη Νοτιοανατολική Ασία, όμως παγιδεύεται σε ένα αιματηρό πραξικόπημα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919225000 +0200" stop="20260920003500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Inside Llewyn Davis</title>
+    <desc lang="el">Δραματική Κομεντί.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920003500 +0200" stop="20260920025500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Limonov: The Ballad of Eddie</title>
+    <desc lang="el">Αληθινή Ιστορία. Από Σοβιετικός αντικαθεστωτικός σε ποιητή, υπηρέτη, εξόριστο και πολιτικό ταραχοποιό, ένας ασυμβίβαστος συγγραφέας μεταμορφώνεται διαρκώς.</desc>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920025500 +0200" stop="20260920051000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Το Νησί</title>
+    <desc lang="el">Αληθινή Ιστορία. Μακριά από τον πολιτισμό, ένα ριζοσπαστικό πείραμα για την επίτευξη της τέλειας ζωής γίνεται εφιάλτης. Ο αγώνας για επιβίωση οδηγεί μια ομάδα ιδεαλιστών σε πρωτόγονο χάος.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920051000 +0200" stop="20260920073000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Παρθενόπη</title>
+    <desc lang="el">Δραματική Ταινία. Γεννημένη στη Νάπολη το 1950, μια γοητευτική γυναίκα διασχίζει δεκαετίες γεμάτες έρωτα, φιλοδοξία και αναζητήσεις.</desc>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920073000 +0200" stop="20260920074500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920074500 +0200" stop="20260920093000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Ένας Νέος Γιος</title>
+    <desc lang="el">Δραματική Ταινία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920093000 +0200" stop="20260920115500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Στον Έρωτα του Παιχνιδιού</title>
+    <desc lang="el">Ρομαντική Ταινία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920115500 +0200" stop="20260920141500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Είμαι Ακόμη Εδώ</title>
+    <desc lang="el">Αληθινή Ιστορία. Στη Βραζιλία του '70, μια γυναίκα μάχεται το στρατιωτικό καθεστώς μετά την εξαφάνιση του άντρα της. Ο αγώνας της γίνεται η συγκλονιστική φωνή ενός ολόκληρου έθνους.</desc>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920141500 +0200" stop="20260920160000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Το Κουκλόσπιτο της Γκάμπι: Η Ταινία</title>
+    <desc lang="el">Οικογενειακή Ταινία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920160000 +0200" stop="20260920175000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Μάντεψε ποιος θα έρθει το Βράδυ</title>
+    <desc lang="el">Classic Cinema. Ο ήρεμος βίος του Ματ και της Κριστίνα καταρρέει, όταν η μονάκριβη κόρη τους φέρνει στο σπίτι τον αρραβωνιαστικό της!</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920175000 +0200" stop="20260920190500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920190500 +0200" stop="20260920210000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Οι Πιγκουίνοι της Μαδαγασκάρης</title>
+    <desc lang="el">Οικογενειακή Ταινία Κιν. Σχεδίων.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920210000 +0200" stop="20260920233000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Eddington</title>
+    <desc lang="el">Κωμωδία - Γουέστερν. Τον Μάιο του 2020, η σύγκρουση ενός σερίφη και ενός δημάρχου εξελίσσεται σε σκληρή προεκλογική μάχη.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920233000 +0200" stop="20260921012500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Χωρίς Διέξοδο</title>
+    <desc lang="el">Περιπέτεια. Ένας επιχειρηματίας μετακομίζει με την οικογένειά του στη Νοτιοανατολική Ασία, όμως παγιδεύεται σε ένα αιματηρό πραξικόπημα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921012500 +0200" stop="20260921031500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Bride Hard</title>
+    <desc lang="el">Κωμωδία Δράσης. Ένας ονειρικός γάμος μετατρέπεται σε κατάσταση ομηρίας, όταν ένοπλοι εισβάλλουν και η κουμπάρα, κάποτε πράκτορας, αποκαλύπτει το παρελθόν της για να σώσει τους πάντες μέσα στο χάος.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921031500 +0200" stop="20260921052000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Νυκτόβια Πλάσματα</title>
+    <desc lang="el">Θρίλερ. Πνιγμένη σε έναν ακόμα αποτυχημένο γάμο, μία γκαλερίστα βυθίζεται στο αδημοσίευτο μυθιστόρημα που της έστειλε ο πρώην σύζυγός της, που τη φέρνει αντιμέτωπη με το παρελθόν και τον εαυτό της.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921052000 +0200" stop="20260921071500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Slingshot</title>
+    <desc lang="el">Μυστήριο Επ. Φαντασίας.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921071500 +0200" stop="20260921081500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Hollywood Buzz</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ολες οι εξελίξεις από το λαμπερό Χόλιγουντ, αποκλειστικά στο novacinema!</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921081500 +0200" stop="20260921100000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Bookworm</title>
+    <desc lang="el">Κωμική Περιπέτεια.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921100000 +0200" stop="20260921115500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Νεαρές Μητέρες</title>
+    <desc lang="el">Κοινωνική Ταινία. Σε έναν ξενώνα για ευάλωτες νεαρές μητέρες, πέντε έφηβες προσπαθούν να διαχειριστούν εγκυμοσύνη, μητρότητα και δύσκολες σχέσεις, παλεύοντας να πάρουν ξανά τη ζωή τους στα χέρια τους.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921115500 +0200" stop="20260921125500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921125500 +0200" stop="20260921143500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Cafe Society</title>
+    <desc lang="el">Ρομαντική Ταινία. Ο νεαρός Μπόμπι αφήνει τη Νέα Υόρκη του '30 για το Χόλιγουντ, όπου θα εργαστεί ως βοηθός του ατζέντη θείου του.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921143500 +0200" stop="20260921161500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Για Όνομα του Θεού!</title>
+    <desc lang="el">Κωμωδία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921161500 +0200" stop="20260921174500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Flow: Η Γάτα που δεν Φοβόταν το Νερό</title>
+    <desc lang="el">Οικογενειακή Ταινία Κιν. Σχεδίων. Ύστερα από μια μεγάλη πλημμύρα, μια μοναχική γάτα βρίσκει καταφύγιο σε μια βάρκα με άλλα ζώα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921174500 +0200" stop="20260921192000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Άλλοθι Για Παντρεμένους 2</title>
+    <desc lang="el">Κωμωδία. Αφού έκλεισε την επιχείρησή του, ο Γκρεγκ ζει μία ήσυχη ζωή και κάνει πρόταση γάμου στη Φλο. Θα πρέπει, όμως, να τη συστήσει στην οικογένειά του, και κάτι τέτοιο θα ήταν καταστροφικό...</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921192000 +0200" stop="20260921210000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Μυστικό Δίκτυο</title>
+    <desc lang="el">Αστυνομική Ταινία Δράσης. Δύο ερωτευμένοι πράκτορες εξαφανίζονται για μία ήσυχη ζωή, αλλά ένας μυστικός σκληρός δίσκος αναγκάζει όλες τις μυστικές υπηρεσίες του κόσμου να τους κυνηγήσουν.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921210000 +0200" stop="20260921224500 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Shell</title>
+    <desc lang="el">Θρίλερ. Μια ηθοποιός που βλέπει την καριέρα της να φθίνει στρέφεται σε μια πρωτοποριακή θεραπεία που υπόσχεται αιώνια νεότητα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921224500 +0200" stop="20260922002000 +0200" channel="cosmotecinema2.gr">
+    <title lang="el">Poison</title>
+    <desc lang="el">Δραματική Ταινία. Χρόνια μετά τον θάνατο του γιου τους, ένα διαζευγμένο ζευγάρι συναντιέται ξανά για να πάρει μια δύσκολη απόφαση.</desc>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260918220000 +0200" stop="20260919001500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Terrifier 3</title>
+    <desc lang="el">Bloody Cinema, Πρεμιέρα. Πέντε χρόνια μετά τη σφαγή του Χάλοουιν, ο Αρτ ο Κλόουν επιστρέφει τα Χριστούγεννα για να σκορπίσει τον τρόμο.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>18</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919001500 +0200" stop="20260919003000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919003000 +0200" stop="20260919015800 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Stepmoms Ready For Action</title>
+    <desc lang="el">Αισθησιακή ταινία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>18</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919015800 +0200" stop="20260919040000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Freaky Tales</title>
+    <desc lang="el">Αστυνομική Κωμωδία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>18</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919040000 +0200" stop="20260919060500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Les Derniers Hommes</title>
+    <desc lang="el">Αληθινή Ιστορία. Τον Μάρτιο του '45, μια ομάδα Γάλλων λεγεωνάριων διαφεύγει από τους Ιάπωνες.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919060500 +0200" stop="20260919075500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Rock Hudson: All that Heaven Allowed</title>
+    <desc lang="el">Ντοκιμαντέρ. Μέσα από σπάνιο αρχειακό υλικό και προσωπικές μαρτυρίες, ξεδιπλώνεται η ζωή ενός θρύλου του Χόλιγουντ πέρα από τη λάμψη.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919075500 +0200" stop="20260919093000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Δωρεάν Διακοπές</title>
+    <desc lang="el">Κωμωδία. Ελπίζοντας να γίνει ταξιδιωτικός συντάκτης, ένας άπειρος νεαρός αναλαμβάνει μια αποστολή στο Μαρόκο.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919093000 +0200" stop="20260919112000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Hurry Up Tomorrow</title>
+    <desc lang="el">Θρίλερ. Ένας μουσικός βυθισμένος στην αϋπνία και την ψυχική κατάρρευση παρασύρεται σε μια αλλόκοτη συνάντηση με έναν άγνωστο.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919112000 +0200" stop="20260919130000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Karate Kid: Θρύλοι</title>
+    <desc lang="el">Οικογενειακή Ταινία Δράσης. Ένας νεαρός μαχητής αναζητά τον δρόμο του όταν δύο δάσκαλοι από διαφορετικούς κόσμους μπαίνουν στη ζωή του.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919130000 +0200" stop="20260919145000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">My Dead Friend Zoe</title>
+    <desc lang="el">Κωμική - Πολεμική Ταινία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919145000 +0200" stop="20260919163000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Drop</title>
+    <desc lang="el">Θρίλερ Μυστηρίου.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919163000 +0200" stop="20260919173000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919173000 +0200" stop="20260919200000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Traffic</title>
+    <desc lang="el">Αστυνομικό Θρίλερ. Τρεις διαφορετικές ιστορίες με κοινό άξονα τον σκληρό κόσμο της διακίνησης ναρκωτικών...</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919200000 +0200" stop="20260919220000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">How to Make a Killing</title>
+    <desc lang="el">Αστυνομική Κωμωδία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919220000 +0200" stop="20260920003000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">The Doors</title>
+    <desc lang="el">Αληθινή Ιστορία. Η πολυτάραχη ζωή του Τζιμ Μόρισον και των "Doors" οι οποίοι έγραψαν ιστορία στη δεκαετία του '60 και κατόρθωσαν να έχουν φανατικούς θαυμαστές μέχρι και σήμερα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>18</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920003000 +0200" stop="20260920015800 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Dating My Stepson 2</title>
+    <desc lang="el">Αισθησιακή ταινία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>18</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920015800 +0200" stop="20260920033000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Honey Don't!</title>
+    <desc lang="el">Αστυνομική Κωμωδία. Μια καυστική ντετέκτιβ μπλέκεται σε μια υπόθεση γεμάτη ύποπτους θανάτους, αλλόκοτους χαρακτήρες και κρυφές επιθυμίες.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920033000 +0200" stop="20260920050500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Κανένας 2</title>
+    <desc lang="el">Κωμωδία Δράσης. Ένας πατέρας προσπαθεί να απολαύσει τις οικογενειακές διακοπές, όμως μια σύγκρουση με αδίστακτους εγκληματίες τον βυθίζει ξανά στη βία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920050500 +0200" stop="20260920071000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Double Down South</title>
+    <desc lang="el">Θρίλερ.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920071000 +0200" stop="20260920073500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920073500 +0200" stop="20260920090500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Distant</title>
+    <desc lang="el">Ταινία Επ. Φαντασίας. Μετά τη συντριβή σε έναν μακρινό πλανήτη, ένας εργάτης εξόρυξης αστεροειδών εγκλωβίζεται σε μια κατεστραμμένη κάψουλα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920090500 +0200" stop="20260920110500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Riddle of Fire</title>
+    <desc lang="el">Κωμική Περιπέτεια. Τρία παιδιά ξεκινούν μια ξέφρενη αποστολή μέσα σε δάση με αλλόκοτες συναντήσεις για να βρουν μια χαμένη κονσόλα, μετατρέποντας μια απλή δουλειά σε φανταστική περιπέτεια φιλίας.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920110500 +0200" stop="20260920125500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Το Φοινικικό Σχέδιο</title>
+    <desc lang="el">Αστυνομική Κωμωδία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920125500 +0200" stop="20260920145000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Καζαντζάκης</title>
+    <desc lang="el">Δράμα - Αληθινή Ιστορία. Ο βίος και η πολιτεία του Νίκου Καζαντζάκη, ενός από τους σπουδαιότερους λογοτέχνες παγκοσμίως, από τα παιδικά του χρόνια στην Κρήτη μέχρι και το θάνατό του στη Γερμανία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920145000 +0200" stop="20260920162500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Συμπέθεροι από Σόι</title>
+    <desc lang="el">Κωμωδία. Μία αριστοκρατική και μία ταπεινή οικογένεια συγκρούονται για έναν γάμο μέχρι που τεστ DNA αποκαλύπτουν ένα εκρηκτικό μυστικό. Οι πραγματικές τους ρίζες απειλούν να διαλύσουν τις ζωές τους!</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920162500 +0200" stop="20260920182000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Oι Κυνηγοί στο Τέλος του Κόσμου</title>
+    <desc lang="el">Ταινία Δράσης. Σε έναν κόσμο κατεστραμμένο από ηλιακές καταιγίδες, ένας σκληροτράχηλος κυνηγός θησαυρών διασχίζει ερείπια πόλεων για ένα ανεκτίμητο αντικείμενο, πολεμώντας αδίστακτους αντιπάλους.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920182000 +0200" stop="20260920200000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Ο Επιθεωρητής Ναντόρ και το...</title>
+    <desc lang="el">Μυστήριο στη Φάρμα. Το 1935, ένας ερευνητής φτάνει σε μια φάρμα για να συναντήσει ένα πλάσμα που είναι είτε θαύμα είτε φάρσα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920200000 +0200" stop="20260920221500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Ένα Καλοκαίρι</title>
+    <desc lang="el">Δραματική Περιπέτεια.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920221500 +0200" stop="20260921000000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">The AI Doc:</title>
+    <desc lang="el">Or How I Became an Apocaloptimist. Καθώς η τεχνητή νοημοσύνη αλλάζει την καθημερινότητα, ειδικοί, καλλιτέχνες και σκεπτικιστές εξερευνούν τις υποσχέσεις και τους κινδύνους της.</desc>
+    <category lang="el">Μουσική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919220000 +0200" stop="20260920003000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">The Doors</title>
+    <desc lang="el">Αληθινή Ιστορία. Η πολυτάραχη ζωή του Τζιμ Μόρισον και των "Doors" οι οποίοι έγραψαν ιστορία στη δεκαετία του '60 και κατόρθωσαν να έχουν φανατικούς θαυμαστές μέχρι και σήμερα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>18</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920003000 +0200" stop="20260920015800 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Dating My Stepson 2</title>
+    <desc lang="el">Αισθησιακή ταινία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>18</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920015800 +0200" stop="20260920033000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Honey Don't!</title>
+    <desc lang="el">Αστυνομική Κωμωδία. Μια καυστική ντετέκτιβ μπλέκεται σε μια υπόθεση γεμάτη ύποπτους θανάτους, αλλόκοτους χαρακτήρες και κρυφές επιθυμίες.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920033000 +0200" stop="20260920050500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Κανένας 2</title>
+    <desc lang="el">Κωμωδία Δράσης. Ένας πατέρας προσπαθεί να απολαύσει τις οικογενειακές διακοπές, όμως μια σύγκρουση με αδίστακτους εγκληματίες τον βυθίζει ξανά στη βία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920050500 +0200" stop="20260920071000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Double Down South</title>
+    <desc lang="el">Θρίλερ.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920071000 +0200" stop="20260920073500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920073500 +0200" stop="20260920090500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Distant</title>
+    <desc lang="el">Ταινία Επ. Φαντασίας. Μετά τη συντριβή σε έναν μακρινό πλανήτη, ένας εργάτης εξόρυξης αστεροειδών εγκλωβίζεται σε μια κατεστραμμένη κάψουλα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920090500 +0200" stop="20260920110500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Riddle of Fire</title>
+    <desc lang="el">Κωμική Περιπέτεια. Τρία παιδιά ξεκινούν μια ξέφρενη αποστολή μέσα σε δάση με αλλόκοτες συναντήσεις για να βρουν μια χαμένη κονσόλα, μετατρέποντας μια απλή δουλειά σε φανταστική περιπέτεια φιλίας.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920110500 +0200" stop="20260920125500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Το Φοινικικό Σχέδιο</title>
+    <desc lang="el">Αστυνομική Κωμωδία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920125500 +0200" stop="20260920145000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Καζαντζάκης</title>
+    <desc lang="el">Δράμα - Αληθινή Ιστορία. Ο βίος και η πολιτεία του Νίκου Καζαντζάκη, ενός από τους σπουδαιότερους λογοτέχνες παγκοσμίως, από τα παιδικά του χρόνια στην Κρήτη μέχρι και το θάνατό του στη Γερμανία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920145000 +0200" stop="20260920162500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Συμπέθεροι από Σόι</title>
+    <desc lang="el">Κωμωδία. Μία αριστοκρατική και μία ταπεινή οικογένεια συγκρούονται για έναν γάμο μέχρι που τεστ DNA αποκαλύπτουν ένα εκρηκτικό μυστικό. Οι πραγματικές τους ρίζες απειλούν να διαλύσουν τις ζωές τους!</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920162500 +0200" stop="20260920182000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Oι Κυνηγοί στο Τέλος του Κόσμου</title>
+    <desc lang="el">Ταινία Δράσης. Σε έναν κόσμο κατεστραμμένο από ηλιακές καταιγίδες, ένας σκληροτράχηλος κυνηγός θησαυρών διασχίζει ερείπια πόλεων για ένα ανεκτίμητο αντικείμενο, πολεμώντας αδίστακτους αντιπάλους.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920182000 +0200" stop="20260920200000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Ο Επιθεωρητής Ναντόρ και το...</title>
+    <desc lang="el">Μυστήριο στη Φάρμα. Το 1935, ένας ερευνητής φτάνει σε μια φάρμα για να συναντήσει ένα πλάσμα που είναι είτε θαύμα είτε φάρσα.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920200000 +0200" stop="20260920221500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Ένα Καλοκαίρι</title>
+    <desc lang="el">Δραματική Περιπέτεια.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>12</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920221500 +0200" stop="20260921000000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">The AI Doc:</title>
+    <desc lang="el">Or How I Became an Apocaloptimist. Καθώς η τεχνητή νοημοσύνη αλλάζει την καθημερινότητα, ειδικοί, καλλιτέχνες και σκεπτικιστές εξερευνούν τις υποσχέσεις και τους κινδύνους της.</desc>
+    <category lang="el">Μουσική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921000000 +0200" stop="20260921003000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921003000 +0200" stop="20260921015800 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Stepmoms Ready For Action</title>
+    <desc lang="el">Αισθησιακή ταινία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>18</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921015800 +0200" stop="20260921034500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Τύχη Βουνό</title>
+    <desc lang="el">Κωμωδία. Η ζωή ενός ταλαιπωρημένου άνδρα ανατρέπεται όταν ένας καλοπροαίρετος άγγελος αναλαμβάνει να τον βοηθήσει.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921034500 +0200" stop="20260921052500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Κλείδωσες; Οι Άγνωστοι 2</title>
+    <desc lang="el">Ταινία Τρόμου. Στοιχειωμένη από μια άγρια επίθεση, μια νεαρή γυναίκα παγιδεύεται ξανά όταν μασκοφόροι άγνωστοι επιστρέφουν για να τελειώσουν όσα άρχισαν.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921052500 +0200" stop="20260921182500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Novacinema3HD</title>
+    <desc lang="el">Ξανά κοντά σας στις 19:25. Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν!</desc>
+    <category lang="el">Μαγκαζίνο</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921182500 +0200" stop="20260921200000 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Ο Θάνατος της Μπελ</title>
+    <desc lang="el">Δραματική - Αστυνομική Ταινία. Όταν μια νεαρή γυναίκα βρίσκεται νεκρή σε μια ήσυχη πόλη, οι υποψίες στρέφονται στους πιο κοντινούς της και η έρευνα αποκαλύπτει μυστικά, πόθο και μια εύθραυστη αλήθεια.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921200000 +0200" stop="20260921220500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Lord of War</title>
+    <desc lang="el">Αληθινή Ιστορία.</desc>
+    <category lang="el">Ταινία</category>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921220500 +0200" stop="20260922000500 +0200" channel="cosmotecinema3.gr">
+    <title lang="el">Η Κοιλάδα των Σκιών</title>
+    <desc lang="el">Αστυνομική Ταινία.</desc>
+    <rating system="MPAA"><value>16</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
   <programme start="20260918233000 +0200" stop="20260919003000 +0200" channel="cosmotesport1.gr">
     <title lang="el">UCL Highlights 2026-27 : League Phase, 1η Αγωνιστική</title>
     <desc lang="el">League Phase, 1η Αγωνιστική. Τα καλύτερα στιγμιότυπα της αγωνιστικής του UEFA Champions League.</desc>
@@ -25174,6 +26800,486 @@
   </programme>
   <programme start="20260921230000 +0200" stop="20260922010000 +0200" channel="cosmotesport8.gr">
     <title lang="el">Magenta Sport 8 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260918230000 +0200" stop="20260919010000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919010000 +0200" stop="20260919030000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919030000 +0200" stop="20260919050000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919050000 +0200" stop="20260919070000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919070000 +0200" stop="20260919090000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919090000 +0200" stop="20260919110000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919110000 +0200" stop="20260919130000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919130000 +0200" stop="20260919150000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919150000 +0200" stop="20260919170000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919170000 +0200" stop="20260919190000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919190000 +0200" stop="20260919210000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919210000 +0200" stop="20260919230000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919230000 +0200" stop="20260920010000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920010000 +0200" stop="20260920030000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920030000 +0200" stop="20260920050000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920050000 +0200" stop="20260920070000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920070000 +0200" stop="20260920090000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920090000 +0200" stop="20260920110000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920110000 +0200" stop="20260920130000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920130000 +0200" stop="20260920150000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920150000 +0200" stop="20260920170000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920170000 +0200" stop="20260920190000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920190000 +0200" stop="20260920222500 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">NFL 2026 - 27 - Κανονική διάρκεια : Αμερικάνικο ποδόσφαιρο</title>
+    <desc lang="el">Αμερικάνικο ποδόσφαιρο. 2η Αγωνιστική. 32 ομάδες συμμετέχουν στο κορυφαίο πρωτάθλημα American Football στον κόσμο. Στόχος, μια θέση στο Super Bowl.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920222500 +0200" stop="20260921015500 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">NFL 2026 - 27 - Κανονική διάρκεια : Αμερικάνικο ποδόσφαιρο</title>
+    <desc lang="el">Αμερικάνικο ποδόσφαιρο. 2η Αγωνιστική. 32 ομάδες συμμετέχουν στο κορυφαίο πρωτάθλημα American Football στον κόσμο. Στόχος, μια θέση στο Super Bowl.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260919230000 +0200" stop="20260920010000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920010000 +0200" stop="20260920030000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920030000 +0200" stop="20260920050000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920050000 +0200" stop="20260920070000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920070000 +0200" stop="20260920090000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920090000 +0200" stop="20260920110000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920110000 +0200" stop="20260920130000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920130000 +0200" stop="20260920150000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920150000 +0200" stop="20260920170000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920170000 +0200" stop="20260920190000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920190000 +0200" stop="20260920222500 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">NFL 2026 - 27 - Κανονική διάρκεια : Αμερικάνικο ποδόσφαιρο</title>
+    <desc lang="el">Αμερικάνικο ποδόσφαιρο. 2η Αγωνιστική. 32 ομάδες συμμετέχουν στο κορυφαίο πρωτάθλημα American Football στον κόσμο. Στόχος, μια θέση στο Super Bowl.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260920222500 +0200" stop="20260921015500 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">NFL 2026 - 27 - Κανονική διάρκεια : Αμερικάνικο ποδόσφαιρο</title>
+    <desc lang="el">Αμερικάνικο ποδόσφαιρο. 2η Αγωνιστική. 32 ομάδες συμμετέχουν στο κορυφαίο πρωτάθλημα American Football στον κόσμο. Στόχος, μια θέση στο Super Bowl.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>8</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921015500 +0200" stop="20260921022000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921022000 +0200" stop="20260921055000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Κάνσας Σίτι Τσιφς - Κολτς (Z) : NFL 2026 - 27 - Κανονική διάρκεια</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια. 2η Αγωνιστική.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921055000 +0200" stop="20260921070000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921070000 +0200" stop="20260921090000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921090000 +0200" stop="20260921110000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921110000 +0200" stop="20260921130000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921130000 +0200" stop="20260921150000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921150000 +0200" stop="20260921170000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921170000 +0200" stop="20260921190000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921190000 +0200" stop="20260921210000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921210000 +0200" stop="20260921230000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
+    <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Ψυχαγωγική</category>
+    <rating system="MPAA"><value>0</value></rating>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260921230000 +0200" stop="20260922010000 +0200" channel="cosmotesport9hd.gr">
+    <title lang="el">Magenta Sport 9 : Promo</title>
     <desc lang="el">Promo. Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Ψυχαγωγική</category>
     <rating system="MPAA"><value>0</value></rating>
