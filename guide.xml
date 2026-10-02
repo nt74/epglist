@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20261002131937 +0000">
+<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20261002132319 +0000">
   <channel id="espn.us">
     <display-name lang="en">ESPN</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" />
@@ -64,6 +64,9 @@
   </channel>
   <channel id="axesstv.se">
     <display-name lang="en">Axess TV</display-name>
+  </channel>
+  <channel id="bbcnordic.se">
+    <display-name lang="en">BBC Nordic</display-name>
   </channel>
   <channel id="bloombergtv.uk">
     <display-name lang="en">Bloomberg TV</display-name>
@@ -6772,6 +6775,342 @@
     <title lang="sv">Slottet Blenheim bakom kulisserna</title>
     <desc lang="sv">Blenheim Palace är det enda icke-kungliga slottet i England. Sedan 1950 är det öppet för allmänheten.</desc>
     <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20261002060000 +0200" stop="20261002063500 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Sandi Toksvig tar upp några splittrade samtalsämnen med Alan Davies, Jimmy Carr, Gyles Brandreth och Sally Phillips.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S17E3</episode-num>
+  </programme>
+  <programme start="20261002063500 +0200" stop="20261002071500 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Sandi Toksvig tittar på olika delar med Sara Pascoe, Ed Balls, Johnny Vegas och stamgästen Alan Davies.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S17E4</episode-num>
+  </programme>
+  <programme start="20261002071500 +0200" stop="20261002075500 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Sandi Toksvig fördjupar sig i det offentliga och det privata tillsammans med Alan Davies, Victoria Coren Mitchell, Phill Jupitus och Bridget Christie.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S17E5</episode-num>
+  </programme>
+  <programme start="20261002075500 +0200" stop="20261002083000 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Sandi Toksvig tittar på bilder med Alan Davies, Hannah Gadsby, Noel Fielding och Joe Lycett.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S17E6</episode-num>
+  </programme>
+  <programme start="20261002083000 +0200" stop="20261002093500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Antik roadshow</title>
+    <desc lang="sv">Antiques ordnar en värderingsdag för antikviteter som sänds från Morden Hall Park i South London. Fiona Bruce är programledare.</desc>
+    <date>2020</date>
+    <episode-num system="onscreen">S42E7</episode-num>
+  </programme>
+  <programme start="20261002093500 +0200" stop="20261002104500 +0200" channel="bbcnordic.se">
+    <title lang="sv">The great British bake off</title>
+    <desc lang="sv">De fem återstående bagarna står inför en ännu tuffare andra degvecka.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S5E8</episode-num>
+  </programme>
+  <programme start="20261002104500 +0200" stop="20261002114500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Father Brown</title>
+    <desc lang="sv">Fader Brown måste lista ut vem som skickar en serie anonyma hotbrev.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S2E9</episode-num>
+  </programme>
+  <programme start="20261002114500 +0200" stop="20261002122500 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Sandi Toksvig går på picknick tillsammans med Alan Davies, Romesh Ranganathan, Rachel Parris och Richard Osman.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S17E7</episode-num>
+  </programme>
+  <programme start="20261002122500 +0200" stop="20261002130000 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Sandi Toksvig undersöker växter tillsammans med Alan Davies, Sara Pascoe, Stephen K Amos och Jason Manford.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S17E8</episode-num>
+  </programme>
+  <programme start="20261002130000 +0200" stop="20261002134000 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Sandi Toksvig firar julfest i puben tillsammans med Alan Davies, Cariad Lloyd, Josh Widdicombe och Noel Fielding.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S17E9</episode-num>
+  </programme>
+  <programme start="20261002134000 +0200" stop="20261002145000 +0200" channel="bbcnordic.se">
+    <title lang="sv">Antik roadshow</title>
+    <desc lang="sv">Antiques Roadshow är på historiska Battle Abbey i East Sussex, där höjdpunkterna inkluderar en diamantring köpt för ett pund, en värdefull 1600-talsfiol och ett telegram från Hitler.</desc>
+    <date>2020</date>
+    <episode-num system="onscreen">S42E8</episode-num>
+  </programme>
+  <programme start="20261002145000 +0200" stop="20261002155500 +0200" channel="bbcnordic.se">
+    <title lang="sv">The great British bake off</title>
+    <desc lang="sv">De fem återstående bagarna står inför en ännu tuffare andra degvecka.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S5E8</episode-num>
+  </programme>
+  <programme start="20261002155500 +0200" stop="20261002170000 +0200" channel="bbcnordic.se">
+    <title lang="sv">The great British bake off</title>
+    <desc lang="sv">De återstående bagarna gör baklava, lager på lager-tårta och två eleganta entremets.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S5E9</episode-num>
+  </programme>
+  <programme start="20261002170000 +0200" stop="20261002180000 +0200" channel="bbcnordic.se">
+    <title lang="sv">Den svagaste länken</title>
+    <desc lang="sv">De tävlande är Dermot O'Leary, Charlene White, Lauren Layfield, Anthony Ogogo, Joe Baggs, Mark Heyes, Mhairi Black och Zeze Millz.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S5E7</episode-num>
+  </programme>
+  <programme start="20261002180000 +0200" stop="20261002190500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Father Brown</title>
+    <desc lang="sv">Sullivan bestämmer sig för att sätta stopp för Fader Browns ständiga snokande en gång för alla.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S2E10</episode-num>
+  </programme>
+  <programme start="20261002190500 +0200" stop="20261002201000 +0200" channel="bbcnordic.se">
+    <title lang="sv">The inner circle</title>
+    <desc lang="sv">Tävlingsprogrammet där strategi och tillit är lika viktigt som allmänbildning. Målet med spelet?. Att få mest pengar och de skarpaste hjärnorna till finalen.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S1E20</episode-num>
+  </programme>
+  <programme start="20261002201000 +0200" stop="20261002205000 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Stephen Fry ställer frågor om 'Litteratur' med gästerna Victoria Coren Mitchell, Jack Whitehall, Lloyd Langford och Alan Davies.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S13E3</episode-num>
+  </programme>
+  <programme start="20261002205000 +0200" stop="20261002213000 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Stephen Fry ställer frågor om 'Lättsinne' med gästerna Josh Widdicombe, Sue Perkins, Frank Skinner och Alan Davies.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S13E4</episode-num>
+  </programme>
+  <programme start="20261002213000 +0200" stop="20261002223000 +0200" channel="bbcnordic.se">
+    <title lang="sv">The Graham Norton show</title>
+    <desc lang="sv">Graham Norton presenterar en livlig pratshow med Tom Cruise, Florence Pugh, Lolly Adefope, John Bishop, og Emeli Sande.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">S34E1</episode-num>
+  </programme>
+  <programme start="20261002223000 +0200" stop="20261002233000 +0200" channel="bbcnordic.se">
+    <title lang="sv">Live på Apollo</title>
+    <desc lang="sv">Den oefterhärmlige Tom Allen står värd för detta avsnitt och presenterar den fantastiska Rosie Jones och den fenomenala Kae Kurd på den världsberömda scenen på Apollo.</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S15E1</episode-num>
+  </programme>
+  <programme start="20261002233000 +0200" stop="20261003003000 +0200" channel="bbcnordic.se">
+    <title lang="sv">Alan Davies: As yet untitled</title>
+    <desc lang="sv">Alans gäster är Sue Perkins, Jamali Maddix, Lara Ricote och Josh Jones.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">S7E1</episode-num>
+  </programme>
+  <programme start="20261003003000 +0200" stop="20261003011000 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Stephen Fry ställer frågor om 'Linser' med gästerna Jo Brand, Josh Widdicombe, Phill Jupitus och Alan Davies.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S13E5</episode-num>
+  </programme>
+  <programme start="20261003011000 +0200" stop="20261003015500 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Stephen Fry ställer frågor om 'Liblabble' med gästerna Reverend Richard Coles, Sara Pascoe, Bill Bailey och Alan Davies.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S13E6</episode-num>
+  </programme>
+  <programme start="20261003015500 +0200" stop="20261003025500 +0200" channel="bbcnordic.se">
+    <title lang="sv">The Graham Norton show</title>
+    <desc lang="sv">Graham Norton presenterar en livlig pratshow med Tom Cruise, Florence Pugh, Lolly Adefope, John Bishop, og Emeli Sande.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">S34E1</episode-num>
+  </programme>
+  <programme start="20261003025500 +0200" stop="20261003034500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Live på Apollo</title>
+    <desc lang="sv">Den oefterhärmlige Tom Allen står värd för detta avsnitt och presenterar den fantastiska Rosie Jones och den fenomenala Kae Kurd på den världsberömda scenen på Apollo.</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S15E1</episode-num>
+  </programme>
+  <programme start="20261003034500 +0200" stop="20261003041500 +0200" channel="bbcnordic.se">
+    <title lang="sv">David Attenborough's Natural curiosities</title>
+    <desc lang="sv">En titt på två av naturens egendomligheter - ett djur med superlång hals och ett annat med en elastisk tunga.</desc>
+    <date>2013</date>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261003041500 +0200" stop="20261003045000 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Sandi Toksvig tar upp några splittrade samtalsämnen med Alan Davies, Jimmy Carr, Gyles Brandreth och Sally Phillips.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S17E3</episode-num>
+  </programme>
+  <programme start="20261003045000 +0200" stop="20261003052500 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Sandi Toksvig tittar på olika delar med Sara Pascoe, Ed Balls, Johnny Vegas och stamgästen Alan Davies.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S17E4</episode-num>
+  </programme>
+  <programme start="20261003052500 +0200" stop="20261003060000 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Sandi Toksvig fördjupar sig i det offentliga och det privata tillsammans med Alan Davies, Victoria Coren Mitchell, Phill Jupitus och Bridget Christie.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S17E5</episode-num>
+  </programme>
+  <programme start="20261003060000 +0200" stop="20261003064000 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">QI går bärsärkagång genom bokstaven W när Sandi och Alan får sällskap av Josh Widdicombe, Catherine Bohart och Russell Kane.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S24E12</episode-num>
+  </programme>
+  <programme start="20261003064000 +0200" stop="20261003071500 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Michael Odewale, Cally Beaton och Gyles Brandreth gör Sandi och Alan sällskap och skojar om gamla och konstiga ord.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S24E13</episode-num>
+  </programme>
+  <programme start="20261003071500 +0200" stop="20261003080000 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Vad finns det att inte gilla med Sandi Toksvigs titt på en hel uppsjö av QI-mojänger?. Med Sally Phillips, Andrew Maxwell, Joanne McNally och Alan Davies.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S24E14</episode-num>
+  </programme>
+  <programme start="20261003080000 +0200" stop="20261003083500 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Ett urval av de bästa ögonblicken från W-säsongen av QI, med Sandi Toksvig som programledare tillsammans med Alan Davies och deras gäster.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S24E15</episode-num>
+  </programme>
+  <programme start="20261003083500 +0200" stop="20261003095000 +0200" channel="bbcnordic.se">
+    <title lang="sv">The great British bake off</title>
+    <desc lang="sv">Nästan halvvägs i baktävlingen ställs de kvarvarande bagarna inför uppgiften att baka pajer och tårtor.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S5E5</episode-num>
+  </programme>
+  <programme start="20261003095000 +0200" stop="20261003110000 +0200" channel="bbcnordic.se">
+    <title lang="sv">The great British bake off</title>
+    <desc lang="sv">De återstående sex bagarna ska ta sig an tre europeiska tårtor, inklusive en dobostårta i två nivåer.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S5E6</episode-num>
+  </programme>
+  <programme start="20261003110000 +0200" stop="20261003121000 +0200" channel="bbcnordic.se">
+    <title lang="sv">The great British bake off</title>
+    <desc lang="sv">I vecka sju testas bagarna med alla möjliga konstiga och underbara bakverk.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S5E7</episode-num>
+  </programme>
+  <programme start="20261003121000 +0200" stop="20261003130500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Father Brown</title>
+    <desc lang="sv">Fader Brown undersöker när en medlem i Kemblefords kvinnoförening dör under mystiska omständigheter.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20261003130500 +0200" stop="20261003140500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Father Brown</title>
+    <desc lang="sv">Fader Brown hjälper en kvinna vars pappa blev dödad bara några veckor efter hennes mammas död.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S2E7</episode-num>
+  </programme>
+  <programme start="20261003140500 +0200" stop="20261003150500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Father Brown</title>
+    <desc lang="sv">När en före detta krigsfånge blir misstänkt för att ha dödat sin farbror tror fader Brown att han är oskyldig.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S2E8</episode-num>
+  </programme>
+  <programme start="20261003150500 +0200" stop="20261003160500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Extraordinära resor med Sandi Toksvig</title>
+    <desc lang="sv">I Devon njuter Sarah Millican och Sandi av en skandinavisk-inspirerad retreat på en sluttning, besöker Exmoors vildmark, bor i en kvarn från 1500-talet vid vattnet och upplever ett gongbad i ett sublimt privat spa.</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">S2E1</episode-num>
+  </programme>
+  <programme start="20261003160500 +0200" stop="20261003170500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Extraordinära resor med Sandi Toksvig</title>
+    <desc lang="sv">Sandi tar med sig skådespelaren Sunetra Sarker till Norfolk för att visa denna självvalda hemmakatt friluftslivets nöjen.. De besöker en gammal kvarnvaktarstuga, spanar på sälar och bor i ett viktorianskt pumphus.</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">S2E2</episode-num>
+  </programme>
+  <programme start="20261003170500 +0200" stop="20261003180500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Extraordinära resor med Sandi Toksvig</title>
+    <desc lang="sv">Sandi tar med sig tv-ikonen och skådespelaren Sue Johnston till fantastiska semesterboenden i Cornwall.. Deras första stopp är ett magnifikt designat, modernistiskt strandhus på en avskild tomt med utsikt över över Praa Sands dramatiska landskap.</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme start="20261003180500 +0200" stop="20261003192500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Wilderness with Simon Reeve</title>
+    <desc lang="sv">Simon Reeve vandrar över Patagoniens höga berg och förrädiska isfält, hamnar öga mot öga med pumor och rider med gauchos.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20261003192500 +0200" stop="20261003203000 +0200" channel="bbcnordic.se">
+    <title lang="sv">The Graham Norton show</title>
+    <desc lang="sv">Graham Norton presenterar en livlig pratshow med Tom Cruise, Florence Pugh, Lolly Adefope, John Bishop, og Emeli Sande.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">S34E1</episode-num>
+  </programme>
+  <programme start="20261003203000 +0200" stop="20261003213000 +0200" channel="bbcnordic.se">
+    <title lang="sv">8 out of 10 cats does countdown</title>
+    <desc lang="sv">Sean Lock och Joe Wilkinson tar sig an Jon Richardson och komikern Kiri Pritchard-McLean.. Susie Dent och den musikaliska komediduon The Brett Domino Trio finns i Dictionary Corner, Rachel Riley är på Countdown Board och Jimmy Carr är värd.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S13E3</episode-num>
+  </programme>
+  <programme start="20261003213000 +0200" stop="20261003223000 +0200" channel="bbcnordic.se">
+    <title lang="sv">Where the wild men are with Ben Fogle</title>
+    <desc lang="sv">Ben besöker Scott Brodie i Utah som har byggt upp ett liv i vildmarken i Canyonlands, och avsnittet granskar Scotts motståndskraft och prepper-mentalitet.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">S11E10</episode-num>
+  </programme>
+  <programme start="20261003223000 +0200" stop="20261003230500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Would I lie to you?</title>
+    <desc lang="sv">De som skiljer fakta från fiktion den här veckan är gästerna John Cooper Clarke, Judi Love, Chris McCausland och Caroline Quentin.</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">S15E1</episode-num>
+  </programme>
+  <programme start="20261003230500 +0200" stop="20261003234500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Would I lie to you?</title>
+    <desc lang="sv">De som skiljer fakta från fiktion den här veckan är gästerna Angellica Bell, Bob Mortimer, Suggs och Holly Willoughby.</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">S15E2</episode-num>
+  </programme>
+  <programme start="20261003234500 +0200" stop="20261004004500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Den svagaste länken</title>
+    <desc lang="sv">De tävlande kändisarna i det här avsnittet är Tasha Ghouri, Patsy Kensit, Ignacio Lopez, Craig Rowe, Philippa Dunne, Colson Smith, Fats Timbo och Adam Jones.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S5E12</episode-num>
+  </programme>
+  <programme start="20261004004500 +0200" stop="20261004020500 +0200" channel="bbcnordic.se">
+    <title lang="sv">Wilderness with Simon Reeve</title>
+    <desc lang="sv">Simon Reeve vandrar över Patagoniens höga berg och förrädiska isfält, hamnar öga mot öga med pumor och rider med gauchos.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20261004020500 +0200" stop="20261004024000 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Chris McCausland, Zoe Lyons, Ed Byrne och Alan Davies gör sällskap med Sandi Toksvig i ett blött och blåsigt avsnitt av QI.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S24E11</episode-num>
+  </programme>
+  <programme start="20261004024000 +0200" stop="20261004031500 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">QI går bärsärkagång genom bokstaven W när Sandi och Alan får sällskap av Josh Widdicombe, Catherine Bohart och Russell Kane.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S24E12</episode-num>
+  </programme>
+  <programme start="20261004031500 +0200" stop="20261004034500 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Michael Odewale, Cally Beaton och Gyles Brandreth gör Sandi och Alan sällskap och skojar om gamla och konstiga ord.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S24E13</episode-num>
+  </programme>
+  <programme start="20261004034500 +0200" stop="20261004042500 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Vad finns det att inte gilla med Sandi Toksvigs titt på en hel uppsjö av QI-mojänger?. Med Sally Phillips, Andrew Maxwell, Joanne McNally och Alan Davies.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S24E14</episode-num>
+  </programme>
+  <programme start="20261004042500 +0200" stop="20261004045500 +0200" channel="bbcnordic.se">
+    <title lang="sv">QI</title>
+    <desc lang="sv">Ett urval av de bästa ögonblicken från W-säsongen av QI, med Sandi Toksvig som programledare tillsammans med Alan Davies och deras gäster.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S24E15</episode-num>
+  </programme>
+  <programme start="20261004045500 +0200" stop="20261004060000 +0200" channel="bbcnordic.se">
+    <title lang="sv">Wilderness with Simon Reeve</title>
+    <desc lang="sv">Simon Reeve vandrar över Patagoniens höga berg och förrädiska isfält, hamnar öga mot öga med pumor och rider med gauchos.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261002060000 +0200" stop="20261002070000 +0200" channel="bloombergtv.uk">
     <title lang="en">Bloomberg Horizons Middle East &amp; Africa</title>
