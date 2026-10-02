@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20261002150718 +0000">
+<tv generator-info-name="EPG Service" generator-info-url="" source-info-name="nova.gr/kolla.tv/tvpassport.com/sportklub.rs/tvarenasport.com/tvguide.com" date="20261002150927 +0000">
   <channel id="espn.us">
     <display-name lang="en">ESPN</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" />
@@ -39703,58 +39703,64 @@
     <date>2021</date>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20261002170000 +0200" stop="20261002175000 +0200" channel="kunskapskanalen.se">
-    <title lang="sv">Historiska apokalypser</title>
-    <desc lang="sv">Många civilisationer har gått under. Varför och hur gick det till?. Arkeologer och historiker studerar frågan och den bibliska myten om hur Guds vrede dränkte Sodom och Gomorra i eld och svavel.. I Jordanien har man funnit bevis på en stad från bronsåldern som verkar ha råkat ut för en katastrof. Kan det vara staden Sodom?</desc>
-    <date>2021</date>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20261002175000 +0200" stop="20261002184000 +0200" channel="kunskapskanalen.se">
-    <title lang="sv">Attenboroughs förhistoriska djur</title>
-    <desc lang="sv">På Storbritanniens södra kust har man hittat en fossilskalle av något som verkar vara en helt ny art av pliosaurus.. Det var ett enormt rovdjur som för 150 miljoner år sedan härskade över Juraperiodens hav.. Ett team av experter ger sig ut på en farofylld expedition för att gräva ut skallen och avslöja dess hemligheter, något som kan bli höjdpunkten i sir Davids Attenboroughs livslånga besatthet av fossiler - den passion som väckte hans kärlek till naturen.</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20261002184000 +0200" stop="20261002192000 +0200" channel="kunskapskanalen.se">
-    <title lang="sv">Öluff i Karibien</title>
-    <desc lang="sv">Den franska ön Marie-Galante är känd för sin romproduktion och Øystein och Rune besöker både romfabrik och plantager.. Turen går sedan vidare till den bergiga ön Montserrat med dess fortfarande aktiva vulkan, som bl a har begravt både huvudstaden och flygplatsen i aska.</desc>
-    <date>2019</date>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20261002192000 +0200" stop="20261002201000 +0200" channel="kunskapskanalen.se">
-    <title lang="sv">Historiska mysterier</title>
-    <desc lang="sv">Djingis Khan är en av historiens mest ökända härskare.. Han enade nomadklanerna, skapade ett imperium från ingenting och låg bakom fler dödsfall än någon annan i historien. Men vem var han?</desc>
-    <date>2023</date>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20261002201000 +0200" stop="20261002210000 +0200" channel="kunskapskanalen.se">
-    <title lang="sv">Världens sämsta mat</title>
-    <desc lang="sv">Från slakterier till fröodlingar, från megaskepp som transporterar soja och lökar till avlägsna marknader.. Hur ser de komplexa processerna ut bakom hur vår mat produceras och distribueras? Vilka är de dolda miljömässiga och ekonomiska kostnaderna för att föda världen?</desc>
-    <date>2024</date>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20261002210000 +0200" stop="20261002215000 +0200" channel="kunskapskanalen.se">
-    <title lang="sv">Havets knasigheter</title>
-    <desc lang="sv">Dyk djupt in i de mest olämpliga försöken att finna kärleken som djuren i haven har att erbjuda.. Följ med och utforska alla konstiga och underbara varelser i havet som kämpar för att överlista - och överleva - varandra.</desc>
-    <date>2022</date>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20261002215000 +0200" stop="20261002224500 +0200" channel="kunskapskanalen.se">
+  <programme start="20261003163000 +0200" stop="20261003172000 +0200" channel="kunskapskanalen.se">
     <title lang="sv">Brottplats: Antiken</title>
     <desc lang="sv">En mystisk massdöd av barn i antikens Aten, en stor brand i Rom och farao Akhenatons fanatiska förstörelse av egyptiska tempel.. Med hjälp av modern kriminalteknik och experimentell arkeologi gräver vi djupare i brottsplatsen och identifierar förövarna.</desc>
     <date>2023</date>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20261002224500 +0200" stop="20261002233000 +0200" channel="kunskapskanalen.se">
-    <title lang="sv">Mitt liv som Roger Moore</title>
-    <desc lang="sv">Han arbetade hårt för att bli "någon som kallades Roger Moore", vilket till slut fungerade både på och utanför duken.. Hans röst förändrades, hans uppträdande slipades.. Utrustad med karisma, utseende och självironisk humor tog hans stjärnstatus honom till berömmelsens höjder och en jetset-livsstil, där Frank Sinatra, Gregory Peck och David Niven hörde till hans närmaste vänner. Privata filmklipp visar för första gången Roger bakom kameran och kommenterar händelser när han filmar sin familj. En bild av honom som få fick äran att se.</desc>
+  <programme start="20261003172000 +0200" stop="20261003181000 +0200" channel="kunskapskanalen.se">
+    <title lang="sv">Havets knasigheter</title>
+    <desc lang="sv">Dyk djupt in i de mest olämpliga försöken att finna kärleken som djuren i haven har att erbjuda.. Följ med och utforska alla konstiga och underbara varelser i havet som kämpar för att överlista - och överleva - varandra.</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261003181000 +0200" stop="20261003191000 +0200" channel="kunskapskanalen.se">
+    <title lang="sv">Världens sista urfolk</title>
+    <desc lang="sv">Bruce Parry reser till mucubalfolket i södra Angola, där boskapsskötarnas liv präglas av extrem torka och förändrat klimat.. Han tar del av deras starka traditioner, ritualer och kamp för att överleva i Namiböknens hårda miljö.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20261003191000 +0200" stop="20261003200000 +0200" channel="kunskapskanalen.se">
+    <title lang="sv">Attenboroughs förhistoriska djur</title>
+    <desc lang="sv">På Storbritanniens södra kust har man hittat en fossilskalle av något som verkar vara en helt ny art av pliosaurus.. Det var ett enormt rovdjur som för 150 miljoner år sedan härskade över Juraperiodens hav.. Ett team av experter ger sig ut på en farofylld expedition för att gräva ut skallen och avslöja dess hemligheter, något som kan bli höjdpunkten i sir Davids Attenboroughs livslånga besatthet av fossiler - den passion som väckte hans kärlek till naturen.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20261003200000 +0200" stop="20261003210000 +0200" channel="kunskapskanalen.se">
+    <title lang="sv">Sicilien med Anton och Giovanni</title>
+    <desc lang="sv">Anton och Giovanni fortsätter sin resa och tar sikte på Etna, Europas högsta aktiva vulkan.. Med Rose Ayling-Ellis som sällskap väntar vandring, camping, zipline och en spektakulär helikoptertur över vulkanens krater.. Men först hinner vännerna med både en klassisk rakning och ett dopp i Joniska havet.</desc>
     <date>2024</date>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20261002233000 +0200" stop="20261003001500 +0200" channel="kunskapskanalen.se">
-    <title lang="sv">Ett enklare liv</title>
-    <desc lang="sv">Vid Saharaöknens ände finner Ben amerikanskan Maryanne som vigt sitt liv åt att hjälpa djur i nöd.. Han tar reda på varför hon valde bort sin bekväma västerländska tillvaro och hur den här platsen blivit hennes drivkraft i livet.</desc>
-    <date>2016</date>
-    <episode-num system="onscreen">S5E3</episode-num>
+  <programme start="20261003210000 +0200" stop="20261003215000 +0200" channel="kunskapskanalen.se">
+    <title lang="sv">Naturens överlevare</title>
+    <desc lang="sv">Att leva högt behöver inte betyda att ha vingar.. Djur flyger genom luften, svingar sig mellan träd, kastar sig från höga höjder och tar sig fram i miljöer där luften är tunn.. Från hoppande hajar och flygande ormar till gamar som svävar på hög höjd - vi avslöjar naturens främsta höjdhoppare.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20261003215000 +0200" stop="20261003224500 +0200" channel="kunskapskanalen.se">
+    <title lang="sv">Romarnas mäktiga byggnader</title>
+    <desc lang="sv">Idag är Lyon den tredje största staden i Frankrike, men under antiken var det den största. Vid den tiden kallades huvudstaden i Gallien för Lugdunum.. Mellan slutet av det första århundradet f.Kr. och det andra århundradet e.Kr. byggdes alla monument som hörde till en romersk huvudstad i Lyon.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20261003224500 +0200" stop="20261003233500 +0200" channel="kunskapskanalen.se">
+    <title lang="sv">Världens sämsta mat</title>
+    <desc lang="sv">Från slakterier till fröodlingar, från megaskepp som transporterar soja och lökar till avlägsna marknader.. Hur ser de komplexa processerna ut bakom hur vår mat produceras och distribueras? Vilka är de dolda miljömässiga och ekonomiska kostnaderna för att föda världen?</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20261003233500 +0200" stop="20261004002500 +0200" channel="kunskapskanalen.se">
+    <title lang="sv">Australiens orörda natur</title>
+    <desc lang="sv">Eukalyptusskogarna i östra Australien är ett känt hem för gosiga koalor.. Men det finns mer i den frodiga skogsmarken än så - i undervegetationen bygger konstiga fåglar utarbetade bon, på dagen är där fullt med ormar och under natten fylls luften av märkliga däggdjur.. Och när parningssäsongen närmar sig visar det sig att koalorna inte är lika gosiga som man kan tro!</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20261004002500 +0200" stop="20261004012000 +0200" channel="kunskapskanalen.se">
+    <title lang="sv">Historiens mäktiga byggnader</title>
+    <desc lang="sv">Vid pyramiderna i Giza vakar den stora sfinxen sedan tusentals år.. Experter granskar hur den väldiga statyn höggs fram ur berget, vem som kan ha beställt den och vilken roll den spelade i de forntida egyptiernas kult.. Samtidigt hotas monumentet av erosion och stigande grundvatten.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S3E2</episode-num>
   </programme>
   <programme start="20261002060000 +0200" stop="20261002062000 +0200" channel="mtv.se">
     <title lang="sv">Ridiculousness</title>
@@ -44634,34 +44640,40 @@
     <date>2026</date>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme start="20261002200000 +0200" stop="20261002210000 +0200" channel="svt24.se">
-    <title lang="sv">På spåret</title>
-    <desc lang="sv">Bengt Skött och Ayan Jamal möter Lotta Lundgren och Erik Haag i den sista och avgörande matchen i grupp 1. Husband: Europe. Gästartist: Elliphant.</desc>
-    <date>2026</date>
-    <episode-num system="onscreen">S37E3</episode-num>
-  </programme>
-  <programme start="20261002210000 +0200" stop="20261002215500 +0200" channel="svt24.se">
-    <title lang="sv">Skärgårdsdoktorn</title>
-    <desc lang="sv">Johan Steen och hans svärfar Axel Holtman har svårt att enas om hur läkarpraktiken på Saltö ska skötas.. Axels tidigare sjuksyster Berit är också misstänksam mot sin nya chef. Johans dotter Wilma får problem i sin nya skola, men Johan är för upptagen för att hinna se dotterns bekymmer.</desc>
-    <date>1997</date>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20261002215500 +0200" stop="20261002225500 +0200" channel="svt24.se">
-    <title lang="sv">Vägen till att bli äventyrare</title>
-    <desc lang="sv">Äventyraren Mikael Strandberg har levt stora delar av sitt liv på expedition.. Nu vill han ge döttrarna Eva och Dana något av det resandet har gett honom. Under fyra somrar cyklar de 5 600 kilometer genom Sverige, Turkiet och Namibia.. Det blir hetta, sandstormar, cykelhaverier och dagar då det mesta går åt snett, men också skratt, födelsedagar och oväntade möten längs vägen. En varm film om en pappa som vill visa sina döttrar världen innan de väljer sina egna vägar.</desc>
+  <programme start="20261003200000 +0200" stop="20261003220000 +0200" channel="svt24.se">
+    <title lang="sv">Stå upp för Världens Barn – galan</title>
+    <desc lang="sv">Direktsänd galakväll från Stockholm.. Kristofer Lundström, Shirley Clamp, William Brynolfsson och Mariette Hansson tar täten när hela landet kraftsamlar för Världens Barn - Sveriges bredaste och Radiohjälpens största insamling för barns rättigheter runt om i världen. Livemusik med bland annat Laleh, Petter &amp; Cherrie och Ebba Forsberg, medverkande gäster, berörande reportage från flera länder och rapporter från insamlingsinsatser från norr till söder.</desc>
     <date>2026</date>
   </programme>
-  <programme start="20261002225500 +0200" stop="20261002234500 +0200" channel="svt24.se">
-    <title lang="sv">Gift vid första ögonkastet XL</title>
-    <desc lang="sv">Paren går nu in i bekännelseveckan som för vissa par närmare varandra, men leder till sprickor hos andra.. När Urban öppnar upp sig om sitt mörka förflutna väcker det frågor hos Olivia, och en bekännelse som ännu inte mött dagens ljus fyller Sara med rädsla.. Helena och Sasan står längre från varandra än någonsin och vänder sig till experterna för hjälp. Men är det redan för sent?</desc>
+  <programme start="20261003220000 +0200" stop="20261003223000 +0200" channel="svt24.se">
+    <title lang="sv">Sigge får inte ligga</title>
+    <desc lang="sv">Sigge och Mats stöter på Sigges gamla "ligg" Liv, som bjuder in till midsommarfest med gamla klassen.. Sigge utlovar att han kan fixa gräs och kommer oväntat i kontakt med sin gamla mattelärare Ulf, som bjuder in sig själv på festen.</desc>
     <date>2026</date>
-    <episode-num system="onscreen">S15E5</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme start="20261002234500 +0200" stop="20261003004500 +0200" channel="svt24.se">
-    <title lang="sv">Din flock</title>
-    <desc lang="sv">Hur bedömer hjärnan blixtsnabbt vår egen och andras plats i hierarkin på en bråkdels sekund? Vad utmärker en bra ledare?. Och vad händer när de hierarkiska instinkterna släpps lösa utan kontroll? Anders Hansen möter Tre Kronors lagkapten Mats Sundin och Peter Gembäck, pastor i Knutby församling.</desc>
+  <programme start="20261003223000 +0200" stop="20261003230000 +0200" channel="svt24.se">
+    <title lang="sv">Hjälp, vi har köpt ett franskt ruckel!</title>
+    <desc lang="sv">Stora ingrepp görs för att snygga till husets ansikte. Brita får ett tips som verkar för bra för att vara sant.. Alice och Joa gör en efterlängtad comeback och sätter igång med ett pilligt badrumsprojekt. Byns grönsaksmarknad ger en så härlig skörd att vännerna lagar mer mat än någon kan äta upp.</desc>
     <date>2026</date>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <episode-num system="onscreen">S3E6</episode-num>
+  </programme>
+  <programme start="20261003230000 +0200" stop="20261003233000 +0200" channel="svt24.se">
+    <title lang="sv">Brottet minut för minut</title>
+    <desc lang="sv">Polisens omfattande spaningsoperation Duett fortsätter och leder utredarna till en lagerlokal där stora mängder narkotika misstänks förvaras.. Samtidigt intensifieras spaningen mot de misstänkta bröderna, vilket leder till flera gripanden och avslöjar en kriminell verksamhet som visar sig vara betydligt större än någon först anat.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20261003233000 +0200" stop="20261004001000 +0200" channel="svt24.se">
+    <title lang="sv">Diagnoser</title>
+    <desc lang="sv">Utredningen är klar och Ludde får sin adhd-diagnos. Bella försöker övertyga honom om att det är något positivt, nu kan han äntligen få rätt hjälp.. Samtidigt får Elliot mer ansvar på jobbet och hennes oro för Majken växer medan Otto hamnar alltmer i skymundan. Bella ballar ur på skolans Halloweenfest, men finner en vän i nöden.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20261004001000 +0200" stop="20261004004000 +0200" channel="svt24.se">
+    <title lang="sv">Jorden runt med tio barn</title>
+    <desc lang="sv">Kriget i Iran förändrar världsläget och flygpriserna rusar.. Plötsligt är det osäkert om resan kan fortsätta och drömmen om Galápagos känns allt mer avlägsen.. Att hitta boende för tolv personer är inte heller enkelt, särskilt när tidigare Airbnb-recensioner inte direkt hjälper till. I Australiens Blue Mountains ger sig familjen ut på jakt efter ett vattenfall, men vägen är tuffare än väntat och när målet fortfarande är långt borta kommer nästa besked. En storm är på väg.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20261001060000 +0200" stop="20261001060500 +0200" channel="svtb.se">
     <title lang="sv">Greta Gris</title>
